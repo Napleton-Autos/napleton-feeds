@@ -191,6 +191,7 @@ def generate_google_feed(vehicles, dealership, dealer_id):
         ET.SubElement(fulfillment, '{http://base.google.com/ns/1.0}option').text = 'in_store'
 
         # Vehicle details
+        ET.SubElement(entry, '{http://base.google.com/ns/1.0}brand').text = vehicle['Make']
         ET.SubElement(entry, '{http://base.google.com/ns/1.0}year').text = vehicle['Year']
         ET.SubElement(entry, '{http://base.google.com/ns/1.0}make').text = vehicle['Make']
         ET.SubElement(entry, '{http://base.google.com/ns/1.0}model').text = vehicle['Model']
