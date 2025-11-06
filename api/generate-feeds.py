@@ -1,5 +1,5 @@
 """
-Vercel Serverless Function for Feed Generation
+Vercel Serverless Function for Feed Generation with Blob Storage
 Endpoint: /api/generate-feeds
 """
 
@@ -11,16 +11,19 @@ from xml.dom import minidom
 import paramiko
 import os
 from datetime import datetime
-from io import StringIO
 import tempfile
+import requests
 
-# SFTP Configuration - Use environment variables in production
+# SFTP Configuration
 SFTP_CONFIG = {
     'host': os.environ.get('SFTP_HOST', 'sparkling-water-50295.sftptogo.com'),
     'username': os.environ.get('SFTP_USERNAME', '9839656$fac1df083b674db747b667'),
     'password': os.environ.get('SFTP_PASSWORD', 'MWS7YFlGGlC4q73q2jGtsl4Bt7A2Fz'),
     'directory': os.environ.get('SFTP_DIRECTORY', '/Vincue')
 }
+
+# Vercel Blob Configuration
+BLOB_TOKEN = os.environ.get('BLOB_READ_WRITE_TOKEN', '')
 
 # Dealership Configuration
 DEALERSHIPS = {
@@ -144,6 +147,34 @@ def generate_google_feed(vehicles, dealership):
     return reparsed.toprettyxml(indent="  ")
 
 
+def upload_to_blob(filename, content):
+    """Upload content to Vercel Blob Storage"""
+    if not BLOB_TOKEN:
+        return None
+    
+    try:
+        # Vercel Blob API endpoint
+        url = f"https://blob.vercel-storage.com/{filename}"
+        
+        headers = {
+            'Authorization': f'Bearer {BLOB_TOKEN}',
+            'Content-Type': 'application/xml',
+            'x-content-type': 'application/xml'
+        }
+        
+        response = requests.put(url, data=content.encode('utf-8'), headers=headers)
+        
+        if response.status_code in [200, 201]:
+            result = response.json()
+            return result.get('url')
+        else:
+            print(f"Blob upload failed: {response.status_code} - {response.text}")
+            return None
+    except Exception as e:
+        print(f"Error uploading to blob: {e}")
+        return None
+
+
 def download_from_sftp():
     """Download inventory from SFTP"""
     transport = paramiko.Transport((SFTP_CONFIG['host'], 22))
@@ -190,27 +221,39 @@ class handler(BaseHTTPRequestHandler):
             # Process inventory
             dealership_vehicles = process_inventory(csv_file)
             
-            # Generate feeds
+            # Generate and upload feeds
             feeds_generated = []
+            feed_urls = {}
+            
             for dealer_id, vehicles in dealership_vehicles.items():
                 if not vehicles:
                     continue
                 
                 dealership = DEALERSHIPS[dealer_id]
+                dealer_name_safe = dealership['name'].replace(' ', '_').replace('/', '_')
                 
                 # Generate Facebook feed
                 fb_feed = generate_facebook_feed(vehicles, dealership)
-                # In production, save to Vercel Blob Storage or S3
+                fb_filename = f"{dealer_name_safe}_Facebook_AIA.xml"
+                fb_url = upload_to_blob(fb_filename, fb_feed)
                 
                 # Generate Google feed
                 google_feed = generate_google_feed(vehicles, dealership)
-                # In production, save to Vercel Blob Storage or S3
+                google_filename = f"{dealer_name_safe}_Google_VLA.xml"
+                google_url = upload_to_blob(google_filename, google_feed)
                 
                 feeds_generated.append({
                     'dealership': dealership['name'],
                     'dealer_id': dealer_id,
-                    'vehicle_count': len(vehicles)
+                    'vehicle_count': len(vehicles),
+                    'facebook_feed_url': fb_url,
+                    'google_feed_url': google_url
                 })
+                
+                feed_urls[dealer_name_safe] = {
+                    'facebook': fb_url,
+                    'google': google_url
+                }
             
             # Clean up temp file
             os.unlink(csv_file)
@@ -224,7 +267,8 @@ class handler(BaseHTTPRequestHandler):
                 'success': True,
                 'timestamp': datetime.now().isoformat(),
                 'total_vehicles': sum(len(v) for v in dealership_vehicles.values()),
-                'feeds_generated': feeds_generated
+                'feeds_generated': feeds_generated,
+                'feed_urls': feed_urls
             }
             
             self.wfile.write(json.dumps(response, indent=2).encode())
