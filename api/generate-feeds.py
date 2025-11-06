@@ -177,6 +177,11 @@ def generate_google_feed(vehicles, dealership, dealer_id):
         # Required VLA fields
         ET.SubElement(entry, '{http://base.google.com/ns/1.0}id').text = vehicle['VIN']
         ET.SubElement(entry, '{http://base.google.com/ns/1.0}vin').text = vehicle['VIN']
+
+        # Link template with store_code parameter (required for VLA)
+        link_template = f"{url}{'&' if '?' in url else '?'}store={{store_code}}"
+        ET.SubElement(entry, '{http://base.google.com/ns/1.0}link_template').text = link_template
+
         ET.SubElement(entry, '{http://base.google.com/ns/1.0}google_product_category').text = 'Vehicles & Parts > Vehicles > Motor Vehicles > Cars, Trucks & Vans'
 
         price = clean_price(vehicle['PRICE']) or clean_price(vehicle['MSRP'])
