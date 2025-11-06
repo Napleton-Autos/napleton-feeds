@@ -29,53 +29,63 @@ BLOB_TOKEN = os.environ.get('BLOB_READ_WRITE_TOKEN', '')
 DEALERSHIPS = {
     '28685': {
         'name': 'Napleton Chevrolet Buick GMC',
-        'website': 'https://www.napletonchevy.com',
-        'address': '1700 Columbus Ave, Springfield, IL 62702'
+        'website': 'https://www.napletonchevybuickgmc.com',
+        'address': 'N8167 Kellom Rd., Beaver Dam, WI 53916',
+        'store_code': '8769789203665240000'
     },
     '29312': {
         'name': 'Napleton Ford Columbus',
         'website': 'https://www.napletonfordcolumbus.com',
-        'address': '2845 N Hamilton Rd, Columbus, OH 43231'
+        'address': '330 Transit Rd., Columbus, WI 53925',
+        'store_code': '5445979293761980000'
     },
     '148261': {
         'name': 'Napleton Chevrolet Columbus',
-        'website': 'https://www.napletonchevy.com',
-        'address': '3232 Westerville Rd, Columbus, OH 43224'
+        'website': 'https://www.napletonchevycolumbus.com',
+        'address': '800 Maple Avenue, Columbus, WI 53925',
+        'store_code': '1647799517431800000'
     },
     '115908': {
-        'name': 'Napleton Beaver Dam CDJR',
-        'website': 'https://www.napletonbeaverdam.com',
-        'address': '927 Park Ave, Beaver Dam, WI 53916'
+        'name': 'Napleton Beaver Dam Chrysler Dodge Jeep Ram',
+        'website': 'https://www.beaverdamcdjr.com/',
+        'address': '1724 N Spring St., Beaver Dam, WI 53916',
+        'store_code': '252221242249419000'
     },
     '50912': {
         'name': 'Napleton Downtown Chevrolet',
         'website': 'https://www.downtownchevy.com',
-        'address': '950 S Michigan Ave, Chicago, IL 60605'
+        'address': '2720 S. Michigan Ave., Chicago, IL 60616',
+        'store_code': '7227908043401000000'
     },
     '216163': {
         'name': 'Napleton Downtown Buick GMC',
-        'website': 'https://www.napletondowntownbuickgmc.com',
-        'address': '950 S Michigan Ave, Chicago, IL 60605'
+        'website': 'https://www.downtownbuickgmc.com',
+        'address': '2720 S. Michigan Ave., Chicago, IL 60616',
+        'store_code': '4088446453747780000'
     },
     '125848': {
         'name': 'Napleton Downtown Hyundai',
-        'website': 'https://www.napletondowntownhyundai.com',
-        'address': '950 S Michigan Ave, Chicago, IL 60605'
+        'website': 'https://www.napletondowntownhyundai.com/',
+        'address': '2700 S. Michigan Ave., Chicago, IL 60616',
+        'store_code': '8954334598476870000'
     },
     '215614': {
         'name': 'Genesis of Downtown Chicago',
-        'website': 'https://www.genesisofdowntownchicago.com',
-        'address': '950 S Michigan Ave, Chicago, IL 60605'
+        'website': 'https://www.genesisofdowntownchicago.com/',
+        'address': '2700 S. Michigan Ave., Chicago, IL 60616',
+        'store_code': '3078858109013000000'
     },
     '4802': {
         'name': 'Napleton Chevrolet Saint Charles',
-        'website': 'https://www.napletonchevy.com',
-        'address': '1220 W Main St, St Charles, IL 60174'
+        'website': 'https://www.napletonchevrolet.com',
+        'address': '2015 E. Main St., Saint Charles, IL 60174',
+        'store_code': '7093661331809090000'
     },
     '30389': {
         'name': 'Napleton Buick GMC',
-        'website': 'https://www.napletonbuickgmc.com',
-        'address': '1220 W Main St, St Charles, IL 60174'
+        'website': 'https://www.napletoncrystallake.com',
+        'address': '6305 Northwest Hwy., Crystal Lake, IL 60014',
+        'store_code': '30389'
     }
 }
 
@@ -172,7 +182,7 @@ def generate_google_feed(vehicles, dealership, dealer_id):
             ET.SubElement(entry, '{http://base.google.com/ns/1.0}price').text = f"{price:.2f} USD"
 
         # Store/Dealership information (required for VLA)
-        ET.SubElement(entry, '{http://base.google.com/ns/1.0}store_code').text = dealer_id
+        ET.SubElement(entry, '{http://base.google.com/ns/1.0}store_code').text = dealership['store_code']
         ET.SubElement(entry, '{http://base.google.com/ns/1.0}dealership_name').text = dealership['name']
         ET.SubElement(entry, '{http://base.google.com/ns/1.0}dealership_address').text = dealership['address']
 
@@ -206,10 +216,14 @@ def generate_google_feed(vehicles, dealership, dealer_id):
         if vehicle.get('ExteriorColor'):
             ET.SubElement(entry, '{http://base.google.com/ns/1.0}color').text = vehicle['ExteriorColor']
 
-        # Images
+        # Images - First image is main image_link, rest are additional_image_link
         photos = parse_photos(vehicle.get('PhotoURL', ''))
-        for photo_url in photos[:10]:
-            ET.SubElement(entry, '{http://base.google.com/ns/1.0}image_link').text = photo_url
+        if photos:
+            # Main image (required)
+            ET.SubElement(entry, '{http://base.google.com/ns/1.0}image_link').text = photos[0]
+            # Additional images (up to 9 more for total of 10)
+            for photo_url in photos[1:10]:
+                ET.SubElement(entry, '{http://base.google.com/ns/1.0}additional_image_link').text = photo_url
 
     rough_string = ET.tostring(root, encoding='unicode')
     reparsed = minidom.parseString(rough_string)
