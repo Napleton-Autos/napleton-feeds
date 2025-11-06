@@ -1,0 +1,20 @@
+{
+  "crons": [
+    {
+      "path": "/api/generate-feeds",
+      "schedule": "0 */4 * * *"
+    }
+  ],
+  "functions": {
+    "api/generate-feeds.py": {
+      "maxDuration": 300,
+      "memory": 1024
+    }
+  },
+  "env": {
+    "SFTP_HOST": "@sftp-host",
+    "SFTP_USERNAME": "@sftp-username",
+    "SFTP_PASSWORD": "@sftp-password",
+    "SFTP_DIRECTORY": "@sftp-directory"
+  }
+}
