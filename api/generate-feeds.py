@@ -176,6 +176,8 @@ def generate_google_feed(vehicles, dealership, dealer_id):
 
         # Required VLA fields
         ET.SubElement(entry, '{http://base.google.com/ns/1.0}id').text = vehicle['VIN']
+        ET.SubElement(entry, '{http://base.google.com/ns/1.0}vin').text = vehicle['VIN']
+        ET.SubElement(entry, '{http://base.google.com/ns/1.0}google_product_category').text = 'Vehicles & Parts > Vehicles > Motor Vehicles > Cars, Trucks & Vans'
 
         price = clean_price(vehicle['PRICE']) or clean_price(vehicle['MSRP'])
         if price:
@@ -200,16 +202,22 @@ def generate_google_feed(vehicles, dealership, dealer_id):
         ET.SubElement(entry, '{http://base.google.com/ns/1.0}condition').text = condition
         ET.SubElement(entry, '{http://base.google.com/ns/1.0}availability').text = 'in stock'
 
-        # Optional fields
-        if vehicle.get('Trim'):
-            ET.SubElement(entry, '{http://base.google.com/ns/1.0}trim').text = vehicle['Trim']
-
+        # Mileage - required for used vehicles
         if vehicle.get('Miles'):
             try:
                 mileage = str(int(float(vehicle['Miles'])))
                 ET.SubElement(entry, '{http://base.google.com/ns/1.0}mileage').text = f"{mileage} mi"
             except:
-                pass
+                # Default to 0 for new vehicles or if mileage parsing fails
+                if condition == 'used':
+                    ET.SubElement(entry, '{http://base.google.com/ns/1.0}mileage').text = "0 mi"
+        elif condition == 'used':
+            # For used vehicles without mileage data, default to 0
+            ET.SubElement(entry, '{http://base.google.com/ns/1.0}mileage').text = "0 mi"
+
+        # Optional fields
+        if vehicle.get('Trim'):
+            ET.SubElement(entry, '{http://base.google.com/ns/1.0}trim').text = vehicle['Trim']
 
         if vehicle.get('Body'):
             ET.SubElement(entry, '{http://base.google.com/ns/1.0}body_style').text = vehicle['Body']
