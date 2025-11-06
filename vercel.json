@@ -6,30 +6,3 @@
     }
   }
 }
-```
-
-**Why?**
-- Remove the `crons` section (we'll use GitHub Actions instead for free)
-- Remove the `env` section (you already set these in Vercel UI)
-- Keep only the function configuration
-
-### **How to Update:**
-
-1. In your GitHub repository, click on `vercel.json`
-2. Click the **pencil icon** (Edit this file)
-3. Replace the entire content with the code above
-4. Click **"Commit changes"**
-5. Vercel will automatically redeploy
-
----
-
-## 🚀 **After You Update vercel.json**
-
-Vercel should automatically:
-1. Detect the change
-2. Start a new build (takes 2-3 minutes)
-3. Deploy successfully
-
-**Then test it:**
-```
-https://napleton-feeds.vercel.app/api/generate-feeds
