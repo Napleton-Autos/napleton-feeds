@@ -1,0 +1,14 @@
+name: Generate Feeds Every 4 Hours
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'  # Every 4 hours
+  workflow_dispatch:  # Manual trigger button
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Feed Generation
+        run: |
+          curl -X GET "https://napleton-feeds.vercel.app/api/generate-feeds"
