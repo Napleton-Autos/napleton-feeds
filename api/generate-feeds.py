@@ -27,16 +27,56 @@ BLOB_TOKEN = os.environ.get('BLOB_READ_WRITE_TOKEN', '')
 
 # Dealership Configuration
 DEALERSHIPS = {
-    '28685': {'name': 'Napleton Chevrolet Buick GMC', 'website': 'https://www.napletonchevy.com'},
-    '29312': {'name': 'Napleton Ford Columbus', 'website': 'https://www.napletonfordcolumbus.com'},
-    '148261': {'name': 'Napleton Chevrolet Columbus', 'website': 'https://www.napletonchevy.com'},
-    '115908': {'name': 'Napleton Beaver Dam CDJR', 'website': 'https://www.napletonbeaverdam.com'},
-    '50912': {'name': 'Napleton Downtown Chevrolet', 'website': 'https://www.downtownchevy.com'},
-    '216163': {'name': 'Napleton Downtown Buick GMC', 'website': 'https://www.napletondowntownbuickgmc.com'},
-    '125848': {'name': 'Napleton Downtown Hyundai', 'website': 'https://www.napletondowntownhyundai.com'},
-    '215614': {'name': 'Genesis of Downtown Chicago', 'website': 'https://www.genesisofdowntownchicago.com'},
-    '4802': {'name': 'Napleton Chevrolet Saint Charles', 'website': 'https://www.napletonchevy.com'},
-    '30389': {'name': 'Napleton Buick GMC', 'website': 'https://www.napletonbuickgmc.com'}
+    '28685': {
+        'name': 'Napleton Chevrolet Buick GMC',
+        'website': 'https://www.napletonchevy.com',
+        'address': '1700 Columbus Ave, Springfield, IL 62702'
+    },
+    '29312': {
+        'name': 'Napleton Ford Columbus',
+        'website': 'https://www.napletonfordcolumbus.com',
+        'address': '2845 N Hamilton Rd, Columbus, OH 43231'
+    },
+    '148261': {
+        'name': 'Napleton Chevrolet Columbus',
+        'website': 'https://www.napletonchevy.com',
+        'address': '3232 Westerville Rd, Columbus, OH 43224'
+    },
+    '115908': {
+        'name': 'Napleton Beaver Dam CDJR',
+        'website': 'https://www.napletonbeaverdam.com',
+        'address': '927 Park Ave, Beaver Dam, WI 53916'
+    },
+    '50912': {
+        'name': 'Napleton Downtown Chevrolet',
+        'website': 'https://www.downtownchevy.com',
+        'address': '950 S Michigan Ave, Chicago, IL 60605'
+    },
+    '216163': {
+        'name': 'Napleton Downtown Buick GMC',
+        'website': 'https://www.napletondowntownbuickgmc.com',
+        'address': '950 S Michigan Ave, Chicago, IL 60605'
+    },
+    '125848': {
+        'name': 'Napleton Downtown Hyundai',
+        'website': 'https://www.napletondowntownhyundai.com',
+        'address': '950 S Michigan Ave, Chicago, IL 60605'
+    },
+    '215614': {
+        'name': 'Genesis of Downtown Chicago',
+        'website': 'https://www.genesisofdowntownchicago.com',
+        'address': '950 S Michigan Ave, Chicago, IL 60605'
+    },
+    '4802': {
+        'name': 'Napleton Chevrolet Saint Charles',
+        'website': 'https://www.napletonchevy.com',
+        'address': '1220 W Main St, St Charles, IL 60174'
+    },
+    '30389': {
+        'name': 'Napleton Buick GMC',
+        'website': 'https://www.napletonbuickgmc.com',
+        'address': '1220 W Main St, St Charles, IL 60174'
+    }
 }
 
 
@@ -105,43 +145,72 @@ def generate_facebook_feed(vehicles, dealership):
     return reparsed.toprettyxml(indent="  ")
 
 
-def generate_google_feed(vehicles, dealership):
+def generate_google_feed(vehicles, dealership, dealer_id):
     """Generate Google VLA feed"""
     root = ET.Element('feed', {
         'xmlns': 'http://www.w3.org/2005/Atom',
         'xmlns:g': 'http://base.google.com/ns/1.0'
     })
-    
+
     ET.SubElement(root, 'title').text = f"{dealership['name']} Inventory Feed"
     ET.SubElement(root, 'link', {'href': dealership['website'], 'rel': 'self'})
     ET.SubElement(root, 'updated').text = datetime.now().isoformat()
-    
+
     for vehicle in vehicles:
         entry = ET.SubElement(root, 'entry')
         ET.SubElement(entry, 'id').text = vehicle['VIN']
         ET.SubElement(entry, 'title').text = f"{vehicle['Year']} {vehicle['Make']} {vehicle['Model']} {vehicle.get('Trim', '')}".strip()
-        
+
         url = vehicle.get('VDPURL') or f"{dealership['website']}/inventory/details/{vehicle['VIN']}"
         ET.SubElement(entry, 'link', {'href': url})
-        
+
+        # Required VLA fields
         ET.SubElement(entry, '{http://base.google.com/ns/1.0}id').text = vehicle['VIN']
-        
+
         price = clean_price(vehicle['PRICE']) or clean_price(vehicle['MSRP'])
         if price:
             ET.SubElement(entry, '{http://base.google.com/ns/1.0}price').text = f"{price:.2f} USD"
-        
+
+        # Store/Dealership information (required for VLA)
+        ET.SubElement(entry, '{http://base.google.com/ns/1.0}store_code').text = dealer_id
+        ET.SubElement(entry, '{http://base.google.com/ns/1.0}dealership_name').text = dealership['name']
+        ET.SubElement(entry, '{http://base.google.com/ns/1.0}dealership_address').text = dealership['address']
+
+        # Vehicle fulfillment - in-store pickup only (no shipping for vehicles)
+        fulfillment = ET.SubElement(entry, '{http://base.google.com/ns/1.0}vehicle_fulfillment')
+        ET.SubElement(fulfillment, '{http://base.google.com/ns/1.0}option').text = 'in_store'
+
+        # Vehicle details
         ET.SubElement(entry, '{http://base.google.com/ns/1.0}year').text = vehicle['Year']
         ET.SubElement(entry, '{http://base.google.com/ns/1.0}make').text = vehicle['Make']
         ET.SubElement(entry, '{http://base.google.com/ns/1.0}model').text = vehicle['Model']
-        
+
         condition = 'new' if vehicle.get('New/Used', '').upper() == 'N' else 'used'
         ET.SubElement(entry, '{http://base.google.com/ns/1.0}condition').text = condition
         ET.SubElement(entry, '{http://base.google.com/ns/1.0}availability').text = 'in stock'
-        
+
+        # Optional fields
+        if vehicle.get('Trim'):
+            ET.SubElement(entry, '{http://base.google.com/ns/1.0}trim').text = vehicle['Trim']
+
+        if vehicle.get('Miles'):
+            try:
+                mileage = str(int(float(vehicle['Miles'])))
+                ET.SubElement(entry, '{http://base.google.com/ns/1.0}mileage').text = f"{mileage} mi"
+            except:
+                pass
+
+        if vehicle.get('Body'):
+            ET.SubElement(entry, '{http://base.google.com/ns/1.0}body_style').text = vehicle['Body']
+
+        if vehicle.get('ExteriorColor'):
+            ET.SubElement(entry, '{http://base.google.com/ns/1.0}color').text = vehicle['ExteriorColor']
+
+        # Images
         photos = parse_photos(vehicle.get('PhotoURL', ''))
         for photo_url in photos[:10]:
             ET.SubElement(entry, '{http://base.google.com/ns/1.0}image_link').text = photo_url
-    
+
     rough_string = ET.tostring(root, encoding='unicode')
     reparsed = minidom.parseString(rough_string)
     return reparsed.toprettyxml(indent="  ")
@@ -228,17 +297,17 @@ class handler(BaseHTTPRequestHandler):
             for dealer_id, vehicles in dealership_vehicles.items():
                 if not vehicles:
                     continue
-                
+
                 dealership = DEALERSHIPS[dealer_id]
                 dealer_name_safe = dealership['name'].replace(' ', '_').replace('/', '_')
-                
+
                 # Generate Facebook feed
                 fb_feed = generate_facebook_feed(vehicles, dealership)
                 fb_filename = f"{dealer_name_safe}_Facebook_AIA.xml"
                 fb_url = upload_to_blob(fb_filename, fb_feed)
-                
+
                 # Generate Google feed
-                google_feed = generate_google_feed(vehicles, dealership)
+                google_feed = generate_google_feed(vehicles, dealership, dealer_id)
                 google_filename = f"{dealer_name_safe}_Google_VLA.xml"
                 google_url = upload_to_blob(google_filename, google_feed)
                 
