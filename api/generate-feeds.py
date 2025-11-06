@@ -206,10 +206,14 @@ def generate_google_feed(vehicles, dealership, dealer_id):
         if vehicle.get('ExteriorColor'):
             ET.SubElement(entry, '{http://base.google.com/ns/1.0}color').text = vehicle['ExteriorColor']
 
-        # Images
+        # Images - First image is main image_link, rest are additional_image_link
         photos = parse_photos(vehicle.get('PhotoURL', ''))
-        for photo_url in photos[:10]:
-            ET.SubElement(entry, '{http://base.google.com/ns/1.0}image_link').text = photo_url
+        if photos:
+            # Main image (required)
+            ET.SubElement(entry, '{http://base.google.com/ns/1.0}image_link').text = photos[0]
+            # Additional images (up to 9 more for total of 10)
+            for photo_url in photos[1:10]:
+                ET.SubElement(entry, '{http://base.google.com/ns/1.0}additional_image_link').text = photo_url
 
     rough_string = ET.tostring(root, encoding='unicode')
     reparsed = minidom.parseString(rough_string)
