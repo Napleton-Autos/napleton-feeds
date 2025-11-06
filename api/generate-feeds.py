@@ -30,52 +30,62 @@ DEALERSHIPS = {
     '28685': {
         'name': 'Napleton Chevrolet Buick GMC',
         'website': 'https://www.napletonchevybuickgmc.com',
-        'address': 'N8167 Kellom Rd., Beaver Dam, WI 53916'
+        'address': 'N8167 Kellom Rd., Beaver Dam, WI 53916',
+        'store_code': '8769789203665240000'
     },
     '29312': {
         'name': 'Napleton Ford Columbus',
         'website': 'https://www.napletonfordcolumbus.com',
-        'address': '330 Transit Rd., Columbus, WI 53925'
+        'address': '330 Transit Rd., Columbus, WI 53925',
+        'store_code': '5445979293761980000'
     },
     '148261': {
         'name': 'Napleton Chevrolet Columbus',
         'website': 'https://www.napletonchevycolumbus.com',
-        'address': '800 Maple Avenue, Columbus, WI 53925'
+        'address': '800 Maple Avenue, Columbus, WI 53925',
+        'store_code': '1647799517431800000'
     },
     '115908': {
         'name': 'Napleton Beaver Dam Chrysler Dodge Jeep Ram',
         'website': 'https://www.beaverdamcdjr.com/',
-        'address': '1724 N Spring St., Beaver Dam, WI 53916'
+        'address': '1724 N Spring St., Beaver Dam, WI 53916',
+        'store_code': '252221242249419000'
     },
     '50912': {
         'name': 'Napleton Downtown Chevrolet',
         'website': 'https://www.downtownchevy.com',
-        'address': '2720 S. Michigan Ave., Chicago, IL 60616'
+        'address': '2720 S. Michigan Ave., Chicago, IL 60616',
+        'store_code': '7227908043401000000'
     },
     '216163': {
         'name': 'Napleton Downtown Buick GMC',
         'website': 'https://www.downtownbuickgmc.com',
-        'address': '2720 S. Michigan Ave., Chicago, IL 60616'
+        'address': '2720 S. Michigan Ave., Chicago, IL 60616',
+        'store_code': '4088446453747780000'
     },
     '125848': {
         'name': 'Napleton Downtown Hyundai',
         'website': 'https://www.napletondowntownhyundai.com/',
-        'address': '2700 S. Michigan Ave., Chicago, IL 60616'
+        'address': '2700 S. Michigan Ave., Chicago, IL 60616',
+        'store_code': '8954334598476870000'
     },
     '215614': {
         'name': 'Genesis of Downtown Chicago',
         'website': 'https://www.genesisofdowntownchicago.com/',
-        'address': '2700 S. Michigan Ave., Chicago, IL 60616'
+        'address': '2700 S. Michigan Ave., Chicago, IL 60616',
+        'store_code': '3078858109013000000'
     },
     '4802': {
         'name': 'Napleton Chevrolet Saint Charles',
         'website': 'https://www.napletonchevrolet.com',
-        'address': '2015 E. Main St., Saint Charles, IL 60174'
+        'address': '2015 E. Main St., Saint Charles, IL 60174',
+        'store_code': '7093661331809090000'
     },
     '30389': {
         'name': 'Napleton Buick GMC',
         'website': 'https://www.napletoncrystallake.com',
-        'address': '6305 Northwest Hwy., Crystal Lake, IL 60014'
+        'address': '6305 Northwest Hwy., Crystal Lake, IL 60014',
+        'store_code': '30389'
     }
 }
 
@@ -172,7 +182,7 @@ def generate_google_feed(vehicles, dealership, dealer_id):
             ET.SubElement(entry, '{http://base.google.com/ns/1.0}price').text = f"{price:.2f} USD"
 
         # Store/Dealership information (required for VLA)
-        ET.SubElement(entry, '{http://base.google.com/ns/1.0}store_code').text = dealer_id
+        ET.SubElement(entry, '{http://base.google.com/ns/1.0}store_code').text = dealership['store_code']
         ET.SubElement(entry, '{http://base.google.com/ns/1.0}dealership_name').text = dealership['name']
         ET.SubElement(entry, '{http://base.google.com/ns/1.0}dealership_address').text = dealership['address']
 
