@@ -181,6 +181,9 @@ def generate_google_feed(vehicles, dealership, dealer_id):
         if price:
             ET.SubElement(entry, '{http://base.google.com/ns/1.0}price').text = f"{price:.2f} USD"
 
+        # Google requires the product category for vehicle listings
+        ET.SubElement(entry, '{http://base.google.com/ns/1.0}google_product_category').text = '916'
+
         # Store/Dealership information (required for VLA)
         ET.SubElement(entry, '{http://base.google.com/ns/1.0}store_code').text = dealership['store_code']
         ET.SubElement(entry, '{http://base.google.com/ns/1.0}dealership_name').text = dealership['name']
