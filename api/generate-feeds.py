@@ -108,6 +108,119 @@ def parse_photos(photo_url_string):
     return [url.strip() for url in photo_url_string.split('|') if url.strip()]
 
 
+def map_body_style(body_style_value):
+    """Map CSV body style values to Google VLA accepted body_style attribute values"""
+    if not body_style_value:
+        return None
+    
+    # Normalize input - lowercase and remove extra spaces
+    normalized = body_style_value.lower().strip()
+    
+    # Mapping dictionary - maps common variations to Google's accepted values
+    body_style_mapping = {
+        # SUVs and Crossovers
+        'suv': 'suv',
+        'sport utility': 'suv',
+        'sport utility vehicle': 'suv',
+        'crossover': 'crossover',
+        'compact suv': 'compact_suv',
+        'compact crossover': 'compact_suv',
+        'small suv': 'compact_suv',
+        
+        # Sedans and Cars
+        'sedan': 'sedan',
+        '4dr sedan': 'sedan',
+        '2dr sedan': 'sedan',
+        'city car': 'city_car',
+        'coupe': 'coupe',
+        '2dr coupe': 'coupe',
+        'hatchback': 'hatchback',
+        'hatch': 'hatchback',
+        
+        # Wagons
+        'wagon': 'station wagon',
+        'station wagon': 'station wagon',
+        'estate': 'station wagon',
+        
+        # Convertibles
+        'convertible': 'convertible',
+        'cabriolet': 'convertible',
+        'roadster': 'convertible',
+        
+        # Trucks
+        'truck': 'truck',
+        'pickup': 'truck',
+        'pickup truck': 'truck',
+        'crew cab': 'truck',
+        'extended cab': 'truck',
+        'regular cab': 'truck',
+        'double cab': 'truck',
+        'quad cab': 'truck',
+        'supercab': 'truck',
+        'supercrew': 'truck',
+        
+        # Vans
+        'van': 'full size van',
+        'cargo van': 'full size van',
+        'passenger van': 'full size van',
+        'full size van': 'full size van',
+        'minivan': 'minivan',
+        'mini van': 'minivan',
+        'mini-van': 'minivan',
+        
+        # RVs and Campers
+        'class a motorhome': 'class_a_motorhome',
+        'class b motorhome': 'class_b_motorhome',
+        'class c motorhome': 'class_c_motorhome',
+        'motorhome': 'class_a_motorhome',  # Default to Class A
+        'travel trailer': 'travel_trailer',
+        'fifth wheel': 'fifth_wheel',
+        '5th wheel': 'fifth_wheel',
+        'pop up camper': 'pop_up_camper',
+        'pop-up camper': 'pop_up_camper',
+        'truck camper': 'truck_camper',
+    }
+    
+    # Try direct match first
+    if normalized in body_style_mapping:
+        return body_style_mapping[normalized]
+    
+    # Try partial matching for common patterns
+    if 'suv' in normalized or 'utility' in normalized:
+        if 'compact' in normalized or 'small' in normalized:
+            return 'compact_suv'
+        return 'suv'
+    
+    if 'truck' in normalized or 'pickup' in normalized:
+        return 'truck'
+    
+    if 'van' in normalized:
+        if 'mini' in normalized:
+            return 'minivan'
+        return 'full size van'
+    
+    if 'sedan' in normalized:
+        return 'sedan'
+    
+    if 'coupe' in normalized:
+        return 'coupe'
+    
+    if 'convertible' in normalized or 'cabrio' in normalized:
+        return 'convertible'
+    
+    if 'wagon' in normalized or 'estate' in normalized:
+        return 'station wagon'
+    
+    if 'hatch' in normalized:
+        return 'hatchback'
+    
+    if 'crossover' in normalized:
+        return 'crossover'
+    
+    # If no match found, return None (don't include invalid body_style)
+    return None
+
+
 def ensure_store_placeholder(url):
     """Ensure the provided URL contains a store placeholder query parameter."""
     if not url:
@@ -312,19 +425,23 @@ def generate_google_feed(vehicles, dealership, dealer_id):
         if trim_value:
             _add_g_element(entry, 'trim', trim_value)
 
-        # FIXED: Mileage without unit attribute to prevent unit_pricing_base_measure error
+        # FIXED: Mileage with unit_pricing_base_measure attribute set to "miles"
         miles_value = vehicle.get('Miles')
         if miles_value:
             try:
                 mileage = int(float(miles_value))
                 if mileage >= 0:
-                    # Google assumes miles for US feeds by default - no unit attribute needed
-                    _add_g_element(entry, 'mileage', str(mileage))
+                    # Google requires unit_pricing_base_measure="miles" for VLA mileage
+                    mileage_element = _add_g_element(entry, 'mileage', str(mileage))
+                    mileage_element.set('unit_pricing_base_measure', 'miles')
             except Exception:
                 pass
 
+        # Body style - map to Google VLA accepted values
         if vehicle.get('Body'):
-            _add_g_element(entry, 'body_style', vehicle['Body'].strip())
+            mapped_body_style = map_body_style(vehicle['Body'])
+            if mapped_body_style:
+                _add_g_element(entry, 'body_style', mapped_body_style)
 
         if vehicle.get('ExteriorColor'):
             _add_g_element(entry, 'color', vehicle['ExteriorColor'].strip())
