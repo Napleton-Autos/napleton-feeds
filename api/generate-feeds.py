@@ -31,49 +31,49 @@ DEALERSHIPS = {
         'name': 'Napleton Chevrolet Buick GMC',
         'website': 'https://www.napletonchevybuickgmc.com',
         'address': 'N8167 Kellom Rd., Beaver Dam, WI 53916',
-        'store_code': '8769789203665240000'
+        'store_code': '8769789203665249729'
     },
     '29312': {
         'name': 'Napleton Ford Columbus',
         'website': 'https://www.napletonfordcolumbus.com',
         'address': '330 Transit Rd., Columbus, WI 53925',
-        'store_code': '5445979293761980000'
+        'store_code': '5445979293761982858'
     },
     '148261': {
         'name': 'Napleton Chevrolet Columbus',
         'website': 'https://www.napletonchevycolumbus.com',
         'address': '800 Maple Avenue, Columbus, WI 53925',
-        'store_code': '1647799517431800000'
+        'store_code': '1647799517431806713'
     },
     '115908': {
         'name': 'Napleton Beaver Dam Chrysler Dodge Jeep Ram',
         'website': 'https://www.beaverdamcdjr.com/',
         'address': '1724 N Spring St., Beaver Dam, WI 53916',
-        'store_code': '252221242249419000'
+        'store_code': '252221242249419797'
     },
     '50912': {
         'name': 'Napleton Downtown Chevrolet',
         'website': 'https://www.downtownchevy.com',
         'address': '2720 S. Michigan Ave., Chicago, IL 60616',
-        'store_code': '7227908043401000000'
+        'store_code': '7227908043401009324'
     },
     '216163': {
         'name': 'Napleton Downtown Buick GMC',
         'website': 'https://www.downtownbuickgmc.com',
         'address': '2720 S. Michigan Ave., Chicago, IL 60616',
-        'store_code': '4088446453747780000'
+        'store_code': '4088446453747783674'
     },
     '125848': {
         'name': 'Napleton Downtown Hyundai',
         'website': 'https://www.napletondowntownhyundai.com/',
         'address': '2700 S. Michigan Ave., Chicago, IL 60616',
-        'store_code': '8954334598476870000'
+        'store_code': '8954334598476874759'
     },
     '215614': {
         'name': 'Genesis of Downtown Chicago',
         'website': 'https://www.genesisofdowntownchicago.com/',
         'address': '2700 S. Michigan Ave., Chicago, IL 60616',
-        'store_code': '3078858109013000000'
+        'store_code': '3078858109013009292'
     },
     '4802': {
         'name': 'Napleton Chevrolet Saint Charles',
