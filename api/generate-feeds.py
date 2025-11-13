@@ -425,15 +425,14 @@ def generate_google_feed(vehicles, dealership, dealer_id):
         if trim_value:
             _add_g_element(entry, 'trim', trim_value)
 
-        # FIXED: Mileage with unit_pricing_base_measure attribute set to "miles"
+        # Mileage - must include unit in the value per Google VLA spec
         miles_value = vehicle.get('Miles')
         if miles_value:
             try:
                 mileage = int(float(miles_value))
                 if mileage >= 0:
-                    # Google requires unit_pricing_base_measure="miles" for VLA mileage
-                    mileage_element = _add_g_element(entry, 'mileage', str(mileage))
-                    mileage_element.set('unit_pricing_base_measure', 'miles')
+                    # Google VLA requires unit in the text: "25000 miles"
+                    _add_g_element(entry, 'mileage', f"{mileage} miles")
             except Exception:
                 pass
 
@@ -598,3 +597,5 @@ class handler(BaseHTTPRequestHandler):
             }
             
             self.wfile.write(json.dumps(error_response, indent=2).encode())
+
+
