@@ -155,6 +155,17 @@ def generate_facebook_feed(vehicles, dealership):
     return reparsed.toprettyxml(indent="  ")
 
 
+G_NAMESPACE = 'http://base.google.com/ns/1.0'
+
+
+def _add_g_element(parent, tag, text=None, attrib=None):
+    """Helper to add an element under the Google namespace"""
+    element = ET.SubElement(parent, f"{{{G_NAMESPACE}}}{tag}", attrib or {})
+    if text is not None:
+        element.text = text
+    return element
+
+
 def generate_google_feed(vehicles, dealership, dealer_id):
     """Generate Google VLA feed"""
     root = ET.Element('feed', {
@@ -167,63 +178,95 @@ def generate_google_feed(vehicles, dealership, dealer_id):
     ET.SubElement(root, 'updated').text = datetime.now().isoformat()
 
     for vehicle in vehicles:
-        entry = ET.SubElement(root, 'entry')
-        ET.SubElement(entry, 'id').text = vehicle['VIN']
-        ET.SubElement(entry, 'title').text = f"{vehicle['Year']} {vehicle['Make']} {vehicle['Model']} {vehicle.get('Trim', '')}".strip()
+        vin = (vehicle.get('VIN') or '').strip()
+        if not vin:
+            # Skip vehicles without a VIN as they cannot be served in VLAs
+            continue
 
-        url = vehicle.get('VDPURL') or f"{dealership['website']}/inventory/details/{vehicle['VIN']}"
-        ET.SubElement(entry, 'link', {'href': url})
+        price = clean_price(vehicle.get('PRICE')) or clean_price(vehicle.get('MSRP'))
+        if not price:
+            # Skip vehicles without a valid price - Google requires price for VLAs
+            continue
+
+        entry = ET.SubElement(root, 'entry')
+        ET.SubElement(entry, 'id').text = vin
+
+        trim_value = (vehicle.get('Trim') or '').strip()
+        if len(trim_value) > 150:
+            trim_value = trim_value[:150]
+
+        title_parts = [vehicle.get('Year', '').strip(), vehicle.get('Make', '').strip(), vehicle.get('Model', '').strip(), trim_value]
+        title = " ".join(part for part in title_parts if part).strip()
+        ET.SubElement(entry, 'title').text = title
+
+        url = (vehicle.get('VDPURL') or '').strip() or f"{dealership['website']}/inventory/details/{vin}"
+        ET.SubElement(entry, 'link', {'rel': 'alternate', 'href': url})
 
         # Required VLA fields
-        ET.SubElement(entry, '{http://base.google.com/ns/1.0}id').text = vehicle['VIN']
-
-        price = clean_price(vehicle['PRICE']) or clean_price(vehicle['MSRP'])
-        if price:
-            ET.SubElement(entry, '{http://base.google.com/ns/1.0}price').text = f"{price:.2f} USD"
+        _add_g_element(entry, 'id', vin)
+        _add_g_element(entry, 'price', f"{price:.2f} USD")
+        _add_g_element(entry, 'vin', vin)
+        _add_g_element(entry, 'google_product_category', '916')
+        _add_g_element(entry, 'brand', vehicle.get('Make', '').strip() or dealership['name'])
 
         # Store/Dealership information (required for VLA)
-        ET.SubElement(entry, '{http://base.google.com/ns/1.0}store_code').text = dealership['store_code']
-        ET.SubElement(entry, '{http://base.google.com/ns/1.0}dealership_name').text = dealership['name']
-        ET.SubElement(entry, '{http://base.google.com/ns/1.0}dealership_address').text = dealership['address']
+        _add_g_element(entry, 'store_code', dealership['store_code'])
+        _add_g_element(entry, 'dealership_name', dealership['name'])
+        _add_g_element(entry, 'dealership_address', dealership['address'])
 
         # Vehicle fulfillment - in-store pickup only (no shipping for vehicles)
-        fulfillment = ET.SubElement(entry, '{http://base.google.com/ns/1.0}vehicle_fulfillment')
-        ET.SubElement(fulfillment, '{http://base.google.com/ns/1.0}option').text = 'in_store'
+        fulfillment = _add_g_element(entry, 'vehicle_fulfillment')
+        _add_g_element(fulfillment, 'option', 'in_store')
+        _add_g_element(fulfillment, 'store_code', dealership['store_code'])
 
         # Vehicle details
-        ET.SubElement(entry, '{http://base.google.com/ns/1.0}year').text = vehicle['Year']
-        ET.SubElement(entry, '{http://base.google.com/ns/1.0}make').text = vehicle['Make']
-        ET.SubElement(entry, '{http://base.google.com/ns/1.0}model').text = vehicle['Model']
+        if vehicle.get('Year'):
+            _add_g_element(entry, 'year', vehicle['Year'].strip())
+        if vehicle.get('Make'):
+            _add_g_element(entry, 'make', vehicle['Make'].strip())
+        if vehicle.get('Model'):
+            _add_g_element(entry, 'model', vehicle['Model'].strip())
 
-        condition = 'new' if vehicle.get('New/Used', '').upper() == 'N' else 'used'
-        ET.SubElement(entry, '{http://base.google.com/ns/1.0}condition').text = condition
-        ET.SubElement(entry, '{http://base.google.com/ns/1.0}availability').text = 'in stock'
+        condition_raw = (vehicle.get('New/Used') or '').upper()
+        if condition_raw == 'N':
+            condition = 'new'
+        elif condition_raw == 'C':
+            condition = 'certified'
+        else:
+            condition = 'used'
+        _add_g_element(entry, 'condition', condition)
+        _add_g_element(entry, 'availability', 'in stock')
+
+        # VDP tracking templates
+        _add_g_element(entry, 'link_template', url)
 
         # Optional fields
-        if vehicle.get('Trim'):
-            ET.SubElement(entry, '{http://base.google.com/ns/1.0}trim').text = vehicle['Trim']
+        if trim_value:
+            _add_g_element(entry, 'trim', trim_value)
 
-        if vehicle.get('Miles'):
+        miles_value = vehicle.get('Miles')
+        if miles_value:
             try:
-                mileage = str(int(float(vehicle['Miles'])))
-                ET.SubElement(entry, '{http://base.google.com/ns/1.0}mileage').text = f"{mileage} mi"
-            except:
+                mileage = int(float(miles_value))
+                if mileage >= 0:
+                    _add_g_element(entry, 'mileage', str(mileage), attrib={'unit': 'miles'})
+            except Exception:
                 pass
 
         if vehicle.get('Body'):
-            ET.SubElement(entry, '{http://base.google.com/ns/1.0}body_style').text = vehicle['Body']
+            _add_g_element(entry, 'body_style', vehicle['Body'].strip())
 
         if vehicle.get('ExteriorColor'):
-            ET.SubElement(entry, '{http://base.google.com/ns/1.0}color').text = vehicle['ExteriorColor']
+            _add_g_element(entry, 'color', vehicle['ExteriorColor'].strip())
 
         # Images - First image is main image_link, rest are additional_image_link
         photos = parse_photos(vehicle.get('PhotoURL', ''))
         if photos:
             # Main image (required)
-            ET.SubElement(entry, '{http://base.google.com/ns/1.0}image_link').text = photos[0]
+            _add_g_element(entry, 'image_link', photos[0])
             # Additional images (up to 9 more for total of 10)
             for photo_url in photos[1:10]:
-                ET.SubElement(entry, '{http://base.google.com/ns/1.0}additional_image_link').text = photo_url
+                _add_g_element(entry, 'additional_image_link', photo_url)
 
     rough_string = ET.tostring(root, encoding='unicode')
     reparsed = minidom.parseString(rough_string)
