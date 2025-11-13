@@ -383,14 +383,14 @@ def generate_google_feed(vehicles, dealership, dealer_id):
         _add_g_element(entry, 'price', f"{primary_price:.2f} USD")
         
         # MSRP handling based on condition
-        # For NEW vehicles: MSRP is REQUIRED by Google VLA
+        # For NEW vehicles: MSRP is REQUIRED by Google VLA (use vehicle_msrp field)
         # For USED/CERTIFIED: MSRP is optional but recommended if available and different
         if condition == 'new':
             # New vehicles must have MSRP (already validated above, so msrp_price exists)
-            _add_g_element(entry, 'msrp', f"{msrp_price:.2f} USD")
+            _add_g_element(entry, 'vehicle_msrp', f"{msrp_price:.2f} USD")
         elif msrp_price and selling_price and msrp_price != selling_price:
             # For used/certified, only add if different from selling price
-            _add_g_element(entry, 'msrp', f"{msrp_price:.2f} USD")
+            _add_g_element(entry, 'vehicle_msrp', f"{msrp_price:.2f} USD")
         
         _add_g_element(entry, 'vin', vin)
         _add_g_element(entry, 'google_product_category', '916')
@@ -597,5 +597,3 @@ class handler(BaseHTTPRequestHandler):
             }
             
             self.wfile.write(json.dumps(error_response, indent=2).encode())
-
-
