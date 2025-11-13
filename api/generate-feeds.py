@@ -13,7 +13,6 @@ import os
 from datetime import datetime
 import tempfile
 import requests
-from urllib.parse import parse_qsl, quote, urlencode, urlparse, urlunparse
 
 # SFTP Configuration
 SFTP_CONFIG = {
@@ -108,34 +107,6 @@ def parse_photos(photo_url_string):
     return [url.strip() for url in photo_url_string.split('|') if url.strip()]
 
 
-def ensure_store_placeholder(url):
-    """Ensure the provided URL contains a store placeholder query parameter."""
-    if not url:
-        return url
-
-    placeholder = '{store_code}'
-    parsed = urlparse(url)
-    query_items = parse_qsl(parsed.query, keep_blank_values=True)
-
-    store_present = False
-    normalized_items = []
-    for key, value in query_items:
-        if key == 'store':
-            store_present = True
-            normalized_items.append((key, placeholder))
-        else:
-            normalized_items.append((key, value))
-
-    if not store_present:
-        normalized_items.append(('store', placeholder))
-
-    def quote_with_braces(string, safe, encoding, errors):
-        return quote(string, safe + '{}', encoding, errors)
-
-    new_query = urlencode(normalized_items, doseq=True, quote_via=quote_with_braces)
-    return urlunparse(parsed._replace(query=new_query))
-
-
 def generate_facebook_feed(vehicles, dealership):
     """Generate Facebook AIA feed"""
     root = ET.Element('listings')
@@ -217,11 +188,8 @@ def generate_google_feed(vehicles, dealership, dealer_id):
             # Skip vehicles without a valid price - Google requires price for VLAs
             continue
 
-        stock_number = (vehicle.get('StockNo') or '').strip()
-        product_id = stock_number or vin
-
         entry = ET.SubElement(root, 'entry')
-        ET.SubElement(entry, 'id').text = product_id
+        ET.SubElement(entry, 'id').text = vin
 
         trim_value = (vehicle.get('Trim') or '').strip()
         if len(trim_value) > 150:
@@ -235,7 +203,7 @@ def generate_google_feed(vehicles, dealership, dealer_id):
         ET.SubElement(entry, 'link', {'rel': 'alternate', 'href': url})
 
         # Required VLA fields
-        _add_g_element(entry, 'id', product_id)
+        _add_g_element(entry, 'id', vin)
         _add_g_element(entry, 'price', f"{price:.2f} USD")
         _add_g_element(entry, 'vin', vin)
         _add_g_element(entry, 'google_product_category', '916')
@@ -270,8 +238,7 @@ def generate_google_feed(vehicles, dealership, dealer_id):
         _add_g_element(entry, 'availability', 'in stock')
 
         # VDP tracking templates
-        link_template_url = ensure_store_placeholder(url)
-        _add_g_element(entry, 'link_template', link_template_url)
+        _add_g_element(entry, 'link_template', url)
 
         # Optional fields
         if trim_value:
