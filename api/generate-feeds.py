@@ -13,6 +13,7 @@ import os
 from datetime import datetime
 import tempfile
 import requests
+from urllib.parse import parse_qsl, quote, urlencode, urlparse, urlunparse
 
 # SFTP Configuration
 SFTP_CONFIG = {
@@ -107,6 +108,44 @@ def parse_photos(photo_url_string):
     return [url.strip() for url in photo_url_string.split('|') if url.strip()]
 
 
+def ensure_store_placeholder(url):
+    """Ensure the provided URL contains a store placeholder query parameter."""
+    if not url:
+        return url
+
+    placeholder = '{store_code}'
+    parsed = urlparse(url)
+    query_items = parse_qsl(parsed.query, keep_blank_values=True)
+
+    store_present = False
+    normalized_items = []
+    for key, value in query_items:
+        if key == 'store':
+            store_present = True
+            normalized_items.append((key, placeholder))
+        else:
+            normalized_items.append((key, value))
+
+    # Always add store parameter if not present
+    if not store_present:
+        normalized_items.append(('store', placeholder))
+
+    def quote_with_braces(string, safe, encoding, errors):
+        return quote(string, safe + '{}', encoding, errors)
+
+    # Build the query string
+    new_query = urlencode(normalized_items, doseq=True, quote_via=quote_with_braces)
+    
+    # Reconstruct URL with new query string
+    result_url = urlunparse(parsed._replace(query=new_query))
+    
+    # Google VLA requires trailing & for link_template
+    if new_query and not result_url.endswith('&'):
+        result_url += '&'
+    
+    return result_url
+
+
 def generate_facebook_feed(vehicles, dealership):
     """Generate Facebook AIA feed"""
     root = ET.Element('listings')
@@ -183,13 +222,37 @@ def generate_google_feed(vehicles, dealership, dealer_id):
             # Skip vehicles without a VIN as they cannot be served in VLAs
             continue
 
-        price = clean_price(vehicle.get('PRICE')) or clean_price(vehicle.get('MSRP'))
-        if not price:
-            # Skip vehicles without a valid price - Google requires price for VLAs
+        # Determine vehicle condition first (needed for MSRP validation)
+        condition_raw = (vehicle.get('New/Used') or '').upper()
+        if condition_raw == 'N':
+            condition = 'new'
+        elif condition_raw == 'C':
+            condition = 'certified'
+        else:
+            condition = 'used'
+        
+        # Price handling - use PRICE if available, fallback to MSRP
+        selling_price = clean_price(vehicle.get('PRICE'))
+        msrp_price = clean_price(vehicle.get('MSRP'))
+        
+        # Google requires at least one valid price
+        if not selling_price and not msrp_price:
+            # Skip vehicles without any valid price - Google requires price for VLAs
             continue
+        
+        # For NEW vehicles, MSRP is REQUIRED by Google VLA
+        if condition == 'new' and not msrp_price:
+            # Skip new vehicles without MSRP - Google requires it for new VLAs
+            continue
+        
+        # Use selling price as primary, or MSRP as fallback
+        primary_price = selling_price or msrp_price
+
+        stock_number = (vehicle.get('StockNo') or '').strip()
+        product_id = stock_number or vin
 
         entry = ET.SubElement(root, 'entry')
-        ET.SubElement(entry, 'id').text = vin
+        ET.SubElement(entry, 'id').text = product_id
 
         trim_value = (vehicle.get('Trim') or '').strip()
         if len(trim_value) > 150:
@@ -203,8 +266,19 @@ def generate_google_feed(vehicles, dealership, dealer_id):
         ET.SubElement(entry, 'link', {'rel': 'alternate', 'href': url})
 
         # Required VLA fields
-        _add_g_element(entry, 'id', vin)
-        _add_g_element(entry, 'price', f"{price:.2f} USD")
+        _add_g_element(entry, 'id', product_id)
+        _add_g_element(entry, 'price', f"{primary_price:.2f} USD")
+        
+        # MSRP handling based on condition
+        # For NEW vehicles: MSRP is REQUIRED by Google VLA
+        # For USED/CERTIFIED: MSRP is optional but recommended if available and different
+        if condition == 'new':
+            # New vehicles must have MSRP (already validated above, so msrp_price exists)
+            _add_g_element(entry, 'msrp', f"{msrp_price:.2f} USD")
+        elif msrp_price and selling_price and msrp_price != selling_price:
+            # For used/certified, only add if different from selling price
+            _add_g_element(entry, 'msrp', f"{msrp_price:.2f} USD")
+        
         _add_g_element(entry, 'vin', vin)
         _add_g_element(entry, 'google_product_category', '916')
         _add_g_element(entry, 'brand', vehicle.get('Make', '').strip() or dealership['name'])
@@ -227,29 +301,25 @@ def generate_google_feed(vehicles, dealership, dealer_id):
         if vehicle.get('Model'):
             _add_g_element(entry, 'model', vehicle['Model'].strip())
 
-        condition_raw = (vehicle.get('New/Used') or '').upper()
-        if condition_raw == 'N':
-            condition = 'new'
-        elif condition_raw == 'C':
-            condition = 'certified'
-        else:
-            condition = 'used'
         _add_g_element(entry, 'condition', condition)
         _add_g_element(entry, 'availability', 'in stock')
 
         # VDP tracking templates
-        _add_g_element(entry, 'link_template', url)
+        link_template_url = ensure_store_placeholder(url)
+        _add_g_element(entry, 'link_template', link_template_url)
 
         # Optional fields
         if trim_value:
             _add_g_element(entry, 'trim', trim_value)
 
+        # FIXED: Mileage without unit attribute to prevent unit_pricing_base_measure error
         miles_value = vehicle.get('Miles')
         if miles_value:
             try:
                 mileage = int(float(miles_value))
                 if mileage >= 0:
-                    _add_g_element(entry, 'mileage', str(mileage), attrib={'unit': 'miles'})
+                    # Google assumes miles for US feeds by default - no unit attribute needed
+                    _add_g_element(entry, 'mileage', str(mileage))
             except Exception:
                 pass
 
