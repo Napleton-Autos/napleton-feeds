@@ -462,44 +462,79 @@ def generate_google_feed(vehicles, dealership, dealer_id):
 def upload_to_blob(filename, content):
     """
     Upload content to Vercel Blob Storage with STABLE URLs
+
+    Uses the actual Vercel Blob REST API that the @vercel/blob SDK uses internally.
+    This is a server upload directly from Python.
     """
     if not BLOB_TOKEN:
         print("✗ No BLOB_TOKEN configured")
         return None
 
     try:
-        api_url = "https://blob.vercel-storage.com"
+        # Step 1: Request upload URL from Vercel Blob API
+        # This is what @vercel/blob's put() does internally
+        api_url = "https://api.vercel.com/v1/blob"
 
         headers = {
             'Authorization': f'Bearer {BLOB_TOKEN}',
+            'Content-Type': 'application/json'
         }
 
-        # Use multipart/form-data upload
-        files = {
-            'file': (filename, content.encode('utf-8'), 'application/xml')
+        # Request body to get upload URL
+        payload = {
+            'pathname': filename,
+            'type': 'application/xml',
+            'addRandomSuffix': False  # Boolean for stable URLs!
         }
 
-        data = {
-            'addRandomSuffix': '0'  # Stable URLs!
-        }
+        print(f"📤 Requesting upload URL for: {filename}")
 
-        print(f"📤 Uploading: {filename}")
-
-        response = requests.post(  # ← POST, not PUT!
+        # Get the upload URL
+        response = requests.post(
             api_url,
             headers=headers,
-            files=files,
-            data=data,
+            json=payload,
+            timeout=10
+        )
+
+        print(f"   API response: {response.status_code}")
+
+        if response.status_code not in [200, 201]:
+            print(f"✗ Failed to get upload URL: {response.status_code} - {response.text}")
+            return None
+
+        upload_data = response.json()
+        print(f"   Upload data keys: {list(upload_data.keys())}")
+
+        # Step 2: Upload content using the provided URL
+        upload_url = upload_data.get('uploadUrl')
+        final_url = upload_data.get('url')  # This is the final download URL
+
+        if not upload_url:
+            print(f"✗ No uploadUrl in response: {upload_data}")
+            return None
+
+        print(f"   Uploading to: {upload_url[:50]}...")
+
+        # Upload the actual content
+        upload_headers = {
+            'Content-Type': 'application/xml',
+        }
+
+        upload_response = requests.put(
+            upload_url,
+            data=content.encode('utf-8'),
+            headers=upload_headers,
             timeout=30
         )
 
-        if response.status_code in [200, 201]:
-            result = response.json()
-            blob_url = result.get('url')
-            print(f"✓ Success: {blob_url}")
-            return blob_url
+        print(f"   Upload status: {upload_response.status_code}")
+
+        if upload_response.status_code in [200, 201]:
+            print(f"✓ Success: {final_url}")
+            return final_url
         else:
-            print(f"✗ Failed: {response.status_code} - {response.text}")
+            print(f"✗ Upload failed: {upload_response.status_code} - {upload_response.text}")
             return None
 
     except Exception as e:
