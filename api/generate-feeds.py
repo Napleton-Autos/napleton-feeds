@@ -459,58 +459,54 @@ def generate_google_feed(vehicles, dealership, dealer_id):
     return reparsed.toprettyxml(indent="  ")
 
 
-# ==========================================
-# CRITICAL FIX: Stable Blob URLs
-# ==========================================
 def upload_to_blob(filename, content):
     """
     Upload content to Vercel Blob Storage with STABLE URLs
-
-    KEY FIX: Added addRandomSuffix=0 parameter to prevent Vercel from
-    creating new URLs like filename-abc123.xml on each upload.
-
-    This ensures the same URL is used across all uploads, allowing
-    merchant centers to fetch updated inventory automatically.
     """
     if not BLOB_TOKEN:
         print("✗ No BLOB_TOKEN configured")
         return None
 
     try:
-        # Base Vercel Blob API endpoint
-        base_url = "https://blob.vercel-storage.com"
-
-        # CRITICAL: Build URL with query parameters
-        # addRandomSuffix=0 prevents random hashes in the filename
-        params = {
-            'filename': filename,
-            'addRandomSuffix': '0'  # ← THE KEY FIX!
-        }
-
-        # Convert params to query string
-        query_string = '&'.join([f"{k}={v}" for k, v in params.items()])
-        upload_url = f"{base_url}?{query_string}"
+        api_url = "https://blob.vercel-storage.com"
 
         headers = {
             'Authorization': f'Bearer {BLOB_TOKEN}',
-            'Content-Type': 'application/xml',
-            'x-content-type': 'application/xml'
         }
 
-        response = requests.put(upload_url, data=content.encode('utf-8'), headers=headers)
+        # Use multipart/form-data upload
+        files = {
+            'file': (filename, content.encode('utf-8'), 'application/xml')
+        }
+
+        data = {
+            'addRandomSuffix': '0'  # Stable URLs!
+        }
+
+        print(f"📤 Uploading: {filename}")
+
+        response = requests.post(  # ← POST, not PUT!
+            api_url,
+            headers=headers,
+            files=files,
+            data=data,
+            timeout=30
+        )
 
         if response.status_code in [200, 201]:
             result = response.json()
             blob_url = result.get('url')
-            print(f"✓ Successfully uploaded: {blob_url}")
+            print(f"✓ Success: {blob_url}")
             return blob_url
         else:
-            print(f"✗ Blob upload failed: {response.status_code} - {response.text}")
+            print(f"✗ Failed: {response.status_code} - {response.text}")
             return None
+
     except Exception as e:
-        print(f"✗ Error uploading to blob: {e}")
+        print(f"✗ Exception: {e}")
+        import traceback
+        traceback.print_exc()
         return None
-# ==========================================
 
 
 def download_from_sftp():
