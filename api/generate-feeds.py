@@ -80,7 +80,7 @@ DEALERSHIPS = {
         'name': 'Napleton Chevrolet Saint Charles',
         'website': 'https://www.napletonchevrolet.com',
         'address': '2015 E. Main St., Saint Charles, IL 60174',
-        'store_code': '7093661331809090000'
+        'store_code': '7093661331809096168'
     },
     '30389': {
         'name': 'Napleton Buick GMC',
