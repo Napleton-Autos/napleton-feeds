@@ -411,8 +411,7 @@ def generate_facebook_feed(vehicles, dealership):
         description = '. '.join(description_parts) + '.'
         ET.SubElement(listing, 'description').text = description
 
-        # Required: Address components
-        ET.SubElement(listing, 'address').text = dealership['address']
+        # Required: Address components (use individual fields, not combined address)
         ET.SubElement(listing, 'street_address').text = dealership['street_address']
         ET.SubElement(listing, 'city').text = dealership['city']
         ET.SubElement(listing, 'region').text = dealership['region']
