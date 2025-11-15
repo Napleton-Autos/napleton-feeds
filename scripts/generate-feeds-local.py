@@ -257,49 +257,187 @@ def ensure_store_placeholder(url):
     return result_url
 
 
+def map_body_style_facebook(body_style_value):
+    """Map body style to Facebook's accepted values"""
+    if not body_style_value:
+        return 'OTHER'
+
+    normalized = body_style_value.lower().strip()
+
+    # Facebook's accepted values
+    fb_mapping = {
+        'convertible': 'CONVERTIBLE',
+        'cabriolet': 'CONVERTIBLE',
+        'roadster': 'ROADSTER',
+        'coupe': 'COUPE',
+        '2dr coupe': 'COUPE',
+        'crossover': 'CROSSOVER',
+        'estate': 'ESTATE',
+        'wagon': 'WAGON',
+        'station wagon': 'WAGON',
+        'hatchback': 'HATCHBACK',
+        'hatch': 'HATCHBACK',
+        'minibus': 'MINIBUS',
+        'minivan': 'MINIVAN',
+        'mini van': 'MINIVAN',
+        'mpv': 'MPV',
+        'pickup': 'PICKUP',
+        'truck': 'TRUCK',
+        'sedan': 'SEDAN',
+        'saloon': 'SALOON',
+        '4dr sedan': 'SEDAN',
+        'small car': 'SMALL_CAR',
+        'city car': 'SMALL_CAR',
+        'sportscar': 'SPORTSCAR',
+        'supercar': 'SUPERCAR',
+        'supermini': 'SUPERMINI',
+        'suv': 'SUV',
+        'sport utility': 'SUV',
+        'van': 'VAN',
+        'cargo van': 'VAN',
+    }
+
+    # Try direct match
+    if normalized in fb_mapping:
+        return fb_mapping[normalized]
+
+    # Try partial matching
+    if 'convertible' in normalized or 'cabrio' in normalized:
+        return 'CONVERTIBLE'
+    if 'coupe' in normalized:
+        return 'COUPE'
+    if 'crossover' in normalized:
+        return 'CROSSOVER'
+    if 'wagon' in normalized or 'estate' in normalized:
+        return 'WAGON'
+    if 'hatch' in normalized:
+        return 'HATCHBACK'
+    if 'mini' in normalized and 'van' in normalized:
+        return 'MINIVAN'
+    if 'truck' in normalized or 'pickup' in normalized:
+        return 'TRUCK'
+    if 'sedan' in normalized or 'saloon' in normalized:
+        return 'SEDAN'
+    if 'suv' in normalized or 'utility' in normalized:
+        return 'SUV'
+    if 'van' in normalized:
+        return 'VAN'
+    if 'sport' in normalized:
+        return 'SPORTSCAR'
+
+    return 'OTHER'
+
+
 def generate_facebook_feed(vehicles, dealership):
     """Generate Facebook AIA feed"""
     root = ET.Element('listings')
-    
+
     for vehicle in vehicles:
         listing = ET.SubElement(root, 'listing')
+
+        # Required: ID
         ET.SubElement(listing, 'id').text = vehicle['VIN']
+
+        # Required: Title (Year Make Model Trim)
+        title_parts = [
+            vehicle.get('Year', '').strip(),
+            vehicle.get('Make', '').strip(),
+            vehicle.get('Model', '').strip(),
+            vehicle.get('Trim', '').strip()
+        ]
+        title = ' '.join(part for part in title_parts if part)
+        ET.SubElement(listing, 'title').text = title
+
+        # Required: Description
+        description_parts = [
+            f"{vehicle.get('Year', '')} {vehicle.get('Make', '')} {vehicle.get('Model', '')}".strip(),
+        ]
+        if vehicle.get('Trim'):
+            description_parts.append(f"Trim: {vehicle['Trim']}")
+        if vehicle.get('ExteriorColor'):
+            description_parts.append(f"Color: {vehicle['ExteriorColor']}")
+        if vehicle.get('Body'):
+            description_parts.append(f"Body Style: {vehicle['Body']}")
+
+        description = '. '.join(description_parts) + '.'
+        ET.SubElement(listing, 'description').text = description
+
+        # Required: Address
+        ET.SubElement(listing, 'address').text = dealership['address']
+
+        # Vehicle details
         ET.SubElement(listing, 'year').text = vehicle['Year']
         ET.SubElement(listing, 'make').text = vehicle['Make']
         ET.SubElement(listing, 'model').text = vehicle['Model']
         ET.SubElement(listing, 'vin').text = vehicle['VIN']
         ET.SubElement(listing, 'availability').text = 'in stock'
-        
+
+        # Price
         price = clean_price(vehicle['PRICE']) or clean_price(vehicle['MSRP'])
         if price:
             ET.SubElement(listing, 'price').text = f"{price:.2f} USD"
-        
+
+        # URL
         url = vehicle.get('VDPURL') or f"{dealership['website']}/inventory/details/{vehicle['VIN']}"
         ET.SubElement(listing, 'url').text = url
-        
-        condition = 'new' if vehicle.get('New/Used', '').upper() == 'N' else 'used'
+
+        # Required: state_of_vehicle (NEW/USED/CPO)
+        condition_raw = vehicle.get('New/Used', '').upper()
+        if condition_raw == 'N':
+            state_of_vehicle = 'NEW'
+        elif condition_raw == 'C':
+            state_of_vehicle = 'CPO'
+        else:
+            state_of_vehicle = 'USED'
+        ET.SubElement(listing, 'state_of_vehicle').text = state_of_vehicle
+
+        # Keep old condition field for compatibility
+        condition = 'new' if condition_raw == 'N' else 'used'
         ET.SubElement(listing, 'condition').text = condition
-        
-        if vehicle.get('Miles'):
+
+        # Required: Mileage with proper structure
+        miles_value = vehicle.get('Miles')
+        if miles_value:
             try:
-                ET.SubElement(listing, 'mileage').text = str(int(float(vehicle['Miles'])))
-                ET.SubElement(listing, 'mileage_unit').text = 'mi'
+                mileage_int = int(float(miles_value))
+                mileage_elem = ET.SubElement(listing, 'mileage')
+                ET.SubElement(mileage_elem, 'value').text = str(mileage_int)
+                ET.SubElement(mileage_elem, 'unit').text = 'mi'
             except:
-                pass
-        
+                # Provide default mileage for new vehicles if missing
+                if state_of_vehicle == 'NEW':
+                    mileage_elem = ET.SubElement(listing, 'mileage')
+                    ET.SubElement(mileage_elem, 'value').text = '0'
+                    ET.SubElement(mileage_elem, 'unit').text = 'mi'
+        elif state_of_vehicle == 'NEW':
+            # Default to 0 for new vehicles
+            mileage_elem = ET.SubElement(listing, 'mileage')
+            ET.SubElement(mileage_elem, 'value').text = '0'
+            ET.SubElement(mileage_elem, 'unit').text = 'mi'
+
+        # Optional fields
         if vehicle.get('Trim'):
             ET.SubElement(listing, 'trim').text = vehicle['Trim']
+
+        # Body style - use Facebook's accepted values
         if vehicle.get('Body'):
-            ET.SubElement(listing, 'body_style').text = vehicle['Body']
+            fb_body_style = map_body_style_facebook(vehicle['Body'])
+            ET.SubElement(listing, 'body_style').text = fb_body_style
+
         if vehicle.get('ExteriorColor'):
             ET.SubElement(listing, 'exterior_color').text = vehicle['ExteriorColor']
         if vehicle.get('InteriorColor'):
             ET.SubElement(listing, 'interior_color').text = vehicle['InteriorColor']
-        
+
+        # Required: Images with proper structure
         photos = parse_photos(vehicle.get('PhotoURL', ''))
-        for photo_url in photos[:20]:
-            ET.SubElement(listing, 'image').text = photo_url
-    
+        if photos:
+            for i, photo_url in enumerate(photos[:20]):
+                image_elem = ET.SubElement(listing, 'image')
+                ET.SubElement(image_elem, 'url').text = photo_url
+                if i == 0:
+                    ET.SubElement(image_elem, 'tag').text = 'main'
+
     rough_string = ET.tostring(root, encoding='unicode')
     reparsed = minidom.parseString(rough_string)
     return reparsed.toprettyxml(indent="  ")
