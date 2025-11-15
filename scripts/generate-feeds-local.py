@@ -30,60 +30,100 @@ DEALERSHIPS = {
         'name': 'Napleton Chevrolet Buick GMC',
         'website': 'https://www.napletonchevybuickgmc.com',
         'address': 'N8167 Kellom Rd., Beaver Dam, WI 53916',
+        'street_address': 'N8167 Kellom Rd.',
+        'city': 'Beaver Dam',
+        'region': 'WI',
+        'country': 'US',
         'store_code': '8769789203665249729'
     },
     '29312': {
         'name': 'Napleton Ford Columbus',
         'website': 'https://www.napletonfordcolumbus.com',
         'address': '330 Transit Rd., Columbus, WI 53925',
+        'street_address': '330 Transit Rd.',
+        'city': 'Columbus',
+        'region': 'WI',
+        'country': 'US',
         'store_code': '5445979293761982858'
     },
     '148261': {
         'name': 'Napleton Chevrolet Columbus',
         'website': 'https://www.napletonchevycolumbus.com',
         'address': '800 Maple Avenue, Columbus, WI 53925',
+        'street_address': '800 Maple Avenue',
+        'city': 'Columbus',
+        'region': 'WI',
+        'country': 'US',
         'store_code': '1647799517431806713'
     },
     '115908': {
         'name': 'Napleton Beaver Dam Chrysler Dodge Jeep Ram',
         'website': 'https://www.beaverdamcdjr.com/',
         'address': '1724 N Spring St., Beaver Dam, WI 53916',
+        'street_address': '1724 N Spring St.',
+        'city': 'Beaver Dam',
+        'region': 'WI',
+        'country': 'US',
         'store_code': '252221242249419797'
     },
     '50912': {
         'name': 'Napleton Downtown Chevrolet',
         'website': 'https://www.downtownchevy.com',
         'address': '2720 S. Michigan Ave., Chicago, IL 60616',
+        'street_address': '2720 S. Michigan Ave.',
+        'city': 'Chicago',
+        'region': 'IL',
+        'country': 'US',
         'store_code': '7227908043401009324'
     },
     '216163': {
         'name': 'Napleton Downtown Buick GMC',
         'website': 'https://www.downtownbuickgmc.com',
         'address': '2720 S. Michigan Ave., Chicago, IL 60616',
+        'street_address': '2720 S. Michigan Ave.',
+        'city': 'Chicago',
+        'region': 'IL',
+        'country': 'US',
         'store_code': '4088446453747783674'
     },
     '125848': {
         'name': 'Napleton Downtown Hyundai',
         'website': 'https://www.napletondowntownhyundai.com/',
         'address': '2700 S. Michigan Ave., Chicago, IL 60616',
+        'street_address': '2700 S. Michigan Ave.',
+        'city': 'Chicago',
+        'region': 'IL',
+        'country': 'US',
         'store_code': '8954334598476874759'
     },
     '215614': {
         'name': 'Genesis of Downtown Chicago',
         'website': 'https://www.genesisofdowntownchicago.com/',
         'address': '2700 S. Michigan Ave., Chicago, IL 60616',
+        'street_address': '2700 S. Michigan Ave.',
+        'city': 'Chicago',
+        'region': 'IL',
+        'country': 'US',
         'store_code': '3078858109013009292'
     },
     '4802': {
         'name': 'Napleton Chevrolet Saint Charles',
         'website': 'https://www.napletonchevrolet.com',
         'address': '2015 E. Main St., Saint Charles, IL 60174',
+        'street_address': '2015 E. Main St.',
+        'city': 'Saint Charles',
+        'region': 'IL',
+        'country': 'US',
         'store_code': '7093661331809096168'
     },
     '30389': {
         'name': 'Napleton Buick GMC',
         'website': 'https://www.napletoncrystallake.com',
         'address': '6305 Northwest Hwy., Crystal Lake, IL 60014',
+        'street_address': '6305 Northwest Hwy.',
+        'city': 'Crystal Lake',
+        'region': 'IL',
+        'country': 'US',
         'store_code': '30389'
     }
 }
@@ -333,6 +373,15 @@ def generate_facebook_feed(vehicles, dealership):
     root = ET.Element('listings')
 
     for vehicle in vehicles:
+        # Pre-check required fields - skip vehicle if missing
+        price = clean_price(vehicle['PRICE']) or clean_price(vehicle['MSRP'])
+        if not price:
+            continue  # Skip if no price
+
+        photos = parse_photos(vehicle.get('PhotoURL', ''))
+        if not photos:
+            continue  # Skip if no images
+
         listing = ET.SubElement(root, 'listing')
 
         # Required: ID
@@ -362,8 +411,12 @@ def generate_facebook_feed(vehicles, dealership):
         description = '. '.join(description_parts) + '.'
         ET.SubElement(listing, 'description').text = description
 
-        # Required: Address
+        # Required: Address components
         ET.SubElement(listing, 'address').text = dealership['address']
+        ET.SubElement(listing, 'street_address').text = dealership['street_address']
+        ET.SubElement(listing, 'city').text = dealership['city']
+        ET.SubElement(listing, 'region').text = dealership['region']
+        ET.SubElement(listing, 'country').text = dealership['country']
 
         # Vehicle details
         ET.SubElement(listing, 'year').text = vehicle['Year']
@@ -372,10 +425,8 @@ def generate_facebook_feed(vehicles, dealership):
         ET.SubElement(listing, 'vin').text = vehicle['VIN']
         ET.SubElement(listing, 'availability').text = 'in stock'
 
-        # Price
-        price = clean_price(vehicle['PRICE']) or clean_price(vehicle['MSRP'])
-        if price:
-            ET.SubElement(listing, 'price').text = f"{price:.2f} USD"
+        # Required: Price
+        ET.SubElement(listing, 'price').text = f"{price:.2f} USD"
 
         # URL
         url = vehicle.get('VDPURL') or f"{dealership['website']}/inventory/details/{vehicle['VIN']}"
@@ -395,48 +446,48 @@ def generate_facebook_feed(vehicles, dealership):
         condition = 'new' if condition_raw == 'N' else 'used'
         ET.SubElement(listing, 'condition').text = condition
 
-        # Required: Mileage with proper structure
+        # Required: Mileage with proper structure (unit must be uppercase "MI")
         miles_value = vehicle.get('Miles')
         if miles_value:
             try:
                 mileage_int = int(float(miles_value))
                 mileage_elem = ET.SubElement(listing, 'mileage')
                 ET.SubElement(mileage_elem, 'value').text = str(mileage_int)
-                ET.SubElement(mileage_elem, 'unit').text = 'mi'
+                ET.SubElement(mileage_elem, 'unit').text = 'MI'
             except:
                 # Provide default mileage for new vehicles if missing
                 if state_of_vehicle == 'NEW':
                     mileage_elem = ET.SubElement(listing, 'mileage')
                     ET.SubElement(mileage_elem, 'value').text = '0'
-                    ET.SubElement(mileage_elem, 'unit').text = 'mi'
+                    ET.SubElement(mileage_elem, 'unit').text = 'MI'
         elif state_of_vehicle == 'NEW':
             # Default to 0 for new vehicles
             mileage_elem = ET.SubElement(listing, 'mileage')
             ET.SubElement(mileage_elem, 'value').text = '0'
-            ET.SubElement(mileage_elem, 'unit').text = 'mi'
+            ET.SubElement(mileage_elem, 'unit').text = 'MI'
 
         # Optional fields
         if vehicle.get('Trim'):
             ET.SubElement(listing, 'trim').text = vehicle['Trim']
 
-        # Body style - use Facebook's accepted values
+        # Required: Body style - use Facebook's accepted values
         if vehicle.get('Body'):
             fb_body_style = map_body_style_facebook(vehicle['Body'])
-            ET.SubElement(listing, 'body_style').text = fb_body_style
+        else:
+            fb_body_style = 'OTHER'
+        ET.SubElement(listing, 'body_style').text = fb_body_style
 
         if vehicle.get('ExteriorColor'):
             ET.SubElement(listing, 'exterior_color').text = vehicle['ExteriorColor']
         if vehicle.get('InteriorColor'):
             ET.SubElement(listing, 'interior_color').text = vehicle['InteriorColor']
 
-        # Required: Images with proper structure
-        photos = parse_photos(vehicle.get('PhotoURL', ''))
-        if photos:
-            for i, photo_url in enumerate(photos[:20]):
-                image_elem = ET.SubElement(listing, 'image')
-                ET.SubElement(image_elem, 'url').text = photo_url
-                if i == 0:
-                    ET.SubElement(image_elem, 'tag').text = 'main'
+        # Required: Images with proper structure (already pre-checked above)
+        for i, photo_url in enumerate(photos[:20]):
+            image_elem = ET.SubElement(listing, 'image')
+            ET.SubElement(image_elem, 'url').text = photo_url
+            if i == 0:
+                ET.SubElement(image_elem, 'tag').text = 'main'
 
     rough_string = ET.tostring(root, encoding='unicode')
     reparsed = minidom.parseString(rough_string)
