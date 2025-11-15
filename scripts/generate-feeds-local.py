@@ -24,7 +24,7 @@ SFTP_CONFIG = {
 # Output directory
 FEED_DIR = 'feeds'
 
-# Dealership Configuration  
+# Dealership Configuration
 DEALERSHIPS = {
     '28685': {
         'name': 'Napleton Chevrolet Buick GMC',
@@ -107,47 +107,150 @@ def parse_photos(photo_url_string):
 
 
 def map_body_style(body_style_value):
-    """Map CSV body style values to Google VLA accepted values"""
+    """Map CSV body style values to Google VLA accepted body_style attribute values"""
     if not body_style_value:
         return None
     
+    # Normalize input - lowercase and remove extra spaces
     normalized = body_style_value.lower().strip()
     
+    # Mapping dictionary - maps common variations to Google's accepted values
     body_style_mapping = {
-        'suv': 'suv', 'sport utility': 'suv', 'crossover': 'crossover',
-        'sedan': 'sedan', 'coupe': 'coupe', 'hatchback': 'hatchback',
-        'wagon': 'station wagon', 'convertible': 'convertible',
-        'truck': 'truck', 'pickup': 'truck', 'van': 'full size van',
+        # SUVs and Crossovers
+        'suv': 'suv',
+        'sport utility': 'suv',
+        'sport utility vehicle': 'suv',
+        'crossover': 'crossover',
+        'compact suv': 'compact_suv',
+        'compact crossover': 'compact_suv',
+        'small suv': 'compact_suv',
+        
+        # Sedans and Cars
+        'sedan': 'sedan',
+        '4dr sedan': 'sedan',
+        '2dr sedan': 'sedan',
+        'city car': 'city_car',
+        'coupe': 'coupe',
+        '2dr coupe': 'coupe',
+        'hatchback': 'hatchback',
+        'hatch': 'hatchback',
+        
+        # Wagons
+        'wagon': 'station wagon',
+        'station wagon': 'station wagon',
+        'estate': 'station wagon',
+        
+        # Convertibles
+        'convertible': 'convertible',
+        'cabriolet': 'convertible',
+        'roadster': 'convertible',
+        
+        # Trucks
+        'truck': 'truck',
+        'pickup': 'truck',
+        'pickup truck': 'truck',
+        'crew cab': 'truck',
+        'extended cab': 'truck',
+        'regular cab': 'truck',
+        'double cab': 'truck',
+        'quad cab': 'truck',
+        'supercab': 'truck',
+        'supercrew': 'truck',
+        
+        # Vans
+        'van': 'full size van',
+        'cargo van': 'full size van',
+        'passenger van': 'full size van',
+        'full size van': 'full size van',
         'minivan': 'minivan',
+        'mini van': 'minivan',
+        'mini-van': 'minivan',
+        
+        # RVs and Campers
+        'class a motorhome': 'class_a_motorhome',
+        'class b motorhome': 'class_b_motorhome',
+        'class c motorhome': 'class_c_motorhome',
+        'motorhome': 'class_a_motorhome',  # Default to Class A
+        'travel trailer': 'travel_trailer',
+        'fifth wheel': 'fifth_wheel',
+        '5th wheel': 'fifth_wheel',
+        'pop up camper': 'pop_up_camper',
+        'pop-up camper': 'pop_up_camper',
+        'truck camper': 'truck_camper',
     }
     
+    # Try direct match first
     if normalized in body_style_mapping:
         return body_style_mapping[normalized]
     
-    if 'suv' in normalized:
+    # Try partial matching for common patterns
+    if 'suv' in normalized or 'utility' in normalized:
+        if 'compact' in normalized or 'small' in normalized:
+            return 'compact_suv'
         return 'suv'
-    if 'truck' in normalized:
-        return 'truck'
-    if 'van' in normalized:
-        return 'minivan' if 'mini' in normalized else 'full size van'
     
+    if 'truck' in normalized or 'pickup' in normalized:
+        return 'truck'
+    
+    if 'van' in normalized:
+        if 'mini' in normalized:
+            return 'minivan'
+        return 'full size van'
+    
+    if 'sedan' in normalized:
+        return 'sedan'
+    
+    if 'coupe' in normalized:
+        return 'coupe'
+    
+    if 'convertible' in normalized or 'cabrio' in normalized:
+        return 'convertible'
+    
+    if 'wagon' in normalized or 'estate' in normalized:
+        return 'station wagon'
+    
+    if 'hatch' in normalized:
+        return 'hatchback'
+    
+    if 'crossover' in normalized:
+        return 'crossover'
+    
+    # If no match found, return None (don't include invalid body_style)
     return None
 
 
 def ensure_store_placeholder(url):
-    """Ensure URL contains store placeholder"""
+    """Ensure the provided URL contains a store placeholder query parameter."""
     if not url:
         return url
+
     placeholder = '{store_code}'
     parsed = urlparse(url)
     query_items = parse_qsl(parsed.query, keep_blank_values=True)
+
+    store_present = False
+    normalized_items = []
+    for key, value in query_items:
+        if key == 'store':
+            store_present = True
+            normalized_items.append((key, placeholder))
+        else:
+            normalized_items.append((key, value))
+
+    # Always add store parameter if not present
+    if not store_present:
+        normalized_items.append(('store', placeholder))
+
+    def quote_with_braces(string, safe, encoding, errors):
+        return quote(string, safe + '{}', encoding, errors)
+
+    # Build the query string
+    new_query = urlencode(normalized_items, doseq=True, quote_via=quote_with_braces)
     
-    if not any(k == 'store' for k, v in query_items):
-        query_items.append(('store', placeholder))
-    
-    new_query = urlencode(query_items)
+    # Reconstruct URL with new query string
     result_url = urlunparse(parsed._replace(query=new_query))
     
+    # Google VLA requires trailing & for link_template
     if new_query and not result_url.endswith('&'):
         result_url += '&'
     
@@ -190,6 +293,8 @@ def generate_facebook_feed(vehicles, dealership):
             ET.SubElement(listing, 'body_style').text = vehicle['Body']
         if vehicle.get('ExteriorColor'):
             ET.SubElement(listing, 'exterior_color').text = vehicle['ExteriorColor']
+        if vehicle.get('InteriorColor'):
+            ET.SubElement(listing, 'interior_color').text = vehicle['InteriorColor']
         
         photos = parse_photos(vehicle.get('PhotoURL', ''))
         for photo_url in photos[:20]:
@@ -202,8 +307,10 @@ def generate_facebook_feed(vehicles, dealership):
 
 G_NAMESPACE = 'http://base.google.com/ns/1.0'
 
-def _add_g_element(parent, tag, text=None):
-    element = ET.SubElement(parent, f"{{{G_NAMESPACE}}}{tag}")
+
+def _add_g_element(parent, tag, text=None, attrib=None):
+    """Helper to add an element under the Google namespace"""
+    element = ET.SubElement(parent, f"{{{G_NAMESPACE}}}{tag}", attrib or {})
     if text is not None:
         element.text = text
     return element
@@ -213,7 +320,7 @@ def generate_google_feed(vehicles, dealership, dealer_id):
     """Generate Google VLA feed"""
     root = ET.Element('feed', {
         'xmlns': 'http://www.w3.org/2005/Atom',
-        'xmlns:g': G_NAMESPACE
+        'xmlns:g': 'http://base.google.com/ns/1.0'
     })
 
     ET.SubElement(root, 'title').text = f"{dealership['name']} Inventory Feed"
@@ -223,41 +330,127 @@ def generate_google_feed(vehicles, dealership, dealer_id):
     for vehicle in vehicles:
         vin = (vehicle.get('VIN') or '').strip()
         if not vin:
+            # Skip vehicles without a VIN as they cannot be served in VLAs
             continue
 
+        # Determine vehicle condition first (needed for MSRP validation)
         condition_raw = (vehicle.get('New/Used') or '').upper()
-        condition = 'new' if condition_raw == 'N' else ('certified' if condition_raw == 'C' else 'used')
+        if condition_raw == 'N':
+            condition = 'new'
+        elif condition_raw == 'C':
+            condition = 'certified'
+        else:
+            condition = 'used'
         
+        # Price handling - use PRICE if available, fallback to MSRP
         selling_price = clean_price(vehicle.get('PRICE'))
         msrp_price = clean_price(vehicle.get('MSRP'))
         
+        # Google requires at least one valid price
         if not selling_price and not msrp_price:
-            continue
-        if condition == 'new' and not msrp_price:
+            # Skip vehicles without any valid price - Google requires price for VLAs
             continue
         
+        # For NEW vehicles, MSRP is REQUIRED by Google VLA
+        if condition == 'new' and not msrp_price:
+            # Skip new vehicles without MSRP - Google requires it for new VLAs
+            continue
+        
+        # Use selling price as primary, or MSRP as fallback
         primary_price = selling_price or msrp_price
 
+        stock_number = (vehicle.get('StockNo') or '').strip()
+        product_id = stock_number or vin
+
         entry = ET.SubElement(root, 'entry')
-        ET.SubElement(entry, 'id').text = vehicle.get('StockNo') or vin
-        
-        title = f"{vehicle.get('Year', '')} {vehicle.get('Make', '')} {vehicle.get('Model', '')}".strip()
+        ET.SubElement(entry, 'id').text = product_id
+
+        trim_value = (vehicle.get('Trim') or '').strip()
+        if len(trim_value) > 150:
+            trim_value = trim_value[:150]
+
+        title_parts = [vehicle.get('Year', '').strip(), vehicle.get('Make', '').strip(), vehicle.get('Model', '').strip(), trim_value]
+        title = " ".join(part for part in title_parts if part).strip()
         ET.SubElement(entry, 'title').text = title
 
-        url = vehicle.get('VDPURL') or f"{dealership['website']}/inventory/details/{vin}"
+        url = (vehicle.get('VDPURL') or '').strip() or f"{dealership['website']}/inventory/details/{vin}"
         ET.SubElement(entry, 'link', {'rel': 'alternate', 'href': url})
 
+        # Required VLA fields
+        _add_g_element(entry, 'id', product_id)
         _add_g_element(entry, 'price', f"{primary_price:.2f} USD")
+        
+        # MSRP handling based on condition
+        # For NEW vehicles: MSRP is REQUIRED by Google VLA (use vehicle_msrp field)
+        # For USED/CERTIFIED: MSRP is optional but recommended if available and different
+        if condition == 'new':
+            # New vehicles must have MSRP (already validated above, so msrp_price exists)
+            _add_g_element(entry, 'vehicle_msrp', f"{msrp_price:.2f} USD")
+        elif msrp_price and selling_price and msrp_price != selling_price:
+            # For used/certified, only add if different from selling price
+            _add_g_element(entry, 'vehicle_msrp', f"{msrp_price:.2f} USD")
+        
         _add_g_element(entry, 'vin', vin)
+        _add_g_element(entry, 'google_product_category', '916')
+        _add_g_element(entry, 'brand', vehicle.get('Make', '').strip() or dealership['name'])
+
+        # Store/Dealership information (required for VLA)
+        _add_g_element(entry, 'store_code', dealership['store_code'])
+        _add_g_element(entry, 'dealership_name', dealership['name'])
+        _add_g_element(entry, 'dealership_address', dealership['address'])
+
+        # Vehicle fulfillment - in-store pickup only (no shipping for vehicles)
+        fulfillment = _add_g_element(entry, 'vehicle_fulfillment')
+        _add_g_element(fulfillment, 'option', 'in_store')
+        _add_g_element(fulfillment, 'store_code', dealership['store_code'])
+
+        # Vehicle details
+        if vehicle.get('Year'):
+            _add_g_element(entry, 'year', vehicle['Year'].strip())
+        if vehicle.get('Make'):
+            _add_g_element(entry, 'make', vehicle['Make'].strip())
+        if vehicle.get('Model'):
+            _add_g_element(entry, 'model', vehicle['Model'].strip())
+
         _add_g_element(entry, 'condition', condition)
         _add_g_element(entry, 'availability', 'in stock')
 
-        if msrp_price and (condition == 'new' or (selling_price and msrp_price != selling_price)):
-            _add_g_element(entry, 'vehicle_msrp', f"{msrp_price:.2f} USD")
+        # VDP tracking templates
+        link_template_url = ensure_store_placeholder(url)
+        _add_g_element(entry, 'link_template', link_template_url)
 
+        # Optional fields
+        if trim_value:
+            _add_g_element(entry, 'trim', trim_value)
+
+        # Mileage - must include unit in the value per Google VLA spec
+        miles_value = vehicle.get('Miles')
+        if miles_value:
+            try:
+                mileage = int(float(miles_value))
+                if mileage >= 0:
+                    # Google VLA requires unit in the text: "25000 miles"
+                    _add_g_element(entry, 'mileage', f"{mileage} miles")
+            except Exception:
+                pass
+
+        # Body style - map to Google VLA accepted values
+        if vehicle.get('Body'):
+            mapped_body_style = map_body_style(vehicle['Body'])
+            if mapped_body_style:
+                _add_g_element(entry, 'body_style', mapped_body_style)
+
+        if vehicle.get('ExteriorColor'):
+            _add_g_element(entry, 'color', vehicle['ExteriorColor'].strip())
+
+        # Images - First image is main image_link, rest are additional_image_link
         photos = parse_photos(vehicle.get('PhotoURL', ''))
         if photos:
+            # Main image (required)
             _add_g_element(entry, 'image_link', photos[0])
+            # Additional images (up to 9 more for total of 10)
+            for photo_url in photos[1:10]:
+                _add_g_element(entry, 'additional_image_link', photo_url)
 
     rough_string = ET.tostring(root, encoding='unicode')
     reparsed = minidom.parseString(rough_string)
@@ -270,13 +463,13 @@ def download_from_sftp():
     transport = paramiko.Transport((SFTP_CONFIG['host'], 22))
     transport.connect(username=SFTP_CONFIG['username'], password=SFTP_CONFIG['password'])
     sftp = paramiko.SFTPClient.from_transport(transport)
-    
+
     try:
         sftp.chdir(SFTP_CONFIG['directory'])
         files = [f for f in sftp.listdir() if f.endswith('.csv')]
         if not files:
             raise Exception("No CSV files found")
-        
+
         print(f"Found CSV file: {files[0]}")
         with tempfile.NamedTemporaryFile(mode='w+', delete=False, suffix='.csv') as tmp:
             sftp.get(files[0], tmp.name)
@@ -287,7 +480,7 @@ def download_from_sftp():
 
 
 def process_inventory(csv_file):
-    """Process inventory by dealership"""
+    """Process inventory and split by dealership"""
     dealership_vehicles = {dealer_id: [] for dealer_id in DEALERSHIPS.keys()}
     
     with open(csv_file, 'r', encoding='utf-8-sig') as f:
@@ -302,45 +495,45 @@ def process_inventory(csv_file):
 
 def main():
     print("Starting feed generation...")
-    
+
     # Create feeds directory
     os.makedirs(FEED_DIR, exist_ok=True)
-    
+
     # Download inventory
     csv_file = download_from_sftp()
-    
+
     # Process inventory
     dealership_vehicles = process_inventory(csv_file)
     total_vehicles = sum(len(v) for v in dealership_vehicles.values())
     print(f"Processed {total_vehicles} vehicles across {len(dealership_vehicles)} dealerships")
-    
+
     # Generate feeds
     for dealer_id, vehicles in dealership_vehicles.items():
         if not vehicles:
             continue
-        
+
         dealership = DEALERSHIPS[dealer_id]
         dealer_name_safe = dealership['name'].replace(' ', '_').replace('/', '_')
-        
+
         print(f"Generating feeds for {dealership['name']} ({len(vehicles)} vehicles)...")
-        
+
         # Facebook feed
         fb_feed = generate_facebook_feed(vehicles, dealership)
         fb_path = os.path.join(FEED_DIR, f"{dealer_name_safe}_Facebook_AIA.xml")
         with open(fb_path, 'w', encoding='utf-8') as f:
             f.write(fb_feed)
         print(f"  ✓ {fb_path}")
-        
+
         # Google feed
         google_feed = generate_google_feed(vehicles, dealership, dealer_id)
         google_path = os.path.join(FEED_DIR, f"{dealer_name_safe}_Google_VLA.xml")
         with open(google_path, 'w', encoding='utf-8') as f:
             f.write(google_feed)
         print(f"  ✓ {google_path}")
-    
+
     # Cleanup
     os.unlink(csv_file)
-    
+
     print("\n✓ Feed generation complete!")
     print(f"  Total vehicles: {total_vehicles}")
     print(f"  Feeds location: {FEED_DIR}/")
