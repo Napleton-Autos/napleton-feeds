@@ -43,3 +43,11 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.log
+
+# Claude Code
+.claude/
+
+# IMPORTANT: Do NOT ignore feeds directory!
+# We want to commit the generated XML files to serve via GitHub CDN
+# !feeds/
+# !feeds/*.xml
