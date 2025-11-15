@@ -34,6 +34,7 @@ DEALERSHIPS = {
         'city': 'Beaver Dam',
         'region': 'WI',
         'country': 'US',
+        'postal_code': '53916',
         'store_code': '8769789203665249729'
     },
     '29312': {
@@ -44,6 +45,7 @@ DEALERSHIPS = {
         'city': 'Columbus',
         'region': 'WI',
         'country': 'US',
+        'postal_code': '53925',
         'store_code': '5445979293761982858'
     },
     '148261': {
@@ -54,6 +56,7 @@ DEALERSHIPS = {
         'city': 'Columbus',
         'region': 'WI',
         'country': 'US',
+        'postal_code': '53925',
         'store_code': '1647799517431806713'
     },
     '115908': {
@@ -64,6 +67,7 @@ DEALERSHIPS = {
         'city': 'Beaver Dam',
         'region': 'WI',
         'country': 'US',
+        'postal_code': '53916',
         'store_code': '252221242249419797'
     },
     '50912': {
@@ -74,6 +78,7 @@ DEALERSHIPS = {
         'city': 'Chicago',
         'region': 'IL',
         'country': 'US',
+        'postal_code': '60616',
         'store_code': '7227908043401009324'
     },
     '216163': {
@@ -84,6 +89,7 @@ DEALERSHIPS = {
         'city': 'Chicago',
         'region': 'IL',
         'country': 'US',
+        'postal_code': '60616',
         'store_code': '4088446453747783674'
     },
     '125848': {
@@ -94,6 +100,7 @@ DEALERSHIPS = {
         'city': 'Chicago',
         'region': 'IL',
         'country': 'US',
+        'postal_code': '60616',
         'store_code': '8954334598476874759'
     },
     '215614': {
@@ -104,6 +111,7 @@ DEALERSHIPS = {
         'city': 'Chicago',
         'region': 'IL',
         'country': 'US',
+        'postal_code': '60616',
         'store_code': '3078858109013009292'
     },
     '4802': {
@@ -114,6 +122,7 @@ DEALERSHIPS = {
         'city': 'Saint Charles',
         'region': 'IL',
         'country': 'US',
+        'postal_code': '60174',
         'store_code': '7093661331809096168'
     },
     '30389': {
@@ -124,6 +133,7 @@ DEALERSHIPS = {
         'city': 'Crystal Lake',
         'region': 'IL',
         'country': 'US',
+        'postal_code': '60014',
         'store_code': '30389'
     }
 }
@@ -411,11 +421,13 @@ def generate_facebook_feed(vehicles, dealership):
         description = '. '.join(description_parts) + '.'
         ET.SubElement(listing, 'description').text = description
 
-        # Required: Address components (use individual fields, not combined address)
-        ET.SubElement(listing, 'street_address').text = dealership['street_address']
-        ET.SubElement(listing, 'city').text = dealership['city']
-        ET.SubElement(listing, 'region').text = dealership['region']
-        ET.SubElement(listing, 'country').text = dealership['country']
+        # Required: Address with nested component structure
+        address_elem = ET.SubElement(listing, 'address', {'format': 'simple'})
+        ET.SubElement(address_elem, 'component', {'name': 'addr1'}).text = dealership['street_address']
+        ET.SubElement(address_elem, 'component', {'name': 'city'}).text = dealership['city']
+        ET.SubElement(address_elem, 'component', {'name': 'region'}).text = dealership['region']
+        ET.SubElement(address_elem, 'component', {'name': 'country'}).text = dealership['country']
+        ET.SubElement(address_elem, 'component', {'name': 'postal_code'}).text = dealership['postal_code']
 
         # Vehicle details
         ET.SubElement(listing, 'year').text = vehicle['Year']
