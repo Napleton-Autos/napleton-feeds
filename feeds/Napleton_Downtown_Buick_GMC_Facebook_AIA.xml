@@ -1,13 +1,16 @@
 <?xml version="1.0" ?>
 <listings>
   <listing>
-    <vehicle_id>KL4AMBSPXSB115611</vehicle_id>
+    <vehicle_id>B25118</vehicle_id>
     <title>2025 Buick Encore GX Preferred</title>
     <description>2025 Buick Encore GX. Trim: Preferred. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Buick</make>
     <model>Encore GX</model>
@@ -73,13 +76,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GKENKRS8SJ166792</vehicle_id>
+    <vehicle_id>T25003</vehicle_id>
     <title>2025 GMC Acadia FWD Elevation</title>
     <description>2025 GMC Acadia. Trim: FWD Elevation. Color: Summit White. Body Style: 4 Door.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>GMC</make>
     <model>Acadia</model>
@@ -142,13 +148,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GKALZEG6TL209423</vehicle_id>
+    <vehicle_id>T26008</vehicle_id>
     <title>2026 GMC Terrain AWD Denali</title>
     <description>2026 GMC Terrain. Trim: AWD Denali. Color: Volcanic Red Tintcoat. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Terrain</model>
@@ -211,13 +220,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GT4UXEY3SF363549</vehicle_id>
+    <vehicle_id>T25015</vehicle_id>
     <title>2025 GMC Sierra 2500HD Denali Ultimate</title>
     <description>2025 GMC Sierra 2500HD. Trim: Denali Ultimate. Color: Onyx Black. Body Style: Crew Cab Pickup.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>GMC</make>
     <model>Sierra 2500HD</model>
@@ -280,13 +292,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL4AMBSL4TB045697</vehicle_id>
+    <vehicle_id>B26001</vehicle_id>
     <title>2026 Buick Encore GX Preferred</title>
     <description>2026 Buick Encore GX. Trim: Preferred. Color: Ocean Blue Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Encore GX</model>
@@ -349,13 +364,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5GAEVBKS2TJ167669</vehicle_id>
+    <vehicle_id>B26007</vehicle_id>
     <title>2026 Buick Enclave Sport Touring</title>
     <description>2026 Buick Enclave. Trim: Sport Touring. Color: Ebony Twilight Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Enclave</model>
@@ -418,13 +436,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GKALUEG2TL294294</vehicle_id>
+    <vehicle_id>T26015</vehicle_id>
     <title>2026 GMC Terrain AWD Elevation</title>
     <description>2026 GMC Terrain. Trim: AWD Elevation. Color: Sterling Metallic. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Terrain</model>
@@ -487,13 +508,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GKALUEG3TL310602</vehicle_id>
+    <vehicle_id>T26016</vehicle_id>
     <title>2026 GMC Terrain AWD Elevation</title>
     <description>2026 GMC Terrain. Trim: AWD Elevation. Color: Riverstone Metallic. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Terrain</model>
@@ -555,13 +579,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5GAEVAKS6TJ186946</vehicle_id>
+    <vehicle_id>B26010</vehicle_id>
     <title>2026 Buick Enclave Preferred</title>
     <description>2026 Buick Enclave. Trim: Preferred. Color: Moonstone Gray Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Enclave</model>
@@ -620,13 +647,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GTUUGED8TZ199065</vehicle_id>
+    <vehicle_id>T26014</vehicle_id>
     <title>2026 GMC Sierra 1500 Denali</title>
     <description>2026 GMC Sierra 1500. Trim: Denali. Color: Onyx Black. Body Style: Crew Cab Pickup.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Sierra 1500</model>
@@ -658,13 +688,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL4AMBSL2TB068962</vehicle_id>
+    <vehicle_id>B26012</vehicle_id>
     <title>2026 Buick Encore GX Preferred</title>
     <description>2026 Buick Encore GX. Trim: Preferred. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Encore GX</model>
@@ -727,13 +760,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL4AMBSL2TB068282</vehicle_id>
+    <vehicle_id>B26014</vehicle_id>
     <title>2026 Buick Encore GX Preferred</title>
     <description>2026 Buick Encore GX. Trim: Preferred. Color: Ocean Blue Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Encore GX</model>
@@ -789,13 +825,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL4AMBSL0TB069673</vehicle_id>
+    <vehicle_id>B26011</vehicle_id>
     <title>2026 Buick Encore GX Preferred</title>
     <description>2026 Buick Encore GX. Trim: Preferred. Color: Brilliant Red. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Encore GX</model>
@@ -852,13 +891,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5GAEVAKS5TJ173654</vehicle_id>
+    <vehicle_id>B26009</vehicle_id>
     <title>2026 Buick Enclave Preferred</title>
     <description>2026 Buick Enclave. Trim: Preferred. Color: Ebony Twilight Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Enclave</model>
@@ -921,13 +963,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5GAEVBKS7TJ170020</vehicle_id>
+    <vehicle_id>B26008</vehicle_id>
     <title>2026 Buick Enclave Sport Touring</title>
     <description>2026 Buick Enclave. Trim: Sport Touring. Color: Moonstone Gray Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Enclave</model>
@@ -990,13 +1035,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GTUUCED6TZ162086</vehicle_id>
+    <vehicle_id>T26013</vehicle_id>
     <title>2026 GMC Sierra 1500 Elevation</title>
     <description>2026 GMC Sierra 1500. Trim: Elevation. Color: Onyx Black. Body Style: Crew Cab Pickup.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Sierra 1500</model>
@@ -1059,13 +1107,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5GAEVCKS0TJ164307</vehicle_id>
+    <vehicle_id>B26006</vehicle_id>
     <title>2026 Buick Enclave Avenir</title>
     <description>2026 Buick Enclave. Trim: Avenir. Color: Ebony Twilight Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Enclave</model>
@@ -1128,13 +1179,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5GAEVBKS1TJ160809</vehicle_id>
+    <vehicle_id>B26005</vehicle_id>
     <title>2026 Buick Enclave Sport Touring</title>
     <description>2026 Buick Enclave. Trim: Sport Touring. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Enclave</model>
@@ -1197,13 +1251,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL47LAEPXTB062851</vehicle_id>
+    <vehicle_id>B26004</vehicle_id>
     <title>2026 Buick Envista Preferred</title>
     <description>2026 Buick Envista. Trim: Preferred. Color: Ebony Twilight Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Envista</model>
@@ -1266,13 +1323,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL4AMBSL9TB045386</vehicle_id>
+    <vehicle_id>B26002</vehicle_id>
     <title>2026 Buick Encore GX Preferred</title>
     <description>2026 Buick Encore GX. Trim: Preferred. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Encore GX</model>
@@ -1335,13 +1395,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL4AMBSL1TB047357</vehicle_id>
+    <vehicle_id>B26000</vehicle_id>
     <title>2026 Buick Encore GX Preferred</title>
     <description>2026 Buick Encore GX. Trim: Preferred. Color: Ebony Twilight Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Encore GX</model>
@@ -1404,13 +1467,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GKENNKS8TJ144238</vehicle_id>
+    <vehicle_id>T26011</vehicle_id>
     <title>2026 GMC Acadia AWD Elevation</title>
     <description>2026 GMC Acadia. Trim: AWD Elevation. Color: Sterling Metallic. Body Style: 4 Door.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Acadia</model>
@@ -1473,13 +1539,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GT4UPEY5SF357669</vehicle_id>
+    <vehicle_id>T25013</vehicle_id>
     <title>2025 GMC Sierra 2500HD AT4</title>
     <description>2025 GMC Sierra 2500HD. Trim: AT4. Color: Onyx Black. Body Style: Crew Cab Pickup.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>GMC</make>
     <model>Sierra 2500HD</model>
@@ -1542,13 +1611,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GKALUEGXTL198655</vehicle_id>
+    <vehicle_id>TD25005</vehicle_id>
     <title>2026 GMC Terrain AWD Elevation</title>
     <description>2026 GMC Terrain. Trim: AWD Elevation. Color: Summit White. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Terrain</model>
@@ -1608,13 +1680,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GKT0RDC6SU120732</vehicle_id>
+    <vehicle_id>T25012</vehicle_id>
     <title>2025 GMC HUMMER EV SUV 3X</title>
     <description>2025 GMC HUMMER EV SUV. Trim: 3X. Color: Interstellar White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>GMC</make>
     <model>HUMMER EV SUV</model>
@@ -1677,13 +1752,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GKALZEG0TL204847</vehicle_id>
+    <vehicle_id>T26005</vehicle_id>
     <title>2026 GMC Terrain AWD Denali</title>
     <description>2026 GMC Terrain. Trim: AWD Denali. Color: Summit White. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Terrain</model>
@@ -1746,13 +1824,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GT4UNE76SF346028</vehicle_id>
+    <vehicle_id>T25011</vehicle_id>
     <title>2025 GMC Sierra 2500HD SLT</title>
     <description>2025 GMC Sierra 2500HD. Trim: SLT. Color: Onyx Black. Body Style: Crew Cab Pickup.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>GMC</make>
     <model>Sierra 2500HD</model>
@@ -1815,13 +1896,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL47LAEP9SB228551</vehicle_id>
+    <vehicle_id>B25217</vehicle_id>
     <title>2025 Buick Envista Preferred</title>
     <description>2025 Buick Envista. Trim: Preferred. Color: Ebony Twilight Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Buick</make>
     <model>Envista</model>
@@ -1884,13 +1968,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL47LAEP7SB230055</vehicle_id>
+    <vehicle_id>B25216</vehicle_id>
     <title>2025 Buick Envista Preferred</title>
     <description>2025 Buick Envista. Trim: Preferred. Color: Ocean Blue Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Buick</make>
     <model>Envista</model>
@@ -1953,13 +2040,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GTP2DEK0S1238809</vehicle_id>
+    <vehicle_id>T25009</vehicle_id>
     <title>2025 GMC Canyon 4WD AT4</title>
     <description>2025 GMC Canyon. Trim: 4WD AT4. Color: Onyx Black. Body Style: Crew Cab Pickup.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>GMC</make>
     <model>Canyon</model>
@@ -2022,13 +2112,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL47LAEP7SB225857</vehicle_id>
+    <vehicle_id>B25209</vehicle_id>
     <title>2025 Buick Envista Preferred</title>
     <description>2025 Buick Envista. Trim: Preferred. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Buick</make>
     <model>Envista</model>
@@ -2091,13 +2184,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL47LAEP9SB223690</vehicle_id>
+    <vehicle_id>B25208</vehicle_id>
     <title>2025 Buick Envista Preferred</title>
     <description>2025 Buick Envista. Trim: Preferred. Color: Moonstone Gray Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Buick</make>
     <model>Envista</model>
@@ -2163,13 +2259,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL47LAEP7SB223414</vehicle_id>
+    <vehicle_id>B25197</vehicle_id>
     <title>2025 Buick Envista Preferred</title>
     <description>2025 Buick Envista. Trim: Preferred. Color: Ebony Twilight Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Buick</make>
     <model>Envista</model>
@@ -2232,13 +2331,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL47LAEP4SB218428</vehicle_id>
+    <vehicle_id>B25195</vehicle_id>
     <title>2025 Buick Envista Preferred</title>
     <description>2025 Buick Envista. Trim: Preferred. Color: Ocean Blue Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Buick</make>
     <model>Envista</model>
@@ -2301,13 +2403,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL47LAEP9SB218683</vehicle_id>
+    <vehicle_id>B25192</vehicle_id>
     <title>2025 Buick Envista Preferred</title>
     <description>2025 Buick Envista. Trim: Preferred. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Buick</make>
     <model>Envista</model>
@@ -2370,13 +2475,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GKENNRS6SJ272255</vehicle_id>
+    <vehicle_id>T25008</vehicle_id>
     <title>2025 GMC Acadia AWD Elevation</title>
     <description>2025 GMC Acadia. Trim: AWD Elevation. Color: Ebony Twilight Metallic. Body Style: 4 Door.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>GMC</make>
     <model>Acadia</model>
@@ -2436,13 +2544,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL47LAEP4SB225511</vehicle_id>
+    <vehicle_id>B25174</vehicle_id>
     <title>2025 Buick Envista Preferred</title>
     <description>2025 Buick Envista. Trim: Preferred. Color: Ocean Blue Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Buick</make>
     <model>Envista</model>
@@ -2505,13 +2616,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GT10MED0SU412714</vehicle_id>
+    <vehicle_id>T25007</vehicle_id>
     <title>2025 GMC Sierra EV Extended Range Denali</title>
     <description>2025 GMC Sierra EV. Trim: Extended Range Denali. Color: Onyx Black. Body Style: Crew Cab Pickup.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>GMC</make>
     <model>Sierra EV</model>
@@ -2574,13 +2688,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL47LAEP6SB191801</vehicle_id>
+    <vehicle_id>BD25134</vehicle_id>
     <title>2025 Buick Envista Preferred</title>
     <description>2025 Buick Envista. Trim: Preferred. Color: Ocean Blue Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Buick</make>
     <model>Envista</model>
@@ -2643,13 +2760,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GT10DDB7SU101085</vehicle_id>
+    <vehicle_id>T25000</vehicle_id>
     <title>2025 GMC HUMMER EV Pickup 3X</title>
     <description>2025 GMC HUMMER EV Pickup. Trim: 3X. Color: Meteorite Metallic (Grey). Body Style: Crew Cab Pickup.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>GMC</make>
     <model>HUMMER EV Pickup</model>
@@ -2712,13 +2832,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GKB0RDC7RU102181</vehicle_id>
+    <vehicle_id>T24038</vehicle_id>
     <title>2024 GMC HUMMER EV SUV 3X</title>
     <description>2024 GMC HUMMER EV SUV. Trim: 3X. Color: Moonshot Green Matte. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2024</year>
     <make>GMC</make>
     <model>HUMMER EV SUV</model>
@@ -2781,13 +2904,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL47LAEP7TB077517</vehicle_id>
+    <vehicle_id>B26018</vehicle_id>
     <title>2026 BUICK ENVISTA FWD 4DR PREFERRED</title>
     <description>2026 BUICK ENVISTA. Trim: FWD 4DR PREFERRED. Color: Summit White.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>BUICK</make>
     <model>ENVISTA</model>
@@ -2844,13 +2970,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL47LAEP0TB079237</vehicle_id>
+    <vehicle_id>B26017</vehicle_id>
     <title>2026 BUICK ENVISTA FWD 4DR PREFERRED</title>
     <description>2026 BUICK ENVISTA. Trim: FWD 4DR PREFERRED. Color: Moonstone Gray Metallic.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>BUICK</make>
     <model>ENVISTA</model>
@@ -2907,13 +3036,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GKALUEG7TL319044</vehicle_id>
+    <vehicle_id>T26023</vehicle_id>
     <title>2026 GMC Terrain AWD Elevation</title>
     <description>2026 GMC Terrain. Trim: AWD Elevation. Color: Ebony Twilight Metallic. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Terrain</model>
@@ -2975,13 +3107,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GKALUEG6TL320914</vehicle_id>
+    <vehicle_id>T26022</vehicle_id>
     <title>2026 GMC Terrain AWD Elevation</title>
     <description>2026 GMC Terrain. Trim: AWD Elevation. Color: Sterling Metallic. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Terrain</model>
@@ -3041,13 +3176,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GTUUCED9TZ218392</vehicle_id>
+    <vehicle_id>T26021</vehicle_id>
     <title>2026 GMC Sierra 1500 Elevation</title>
     <description>2026 GMC Sierra 1500. Trim: Elevation. Color: Onyx Black. Body Style: Crew Cab Pickup.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Sierra 1500</model>
@@ -3110,13 +3248,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GKENNKS7TJ201688</vehicle_id>
+    <vehicle_id>T26018</vehicle_id>
     <title>2026 GMC Acadia AWD Elevation</title>
     <description>2026 GMC Acadia. Trim: AWD Elevation. Color: Ebony Twilight Metallic. Body Style: 4 Door.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Acadia</model>
@@ -3178,13 +3319,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GKENNKS4TJ203947</vehicle_id>
+    <vehicle_id>T26020</vehicle_id>
     <title>2026 GMC Acadia AWD Elevation</title>
     <description>2026 GMC Acadia. Trim: AWD Elevation. Color: Summit White. Body Style: 4 Door.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Acadia</model>
@@ -3243,13 +3387,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GKENNKSXTJ202933</vehicle_id>
+    <vehicle_id>T26019</vehicle_id>
     <title>2026 GMC Acadia AWD Elevation</title>
     <description>2026 GMC Acadia. Trim: AWD Elevation. Color: Volcanic Red Tintcoat. Body Style: 4 Door.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Acadia</model>
@@ -3309,13 +3456,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GKALUEG2TL321610</vehicle_id>
+    <vehicle_id>T26017</vehicle_id>
     <title>2026 GMC Terrain AWD Elevation</title>
     <description>2026 GMC Terrain. Trim: AWD Elevation. Color: Volcanic Red Tintcoat. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Terrain</model>
@@ -3378,13 +3528,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL4AMBSL6TB070178</vehicle_id>
+    <vehicle_id>B26016</vehicle_id>
     <title>2026 Buick Encore GX Preferred</title>
     <description>2026 Buick Encore GX. Trim: Preferred. Color: Ebony Twilight Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Encore GX</model>
@@ -3447,13 +3600,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5GAEVAKS3TJ179811</vehicle_id>
+    <vehicle_id>B26015</vehicle_id>
     <title>2026 Buick Enclave Preferred</title>
     <description>2026 Buick Enclave. Trim: Preferred. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Enclave</model>

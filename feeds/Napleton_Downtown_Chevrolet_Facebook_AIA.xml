@@ -1,13 +1,16 @@
 <?xml version="1.0" ?>
 <listings>
   <listing>
-    <vehicle_id>1GCRDBEKXRZ243552</vehicle_id>
+    <vehicle_id>C24244</vehicle_id>
     <title>2024 Chevrolet Silverado 1500 Custom</title>
     <description>2024 Chevrolet Silverado 1500. Trim: Custom. Color: Sterling Gray Metallic. Body Style: Double Cab Pickup.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2024</year>
     <make>Chevrolet</make>
     <model>Silverado 1500</model>
@@ -88,13 +91,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GCRDBEK8RZ347859</vehicle_id>
+    <vehicle_id>C24409</vehicle_id>
     <title>2024 Chevrolet Silverado 1500 Custom</title>
     <description>2024 Chevrolet Silverado 1500. Trim: Custom. Color: Slate Gray Metallic. Body Style: Double Cab Pickup.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2024</year>
     <make>Chevrolet</make>
     <model>Silverado 1500</model>
@@ -157,13 +163,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GC3KLE7XSF112206</vehicle_id>
+    <vehicle_id>C25078</vehicle_id>
     <title>2025 Chevrolet Silverado 2500HD Work Truck</title>
     <description>2025 Chevrolet Silverado 2500HD. Trim: Work Truck. Color: Summit White. Body Style: Regular Cab Pickup.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Chevrolet</make>
     <model>Silverado 2500HD</model>
@@ -226,13 +235,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL77LHEP8SC082097</vehicle_id>
+    <vehicle_id>C25116</vehicle_id>
     <title>2025 Chevrolet Trax LT</title>
     <description>2025 Chevrolet Trax. Trim: LT. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Chevrolet</make>
     <model>Trax</model>
@@ -295,13 +307,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL77LJEPXSC154196</vehicle_id>
+    <vehicle_id>C25189</vehicle_id>
     <title>2025 Chevrolet Trax 2RS</title>
     <description>2025 Chevrolet Trax. Trim: 2RS. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Chevrolet</make>
     <model>Trax</model>
@@ -382,13 +397,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMHLM4DG6SU910534</vehicle_id>
+    <vehicle_id>HL25023</vehicle_id>
     <title>2025 Hyundai Elantra SEL Sport</title>
     <description>2025 Hyundai Elantra. Trim: SEL Sport. Color: Abyss Black. Body Style: Sedan.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Hyundai</make>
     <model>Elantra</model>
@@ -469,13 +487,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GCNKAED0SG137665</vehicle_id>
+    <vehicle_id>C25129</vehicle_id>
     <title>2025 Chevrolet Silverado 1500 Work Truck</title>
     <description>2025 Chevrolet Silverado 1500. Trim: Work Truck. Color: Summit White. Body Style: Regular Cab Pickup.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Chevrolet</make>
     <model>Silverado 1500</model>
@@ -538,13 +559,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GCNKAED2SG218022</vehicle_id>
+    <vehicle_id>C25192</vehicle_id>
     <title>2025 Chevrolet Silverado 1500 Work Truck</title>
     <description>2025 Chevrolet Silverado 1500. Trim: Work Truck. Color: Black. Body Style: Regular Cab Pickup.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Chevrolet</make>
     <model>Silverado 1500</model>
@@ -607,13 +631,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GNKDGRJ2SS172986</vehicle_id>
+    <vehicle_id>C25221</vehicle_id>
     <title>2025 Chevrolet Blazer EV AWD LT</title>
     <description>2025 Chevrolet Blazer EV. Trim: AWD LT. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Chevrolet</make>
     <model>Blazer EV</model>
@@ -676,13 +703,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GNKDGRJ5SS173145</vehicle_id>
+    <vehicle_id>C25222</vehicle_id>
     <title>2025 Chevrolet Blazer EV AWD LT</title>
     <description>2025 Chevrolet Blazer EV. Trim: AWD LT. Color: Black. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Chevrolet</make>
     <model>Blazer EV</model>
@@ -745,13 +775,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL4AMCSL6SB146888</vehicle_id>
+    <vehicle_id>B25140</vehicle_id>
     <title>2025 Buick Encore GX Preferred</title>
     <description>2025 Buick Encore GX. Trim: Preferred. Color: Cinnabar Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Buick</make>
     <model>Encore GX</model>
@@ -814,13 +847,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL79MMSL7SB166448</vehicle_id>
+    <vehicle_id>C25264</vehicle_id>
     <title>2025 Chevrolet Trailblazer LS</title>
     <description>2025 Chevrolet Trailblazer. Trim: LS. Color: Marina Blue Metallic. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Chevrolet</make>
     <model>Trailblazer</model>
@@ -883,13 +919,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GNKBHR44SS193764</vehicle_id>
+    <vehicle_id>C25263</vehicle_id>
     <title>2025 Chevrolet Blazer LT</title>
     <description>2025 Chevrolet Blazer. Trim: LT. Color: Black. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Chevrolet</make>
     <model>Blazer</model>
@@ -952,13 +991,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL79MPSL8SB191084</vehicle_id>
+    <vehicle_id>C25291</vehicle_id>
     <title>2025 Chevrolet Trailblazer LT</title>
     <description>2025 Chevrolet Trailblazer. Trim: LT. Color: CACTI GREEN. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Chevrolet</make>
     <model>Trailblazer</model>
@@ -1017,13 +1059,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GCPTCEK9S1185230</vehicle_id>
+    <vehicle_id>C25312</vehicle_id>
     <title>2025 Chevrolet Colorado 4WD LT</title>
     <description>2025 Chevrolet Colorado. Trim: 4WD LT. Color: Radiant Red Tintcoat. Body Style: Crew Cab Pickup.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Chevrolet</make>
     <model>Colorado</model>
@@ -1086,13 +1131,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GCPTEEK8S1200490</vehicle_id>
+    <vehicle_id>C25315</vehicle_id>
     <title>2025 Chevrolet Colorado 4WD Trail Boss</title>
     <description>2025 Chevrolet Colorado. Trim: 4WD Trail Boss. Color: SUMMIT WHITE. Body Style: Crew Cab Pickup.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Chevrolet</make>
     <model>Colorado</model>
@@ -1154,13 +1202,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL79MPSL8TB002581</vehicle_id>
+    <vehicle_id>C26005</vehicle_id>
     <title>2026 Chevrolet Trailblazer LT</title>
     <description>2026 Chevrolet Trailblazer. Trim: LT. Color: Summit White. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Trailblazer</model>
@@ -1223,13 +1274,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GC402EL5SU414015</vehicle_id>
+    <vehicle_id>C25321</vehicle_id>
     <title>2025 Chevrolet Silverado EV RST</title>
     <description>2025 Chevrolet Silverado EV. Trim: RST. Color: Black. Body Style: Crew Cab Pickup.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Chevrolet</make>
     <model>Silverado EV</model>
@@ -1289,13 +1343,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GCUKEE80SZ326094</vehicle_id>
+    <vehicle_id>C25336</vehicle_id>
     <title>2025 Chevrolet Silverado 1500 RST</title>
     <description>2025 Chevrolet Silverado 1500. Trim: RST. Color: Summit White. Body Style: Crew Cab Pickup.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Chevrolet</make>
     <model>Silverado 1500</model>
@@ -1358,13 +1415,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GCPKBEK7SG376286</vehicle_id>
+    <vehicle_id>C25334</vehicle_id>
     <title>2025 Chevrolet Silverado 1500 Custom</title>
     <description>2025 Chevrolet Silverado 1500. Trim: Custom. Color: Summit White. Body Style: Crew Cab Pickup.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Chevrolet</make>
     <model>Silverado 1500</model>
@@ -1427,13 +1487,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KM8K62AB0NU825549</vehicle_id>
+    <vehicle_id>P0691</vehicle_id>
     <title>2022 Hyundai Kona SEL</title>
     <description>2022 Hyundai Kona. Trim: SEL. Color: Ultra Black. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2022</year>
     <make>Hyundai</make>
     <model>Kona</model>
@@ -1514,13 +1577,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GNAXHEG7TL186252</vehicle_id>
+    <vehicle_id>C26012</vehicle_id>
     <title>2026 Chevrolet Equinox FWD LT</title>
     <description>2026 Chevrolet Equinox. Trim: FWD LT. Color: Radiant Red Tintcoat. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Equinox</model>
@@ -1580,13 +1646,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GNAXHEG8TL187538</vehicle_id>
+    <vehicle_id>C26016</vehicle_id>
     <title>2026 Chevrolet Equinox FWD LT</title>
     <description>2026 Chevrolet Equinox. Trim: FWD LT. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Equinox</model>
@@ -1649,13 +1718,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL79MMSL9TB020313</vehicle_id>
+    <vehicle_id>C26010</vehicle_id>
     <title>2026 Chevrolet Trailblazer LS</title>
     <description>2026 Chevrolet Trailblazer. Trim: LS. Color: Marina Blue Metallic. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Trailblazer</model>
@@ -1718,13 +1790,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL77LGEP5SC319591</vehicle_id>
+    <vehicle_id>C25357</vehicle_id>
     <title>2025 Chevrolet Trax 1RS</title>
     <description>2025 Chevrolet Trax. Trim: 1RS. Color: Marina Blue Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Chevrolet</make>
     <model>Trax</model>
@@ -1787,13 +1862,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL77LHEP1SC333509</vehicle_id>
+    <vehicle_id>C25366</vehicle_id>
     <title>2025 Chevrolet Trax LT</title>
     <description>2025 Chevrolet Trax. Trim: LT. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Chevrolet</make>
     <model>Trax</model>
@@ -1856,13 +1934,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL77LKEP3SC332522</vehicle_id>
+    <vehicle_id>C25375</vehicle_id>
     <title>2025 Chevrolet Trax ACTIV</title>
     <description>2025 Chevrolet Trax. Trim: ACTIV. Color: Cacti Green. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Chevrolet</make>
     <model>Trax</model>
@@ -1925,13 +2006,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>7MMVABDY2RN162226</vehicle_id>
+    <vehicle_id>H25165A</vehicle_id>
     <title>2024 Mazda CX-50 2.5 Turbo Premium Package</title>
     <description>2024 Mazda CX-50. Trim: 2.5 Turbo Premium Package. Color: Polymetal Gray Metallic. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2024</year>
     <make>Mazda</make>
     <model>CX-50</model>
@@ -2012,13 +2096,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5NMS3CAD3LH188844</vehicle_id>
+    <vehicle_id>T26007A</vehicle_id>
     <title>2020 Hyundai Santa Fe SEL</title>
     <description>2020 Hyundai Santa Fe. Trim: SEL. Color: Shimmering Silver Pearl. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2020</year>
     <make>Hyundai</make>
     <model>Santa Fe</model>
@@ -2099,13 +2186,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GNERGKS5TJ136746</vehicle_id>
+    <vehicle_id>C26022</vehicle_id>
     <title>2026 Chevrolet Traverse FWD LT</title>
     <description>2026 Chevrolet Traverse. Trim: FWD LT. Color: SUMMIT WHITE. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Traverse</model>
@@ -2167,13 +2257,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GNSKEKD4NR358924</vehicle_id>
+    <vehicle_id>C25325A</vehicle_id>
     <title>2022 Chevrolet Suburban RST</title>
     <description>2022 Chevrolet Suburban. Trim: RST. Color: Black. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2022</year>
     <make>Chevrolet</make>
     <model>Suburban</model>
@@ -2254,13 +2347,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GNERGKS9TJ141173</vehicle_id>
+    <vehicle_id>C26024</vehicle_id>
     <title>2026 Chevrolet Traverse FWD LT</title>
     <description>2026 Chevrolet Traverse. Trim: FWD LT. Color: Mosaic Black Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Traverse</model>
@@ -2323,13 +2419,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1G1YA2D43T5100361</vehicle_id>
+    <vehicle_id>C26023</vehicle_id>
     <title>2026 Chevrolet Corvette 1LT</title>
     <description>2026 Chevrolet Corvette. Trim: 1LT. Color: Black. Body Style: Coupe.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Corvette</model>
@@ -2392,13 +2491,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GNAXHEGXTL253832</vehicle_id>
+    <vehicle_id>C26030</vehicle_id>
     <title>2026 Chevrolet Equinox FWD LT</title>
     <description>2026 Chevrolet Equinox. Trim: FWD LT. Color: SUMMIT WHITE. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Equinox</model>
@@ -2460,13 +2562,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GNAXHEG8TL253344</vehicle_id>
+    <vehicle_id>C26029</vehicle_id>
     <title>2026 Chevrolet Equinox FWD LT</title>
     <description>2026 Chevrolet Equinox. Trim: FWD LT. Color: RADIANT RED TINTCOAT. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Equinox</model>
@@ -2528,13 +2633,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KM8R7DHE7NU385286</vehicle_id>
+    <vehicle_id>H26026A</vehicle_id>
     <title>2022 Hyundai Palisade Calligraphy</title>
     <description>2022 Hyundai Palisade. Trim: Calligraphy. Color: Hyper White. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2022</year>
     <make>Hyundai</make>
     <model>Palisade</model>
@@ -2615,13 +2723,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5XYK33AF7PG067185</vehicle_id>
+    <vehicle_id>B25154A</vehicle_id>
     <title>2023 Kia Sportage EX</title>
     <description>2023 Kia Sportage. Trim: EX. Color: Glacial White Pearl. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2023</year>
     <make>Kia</make>
     <model>Sportage</model>
@@ -2702,13 +2813,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL77LFEP8TC010211</vehicle_id>
+    <vehicle_id>C26032</vehicle_id>
     <title>2026 Chevrolet Trax LS</title>
     <description>2026 Chevrolet Trax. Trim: LS. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Trax</model>
@@ -2771,13 +2885,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL77LGEP1TC010380</vehicle_id>
+    <vehicle_id>C26031</vehicle_id>
     <title>2026 Chevrolet Trax 1RS</title>
     <description>2026 Chevrolet Trax. Trim: 1RS. Color: Mosaic Black Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Trax</model>
@@ -2840,13 +2957,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL79MPSL0TB062340</vehicle_id>
+    <vehicle_id>C26035</vehicle_id>
     <title>2026 Chevrolet Trailblazer LT</title>
     <description>2026 Chevrolet Trailblazer. Trim: LT. Color: Cacti Green. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Trailblazer</model>
@@ -2909,13 +3029,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL79MPSL7TB062139</vehicle_id>
+    <vehicle_id>C26034</vehicle_id>
     <title>2026 Chevrolet Trailblazer LT</title>
     <description>2026 Chevrolet Trailblazer. Trim: LT. Color: Apex Red. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Trailblazer</model>
@@ -2978,13 +3101,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GNAXHEG5TL254788</vehicle_id>
+    <vehicle_id>C26037</vehicle_id>
     <title>2026 Chevrolet Equinox FWD LT</title>
     <description>2026 Chevrolet Equinox. Trim: FWD LT. Color: Lakeshore Blue Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Equinox</model>
@@ -3044,13 +3170,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GNKBHR45NS218840</vehicle_id>
+    <vehicle_id>P0719</vehicle_id>
     <title>2022 Chevrolet Blazer LT</title>
     <description>2022 Chevrolet Blazer. Trim: LT. Color: Iron Gray Metallic. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2022</year>
     <make>Chevrolet</make>
     <model>Blazer</model>
@@ -3131,13 +3260,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>JTME6RFV4ND533657</vehicle_id>
+    <vehicle_id>G26036B</vehicle_id>
     <title>2022 Toyota RAV4 Hybrid XSE</title>
     <description>2022 Toyota RAV4 Hybrid. Trim: XSE. Color: Calvary Blue w/Midnight Black Metallic Roof. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2022</year>
     <make>Toyota</make>
     <model>RAV4 Hybrid</model>
@@ -3218,13 +3350,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GN7DNRP0TS106792</vehicle_id>
+    <vehicle_id>C26039</vehicle_id>
     <title>2026 Chevrolet Equinox EV LT2 w/PDE</title>
     <description>2026 Chevrolet Equinox EV. Trim: LT2 w/PDE. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Equinox EV</model>
@@ -3287,13 +3422,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GN7DNRP8TS106796</vehicle_id>
+    <vehicle_id>C26041</vehicle_id>
     <title>2026 Chevrolet Equinox EV LT2 w/PDE</title>
     <description>2026 Chevrolet Equinox EV. Trim: LT2 w/PDE. Color: Black. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Equinox EV</model>
@@ -3353,13 +3491,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GNS6PKD9TR129247</vehicle_id>
+    <vehicle_id>C26043</vehicle_id>
     <title>2026 Chevrolet Tahoe Z71</title>
     <description>2026 Chevrolet Tahoe. Trim: Z71. Color: Black. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Tahoe</model>
@@ -3422,13 +3563,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL77LGEP3TC012552</vehicle_id>
+    <vehicle_id>C26045</vehicle_id>
     <title>2026 Chevrolet Trax 1RS</title>
     <description>2026 Chevrolet Trax. Trim: 1RS. Color: Apex Red. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Trax</model>
@@ -3491,13 +3635,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL4MMBS22PB014944</vehicle_id>
+    <vehicle_id>B26003A</vehicle_id>
     <title>2023 Buick Encore GX Preferred</title>
     <description>2023 Buick Encore GX. Trim: Preferred. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2023</year>
     <make>Buick</make>
     <model>Encore GX</model>
@@ -3578,13 +3725,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>WAU6CLFF4F1104442</vehicle_id>
+    <vehicle_id>P0721B</vehicle_id>
     <title>2015 Audi A3 1.8T Premium</title>
     <description>2015 Audi A3. Trim: 1.8T Premium. Color: Glacier White Metallic/Black Roof. Body Style: Cabriolet.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2015</year>
     <make>Audi</make>
     <model>A3</model>
@@ -3665,13 +3815,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL77LFEP4TC024994</vehicle_id>
+    <vehicle_id>C26047</vehicle_id>
     <title>2026 Chevrolet Trax LS</title>
     <description>2026 Chevrolet Trax. Trim: LS. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Trax</model>
@@ -3734,13 +3887,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL77LGEP7TC024509</vehicle_id>
+    <vehicle_id>C26051</vehicle_id>
     <title>2026 Chevrolet Trax 1RS</title>
     <description>2026 Chevrolet Trax. Trim: 1RS. Color: Mosaic Black Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Trax</model>
@@ -3803,13 +3959,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL77LHEP4TC024683</vehicle_id>
+    <vehicle_id>C26048</vehicle_id>
     <title>2026 Chevrolet Trax LT</title>
     <description>2026 Chevrolet Trax. Trim: LT. Color: Marina Blue Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Trax</model>
@@ -3872,13 +4031,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL77LHEP8TC024816</vehicle_id>
+    <vehicle_id>C26049</vehicle_id>
     <title>2026 Chevrolet Trax LT</title>
     <description>2026 Chevrolet Trax. Trim: LT. Color: Sterling Gray Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Trax</model>
@@ -3941,13 +4103,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL77LJEP1TC024695</vehicle_id>
+    <vehicle_id>C26052</vehicle_id>
     <title>2026 Chevrolet Trax 2RS</title>
     <description>2026 Chevrolet Trax. Trim: 2RS. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Trax</model>
@@ -4010,13 +4175,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>2C4RC1S77RR156909</vehicle_id>
+    <vehicle_id>P0730</vehicle_id>
     <title>2024 Chrysler Pacifica Hybrid Select</title>
     <description>2024 Chrysler Pacifica. Trim: Hybrid Select. Color: Bright White Clearcoat. Body Style: Passenger Van.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2024</year>
     <make>Chrysler</make>
     <model>Pacifica</model>
@@ -4097,13 +4265,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GNAXPEG6TL277250</vehicle_id>
+    <vehicle_id>C26046</vehicle_id>
     <title>2026 Chevrolet Equinox AWD LT</title>
     <description>2026 Chevrolet Equinox. Trim: AWD LT. Color: Mosaic Black Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Equinox</model>
@@ -4166,13 +4337,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>JF2SKALC1RH493735</vehicle_id>
+    <vehicle_id>P0731</vehicle_id>
     <title>2024 Subaru Forester Limited</title>
     <description>2024 Subaru Forester. Trim: Limited. Color: Cascade Green Silica. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2024</year>
     <make>Subaru</make>
     <model>Forester</model>
@@ -4253,13 +4427,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>YV4L12WY2R2137250</vehicle_id>
+    <vehicle_id>P0732</vehicle_id>
     <title>2024 Volvo V60 Cross Country Plus</title>
     <description>2024 Volvo V60 Cross Country. Trim: Plus. Color: Crystal White Metallic. Body Style: Wagon.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2024</year>
     <make>Volvo</make>
     <model>V60 Cross Country</model>
@@ -4339,13 +4516,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GKALUEG3SL293007</vehicle_id>
+    <vehicle_id>C25314A</vehicle_id>
     <title>2025 GMC Terrain AWD Elevation</title>
     <description>2025 GMC Terrain. Trim: AWD Elevation. Color: Ebony Twilight Metallic. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>GMC</make>
     <model>Terrain</model>
@@ -4426,13 +4606,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>WBX73EF01R5Z81209</vehicle_id>
+    <vehicle_id>P0734</vehicle_id>
     <title>2024 BMW X1 xDrive28i</title>
     <description>2024 BMW X1. Trim: xDrive28i. Color: BLACK. Body Style: Sports Activity Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2024</year>
     <make>BMW</make>
     <model>X1</model>
@@ -4512,13 +4695,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GNEVGKS5RJ194425</vehicle_id>
+    <vehicle_id>P0733</vehicle_id>
     <title>2024 Chevrolet Traverse AWD LT</title>
     <description>2024 Chevrolet Traverse. Trim: AWD LT. Color: Summit White. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2024</year>
     <make>Chevrolet</make>
     <model>Traverse</model>
@@ -4599,13 +4785,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>WA1DECF38R1108826</vehicle_id>
+    <vehicle_id>P0736</vehicle_id>
     <title>2024 Audi Q3 S line Premium</title>
     <description>2024 Audi Q3. Trim: S line Premium. Body Style: quattro Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2024</year>
     <make>Audi</make>
     <model>Q3</model>
@@ -4684,13 +4873,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL77LFEP6TC025175</vehicle_id>
+    <vehicle_id>C26060</vehicle_id>
     <title>2026 Chevrolet Trax LS</title>
     <description>2026 Chevrolet Trax. Trim: LS. Color: Marina Blue Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Trax</model>
@@ -4753,13 +4945,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL77LFEP7TC025153</vehicle_id>
+    <vehicle_id>C26061</vehicle_id>
     <title>2026 Chevrolet Trax LS</title>
     <description>2026 Chevrolet Trax. Trim: LS. Color: Mosaic Black Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Trax</model>
@@ -4816,13 +5011,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KM8K6CABXPU008792</vehicle_id>
+    <vehicle_id>P0737</vehicle_id>
     <title>2023 Hyundai Kona SEL</title>
     <description>2023 Hyundai Kona. Trim: SEL. Color: Lunar White. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2023</year>
     <make>Hyundai</make>
     <model>Kona</model>
@@ -4903,13 +5101,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1C4RJKAG4R8560534</vehicle_id>
+    <vehicle_id>P0740</vehicle_id>
     <title>2024 Jeep Grand Cherokee L Altitude</title>
     <description>2024 Jeep Grand Cherokee L. Trim: Altitude. Color: Diamond Black Crystal Pearlcoat. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2024</year>
     <make>Jeep</make>
     <model>Grand Cherokee L</model>
@@ -4990,13 +5191,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1C4RJKAG8R8517640</vehicle_id>
+    <vehicle_id>P0739</vehicle_id>
     <title>2024 Jeep Grand Cherokee L Altitude</title>
     <description>2024 Jeep Grand Cherokee L. Trim: Altitude. Color: Diamond Black Crystal Pearlcoat. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2024</year>
     <make>Jeep</make>
     <model>Grand Cherokee L</model>
@@ -5077,13 +5281,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL77LFEP0TC025236</vehicle_id>
+    <vehicle_id>C26069</vehicle_id>
     <title>2026 Chevrolet Trax LS</title>
     <description>2026 Chevrolet Trax. Trim: LS. Color: Sterling Gray Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Trax</model>
@@ -5146,13 +5353,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL77LGEP2TC024935</vehicle_id>
+    <vehicle_id>C26068</vehicle_id>
     <title>2026 Chevrolet Trax 1RS</title>
     <description>2026 Chevrolet Trax. Trim: 1RS. Color: Apex Red. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Trax</model>
@@ -5209,13 +5419,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL77LGEP9TC025094</vehicle_id>
+    <vehicle_id>C26067</vehicle_id>
     <title>2026 Chevrolet Trax 1RS</title>
     <description>2026 Chevrolet Trax. Trim: 1RS. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Trax</model>
@@ -5278,13 +5491,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL77LHEP3TC025050</vehicle_id>
+    <vehicle_id>C26065</vehicle_id>
     <title>2026 Chevrolet Trax LT</title>
     <description>2026 Chevrolet Trax. Trim: LT. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Trax</model>
@@ -5347,13 +5563,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL77LHEP7TC024953</vehicle_id>
+    <vehicle_id>C26072</vehicle_id>
     <title>2026 Chevrolet Trax LT</title>
     <description>2026 Chevrolet Trax. Trim: LT. Color: Cypress Gray. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Trax</model>
@@ -5416,13 +5635,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL77LHEP9TC024906</vehicle_id>
+    <vehicle_id>C26071</vehicle_id>
     <title>2026 Chevrolet Trax LT</title>
     <description>2026 Chevrolet Trax. Trim: LT. Color: Apex Red. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Trax</model>
@@ -5485,13 +5707,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL77LHEP9TC024999</vehicle_id>
+    <vehicle_id>C26070</vehicle_id>
     <title>2026 Chevrolet Trax LT</title>
     <description>2026 Chevrolet Trax. Trim: LT. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Trax</model>
@@ -5548,13 +5773,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GNS6CKD5TR152937</vehicle_id>
+    <vehicle_id>C26064</vehicle_id>
     <title>2026 Chevrolet Suburban LT</title>
     <description>2026 Chevrolet Suburban. Trim: LT. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Suburban</model>
@@ -5616,13 +5844,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>2GNAXLEX9L6155091</vehicle_id>
+    <vehicle_id>CD25345A</vehicle_id>
     <title>2020 Chevrolet Equinox LT</title>
     <description>2020 Chevrolet Equinox. Trim: LT. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2020</year>
     <make>Chevrolet</make>
     <model>Equinox</model>
@@ -5703,13 +5934,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GN7DMRR7TS121592</vehicle_id>
+    <vehicle_id>C26063</vehicle_id>
     <title>2026 Chevrolet Equinox EV LT1 w/PCY</title>
     <description>2026 Chevrolet Equinox EV. Trim: LT1 w/PCY. Color: Black. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Equinox EV</model>
@@ -5771,13 +6005,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GNAXHEG7RL116212</vehicle_id>
+    <vehicle_id>P0742</vehicle_id>
     <title>2024 Chevrolet Equinox LS</title>
     <description>2024 Chevrolet Equinox. Trim: LS. Color: Sterling Gray Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2024</year>
     <make>Chevrolet</make>
     <model>Equinox</model>
@@ -5858,13 +6095,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3C4NJDBB4NT157338</vehicle_id>
+    <vehicle_id>P0747</vehicle_id>
     <title>2022 Jeep Compass Latitude</title>
     <description>2022 Jeep Compass. Trim: Latitude. Color: Bright White Clearcoat. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2022</year>
     <make>Jeep</make>
     <model>Compass</model>
@@ -5945,13 +6185,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GNAXKEG6PL138423</vehicle_id>
+    <vehicle_id>P0745</vehicle_id>
     <title>2023 Chevrolet Equinox LT</title>
     <description>2023 Chevrolet Equinox. Trim: LT. Color: Radiant Red Tintcoat. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2023</year>
     <make>Chevrolet</make>
     <model>Equinox</model>
@@ -6032,13 +6275,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GNAXKEG9PL124242</vehicle_id>
+    <vehicle_id>P0744</vehicle_id>
     <title>2023 Chevrolet Equinox LT</title>
     <description>2023 Chevrolet Equinox. Trim: LT. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2023</year>
     <make>Chevrolet</make>
     <model>Equinox</model>
@@ -6119,13 +6365,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5NMJACAE1PH186316</vehicle_id>
+    <vehicle_id>P0746</vehicle_id>
     <title>2023 Hyundai Tucson SE</title>
     <description>2023 Hyundai Tucson. Trim: SE. Color: Serenity White Pearl. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2023</year>
     <make>Hyundai</make>
     <model>Tucson</model>
@@ -6206,13 +6455,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5XYP6DGCXPG337932</vehicle_id>
+    <vehicle_id>P0743</vehicle_id>
     <title>2023 Kia Telluride S</title>
     <description>2023 Kia Telluride. Trim: S. Color: Glacial White Pearl. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2023</year>
     <make>Kia</make>
     <model>Telluride</model>
@@ -6293,13 +6545,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMHL54JJ4RA093895</vehicle_id>
+    <vehicle_id>PB0001</vehicle_id>
     <title>2024 Hyundai Sonata Hybrid Limited</title>
     <description>2024 Hyundai Sonata Hybrid. Trim: Limited. Color: Portofino Gray. Body Style: Sedan.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2024</year>
     <make>Hyundai</make>
     <model>Sonata Hybrid</model>
@@ -6380,13 +6635,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GNAXKEG1RL203018</vehicle_id>
+    <vehicle_id>P0749</vehicle_id>
     <title>2024 Chevrolet Equinox LT</title>
     <description>2024 Chevrolet Equinox. Trim: LT. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2024</year>
     <make>Chevrolet</make>
     <model>Equinox</model>
@@ -6467,13 +6725,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1C4PJXDG9RW308340</vehicle_id>
+    <vehicle_id>P0753</vehicle_id>
     <title>2024 Jeep Wrangler Sport S</title>
     <description>2024 Jeep Wrangler. Trim: Sport S. Color: Silver Zynith Clearcoat. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2024</year>
     <make>Jeep</make>
     <model>Wrangler</model>
@@ -6554,13 +6815,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>YV4L12UE7S2463916</vehicle_id>
+    <vehicle_id>P0755</vehicle_id>
     <title>2025 Volvo XC40 Plus Bright Theme</title>
     <description>2025 Volvo XC40. Trim: Plus Bright Theme. Color: Onyx Black Metallic. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Volvo</make>
     <model>XC40</model>
@@ -6641,13 +6905,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GKS2DRL4SR169092</vehicle_id>
+    <vehicle_id>P0754</vehicle_id>
     <title>2025 GMC Yukon Denali</title>
     <description>2025 GMC Yukon. Trim: Denali. Color: Titanium Rush Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>GMC</make>
     <model>Yukon</model>
@@ -6728,13 +6995,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5NMJF3AE2NH099782</vehicle_id>
+    <vehicle_id>H25200A</vehicle_id>
     <title>2022 Hyundai Tucson SEL</title>
     <description>2022 Hyundai Tucson. Trim: SEL. Color: Intense Blue. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2022</year>
     <make>Hyundai</make>
     <model>Tucson</model>
@@ -6815,13 +7085,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL79MPS24PB061558</vehicle_id>
+    <vehicle_id>BD25203A</vehicle_id>
     <title>2023 Chevrolet Trailblazer LT</title>
     <description>2023 Chevrolet Trailblazer. Trim: LT. Color: Mosaic Black Metallic. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2023</year>
     <make>Chevrolet</make>
     <model>Trailblazer</model>
@@ -6902,13 +7175,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KM8HACA3XRU076871</vehicle_id>
+    <vehicle_id>PB0002</vehicle_id>
     <title>2024 Hyundai Kona N Line</title>
     <description>2024 Hyundai Kona. Trim: N Line. Color: Ecotronic Gray Pearl w/Black Roof. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2024</year>
     <make>Hyundai</make>
     <model>Kona</model>
@@ -6989,13 +7265,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL4MMDSL1PB012462</vehicle_id>
+    <vehicle_id>P0758</vehicle_id>
     <title>2023 Buick Encore GX Select</title>
     <description>2023 Buick Encore GX. Trim: Select. Color: White Frost Tricoat. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2023</year>
     <make>Buick</make>
     <model>Encore GX</model>
@@ -7076,13 +7355,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GNAXKEV8NL268151</vehicle_id>
+    <vehicle_id>P0757</vehicle_id>
     <title>2022 Chevrolet Equinox LT</title>
     <description>2022 Chevrolet Equinox. Trim: LT. Color: Mosaic Black Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2022</year>
     <make>Chevrolet</make>
     <model>Equinox</model>
@@ -7163,13 +7445,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL4CJESBXLB058223</vehicle_id>
+    <vehicle_id>C24107A</vehicle_id>
     <title>2020 Buick Encore Preferred</title>
     <description>2020 Buick Encore. Trim: Preferred. Color: Ebony Twilight Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2020</year>
     <make>Buick</make>
     <model>Encore</model>
@@ -7250,13 +7535,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GYKNDRS1SZ118816</vehicle_id>
+    <vehicle_id>P0760</vehicle_id>
     <title>2025 Cadillac XT5 AWD Premium Luxury</title>
     <description>2025 Cadillac XT5. Trim: AWD Premium Luxury. Color: Argent Silver Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Cadillac</make>
     <model>XT5</model>
@@ -7337,13 +7625,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GYKPDRS8SZ120637</vehicle_id>
+    <vehicle_id>P0759</vehicle_id>
     <title>2025 Cadillac XT6 AWD Premium Luxury</title>
     <description>2025 Cadillac XT6. Trim: AWD Premium Luxury. Color: Stellar Black Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Cadillac</make>
     <model>XT6</model>
@@ -7424,13 +7715,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL79MPSL1SB094356</vehicle_id>
+    <vehicle_id>C26011A</vehicle_id>
     <title>2025 Chevrolet Trailblazer LT</title>
     <description>2025 Chevrolet Trailblazer. Trim: LT. Color: Summit White. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Chevrolet</make>
     <model>Trailblazer</model>
@@ -7511,13 +7805,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GNAXHEG3RL166654</vehicle_id>
+    <vehicle_id>P0762</vehicle_id>
     <title>2024 Chevrolet Equinox LS</title>
     <description>2024 Chevrolet Equinox. Trim: LS. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2024</year>
     <make>Chevrolet</make>
     <model>Equinox</model>
@@ -7598,13 +7895,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GNAXKEG7RS102524</vehicle_id>
+    <vehicle_id>P0763</vehicle_id>
     <title>2024 Chevrolet Equinox LT</title>
     <description>2024 Chevrolet Equinox. Trim: LT. Color: Sterling Gray Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2024</year>
     <make>Chevrolet</make>
     <model>Equinox</model>
@@ -7685,13 +7985,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL7CJNSM7NB550019</vehicle_id>
+    <vehicle_id>P0764</vehicle_id>
     <title>2022 Chevrolet Trax LS</title>
     <description>2022 Chevrolet Trax. Trim: LS. Color: Silver Ice Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2022</year>
     <make>Chevrolet</make>
     <model>Trax</model>
@@ -7772,13 +8075,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMUHCESC6RU203167</vehicle_id>
+    <vehicle_id>P0765</vehicle_id>
     <title>2024 Genesis GV80 3.5T AWD</title>
     <description>2024 Genesis GV80. Trim: 3.5T AWD. Color: Savile Silver. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2024</year>
     <make>Genesis</make>
     <model>GV80</model>
@@ -7859,13 +8165,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>LRBAZLR47ND166998</vehicle_id>
+    <vehicle_id>P0767</vehicle_id>
     <title>2022 Buick Envision Preferred</title>
     <description>2022 Buick Envision. Trim: Preferred. Color: Ebony Twilight Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2022</year>
     <make>Buick</make>
     <model>Envision</model>
@@ -7946,13 +8255,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5NMJFCAE2PH253359</vehicle_id>
+    <vehicle_id>P0768</vehicle_id>
     <title>2023 Hyundai Tucson SEL</title>
     <description>2023 Hyundai Tucson. Trim: SEL. Color: Portofino Gray. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2023</year>
     <make>Hyundai</make>
     <model>Tucson</model>
@@ -8033,13 +8345,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMHRC8A37PU266720</vehicle_id>
+    <vehicle_id>HD25116A</vehicle_id>
     <title>2023 Hyundai Venue Limited</title>
     <description>2023 Hyundai Venue. Trim: Limited. Color: Intense Blue. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2023</year>
     <make>Hyundai</make>
     <model>Venue</model>
@@ -8120,13 +8435,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL79MPSL4TB082381</vehicle_id>
+    <vehicle_id>C26073</vehicle_id>
     <title>2026 Chevrolet Trailblazer LT</title>
     <description>2026 Chevrolet Trailblazer. Trim: LT. Color: Sterling Gray Metallic. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Trailblazer</model>
@@ -8182,13 +8500,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GNKBCR46TS135708</vehicle_id>
+    <vehicle_id>C26074</vehicle_id>
     <title>2026 Chevrolet Blazer LT</title>
     <description>2026 Chevrolet Blazer. Trim: LT. Color: Black. Body Style: Sport Utility.</description>
-    <street_address>2720 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Chevrolet</make>
     <model>Blazer</model>

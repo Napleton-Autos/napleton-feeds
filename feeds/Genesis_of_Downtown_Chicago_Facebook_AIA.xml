@@ -1,13 +1,16 @@
 <?xml version="1.0" ?>
 <listings>
   <listing>
-    <vehicle_id>5NMMCDTC0SH031001</vehicle_id>
+    <vehicle_id>G25051</vehicle_id>
     <title>2025 Genesis GV70 3.5T Sport</title>
     <description>2025 Genesis GV70. Trim: 3.5T Sport. Color: Vik Black. Body Style: Sport Utility.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Genesis</make>
     <model>GV70</model>
@@ -69,13 +72,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5NMMCDTC9SH031109</vehicle_id>
+    <vehicle_id>G25047</vehicle_id>
     <title>2025 Genesis GV70 3.5T Sport</title>
     <description>2025 Genesis GV70. Trim: 3.5T Sport. Color: Alta White. Body Style: Sport Utility.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Genesis</make>
     <model>GV70</model>
@@ -137,13 +143,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMUHEESC1SU271151</vehicle_id>
+    <vehicle_id>G25091</vehicle_id>
     <title>2025 Genesis GV80 Prestige</title>
     <description>2025 Genesis GV80. Trim: Prestige. Color: Vik Black. Body Style: Sport Utility.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Genesis</make>
     <model>GV80</model>
@@ -206,13 +215,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMUHCESB2SU277893</vehicle_id>
+    <vehicle_id>G25098</vehicle_id>
     <title>2025 Genesis GV80 Prestige</title>
     <description>2025 Genesis GV80. Trim: Prestige. Color: Vik Black. Body Style: Sport Utility.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Genesis</make>
     <model>GV80</model>
@@ -275,13 +287,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMUHEESC4SU277803</vehicle_id>
+    <vehicle_id>G25100</vehicle_id>
     <title>2025 Genesis GV80 Prestige</title>
     <description>2025 Genesis GV80. Trim: Prestige. Color: Makalu Gray. Body Style: Sport Utility.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Genesis</make>
     <model>GV80</model>
@@ -344,13 +359,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMTG34SC5TU159664</vehicle_id>
+    <vehicle_id>G26015</vehicle_id>
     <title>2026 Genesis G70 2.5T Prestige</title>
     <description>2026 Genesis G70. Trim: 2.5T Prestige. Color: Alta White. Body Style: Sedan.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Genesis</make>
     <model>G70</model>
@@ -413,13 +431,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMUMBDTB0TU236884</vehicle_id>
+    <vehicle_id>G26014</vehicle_id>
     <title>2026 Genesis GV70 2.5T Advanced</title>
     <description>2026 Genesis GV70. Trim: 2.5T Advanced. Color: Uyuni White. Body Style: Sport Utility.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Genesis</make>
     <model>GV70</model>
@@ -482,13 +503,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMUHBESB8SU291932</vehicle_id>
+    <vehicle_id>G25104</vehicle_id>
     <title>2025 Genesis GV80 Advanced</title>
     <description>2025 Genesis GV80. Trim: Advanced. Color: Makalu Gray. Body Style: Sport Utility.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Genesis</make>
     <model>GV80</model>
@@ -551,13 +575,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMUJBESC7SU292449</vehicle_id>
+    <vehicle_id>G25106</vehicle_id>
     <title>2025 Genesis GV80 Coupe 3.5T e-SC</title>
     <description>2025 Genesis GV80 Coupe. Trim: 3.5T e-SC. Color: Vik Black. Body Style: Sport Utility.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2025</year>
     <make>Genesis</make>
     <model>GV80 Coupe</model>
@@ -620,13 +647,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMUMADTB0TU243370</vehicle_id>
+    <vehicle_id>G26025</vehicle_id>
     <title>2026 Genesis GV70 2.5T Select</title>
     <description>2026 Genesis GV70. Trim: 2.5T Select. Color: Uyuni White. Body Style: Sport Utility.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Genesis</make>
     <model>GV70</model>
@@ -689,13 +719,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMUHEESC1TU296603</vehicle_id>
+    <vehicle_id>G26031</vehicle_id>
     <title>2026 Genesis GV80 Prestige</title>
     <description>2026 Genesis GV80. Trim: Prestige. Color: Alta White. Body Style: Sport Utility.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Genesis</make>
     <model>GV80</model>
@@ -758,13 +791,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMUHEESC4TU296594</vehicle_id>
+    <vehicle_id>G26030</vehicle_id>
     <title>2026 Genesis GV80 Prestige</title>
     <description>2026 Genesis GV80. Trim: Prestige. Color: Capri Blue. Body Style: Sport Utility.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Genesis</make>
     <model>GV80</model>
@@ -827,13 +863,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMTG34SC5TU163360</vehicle_id>
+    <vehicle_id>G26033</vehicle_id>
     <title>2026 Genesis G70 2.5T Prestige</title>
     <description>2026 Genesis G70. Trim: 2.5T Prestige. Color: Uyuni White. Body Style: Sedan.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Genesis</make>
     <model>G70</model>
@@ -893,13 +932,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMUHCESB9TU303651</vehicle_id>
+    <vehicle_id>G26038</vehicle_id>
     <title>2026 Genesis GV80 Prestige</title>
     <description>2026 Genesis GV80. Trim: Prestige. Color: Vik Black. Body Style: Sport Utility.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Genesis</make>
     <model>GV80</model>
@@ -962,13 +1004,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMUJDESC6TU296925</vehicle_id>
+    <vehicle_id>G26039</vehicle_id>
     <title>2026 Genesis GV80 Coupe 3.5T e-SC Prestige Black</title>
     <description>2026 Genesis GV80 Coupe. Trim: 3.5T e-SC Prestige Black. Color: Vik Black. Body Style: Sport Utility.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Genesis</make>
     <model>GV80 Coupe</model>
@@ -1031,13 +1076,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMUHBESB3TU295243</vehicle_id>
+    <vehicle_id>G26043</vehicle_id>
     <title>2026 Genesis GV80 Advanced</title>
     <description>2026 Genesis GV80. Trim: Advanced. Color: Vik Black. Body Style: Sport Utility.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Genesis</make>
     <model>GV80</model>
@@ -1100,13 +1148,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMTG34SC2TU164238</vehicle_id>
+    <vehicle_id>G26047</vehicle_id>
     <title>2026 Genesis G70 2.5T Prestige</title>
     <description>2026 Genesis G70. Trim: 2.5T Prestige. Color: Savile Silver. Body Style: Sedan.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Genesis</make>
     <model>G70</model>
@@ -1169,13 +1220,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMUHEESC0TU303749</vehicle_id>
+    <vehicle_id>G26049</vehicle_id>
     <title>2026 Genesis GV80 Prestige</title>
     <description>2026 Genesis GV80. Trim: Prestige. Color: Uyuni White. Body Style: Sport Utility.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Genesis</make>
     <model>GV80</model>
@@ -1238,13 +1292,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5NMMADTB1TH043589</vehicle_id>
+    <vehicle_id>G26048</vehicle_id>
     <title>2026 Genesis GV70 2.5T</title>
     <description>2026 Genesis GV70. Trim: 2.5T. Color: Uyuni White. Body Style: Sport Utility.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Genesis</make>
     <model>GV70</model>
@@ -1307,13 +1364,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5NMMDDTC8TH048014</vehicle_id>
+    <vehicle_id>G26052</vehicle_id>
     <title>2026 Genesis GV70 3.5T Sport Advanced</title>
     <description>2026 Genesis GV70. Trim: 3.5T Sport Advanced. Color: Capri Blue. Body Style: Sport Utility.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Genesis</make>
     <model>GV70</model>
@@ -1376,13 +1436,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMTGF4SD9TU304740</vehicle_id>
+    <vehicle_id>G26051</vehicle_id>
     <title>2026 Genesis G80 3.5T Prestige Black</title>
     <description>2026 Genesis G80. Trim: 3.5T Prestige Black. Color: Uyuni White. Body Style: Sedan.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Genesis</make>
     <model>G80</model>
@@ -1445,13 +1508,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMUHBESBXTU312300</vehicle_id>
+    <vehicle_id>G26055</vehicle_id>
     <title>2026 Genesis GV80 Advanced</title>
     <description>2026 Genesis GV80. Trim: Advanced. Color: Vik Black. Body Style: Sport Utility.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Genesis</make>
     <model>GV80</model>
@@ -1514,13 +1580,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMUHBESB7TU308186</vehicle_id>
+    <vehicle_id>G26059</vehicle_id>
     <title>2026 Genesis GV80 Advanced</title>
     <description>2026 Genesis GV80. Trim: Advanced. Color: Vik Black. Body Style: Sport Utility.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Genesis</make>
     <model>GV80</model>
@@ -1583,13 +1652,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMUHCESB9TU312057</vehicle_id>
+    <vehicle_id>G26054</vehicle_id>
     <title>2026 Genesis GV80 Prestige</title>
     <description>2026 Genesis GV80. Trim: Prestige. Color: Makalu Gray. Body Style: Sport Utility.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Genesis</make>
     <model>GV80</model>
@@ -1652,13 +1724,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMUHCESC5TU297761</vehicle_id>
+    <vehicle_id>G26056</vehicle_id>
     <title>2026 Genesis GV80 Prestige Black</title>
     <description>2026 Genesis GV80. Trim: Prestige Black. Color: Vik Black. Body Style: Sport Utility.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Genesis</make>
     <model>GV80</model>
@@ -1721,13 +1796,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMUHCESC5TU297551</vehicle_id>
+    <vehicle_id>G26062</vehicle_id>
     <title>2026 Genesis GV80 Prestige Black</title>
     <description>2026 Genesis GV80. Trim: Prestige Black. Color: Vik Black. Body Style: Sport Utility.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Genesis</make>
     <model>GV80</model>
@@ -1790,13 +1868,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMUMBDTB0TU253488</vehicle_id>
+    <vehicle_id>G26061</vehicle_id>
     <title>2026 Genesis GV70 2.5T Advanced</title>
     <description>2026 Genesis GV70. Trim: 2.5T Advanced. Color: Uyuni White. Body Style: Sport Utility.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Genesis</make>
     <model>GV70</model>
@@ -1859,13 +1940,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMTG64SCXTU165015</vehicle_id>
+    <vehicle_id>G26064</vehicle_id>
     <title>2026 Genesis G70 2.5T Standard</title>
     <description>2026 Genesis G70. Trim: 2.5T Standard. Color: Vatna Gray. Body Style: Sedan.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Genesis</make>
     <model>G70</model>
@@ -1928,13 +2012,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMTFC4SDXTU058186</vehicle_id>
+    <vehicle_id>G26066</vehicle_id>
     <title>2026 Genesis G90 e-SC</title>
     <description>2026 Genesis G90. Trim: e-SC. Color: Uyuni White. Body Style: Sedan.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Genesis</make>
     <model>G90</model>
@@ -1994,13 +2081,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMTGG4SD9TU317288</vehicle_id>
+    <vehicle_id>G26067</vehicle_id>
     <title>2026 Genesis G80 3.5T Sport Prestige</title>
     <description>2026 Genesis G80. Trim: 3.5T Sport Prestige. Color: Capri Blue. Body Style: Sedan.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Genesis</make>
     <model>G80</model>
@@ -2060,13 +2150,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMUMADTB0TU263277</vehicle_id>
+    <vehicle_id>G26068</vehicle_id>
     <title>2026 Genesis GV70 2.5T</title>
     <description>2026 Genesis GV70. Trim: 2.5T. Color: Uyuni White. Body Style: Sport Utility.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Genesis</make>
     <model>GV70</model>
@@ -2126,13 +2219,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMUMBDTBXTU262537</vehicle_id>
+    <vehicle_id>G26065</vehicle_id>
     <title>2026 Genesis GV70 2.5T Advanced</title>
     <description>2026 Genesis GV70. Trim: 2.5T Advanced. Color: Vik Black. Body Style: Sport Utility.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Genesis</make>
     <model>GV70</model>
@@ -2192,13 +2288,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5NMMEDTC1TH050295</vehicle_id>
+    <vehicle_id>G26069</vehicle_id>
     <title>2026 Genesis GV70 3.5T Sport Prestige</title>
     <description>2026 Genesis GV70. Trim: 3.5T Sport Prestige. Color: Ceres Blue. Body Style: Sport Utility.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Genesis</make>
     <model>GV70</model>
@@ -2261,13 +2360,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5NMMFDTB0TH050597</vehicle_id>
+    <vehicle_id>G26071</vehicle_id>
     <title>2026 Genesis GV70 2.5T Sport Prestige</title>
     <description>2026 Genesis GV70. Trim: 2.5T Sport Prestige. Color: Capri Blue. Body Style: Sport Utility.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Genesis</make>
     <model>GV70</model>
@@ -2327,13 +2429,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMUMADTB5TU265154</vehicle_id>
+    <vehicle_id>G26070</vehicle_id>
     <title>2026 Genesis GV70 2.5T</title>
     <description>2026 Genesis GV70. Trim: 2.5T. Color: Uyuni White. Body Style: Sport Utility.</description>
-    <street_address>2700 S. Michigan Ave.</street_address>
-    <city>Chicago</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
     <year>2026</year>
     <make>Genesis</make>
     <model>GV70</model>

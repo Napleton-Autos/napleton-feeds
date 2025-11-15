@@ -1,13 +1,16 @@
 <?xml version="1.0" ?>
 <listings>
   <listing>
-    <vehicle_id>KL4AMESL8SB116867</vehicle_id>
+    <vehicle_id>225098</vehicle_id>
     <title>2025 Buick Encore GX Sport Touring</title>
     <description>2025 Buick Encore GX. Trim: Sport Touring. Color: Cinnabar Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2025</year>
     <make>Buick</make>
     <model>Encore GX</model>
@@ -67,13 +70,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GKALUEG2TL105465</vehicle_id>
+    <vehicle_id>126002</vehicle_id>
     <title>2026 GMC Terrain AWD Elevation</title>
     <description>2026 GMC Terrain. Trim: AWD Elevation. Color: Summit White. Body Style: Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Terrain</model>
@@ -133,13 +139,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL47LAEP0SB214683</vehicle_id>
+    <vehicle_id>225174</vehicle_id>
     <title>2025 Buick Envista Preferred</title>
     <description>2025 Buick Envista. Trim: Preferred. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2025</year>
     <make>Buick</make>
     <model>Envista</model>
@@ -199,13 +208,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL47LAEP7SB214132</vehicle_id>
+    <vehicle_id>225175</vehicle_id>
     <title>2025 Buick Envista Preferred</title>
     <description>2025 Buick Envista. Trim: Preferred. Color: Moonstone Gray Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2025</year>
     <make>Buick</make>
     <model>Envista</model>
@@ -265,13 +277,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL47LAEP7SB225518</vehicle_id>
+    <vehicle_id>225185</vehicle_id>
     <title>2025 Buick Envista Preferred</title>
     <description>2025 Buick Envista. Trim: Preferred. Color: Moonstone Gray Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2025</year>
     <make>Buick</make>
     <model>Envista</model>
@@ -331,13 +346,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL4AMCSL8TB023742</vehicle_id>
+    <vehicle_id>226005</vehicle_id>
     <title>2026 Buick Encore GX Preferred</title>
     <description>2026 Buick Encore GX. Trim: Preferred. Color: MOONSTONE GRAY METALLIC. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Encore GX</model>
@@ -397,13 +415,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GKENPRS6SJ224184</vehicle_id>
+    <vehicle_id>125136</vehicle_id>
     <title>2025 GMC Acadia AWD AT4</title>
     <description>2025 GMC Acadia. Trim: AWD AT4. Color: Ebony Twilight Metallic. Body Style: 4 Door.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2025</year>
     <make>GMC</make>
     <model>Acadia</model>
@@ -463,13 +484,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GTP2DEK3S1247858</vehicle_id>
+    <vehicle_id>125138</vehicle_id>
     <title>2025 GMC Canyon 4WD AT4</title>
     <description>2025 GMC Canyon. Trim: 4WD AT4. Color: Onyx Black. Body Style: Crew Cab Pickup.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2025</year>
     <make>GMC</make>
     <model>Canyon</model>
@@ -529,13 +553,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GTUUDEDXTZ118078</vehicle_id>
+    <vehicle_id>126023</vehicle_id>
     <title>2026 GMC Sierra 1500 SLT</title>
     <description>2026 GMC Sierra 1500. Trim: SLT. Color: Sterling Metallic. Body Style: Crew Cab Pickup.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Sierra 1500</model>
@@ -595,13 +622,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>JTMP1RFV7KD500526</vehicle_id>
+    <vehicle_id>P00949</vehicle_id>
     <title>2019 Toyota RAV4 XLE</title>
     <description>2019 Toyota RAV4. Trim: XLE. Color: Silver Sky Metallic. Body Style: Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2019</year>
     <make>Toyota</make>
     <model>RAV4</model>
@@ -682,13 +712,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GNAXJEVXJL101777</vehicle_id>
+    <vehicle_id>P00931A</vehicle_id>
     <title>2018 Chevrolet Equinox LT</title>
     <description>2018 Chevrolet Equinox. Trim: LT. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2018</year>
     <make>Chevrolet</make>
     <model>Equinox</model>
@@ -769,13 +802,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GKENNKS0TJ141964</vehicle_id>
+    <vehicle_id>126049</vehicle_id>
     <title>2026 GMC Acadia AWD Elevation</title>
     <description>2026 GMC Acadia. Trim: AWD Elevation. Color: Sterling Metallic. Body Style: 4 Door.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Acadia</model>
@@ -835,13 +871,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL47LBEP0TB064811</vehicle_id>
+    <vehicle_id>226038</vehicle_id>
     <title>2026 Buick Envista Sport Touring</title>
     <description>2026 Buick Envista. Trim: Sport Touring. Color: Moonstone Gray Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Envista</model>
@@ -901,13 +940,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GCVKREC2HZ253111</vehicle_id>
+    <vehicle_id>126048A</vehicle_id>
     <title>2017 Chevrolet Silverado 1500 LT</title>
     <description>2017 Chevrolet Silverado 1500. Trim: LT. Color: Graphite Metallic. Body Style: Double Cab Pickup.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2017</year>
     <make>Chevrolet</make>
     <model>Silverado 1500</model>
@@ -988,13 +1030,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5GAEVAKS1TJ179662</vehicle_id>
+    <vehicle_id>226039</vehicle_id>
     <title>2026 Buick Enclave Preferred</title>
     <description>2026 Buick Enclave. Trim: Preferred. Color: summit white. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Enclave</model>
@@ -1054,13 +1099,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GKS2GKD4TR142965</vehicle_id>
+    <vehicle_id>126055</vehicle_id>
     <title>2026 GMC Yukon XL Elevation</title>
     <description>2026 GMC Yukon XL. Trim: Elevation. Color: Onyx Black. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Yukon XL</model>
@@ -1119,13 +1167,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5GAEVAKS5TJ186145</vehicle_id>
+    <vehicle_id>226045</vehicle_id>
     <title>2026 Buick Enclave Preferred</title>
     <description>2026 Buick Enclave. Trim: Preferred. Color: Ocean Blue Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Enclave</model>
@@ -1184,13 +1235,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GTUUCED2TZ226091</vehicle_id>
+    <vehicle_id>126081</vehicle_id>
     <title>2026 GMC Sierra 1500 Elevation</title>
     <description>2026 GMC Sierra 1500. Trim: Elevation. Color: Titanium Rush Metallic. Body Style: Crew Cab Pickup.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Sierra 1500</model>
@@ -1250,13 +1304,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GKENKRS0SJ132328</vehicle_id>
+    <vehicle_id>P01005</vehicle_id>
     <title>2025 GMC Acadia FWD Elevation</title>
     <description>2025 GMC Acadia. Trim: FWD Elevation. Color: Crystal Metallic. Body Style: 4 Door.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2025</year>
     <make>GMC</make>
     <model>Acadia</model>
@@ -1337,13 +1394,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GKENNKS0TJ210572</vehicle_id>
+    <vehicle_id>126077</vehicle_id>
     <title>2026 GMC Acadia AWD Elevation</title>
     <description>2026 GMC Acadia. Trim: AWD Elevation. Color: Summit White. Body Style: 4 Door.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Acadia</model>
@@ -1402,13 +1462,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GTUUCED6TZ218690</vehicle_id>
+    <vehicle_id>126073</vehicle_id>
     <title>2026 GMC Sierra 1500 Elevation</title>
     <description>2026 GMC Sierra 1500. Trim: Elevation. Color: Summit White. Body Style: Crew Cab Pickup.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Sierra 1500</model>
@@ -1468,13 +1531,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GKALTEV5NL308426</vehicle_id>
+    <vehicle_id>P00989</vehicle_id>
     <title>2022 GMC Terrain SLE</title>
     <description>2022 GMC Terrain. Trim: SLE. Color: Ebony Twilight Metallic. Body Style: Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2022</year>
     <make>GMC</make>
     <model>Terrain</model>
@@ -1555,13 +1621,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMHL14JCXPA284120</vehicle_id>
+    <vehicle_id>P00986</vehicle_id>
     <title>2023 Hyundai Sonata N Line</title>
     <description>2023 Hyundai Sonata. Trim: N Line. Color: Ultimate Red. Body Style: Sedan.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2023</year>
     <make>Hyundai</make>
     <model>Sonata</model>
@@ -1642,13 +1711,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMHLS4DG8SU881091</vehicle_id>
+    <vehicle_id>P00988</vehicle_id>
     <title>2025 Hyundai Elantra SEL Convenience</title>
     <description>2025 Hyundai Elantra. Trim: SEL Convenience. Color: Serenity White. Body Style: Sedan.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2025</year>
     <make>Hyundai</make>
     <model>Elantra</model>
@@ -1729,13 +1801,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GKALVEG1PL219985</vehicle_id>
+    <vehicle_id>226046A</vehicle_id>
     <title>2023 GMC Terrain SLT</title>
     <description>2023 GMC Terrain. Trim: SLT. Color: Volcanic Red Tintcoat. Body Style: Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2023</year>
     <make>GMC</make>
     <model>Terrain</model>
@@ -1816,13 +1891,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GTUUGEL7TZ210242</vehicle_id>
+    <vehicle_id>126068</vehicle_id>
     <title>2026 GMC Sierra 1500 Denali</title>
     <description>2026 GMC Sierra 1500. Trim: Denali. Color: Downpour Metallic. Body Style: Crew Cab Pickup.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Sierra 1500</model>
@@ -1882,13 +1960,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GT4UXEY9TF156035</vehicle_id>
+    <vehicle_id>126066</vehicle_id>
     <title>2026 GMC Sierra 2500HD Denali Ultimate</title>
     <description>2026 GMC Sierra 2500HD. Trim: Denali Ultimate. Color: Glacier White Tricoat. Body Style: Crew Cab Pickup.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Sierra 2500HD</model>
@@ -1948,13 +2029,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GT4UPEY9TF153815</vehicle_id>
+    <vehicle_id>126067</vehicle_id>
     <title>2026 GMC Sierra 2500HD AT4</title>
     <description>2026 GMC Sierra 2500HD. Trim: AT4. Color: Onyx Black. Body Style: Crew Cab Pickup.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Sierra 2500HD</model>
@@ -2011,13 +2095,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GT4UPEY3TF153907</vehicle_id>
+    <vehicle_id>126064</vehicle_id>
     <title>2026 GMC Sierra 2500HD AT4</title>
     <description>2026 GMC Sierra 2500HD. Trim: AT4. Color: Summit White. Body Style: Crew Cab Pickup.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Sierra 2500HD</model>
@@ -2077,13 +2164,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GKS2BKD5TR156425</vehicle_id>
+    <vehicle_id>126065</vehicle_id>
     <title>2026 GMC Yukon Elevation</title>
     <description>2026 GMC Yukon. Trim: Elevation. Color: Onyx Black. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Yukon</model>
@@ -2142,13 +2232,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GKKNULS5KZ216511</vehicle_id>
+    <vehicle_id>RT0043A</vehicle_id>
     <title>2019 GMC Acadia SLT</title>
     <description>2019 GMC Acadia. Trim: SLT. Color: Ebony Twilight Metallic. Body Style: 4 Door.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2019</year>
     <make>GMC</make>
     <model>Acadia</model>
@@ -2229,13 +2322,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>4T1K61AK3PU820570</vehicle_id>
+    <vehicle_id>PB0030</vehicle_id>
     <title>2023 Toyota Camry XSE</title>
     <description>2023 Toyota Camry. Trim: XSE. Color: WHITE. Body Style: Sedan.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2023</year>
     <make>Toyota</make>
     <model>Camry</model>
@@ -2315,13 +2411,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GKALZEG8TL308258</vehicle_id>
+    <vehicle_id>126063</vehicle_id>
     <title>2026 GMC Terrain AWD Denali</title>
     <description>2026 GMC Terrain. Trim: AWD Denali. Color: Downpour Metallic. Body Style: Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Terrain</model>
@@ -2380,13 +2479,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GNSKRKL4NR125950</vehicle_id>
+    <vehicle_id>126051A</vehicle_id>
     <title>2022 Chevrolet Tahoe RST</title>
     <description>2022 Chevrolet Tahoe. Trim: RST. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2022</year>
     <make>Chevrolet</make>
     <model>Tahoe</model>
@@ -2467,13 +2569,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GTPUCEK1TG165652</vehicle_id>
+    <vehicle_id>126060</vehicle_id>
     <title>2026 GMC Sierra 1500 Elevation</title>
     <description>2026 GMC Sierra 1500. Trim: Elevation. Color: Onyx Black. Body Style: Crew Cab Pickup.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Sierra 1500</model>
@@ -2533,13 +2638,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GKALZEG8TL298640</vehicle_id>
+    <vehicle_id>126061</vehicle_id>
     <title>2026 GMC Terrain AWD Denali</title>
     <description>2026 GMC Terrain. Trim: AWD Denali. Color: Ebony Twilight Metallic. Body Style: Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Terrain</model>
@@ -2599,13 +2707,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GTUUGEL7RZ278341</vehicle_id>
+    <vehicle_id>P00977</vehicle_id>
     <title>2024 GMC Sierra 1500 Denali</title>
     <description>2024 GMC Sierra 1500. Trim: Denali. Color: Summit White. Body Style: Crew Cab Pickup.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2024</year>
     <make>GMC</make>
     <model>Sierra 1500</model>
@@ -2686,13 +2797,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5GAEVAKS8TJ185183</vehicle_id>
+    <vehicle_id>226044</vehicle_id>
     <title>2026 Buick Enclave Preferred</title>
     <description>2026 Buick Enclave. Trim: Preferred. Color: Moonstone Gray Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Enclave</model>
@@ -2751,13 +2865,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5GAEVAKS8TJ184163</vehicle_id>
+    <vehicle_id>226043</vehicle_id>
     <title>2026 Buick Enclave Preferred</title>
     <description>2026 Buick Enclave. Trim: Preferred. Color: Ebony Twilight Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Enclave</model>
@@ -2816,13 +2933,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5GAEVAKS5TJ184170</vehicle_id>
+    <vehicle_id>226042</vehicle_id>
     <title>2026 Buick Enclave Preferred</title>
     <description>2026 Buick Enclave. Trim: Preferred. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Enclave</model>
@@ -2881,13 +3001,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GKALZEG2TL300060</vehicle_id>
+    <vehicle_id>126056</vehicle_id>
     <title>2026 GMC Terrain AWD Denali</title>
     <description>2026 GMC Terrain. Trim: AWD Denali. Color: Glacier White Tricoat. Body Style: Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Terrain</model>
@@ -2947,13 +3070,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GT1ESEH9TU410308</vehicle_id>
+    <vehicle_id>126058</vehicle_id>
     <title>2026 GMC Sierra EV Standard Range Elevation</title>
     <description>2026 GMC Sierra EV. Trim: Standard Range Elevation. Color: Onyx Black. Body Style: Crew Cab Pickup.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Sierra EV</model>
@@ -3012,13 +3138,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>JM3KKAHDXR1124193</vehicle_id>
+    <vehicle_id>P00975</vehicle_id>
     <title>2024 Mazda CX-90 3.3 Turbo Select</title>
     <description>2024 Mazda CX-90. Trim: 3.3 Turbo Select. Color: Jet Black Mica. Body Style: i-ACTIV AWD Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2024</year>
     <make>Mazda</make>
     <model>CX-90</model>
@@ -3099,13 +3228,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GNERGRS0SJ129174</vehicle_id>
+    <vehicle_id>P00972</vehicle_id>
     <title>2025 Chevrolet Traverse FWD LT</title>
     <description>2025 Chevrolet Traverse. Trim: FWD LT. Color: Lakeshore Blue Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2025</year>
     <make>Chevrolet</make>
     <model>Traverse</model>
@@ -3186,13 +3318,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>LRBFZPE49RD023009</vehicle_id>
+    <vehicle_id>P00974</vehicle_id>
     <title>2024 Buick Envision Sport Touring</title>
     <description>2024 Buick Envision. Trim: Sport Touring. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2024</year>
     <make>Buick</make>
     <model>Envision</model>
@@ -3273,13 +3408,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5GAEVAKS9TJ180882</vehicle_id>
+    <vehicle_id>226041</vehicle_id>
     <title>2026 Buick Enclave Preferred</title>
     <description>2026 Buick Enclave. Trim: Preferred. Color: Ocean Blue Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Enclave</model>
@@ -3338,13 +3476,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5GAEVAKS8TJ181201</vehicle_id>
+    <vehicle_id>226040</vehicle_id>
     <title>2026 Buick Enclave Preferred</title>
     <description>2026 Buick Enclave. Trim: Preferred. Color: Moonstone Gray Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Enclave</model>
@@ -3403,13 +3544,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>2T2HZMDA4NC322989</vehicle_id>
+    <vehicle_id>P00966</vehicle_id>
     <title>2022 Lexus RX RX 350</title>
     <description>2022 Lexus RX. Trim: RX 350. Color: Eminent White Pearl. Body Style: Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2022</year>
     <make>Lexus</make>
     <model>RX</model>
@@ -3490,13 +3634,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GNSKCKC0LR184049</vehicle_id>
+    <vehicle_id>P00971</vehicle_id>
     <title>2020 Chevrolet Tahoe Premier</title>
     <description>2020 Chevrolet Tahoe. Trim: Premier. Color: Blue Velvet Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2020</year>
     <make>Chevrolet</make>
     <model>Tahoe</model>
@@ -3577,13 +3724,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GKS2HKJ9HR210678</vehicle_id>
+    <vehicle_id>126042A</vehicle_id>
     <title>2017 GMC Yukon XL Denali</title>
     <description>2017 GMC Yukon XL. Trim: Denali. Color: Onyx Black. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2017</year>
     <make>GMC</make>
     <model>Yukon XL</model>
@@ -3664,13 +3814,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FM5K8GCXNGA73353</vehicle_id>
+    <vehicle_id>P00969</vehicle_id>
     <title>2022 Ford Explorer ST</title>
     <description>2022 Ford Explorer. Trim: ST. Color: Atlas Blue Metallic. Body Style: Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2022</year>
     <make>Ford</make>
     <model>Explorer</model>
@@ -3751,13 +3904,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5J8TC1H38KL024252</vehicle_id>
+    <vehicle_id>P00962</vehicle_id>
     <title>2019 Acura RDX FWD</title>
     <description>2019 Acura RDX. Trim: FWD. Color: Gunmetal Metallic. Body Style: Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2019</year>
     <make>Acura</make>
     <model>RDX</model>
@@ -3838,13 +3994,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GKALVEG5RL148311</vehicle_id>
+    <vehicle_id>P00965</vehicle_id>
     <title>2024 GMC Terrain SLT</title>
     <description>2024 GMC Terrain. Trim: SLT. Color: Downpour Metallic. Body Style: Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2024</year>
     <make>GMC</make>
     <model>Terrain</model>
@@ -3925,13 +4084,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>WBA5R7C02LFH52235</vehicle_id>
+    <vehicle_id>P00963</vehicle_id>
     <title>2020 BMW 3 Series 330i xDrive</title>
     <description>2020 BMW 3 Series. Trim: 330i xDrive. Color: Alpine White. Body Style: Sedan.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2020</year>
     <make>BMW</make>
     <model>3 Series</model>
@@ -4012,13 +4174,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GKALUEG3TL289928</vehicle_id>
+    <vehicle_id>126053</vehicle_id>
     <title>2026 GMC Terrain AWD Elevation</title>
     <description>2026 GMC Terrain. Trim: AWD Elevation. Color: Summit White. Body Style: Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Terrain</model>
@@ -4078,13 +4243,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GKS2GKD1TR137173</vehicle_id>
+    <vehicle_id>126054</vehicle_id>
     <title>2026 GMC Yukon XL Elevation</title>
     <description>2026 GMC Yukon XL. Trim: Elevation. Color: Onyx Black. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Yukon XL</model>
@@ -4144,13 +4312,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>WBAJA5C56JWA35923</vehicle_id>
+    <vehicle_id>P00961</vehicle_id>
     <title>2018 BMW 5 Series 530i</title>
     <description>2018 BMW 5 Series. Trim: 530i. Color: Black Sapphire Metallic. Body Style: Sedan.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2018</year>
     <make>BMW</make>
     <model>5 Series</model>
@@ -4231,13 +4402,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1C4SDJCTXJC133812</vehicle_id>
+    <vehicle_id>P00921A</vehicle_id>
     <title>2018 Dodge Durango R/T</title>
     <description>2018 Dodge Durango. Trim: R/T. Color: DB Black Clearcoat. Body Style: Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2018</year>
     <make>Dodge</make>
     <model>Durango</model>
@@ -4318,13 +4492,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>SALWR2SU8LA703381</vehicle_id>
+    <vehicle_id>125112A</vehicle_id>
     <title>2020 Land Rover Range Rover Sport HSE</title>
     <description>2020 Land Rover Range Rover Sport. Trim: HSE. Color: Narvik Black. Body Style: Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2020</year>
     <make>Land Rover</make>
     <model>Range Rover Sport</model>
@@ -4405,13 +4582,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GKS2KKL5TR127613</vehicle_id>
+    <vehicle_id>126050</vehicle_id>
     <title>2026 GMC Yukon XL Denali Ultimate</title>
     <description>2026 GMC Yukon XL. Trim: Denali Ultimate. Color: Onyx Black. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Yukon XL</model>
@@ -4471,13 +4651,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>W04GM6SX7J1132212</vehicle_id>
+    <vehicle_id>P00957</vehicle_id>
     <title>2018 Buick Regal Sportback Preferred II</title>
     <description>2018 Buick Regal Sportback. Trim: Preferred II. Color: Smoked Pearl Metallic. Body Style: Sedan.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2018</year>
     <make>Buick</make>
     <model>Regal Sportback</model>
@@ -4558,13 +4741,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GTUUDED1TG137618</vehicle_id>
+    <vehicle_id>126046</vehicle_id>
     <title>2026 GMC Sierra 1500 SLT</title>
     <description>2026 GMC Sierra 1500. Trim: SLT. Color: Sterling Metallic. Body Style: Crew Cab Pickup.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Sierra 1500</model>
@@ -4624,13 +4810,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1G1ZB5EB4AF101820</vehicle_id>
+    <vehicle_id>225140A</vehicle_id>
     <title>2010 Chevrolet Malibu LS w/1LS</title>
     <description>2010 Chevrolet Malibu. Trim: LS w/1LS. Color: Black Granite Metallic. Body Style: 4 Door Sedan.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2010</year>
     <make>Chevrolet</make>
     <model>Malibu</model>
@@ -4711,13 +4900,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>LRBAZLR42ND128398</vehicle_id>
+    <vehicle_id>225206A</vehicle_id>
     <title>2022 Buick Envision Preferred</title>
     <description>2022 Buick Envision. Trim: Preferred. Color: Satin Steel Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2022</year>
     <make>Buick</make>
     <model>Envision</model>
@@ -4798,13 +4990,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GCPDKEK8NG656085</vehicle_id>
+    <vehicle_id>P00955</vehicle_id>
     <title>2022 Chevrolet Silverado 1500 LT</title>
     <description>2022 Chevrolet Silverado 1500. Trim: LT. Color: Summit White. Body Style: Crew Cab Pickup.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2022</year>
     <make>Chevrolet</make>
     <model>Silverado 1500</model>
@@ -4885,13 +5080,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1C4RDHAG3MC660706</vehicle_id>
+    <vehicle_id>P00956</vehicle_id>
     <title>2021 Dodge Durango SXT Plus</title>
     <description>2021 Dodge Durango. Trim: SXT Plus. Color: Reactor Blue Pearlcoat. Body Style: Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2021</year>
     <make>Dodge</make>
     <model>Durango</model>
@@ -4972,13 +5170,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GT5UME78TF112229</vehicle_id>
+    <vehicle_id>126044</vehicle_id>
     <title>2026 GMC Sierra 2500HD SLE</title>
     <description>2026 GMC Sierra 2500HD. Trim: SLE. Color: Summit White. Body Style: Double Cab Pickup.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Sierra 2500HD</model>
@@ -5038,13 +5239,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GT1ESEH1TU408231</vehicle_id>
+    <vehicle_id>126043</vehicle_id>
     <title>2026 GMC Sierra EV Standard Range Elevation</title>
     <description>2026 GMC Sierra EV. Trim: Standard Range Elevation. Color: Summit White. Body Style: Crew Cab Pickup.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Sierra EV</model>
@@ -5104,13 +5308,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5GAERCKW2RJ126447</vehicle_id>
+    <vehicle_id>P00952</vehicle_id>
     <title>2024 Buick Enclave Premium</title>
     <description>2024 Buick Enclave. Trim: Premium. Color: Ebony Twilight Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2024</year>
     <make>Buick</make>
     <model>Enclave</model>
@@ -5191,13 +5398,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GT1ETED5TU407523</vehicle_id>
+    <vehicle_id>126041</vehicle_id>
     <title>2026 GMC Sierra EV Extended Range Elevation</title>
     <description>2026 GMC Sierra EV. Trim: Extended Range Elevation. Color: Onyx Black. Body Style: Crew Cab Pickup.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Sierra EV</model>
@@ -5257,13 +5467,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5GAEVAKS8TJ153477</vehicle_id>
+    <vehicle_id>226036</vehicle_id>
     <title>2026 Buick Enclave Preferred</title>
     <description>2026 Buick Enclave. Trim: Preferred. Color: OCEAN BLUE METALLIC. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Enclave</model>
@@ -5323,13 +5536,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GT4UNE78TF113804</vehicle_id>
+    <vehicle_id>126040</vehicle_id>
     <title>2026 GMC Sierra 2500HD SLT</title>
     <description>2026 GMC Sierra 2500HD. Trim: SLT. Color: Sterling Metallic. Body Style: Crew Cab Pickup.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Sierra 2500HD</model>
@@ -5389,13 +5605,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>WDC0G4JB1JV020128</vehicle_id>
+    <vehicle_id>P00945</vehicle_id>
     <title>2018 Mercedes-Benz GLC GLC 300</title>
     <description>2018 Mercedes-Benz GLC. Trim: GLC 300. Color: Black. Body Style: Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2018</year>
     <make>Mercedes-Benz</make>
     <model>GLC</model>
@@ -5476,13 +5695,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>JA4J3UA80PZ053661</vehicle_id>
+    <vehicle_id>P00946</vehicle_id>
     <title>2023 Mitsubishi Outlander SE Black Edition</title>
     <description>2023 Mitsubishi Outlander. Trim: SE Black Edition. Color: Alloy Silver Metallic. Body Style: Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2023</year>
     <make>Mitsubishi</make>
     <model>Outlander</model>
@@ -5563,13 +5785,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5GAEVAKS4TJ151810</vehicle_id>
+    <vehicle_id>226035</vehicle_id>
     <title>2026 Buick Enclave Preferred</title>
     <description>2026 Buick Enclave. Trim: Preferred. Color: MOONSTONE GRAY METALLIC. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Enclave</model>
@@ -5629,13 +5854,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GT4UXEY5TF114431</vehicle_id>
+    <vehicle_id>126039</vehicle_id>
     <title>2026 GMC Sierra 2500HD Denali Ultimate</title>
     <description>2026 GMC Sierra 2500HD. Trim: Denali Ultimate. Color: Onyx Black. Body Style: Crew Cab Pickup.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Sierra 2500HD</model>
@@ -5695,13 +5923,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5GAEVCKS4TJ145842</vehicle_id>
+    <vehicle_id>226032</vehicle_id>
     <title>2026 Buick Enclave Avenir</title>
     <description>2026 Buick Enclave. Trim: Avenir. Color: MOONSTONE GRAY METALLIC. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Enclave</model>
@@ -5761,13 +5992,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5GAEVCKS0TJ145384</vehicle_id>
+    <vehicle_id>226031</vehicle_id>
     <title>2026 Buick Enclave Avenir</title>
     <description>2026 Buick Enclave. Trim: Avenir. Color: EBONY TWILIGHT METALLIC. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Enclave</model>
@@ -5827,13 +6061,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL4AMCSL1TB045517</vehicle_id>
+    <vehicle_id>226033</vehicle_id>
     <title>2026 Buick Encore GX Preferred</title>
     <description>2026 Buick Encore GX. Trim: Preferred. Color: EBONY TWILIGHT METALLIC. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Encore GX</model>
@@ -5890,13 +6127,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GKENNKS0TJ142936</vehicle_id>
+    <vehicle_id>126038</vehicle_id>
     <title>2026 GMC Acadia AWD Elevation</title>
     <description>2026 GMC Acadia. Trim: AWD Elevation. Color: STERLING METALLIC. Body Style: 4 Door.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Acadia</model>
@@ -5956,13 +6196,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL4AMCSL7TB044730</vehicle_id>
+    <vehicle_id>226028</vehicle_id>
     <title>2026 Buick Encore GX Preferred</title>
     <description>2026 Buick Encore GX. Trim: Preferred. Color: MOONSTONE GRAY METALLIC. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Encore GX</model>
@@ -6022,13 +6265,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL4AMDSL4TB061605</vehicle_id>
+    <vehicle_id>226025</vehicle_id>
     <title>2026 Buick Encore GX Sport Touring</title>
     <description>2026 Buick Encore GX. Trim: Sport Touring. Color: SUMMIT WHITE. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Encore GX</model>
@@ -6088,13 +6334,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL4AMBSL7TB057164</vehicle_id>
+    <vehicle_id>226027</vehicle_id>
     <title>2026 Buick Encore GX Preferred</title>
     <description>2026 Buick Encore GX. Trim: Preferred. Color: EBONY TWILIGHT METALLIC. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Encore GX</model>
@@ -6154,13 +6403,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5GAEVAKSXTJ138690</vehicle_id>
+    <vehicle_id>226023</vehicle_id>
     <title>2026 Buick Enclave Preferred</title>
     <description>2026 Buick Enclave. Trim: Preferred. Color: SUMMIT WHITE. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Enclave</model>
@@ -6220,13 +6472,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GKALUEU0JL250510</vehicle_id>
+    <vehicle_id>126015A</vehicle_id>
     <title>2018 GMC Terrain SLE Diesel</title>
     <description>2018 GMC Terrain. Trim: SLE Diesel. Color: Graphite Gray Metallic. Body Style: Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2018</year>
     <make>GMC</make>
     <model>Terrain</model>
@@ -6307,13 +6562,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL47LAEP7TB050186</vehicle_id>
+    <vehicle_id>226022</vehicle_id>
     <title>2026 Buick Envista Preferred</title>
     <description>2026 Buick Envista. Trim: Preferred. Color: SUMMIT WHITE. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Envista</model>
@@ -6373,13 +6631,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5GAEVBKS4TJ121311</vehicle_id>
+    <vehicle_id>226020</vehicle_id>
     <title>2026 Buick Enclave Sport Touring</title>
     <description>2026 Buick Enclave. Trim: Sport Touring. Color: Ebony Twilight Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Enclave</model>
@@ -6439,13 +6700,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5GAEVBKS1TJ123274</vehicle_id>
+    <vehicle_id>226019</vehicle_id>
     <title>2026 Buick Enclave Sport Touring</title>
     <description>2026 Buick Enclave. Trim: Sport Touring. Color: Ebony Twilight Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Enclave</model>
@@ -6505,13 +6769,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5GAEVAKS8TJ122925</vehicle_id>
+    <vehicle_id>226017</vehicle_id>
     <title>2026 Buick Enclave Preferred</title>
     <description>2026 Buick Enclave. Trim: Preferred. Color: MOONSTONE GRAY METALLIC. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Enclave</model>
@@ -6571,13 +6838,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL4AMCSL6TB038076</vehicle_id>
+    <vehicle_id>226015</vehicle_id>
     <title>2026 Buick Encore GX Preferred</title>
     <description>2026 Buick Encore GX. Trim: Preferred. Color: EBONY TWILIGHT METALLIC. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Encore GX</model>
@@ -6637,13 +6907,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL4AMCSLXTB044298</vehicle_id>
+    <vehicle_id>226014</vehicle_id>
     <title>2026 Buick Encore GX Preferred</title>
     <description>2026 Buick Encore GX. Trim: Preferred. Color: SUMMIT WHITE. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Encore GX</model>
@@ -6703,13 +6976,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5GAEVAKS7TJ120566</vehicle_id>
+    <vehicle_id>226013</vehicle_id>
     <title>2026 Buick Enclave Preferred</title>
     <description>2026 Buick Enclave. Trim: Preferred. Color: EBONY TWILIGHT METALLIC. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Enclave</model>
@@ -6769,13 +7045,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL4AMCSL8TB040170</vehicle_id>
+    <vehicle_id>226011</vehicle_id>
     <title>2026 Buick Encore GX Preferred</title>
     <description>2026 Buick Encore GX. Trim: Preferred. Color: MOONSTONE GRAY METALLIC. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Encore GX</model>
@@ -6835,13 +7114,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL4AMCSL8TB029525</vehicle_id>
+    <vehicle_id>226010</vehicle_id>
     <title>2026 Buick Encore GX Preferred</title>
     <description>2026 Buick Encore GX. Trim: Preferred. Color: EBONY TWILIGHT METALLIC. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Encore GX</model>
@@ -6901,13 +7183,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GTUUGE86TZ120821</vehicle_id>
+    <vehicle_id>126029</vehicle_id>
     <title>2026 GMC Sierra 1500 Denali</title>
     <description>2026 GMC Sierra 1500. Trim: Denali. Color: Titanium Rush Metallic. Body Style: Crew Cab Pickup.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Sierra 1500</model>
@@ -6967,13 +7252,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GTUUCED6TZ115141</vehicle_id>
+    <vehicle_id>126020</vehicle_id>
     <title>2026 GMC Sierra 1500 Elevation</title>
     <description>2026 GMC Sierra 1500. Trim: Elevation. Color: Onyx Black. Body Style: Crew Cab Pickup.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Sierra 1500</model>
@@ -7033,13 +7321,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GT40DDB9SU120878</vehicle_id>
+    <vehicle_id>125139</vehicle_id>
     <title>2025 GMC HUMMER EV Pickup 3X</title>
     <description>2025 GMC HUMMER EV Pickup. Trim: 3X. Color: Void Black. Body Style: Crew Cab Pickup.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2025</year>
     <make>GMC</make>
     <model>HUMMER EV Pickup</model>
@@ -7099,13 +7390,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL4AMCSL8TB030707</vehicle_id>
+    <vehicle_id>226007</vehicle_id>
     <title>2026 Buick Encore GX Preferred</title>
     <description>2026 Buick Encore GX. Trim: Preferred. Color: BRILLIANT RED. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Encore GX</model>
@@ -7162,13 +7456,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5GAERBKS5TJ101329</vehicle_id>
+    <vehicle_id>226006</vehicle_id>
     <title>2026 Buick Enclave Sport Touring</title>
     <description>2026 Buick Enclave. Trim: Sport Touring. Color: Moonstone Gray Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Enclave</model>
@@ -7228,13 +7525,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>2G1FJ1EW8F9249521</vehicle_id>
+    <vehicle_id>226047B</vehicle_id>
     <title>2015 Chevrolet Camaro SS</title>
     <description>2015 Chevrolet Camaro. Trim: SS. Color: Crystal Red Tintcoat. Body Style: Coupe.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2015</year>
     <make>Chevrolet</make>
     <model>Camaro</model>
@@ -7315,13 +7615,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5TFLA5DB9SX261513</vehicle_id>
+    <vehicle_id>126031A</vehicle_id>
     <title>2025 Toyota Tundra SR5</title>
     <description>2025 Toyota Tundra. Trim: SR5. Color: Lunar Rock. Body Style: CrewMax.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2025</year>
     <make>Toyota</make>
     <model>Tundra</model>
@@ -7402,13 +7705,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>2FMPK3K9XLBA39411</vehicle_id>
+    <vehicle_id>P01004</vehicle_id>
     <title>2020 Ford Edge Titanium</title>
     <description>2020 Ford Edge. Trim: Titanium. Color: Star White Metallic Tri-Coat. Body Style: Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2020</year>
     <make>Ford</make>
     <model>Edge</model>
@@ -7489,13 +7795,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GKENNKS4TJ210753</vehicle_id>
+    <vehicle_id>126080</vehicle_id>
     <title>2026 GMC Acadia AWD Elevation</title>
     <description>2026 GMC Acadia. Trim: AWD Elevation. Color: Ebony Twilight Metallic. Body Style: 4 Door.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Acadia</model>
@@ -7554,13 +7863,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GTUUCED4TZ225461</vehicle_id>
+    <vehicle_id>126079</vehicle_id>
     <title>2026 GMC Sierra 1500 Elevation</title>
     <description>2026 GMC Sierra 1500. Trim: Elevation. Color: Summit White. Body Style: Crew Cab Pickup.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Sierra 1500</model>
@@ -7620,13 +7932,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GTUUCED0TZ223500</vehicle_id>
+    <vehicle_id>126078</vehicle_id>
     <title>2026 GMC Sierra 1500 Elevation</title>
     <description>2026 GMC Sierra 1500. Trim: Elevation. Color: Downpour Metallic. Body Style: Crew Cab Pickup.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Sierra 1500</model>
@@ -7686,13 +8001,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GKENRKS3TJ207561</vehicle_id>
+    <vehicle_id>126076</vehicle_id>
     <title>2026 GMC Acadia AWD Denali</title>
     <description>2026 GMC Acadia. Trim: AWD Denali. Color: Glacier White Tricoat. Body Style: 4 Door.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Acadia</model>
@@ -7751,13 +8069,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL47LBEP9TB077427</vehicle_id>
+    <vehicle_id>226050</vehicle_id>
     <title>2026 Buick Envista Sport Touring</title>
     <description>2026 Buick Envista. Trim: Sport Touring. Color: Ebony Twilight Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Envista</model>
@@ -7813,13 +8134,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL47LBEP9TB077041</vehicle_id>
+    <vehicle_id>226049</vehicle_id>
     <title>2026 Buick Envista Sport Touring</title>
     <description>2026 Buick Envista. Trim: Sport Touring. Color: Brilliant Red. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Envista</model>
@@ -7875,13 +8199,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL4AMESL4TB073906</vehicle_id>
+    <vehicle_id>226048</vehicle_id>
     <title>2026 Buick Encore GX Sport Touring</title>
     <description>2026 Buick Encore GX. Trim: Sport Touring. Color: Moonstone Gray Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>Buick</make>
     <model>Encore GX</model>
@@ -7937,13 +8264,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>2LMPJ8KP9LBL20280</vehicle_id>
+    <vehicle_id>RT0045</vehicle_id>
     <title>2020 Lincoln Nautilus Reserve</title>
     <description>2020 Lincoln Nautilus. Trim: Reserve. Color: Pristine White. Body Style: Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2020</year>
     <make>Lincoln</make>
     <model>Nautilus</model>
@@ -8024,13 +8354,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GTUUDE81PG132850</vehicle_id>
+    <vehicle_id>P01001</vehicle_id>
     <title>2023 GMC Sierra 1500 SLT</title>
     <description>2023 GMC Sierra 1500. Trim: SLT. Color: Pacific Blue Metallic. Body Style: Crew Cab Pickup.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2023</year>
     <make>GMC</make>
     <model>Sierra 1500</model>
@@ -8111,13 +8444,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5NMS2DAJ4PH495976</vehicle_id>
+    <vehicle_id>P01000</vehicle_id>
     <title>2023 Hyundai Santa Fe SEL</title>
     <description>2023 Hyundai Santa Fe. Trim: SEL. Color: Portofino Gray. Body Style: Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2023</year>
     <make>Hyundai</make>
     <model>Santa Fe</model>
@@ -8198,13 +8534,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>JM3TCBDY8K0328731</vehicle_id>
+    <vehicle_id>P00980A</vehicle_id>
     <title>2019 Mazda CX-9 Grand Touring</title>
     <description>2019 Mazda CX-9. Trim: Grand Touring. Color: Deep Crystal Blue Mica. Body Style: i-ACTIV AWD Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2019</year>
     <make>Mazda</make>
     <model>CX-9</model>
@@ -8285,13 +8624,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GNKDCRJ2RS185482</vehicle_id>
+    <vehicle_id>P00997</vehicle_id>
     <title>2024 Chevrolet Blazer EV eAWD RS</title>
     <description>2024 Chevrolet Blazer EV. Trim: eAWD RS. Color: Black. Body Style: Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2024</year>
     <make>Chevrolet</make>
     <model>Blazer EV</model>
@@ -8372,13 +8714,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GNAXKEV3NL281552</vehicle_id>
+    <vehicle_id>P00998</vehicle_id>
     <title>2022 Chevrolet Equinox LT</title>
     <description>2022 Chevrolet Equinox. Trim: LT. Color: Mosaic Black Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2022</year>
     <make>Chevrolet</make>
     <model>Equinox</model>
@@ -8459,13 +8804,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1C4JJXR66PW537416</vehicle_id>
+    <vehicle_id>P00995</vehicle_id>
     <title>2023 Jeep Wrangler 4xe Rubicon</title>
     <description>2023 Jeep Wrangler 4xe. Trim: Rubicon. Color: Bright White Clearcoat. Body Style: Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2023</year>
     <make>Jeep</make>
     <model>Wrangler 4xe</model>
@@ -8546,13 +8894,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>YV4ED3UL3P2008606</vehicle_id>
+    <vehicle_id>P00994</vehicle_id>
     <title>2023 Volvo XC40 Recharge Pure Electric Plus</title>
     <description>2023 Volvo XC40 Recharge Pure Electric. Trim: Plus. Color: Silver Dawn Metallic. Body Style: Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2023</year>
     <make>Volvo</make>
     <model>XC40 Recharge Pure Electric</model>
@@ -8633,13 +8984,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KMHG54JH4HU025513</vehicle_id>
+    <vehicle_id>P00996</vehicle_id>
     <title>2017 Genesis G90 5.0L Ultimate</title>
     <description>2017 Genesis G90. Trim: 5.0L Ultimate. Color: Casablanca White. Body Style: Sedan.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2017</year>
     <make>Genesis</make>
     <model>G90</model>
@@ -8720,13 +9074,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GTUUCED2TZ221876</vehicle_id>
+    <vehicle_id>126075</vehicle_id>
     <title>2026 GMC Sierra 1500 Elevation</title>
     <description>2026 GMC Sierra 1500. Trim: Elevation. Color: Sterling Metallic. Body Style: Crew Cab Pickup.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Sierra 1500</model>
@@ -8786,13 +9143,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GKENRKS7TJ206011</vehicle_id>
+    <vehicle_id>126074</vehicle_id>
     <title>2026 GMC Acadia AWD Denali</title>
     <description>2026 GMC Acadia. Trim: AWD Denali. Color: Ebony Twilight Metallic. Body Style: 4 Door.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Acadia</model>
@@ -8851,13 +9211,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GKKNUL47MZ132808</vehicle_id>
+    <vehicle_id>P00992</vehicle_id>
     <title>2021 GMC Acadia SLT</title>
     <description>2021 GMC Acadia. Trim: SLT. Color: Cayenne Red Tintcoat. Body Style: 4 Door.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2021</year>
     <make>GMC</make>
     <model>Acadia</model>
@@ -8938,13 +9301,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>2T3LWRFV9LW064668</vehicle_id>
+    <vehicle_id>PB0033</vehicle_id>
     <title>2020 Toyota RAV4 Hybrid LE</title>
     <description>2020 Toyota RAV4. Trim: Hybrid LE. Color: Ruby Flare Pearl. Body Style: Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2020</year>
     <make>Toyota</make>
     <model>RAV4</model>
@@ -9025,13 +9391,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GKALUEG6TL326891</vehicle_id>
+    <vehicle_id>126072</vehicle_id>
     <title>2026 GMC Terrain AWD Elevation</title>
     <description>2026 GMC Terrain. Trim: AWD Elevation. Color: Ebony Twilight Metallic. Body Style: Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Terrain</model>
@@ -9090,13 +9459,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1HGCY2F68RA004741</vehicle_id>
+    <vehicle_id>P00991</vehicle_id>
     <title>2024 Honda Accord Hybrid EX-L</title>
     <description>2024 Honda Accord Hybrid. Trim: EX-L. Color: Urban Gray Pearl. Body Style: Sedan.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2024</year>
     <make>Honda</make>
     <model>Accord Hybrid</model>
@@ -9177,13 +9549,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GYKNERSXKZ232092</vehicle_id>
+    <vehicle_id>P00990</vehicle_id>
     <title>2019 Cadillac XT5 Premium Luxury FWD</title>
     <description>2019 Cadillac XT5. Trim: Premium Luxury FWD. Color: Crystal White Tricoat. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2019</year>
     <make>Cadillac</make>
     <model>XT5</model>
@@ -9264,13 +9639,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GNKBHR44PS229069</vehicle_id>
+    <vehicle_id>PB0031</vehicle_id>
     <title>2023 Chevrolet Blazer LT</title>
     <description>2023 Chevrolet Blazer. Trim: LT. Color: Summit White. Body Style: Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2023</year>
     <make>Chevrolet</make>
     <model>Blazer</model>
@@ -9351,13 +9729,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1G1ZD5ST7RF188311</vehicle_id>
+    <vehicle_id>P00982</vehicle_id>
     <title>2024 Chevrolet Malibu LT</title>
     <description>2024 Chevrolet Malibu. Trim: LT. Color: Mosaic Black Metallic. Body Style: Sedan.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2024</year>
     <make>Chevrolet</make>
     <model>Malibu</model>
@@ -9438,13 +9819,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMCU9HD3KUA00840</vehicle_id>
+    <vehicle_id>P00985</vehicle_id>
     <title>2019 Ford Escape SEL</title>
     <description>2019 Ford Escape. Trim: SEL. Color: Magnetic Metallic. Body Style: Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2019</year>
     <make>Ford</make>
     <model>Escape</model>
@@ -9525,13 +9909,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>JF1VBAF60N9028701</vehicle_id>
+    <vehicle_id>P00983</vehicle_id>
     <title>2022 Subaru WRX Premium</title>
     <description>2022 Subaru WRX. Trim: Premium. Color: Magnetite Gray Metallic. Body Style: Sedan.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2022</year>
     <make>Subaru</make>
     <model>WRX</model>
@@ -9612,13 +9999,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1GKS2BKD4TR163785</vehicle_id>
+    <vehicle_id>126070</vehicle_id>
     <title>2026 GMC Yukon Elevation</title>
     <description>2026 GMC Yukon. Trim: Elevation. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2026</year>
     <make>GMC</make>
     <model>Yukon</model>
@@ -9677,13 +10067,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1C4RJFBG9MC638723</vehicle_id>
+    <vehicle_id>126045A</vehicle_id>
     <title>2021 Jeep Grand Cherokee 80th Anniversary</title>
     <description>2021 Jeep Grand Cherokee. Trim: 80th Anniversary. Color: Slate Blue Pearlcoat. Body Style: Sport Utility.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2021</year>
     <make>Jeep</make>
     <model>Grand Cherokee</model>
@@ -9764,13 +10157,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL4MMBS2XPB139089</vehicle_id>
+    <vehicle_id>P00981</vehicle_id>
     <title>2023 Buick Encore GX Preferred</title>
     <description>2023 Buick Encore GX. Trim: Preferred. Color: Moonstone Gray Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>6305 Northwest Hwy.</street_address>
-    <city>Crystal Lake</city>
-    <region>IL</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
     <year>2023</year>
     <make>Buick</make>
     <model>Encore GX</model>

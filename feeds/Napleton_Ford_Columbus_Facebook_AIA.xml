@@ -1,13 +1,16 @@
 <?xml version="1.0" ?>
 <listings>
   <listing>
-    <vehicle_id>1FDRF3HT9RDA28659</vehicle_id>
+    <vehicle_id>124158</vehicle_id>
     <title>2024 Ford Super Duty F-350 DRW XL</title>
     <description>2024 Ford Super Duty F-350 DRW. Trim: XL. Color: OXFORD WHITE. Body Style: SD Regular Cab.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2024</year>
     <make>Ford</make>
     <model>Super Duty F-350 DRW</model>
@@ -63,13 +66,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FDUF5GTXRDA09643</vehicle_id>
+    <vehicle_id>124036</vehicle_id>
     <title>2024 Ford Super Duty F-550 DRW XL</title>
     <description>2024 Ford Super Duty F-550 DRW. Trim: XL. Color: OXFORD WHITE. Body Style: SD Regular Cab.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2024</year>
     <make>Ford</make>
     <model>Super Duty F-550 DRW</model>
@@ -149,13 +155,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMCU0E18SUA54771</vehicle_id>
+    <vehicle_id>125019</vehicle_id>
     <title>2025 Ford Escape PHEV</title>
     <description>2025 Ford Escape. Trim: PHEV. Color: Star White Metallic Tri-Coat. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Escape</model>
@@ -236,13 +245,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMCU9GN0SUA49312</vehicle_id>
+    <vehicle_id>125017</vehicle_id>
     <title>2025 Ford Escape Active</title>
     <description>2025 Ford Escape. Trim: Active. Color: OXFORD WHITE. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Escape</model>
@@ -322,13 +334,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMCU9MN2SUA50935</vehicle_id>
+    <vehicle_id>125018</vehicle_id>
     <title>2025 Ford Escape ST-Line</title>
     <description>2025 Ford Escape. Trim: ST-Line. Color: Star White Metallic Tri-Coat. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Escape</model>
@@ -409,13 +424,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMCU9MN9RUA83568</vehicle_id>
+    <vehicle_id>124089</vehicle_id>
     <title>2024 Ford Escape ST-Line</title>
     <description>2024 Ford Escape. Trim: ST-Line. Color: Star White Metallic Tri-Coat. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2024</year>
     <make>Ford</make>
     <model>Escape</model>
@@ -496,13 +514,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FTEW3LP8SKD04778</vehicle_id>
+    <vehicle_id>125016</vehicle_id>
     <title>2025 Ford F-150 XLT</title>
     <description>2025 Ford F-150. Trim: XLT. Color: ICONIC SILVER METALLIC. Body Style: SuperCrew Cab.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>F-150</model>
@@ -582,13 +603,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FTFW3L86SKD09457</vehicle_id>
+    <vehicle_id>125020</vehicle_id>
     <title>2025 Ford F-150 XLT</title>
     <description>2025 Ford F-150. Trim: XLT. Color: OXFORD WHITE. Body Style: SuperCrew Cab.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>F-150</model>
@@ -668,13 +692,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMWK8GC4SGB09523</vehicle_id>
+    <vehicle_id>125029</vehicle_id>
     <title>2025 Ford Explorer ST</title>
     <description>2025 Ford Explorer. Trim: ST. Color: CARBONIZED GRAY METALLIC. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Explorer</model>
@@ -754,13 +781,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FT8W2BT6SEC49297</vehicle_id>
+    <vehicle_id>125033</vehicle_id>
     <title>2025 Ford Super Duty F-250 SRW LARIAT</title>
     <description>2025 Ford Super Duty F-250 SRW. Trim: LARIAT. Color: Agate Black Metallic. Body Style: SD Crew Cab.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Super Duty F-250 SRW</model>
@@ -841,13 +871,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FTBF1Y85SKA32814</vehicle_id>
+    <vehicle_id>125040</vehicle_id>
     <title>2025 Ford Transit Cargo Van</title>
     <description>2025 Ford Transit Cargo Van. Color: OXFORD WHITE. Body Style: Low Roof Van.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Transit Cargo Van</model>
@@ -908,13 +941,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FTBR1Y84SKA32391</vehicle_id>
+    <vehicle_id>125042</vehicle_id>
     <title>2025 Ford Transit Cargo Van T-250 148  LOW RF 9070 GV</title>
     <description>2025 Ford Transit Cargo Van. Trim: T-250 148  LOW RF 9070 GV. Color: OXFORD WHITE. Body Style: Low Roof Van.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Transit Cargo Van</model>
@@ -976,13 +1012,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FTBR1Y85SKA31797</vehicle_id>
+    <vehicle_id>125045</vehicle_id>
     <title>2025 Ford Transit Cargo Van T-250 148  LOW RF 9070 GV</title>
     <description>2025 Ford Transit Cargo Van. Trim: T-250 148  LOW RF 9070 GV. Color: OXFORD WHITE. Body Style: Low Roof Van.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Transit Cargo Van</model>
@@ -1044,13 +1083,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FTFW3L89SKD49032</vehicle_id>
+    <vehicle_id>125048</vehicle_id>
     <title>2025 Ford F-150 XLT</title>
     <description>2025 Ford F-150. Trim: XLT. Color: Rapid Red Metallic Tinted Clearcoat. Body Style: SuperCrew Cab.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>F-150</model>
@@ -1131,13 +1173,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FTBF1Y83SKA32956</vehicle_id>
+    <vehicle_id>125052</vehicle_id>
     <title>2025 Ford Transit Cargo Van</title>
     <description>2025 Ford Transit Cargo Van. Color: OXFORD WHITE. Body Style: Low Roof Van.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Transit Cargo Van</model>
@@ -1198,13 +1243,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FTFW3L8XSKE20853</vehicle_id>
+    <vehicle_id>125076</vehicle_id>
     <title>2025 Ford F-150 XLT</title>
     <description>2025 Ford F-150. Trim: XLT. Color: CARBONIZED GRAY METALLIC. Body Style: SuperCrew Cab.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>F-150</model>
@@ -1263,13 +1311,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FTBR2CG2SKA38954</vehicle_id>
+    <vehicle_id>125079</vehicle_id>
     <title>2025 Ford Transit Cargo Van</title>
     <description>2025 Ford Transit Cargo Van. Color: OXFORD WHITE. Body Style: Medium Roof Van.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Transit Cargo Van</model>
@@ -1327,13 +1378,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FDWE3FN8SDD39709</vehicle_id>
+    <vehicle_id>125083</vehicle_id>
     <title>2025 Ford E-Series Cutaway E-350 DRW 138  WB</title>
     <description>2025 Ford E-Series Cutaway. Trim: E-350 DRW 138  WB. Color: OXFORD WHITE. Body Style: Chassis.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>E-Series Cutaway</model>
@@ -1395,13 +1449,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FDWE3FN2SDD40922</vehicle_id>
+    <vehicle_id>125087</vehicle_id>
     <title>2025 Ford E-Series Cutaway E-350 DRW 138  WB</title>
     <description>2025 Ford E-Series Cutaway. Trim: E-350 DRW 138  WB. Color: OXFORD WHITE. Body Style: Chassis.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>E-Series Cutaway</model>
@@ -1463,13 +1520,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMEE8BP8SLB01770</vehicle_id>
+    <vehicle_id>125093</vehicle_id>
     <title>2025 Ford Bronco Outer Banks</title>
     <description>2025 Ford Bronco. Trim: Outer Banks. Color: SHADOW BLACK. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Bronco</model>
@@ -1528,13 +1588,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3FTTW8BAXSRB16132</vehicle_id>
+    <vehicle_id>125116</vehicle_id>
     <title>2025 Ford Maverick XL</title>
     <description>2025 Ford Maverick. Trim: XL. Color: OXFORD WHITE. Body Style: SuperCrew.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Maverick</model>
@@ -1596,13 +1659,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMWK8GC3SGC58795</vehicle_id>
+    <vehicle_id>125122</vehicle_id>
     <title>2025 Ford Explorer ST</title>
     <description>2025 Ford Explorer. Trim: ST. Color: AGATE BLACK METALLIC. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Explorer</model>
@@ -1661,13 +1727,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FT8W3BN4TEC11916</vehicle_id>
+    <vehicle_id>126000</vehicle_id>
     <title>2026 Ford Super Duty F-350 SRW XLT</title>
     <description>2026 Ford Super Duty F-350 SRW. Trim: XLT. Color: Agate Black Metallic. Body Style: SD Crew Cab.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2026</year>
     <make>Ford</make>
     <model>Super Duty F-350 SRW</model>
@@ -1730,13 +1799,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3FMCR9BN6SRF23246</vehicle_id>
+    <vehicle_id>125136</vehicle_id>
     <title>2025 Ford Bronco Sport Big Bend</title>
     <description>2025 Ford Bronco Sport. Trim: Big Bend. Color: Ruby Red Metallic Tinted Clearcoat. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Bronco Sport</model>
@@ -1796,13 +1868,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FTFW1RG4SFB88889</vehicle_id>
+    <vehicle_id>125141</vehicle_id>
     <title>2025 Ford F-150 Raptor</title>
     <description>2025 Ford F-150. Trim: Raptor. Color: SPACE WHITE METALLIC. Body Style: SuperCrew Cab.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>F-150</model>
@@ -1864,13 +1939,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3FMTK3SU2SMA54629</vehicle_id>
+    <vehicle_id>125145</vehicle_id>
     <title>2025 Ford Mustang Mach-E Premium</title>
     <description>2025 Ford Mustang Mach-E. Trim: Premium. Color: SHADOW BLACK. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Mustang Mach-E</model>
@@ -1929,13 +2007,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FM5K8HC3LGB09945</vehicle_id>
+    <vehicle_id>125138A</vehicle_id>
     <title>2020 Ford Explorer Platinum</title>
     <description>2020 Ford Explorer. Trim: Platinum. Color: Star White Metallic Tri-Coat. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2020</year>
     <make>Ford</make>
     <model>Explorer</model>
@@ -2016,13 +2097,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMCU9NZ8TUA05534</vehicle_id>
+    <vehicle_id>126001</vehicle_id>
     <title>2026 Ford Escape ST-Line Select</title>
     <description>2026 Ford Escape. Trim: ST-Line Select. Color: AGATE BLACK METALLIC. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2026</year>
     <make>Ford</make>
     <model>Escape</model>
@@ -2084,13 +2168,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3FTTW8H35SRB58295</vehicle_id>
+    <vehicle_id>125148</vehicle_id>
     <title>2025 Ford Maverick XLT</title>
     <description>2025 Ford Maverick. Trim: XLT. Color: Oxford White. Body Style: SuperCrew.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Maverick</model>
@@ -2150,13 +2237,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMCU9NA1TUA04462</vehicle_id>
+    <vehicle_id>126002</vehicle_id>
     <title>2026 Ford Escape ST-Line Select</title>
     <description>2026 Ford Escape. Trim: ST-Line Select. Color: Carbonized Gray Metallic. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2026</year>
     <make>Ford</make>
     <model>Escape</model>
@@ -2219,13 +2309,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1N4BL4DV2RN364133</vehicle_id>
+    <vehicle_id>P0371</vehicle_id>
     <title>2024 Nissan Altima 2.5 SV</title>
     <description>2024 Nissan Altima. Trim: 2.5 SV. Color: Gun Metallic. Body Style: Sedan.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2024</year>
     <make>Nissan</make>
     <model>Altima</model>
@@ -2306,13 +2399,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMCU9MN6TUA04977</vehicle_id>
+    <vehicle_id>126003</vehicle_id>
     <title>2026 Ford Escape ST-Line</title>
     <description>2026 Ford Escape. Trim: ST-Line. Color: Vapor Blue Metallic. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2026</year>
     <make>Ford</make>
     <model>Escape</model>
@@ -2375,13 +2471,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5N1BT3BB9NC707115</vehicle_id>
+    <vehicle_id>PB0017</vehicle_id>
     <title>2022 Nissan Rogue SV</title>
     <description>2022 Nissan Rogue. Trim: SV. Color: Brilliant Silver Metallic. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2022</year>
     <make>Nissan</make>
     <model>Rogue</model>
@@ -2462,13 +2561,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>7MMVABEMXPN121805</vehicle_id>
+    <vehicle_id>PB0021</vehicle_id>
     <title>2023 Mazda CX-50 2.5 S Premium Plus Package</title>
     <description>2023 Mazda CX-50. Trim: 2.5 S Premium Plus Package. Color: Ingot Blue Mica. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2023</year>
     <make>Mazda</make>
     <model>CX-50</model>
@@ -2549,13 +2651,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMCU9G66MUA38925</vehicle_id>
+    <vehicle_id>PB0027</vehicle_id>
     <title>2021 Ford Escape SE</title>
     <description>2021 Ford Escape. Trim: SE. Color: Bronze Fire Metallic. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2021</year>
     <make>Ford</make>
     <model>Escape</model>
@@ -2635,13 +2740,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FTFW5LD6SFC40710</vehicle_id>
+    <vehicle_id>125166</vehicle_id>
     <title>2025 Ford F-150 LARIAT</title>
     <description>2025 Ford F-150. Trim: LARIAT. Color: Carbonized Gray Metallic. Body Style: SuperCrew Cab.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>F-150</model>
@@ -2701,13 +2809,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>2FMPK4K90PBA22631</vehicle_id>
+    <vehicle_id>PB0033</vehicle_id>
     <title>2023 Ford Edge Titanium</title>
     <description>2023 Ford Edge. Trim: Titanium. Color: Iconic Silver Metallic. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2023</year>
     <make>Ford</make>
     <model>Edge</model>
@@ -2787,13 +2898,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>7MUCAAAG7RV093983</vehicle_id>
+    <vehicle_id>PB0036</vehicle_id>
     <title>2024 Toyota Corolla Cross LE</title>
     <description>2024 Toyota Corolla Cross. Trim: LE. Color: Celestite. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2024</year>
     <make>Toyota</make>
     <model>Corolla Cross</model>
@@ -2873,13 +2987,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5N1BT3BB3PC751131</vehicle_id>
+    <vehicle_id>PB0038</vehicle_id>
     <title>2023 Nissan Rogue SV</title>
     <description>2023 Nissan Rogue. Trim: SV. Color: Super Black. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2023</year>
     <make>Nissan</make>
     <model>Rogue</model>
@@ -2960,13 +3077,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3GNAXUEG4RS151434</vehicle_id>
+    <vehicle_id>PB0039</vehicle_id>
     <title>2024 Chevrolet Equinox LT</title>
     <description>2024 Chevrolet Equinox. Trim: LT. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2024</year>
     <make>Chevrolet</make>
     <model>Equinox</model>
@@ -3047,13 +3167,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMDE7BH1SLB58813</vehicle_id>
+    <vehicle_id>125170</vehicle_id>
     <title>2025 Ford Bronco Big Bend</title>
     <description>2025 Ford Bronco. Trim: Big Bend. Color: Carbonized Gray Metallic. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Bronco</model>
@@ -3113,13 +3236,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMUK8KH8TGA20095</vehicle_id>
+    <vehicle_id>126012</vehicle_id>
     <title>2026 Ford Explorer ST-Line</title>
     <description>2026 Ford Explorer. Trim: ST-Line. Color: Vapor Blue Metallic. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2026</year>
     <make>Ford</make>
     <model>Explorer</model>
@@ -3182,13 +3308,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMCU9GN2PUB24437</vehicle_id>
+    <vehicle_id>PB0044</vehicle_id>
     <title>2023 Ford Escape Active</title>
     <description>2023 Ford Escape. Trim: Active. Color: WHITE. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2023</year>
     <make>Ford</make>
     <model>Escape</model>
@@ -3268,13 +3397,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMSK8DH8PGA00181</vehicle_id>
+    <vehicle_id>PB0046</vehicle_id>
     <title>2023 Ford Explorer XLT</title>
     <description>2023 Ford Explorer. Trim: XLT. Color: Iconic Silver Metallic. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2023</year>
     <make>Ford</make>
     <model>Explorer</model>
@@ -3355,13 +3487,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMSK8DH9PGB36593</vehicle_id>
+    <vehicle_id>PB0045</vehicle_id>
     <title>2023 Ford Explorer XLT</title>
     <description>2023 Ford Explorer. Trim: XLT. Color: Rapid Red Metallic Tinted Clearcoat. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2023</year>
     <make>Ford</make>
     <model>Explorer</model>
@@ -3442,13 +3577,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FTFW5L89SKE68310</vehicle_id>
+    <vehicle_id>125174</vehicle_id>
     <title>2025 Ford F-150 LARIAT</title>
     <description>2025 Ford F-150. Trim: LARIAT. Color: Agate Black Metallic. Body Style: SuperCrew Cab.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>F-150</model>
@@ -3511,13 +3649,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>2FMPK4K94RBA68983</vehicle_id>
+    <vehicle_id>PB0047</vehicle_id>
     <title>2024 Ford Edge Titanium</title>
     <description>2024 Ford Edge. Trim: Titanium. Color: Iconic Silver Metallic. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2024</year>
     <make>Ford</make>
     <model>Edge</model>
@@ -3598,13 +3739,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FT8W3DT8PED62999</vehicle_id>
+    <vehicle_id>125100A</vehicle_id>
     <title>2023 Ford Super Duty F-350 DRW Platinum</title>
     <description>2023 Ford Super Duty F-350 DRW. Trim: Platinum. Color: Star White Metallic Tri-Coat. Body Style: SD Crew Cab.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2023</year>
     <make>Ford</make>
     <model>Super Duty F-350 DRW</model>
@@ -3685,13 +3829,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3FTTW8B39SRB49964</vehicle_id>
+    <vehicle_id>125175</vehicle_id>
     <title>2025 Ford Maverick XL</title>
     <description>2025 Ford Maverick. Trim: XL. Color: Carbonized Gray Metallic. Body Style: SuperCrew.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Maverick</model>
@@ -3751,13 +3898,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3FMCR9CN9SRF64890</vehicle_id>
+    <vehicle_id>125177</vehicle_id>
     <title>2025 Ford Bronco Sport Outer Banks</title>
     <description>2025 Ford Bronco Sport. Trim: Outer Banks. Color: Oxford White. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Bronco Sport</model>
@@ -3816,13 +3966,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FTEW1EP1FFC13979</vehicle_id>
+    <vehicle_id>P0360A</vehicle_id>
     <title>2015 Ford F-150 XLT</title>
     <description>2015 Ford F-150. Trim: XLT. Color: Green Gem Metallic. Body Style: SuperCrew Cab Styleside.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2015</year>
     <make>Ford</make>
     <model>F-150</model>
@@ -3903,13 +4056,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3FMCR9BN2SRF69298</vehicle_id>
+    <vehicle_id>125178</vehicle_id>
     <title>2025 Ford Bronco Sport Big Bend</title>
     <description>2025 Ford Bronco Sport. Trim: Big Bend. Color: Azure Gray Metallic Tri-Coat. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Bronco Sport</model>
@@ -3965,13 +4121,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMDE7BH8SLB55682</vehicle_id>
+    <vehicle_id>125176</vehicle_id>
     <title>2025 Ford Bronco Big Bend</title>
     <description>2025 Ford Bronco. Trim: Big Bend. Color: Desert Sand. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Bronco</model>
@@ -4031,13 +4190,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1C4RJHAG3PC641005</vehicle_id>
+    <vehicle_id>PB0049</vehicle_id>
     <title>2023 Jeep Grand Cherokee Altitude</title>
     <description>2023 Jeep Grand Cherokee. Trim: Altitude. Color: Bright White Clearcoat. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2023</year>
     <make>Jeep</make>
     <model>Grand Cherokee</model>
@@ -4118,13 +4280,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3FMCR9G64RRF41952</vehicle_id>
+    <vehicle_id>PB0048</vehicle_id>
     <title>2024 Ford Bronco Sport Heritage</title>
     <description>2024 Ford Bronco Sport. Trim: Heritage. Color: Carbonized Gray Metallic. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2024</year>
     <make>Ford</make>
     <model>Bronco Sport</model>
@@ -4205,13 +4370,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMCU9MN6TUA16627</vehicle_id>
+    <vehicle_id>126015</vehicle_id>
     <title>2026 Ford Escape ST-Line</title>
     <description>2026 Ford Escape. Trim: ST-Line. Color: Carbonized Gray Metallic. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2026</year>
     <make>Ford</make>
     <model>Escape</model>
@@ -4274,13 +4442,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FA6P8TH5T5105989</vehicle_id>
+    <vehicle_id>126014</vehicle_id>
     <title>2026 Ford Mustang EcoBoost</title>
     <description>2026 Ford Mustang. Trim: EcoBoost. Color: Vapor Blue Metallic. Body Style: Fastback.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2026</year>
     <make>Ford</make>
     <model>Mustang</model>
@@ -4337,13 +4508,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FTFW5L8XSFC53558</vehicle_id>
+    <vehicle_id>125173</vehicle_id>
     <title>2025 Ford F-150 LARIAT</title>
     <description>2025 Ford F-150. Trim: LARIAT. Color: Agate Black Metallic. Body Style: SuperCrew Cab.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>F-150</model>
@@ -4403,13 +4577,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMEE9BP6SLB43179</vehicle_id>
+    <vehicle_id>125172</vehicle_id>
     <title>2025 Ford Bronco Badlands</title>
     <description>2025 Ford Bronco. Trim: Badlands. Color: Ruby Red Metallic Tinted Clearcoat. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Bronco</model>
@@ -4469,13 +4646,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>MAJ3S2GE8KC281671</vehicle_id>
+    <vehicle_id>P0376A</vehicle_id>
     <title>2019 Ford EcoSport SE</title>
     <description>2019 Ford EcoSport. Trim: SE. Color: Ruby Red Metallic Tinted Clearcoat. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2019</year>
     <make>Ford</make>
     <model>EcoSport</model>
@@ -4556,13 +4736,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5TDKDRAH7PS036071</vehicle_id>
+    <vehicle_id>PB0042</vehicle_id>
     <title>2023 Toyota Highlander XLE</title>
     <description>2023 Toyota Highlander. Trim: XLE. Color: Wind Chill Pearl. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2023</year>
     <make>Toyota</make>
     <model>Highlander</model>
@@ -4643,13 +4826,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>4S3BMCA63E3003188</vehicle_id>
+    <vehicle_id>P0367A</vehicle_id>
     <title>2014 Subaru Legacy 2.5i</title>
     <description>2014 Subaru Legacy. Trim: 2.5i. Color: Twilight Blue Metallic. Body Style: Sedan.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2014</year>
     <make>Subaru</make>
     <model>Legacy</model>
@@ -4730,13 +4916,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>ZACNJDB12PPP72145</vehicle_id>
+    <vehicle_id>PB0040</vehicle_id>
     <title>2023 Jeep Renegade Upland</title>
     <description>2023 Jeep Renegade. Trim: Upland. Color: Black Clearcoat. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2023</year>
     <make>Jeep</make>
     <model>Renegade</model>
@@ -4817,13 +5006,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KNDPXCAG6P7033139</vehicle_id>
+    <vehicle_id>PB0041</vehicle_id>
     <title>2023 Kia Sportage Hybrid SX-Prestige</title>
     <description>2023 Kia Sportage Hybrid. Trim: SX-Prestige. Color: Snow White Pearl. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2023</year>
     <make>Kia</make>
     <model>Sportage Hybrid</model>
@@ -4904,13 +5096,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3FMCR9BN2SRF64960</vehicle_id>
+    <vehicle_id>125171</vehicle_id>
     <title>2025 Ford Bronco Sport Big Bend</title>
     <description>2025 Ford Bronco Sport. Trim: Big Bend. Color: Eruption Green Metallic. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Bronco Sport</model>
@@ -4970,13 +5165,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMWK8JCXTGA05225</vehicle_id>
+    <vehicle_id>126013</vehicle_id>
     <title>2026 Ford Explorer Tremor</title>
     <description>2026 Ford Explorer. Trim: Tremor. Color: Marsh Gray. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2026</year>
     <make>Ford</make>
     <model>Explorer</model>
@@ -5036,13 +5234,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMCU9F66NUB18695</vehicle_id>
+    <vehicle_id>PB0037</vehicle_id>
     <title>2022 Ford Escape S</title>
     <description>2022 Ford Escape. Trim: S. Color: Iconic Silver Metallic. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2022</year>
     <make>Ford</make>
     <model>Escape</model>
@@ -5123,13 +5324,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>5YFB4MDEXPP021545</vehicle_id>
+    <vehicle_id>PB0034</vehicle_id>
     <title>2023 Toyota Corolla LE</title>
     <description>2023 Toyota Corolla. Trim: LE. Color: BLACK. Body Style: Sedan.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2023</year>
     <make>Toyota</make>
     <model>Corolla</model>
@@ -5209,13 +5413,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1C4RDJDG5RC192035</vehicle_id>
+    <vehicle_id>PB0035</vehicle_id>
     <title>2024 Dodge Durango GT Plus</title>
     <description>2024 Dodge Durango. Trim: GT Plus. Color: White Knuckle Clearcoat. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2024</year>
     <make>Dodge</make>
     <model>Durango</model>
@@ -5296,13 +5503,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FTER4HH7SLE59962</vehicle_id>
+    <vehicle_id>125168</vehicle_id>
     <title>2025 Ford Ranger XLT</title>
     <description>2025 Ford Ranger. Trim: XLT. Color: Azure Gray Metallic Tri-Coat. Body Style: SuperCrew.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Ranger</model>
@@ -5361,13 +5571,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMEE9BP3SLB55158</vehicle_id>
+    <vehicle_id>125169</vehicle_id>
     <title>2025 Ford Bronco Badlands</title>
     <description>2025 Ford Bronco. Trim: Badlands. Color: Azure Gray Metallic Tri-Coat. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Bronco</model>
@@ -5426,13 +5639,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FTFW3LD3SFC44363</vehicle_id>
+    <vehicle_id>125165</vehicle_id>
     <title>2025 Ford F-150 XLT</title>
     <description>2025 Ford F-150. Trim: XLT. Color: Agate Black Metallic. Body Style: SuperCrew Cab.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>F-150</model>
@@ -5492,13 +5708,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMWK8GC2TGA05209</vehicle_id>
+    <vehicle_id>126011</vehicle_id>
     <title>2026 Ford Explorer ST</title>
     <description>2026 Ford Explorer. Trim: ST. Color: Carbonized Gray Metallic. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2026</year>
     <make>Ford</make>
     <model>Explorer</model>
@@ -5561,13 +5780,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMUK8KH2TGA10470</vehicle_id>
+    <vehicle_id>126010</vehicle_id>
     <title>2026 Ford Explorer ST-Line</title>
     <description>2026 Ford Explorer. Trim: ST-Line. Color: Rapid Red Metallic Tinted Clearcoat. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2026</year>
     <make>Ford</make>
     <model>Explorer</model>
@@ -5630,13 +5852,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMEE8BP5SLB41434</vehicle_id>
+    <vehicle_id>125164</vehicle_id>
     <title>2025 Ford Bronco Outer Banks</title>
     <description>2025 Ford Bronco. Trim: Outer Banks. Color: Oxford White. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Bronco</model>
@@ -5696,13 +5921,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMEE8BPXSLB50310</vehicle_id>
+    <vehicle_id>125163</vehicle_id>
     <title>2025 Ford Bronco Outer Banks</title>
     <description>2025 Ford Bronco. Trim: Outer Banks. Color: Eruption Green Metallic. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Bronco</model>
@@ -5762,13 +5990,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMCU9H93NUB64573</vehicle_id>
+    <vehicle_id>125011A</vehicle_id>
     <title>2022 Ford Escape SEL</title>
     <description>2022 Ford Escape. Trim: SEL. Color: Carbonized Gray Metallic. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2022</year>
     <make>Ford</make>
     <model>Escape</model>
@@ -5849,13 +6080,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMCU9BZ6NUA24767</vehicle_id>
+    <vehicle_id>PB0030</vehicle_id>
     <title>2022 Ford Escape SE Hybrid</title>
     <description>2022 Ford Escape. Trim: SE Hybrid. Color: WHITE. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2022</year>
     <make>Ford</make>
     <model>Escape</model>
@@ -5935,13 +6169,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FTEW1EPXJKE28759</vehicle_id>
+    <vehicle_id>125095A</vehicle_id>
     <title>2018 Ford F-150 XL</title>
     <description>2018 Ford F-150. Trim: XL. Color: Shadow Black. Body Style: SuperCrew Cab Styleside.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2018</year>
     <make>Ford</make>
     <model>F-150</model>
@@ -6022,13 +6259,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMUK8KH6TGA10410</vehicle_id>
+    <vehicle_id>126008</vehicle_id>
     <title>2026 Ford Explorer ST-Line</title>
     <description>2026 Ford Explorer. Trim: ST-Line. Color: Agate Black Metallic. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2026</year>
     <make>Ford</make>
     <model>Explorer</model>
@@ -6090,13 +6330,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMCU9GN4TUA14046</vehicle_id>
+    <vehicle_id>126009</vehicle_id>
     <title>2026 Ford Escape Active</title>
     <description>2026 Ford Escape. Trim: Active. Color: Agate Black Metallic. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2026</year>
     <make>Ford</make>
     <model>Escape</model>
@@ -6155,13 +6398,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3FMCR9CN8SRF49961</vehicle_id>
+    <vehicle_id>125160</vehicle_id>
     <title>2025 Ford Bronco Sport Outer Banks</title>
     <description>2025 Ford Bronco Sport. Trim: Outer Banks. Color: Carbonized Gray Metallic. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Bronco Sport</model>
@@ -6224,13 +6470,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3FMCR9BN5SRF57498</vehicle_id>
+    <vehicle_id>125159</vehicle_id>
     <title>2025 Ford Bronco Sport Big Bend</title>
     <description>2025 Ford Bronco Sport. Trim: Big Bend. Color: Oxford White. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Bronco Sport</model>
@@ -6290,13 +6539,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FTFW4L53SFC29974</vehicle_id>
+    <vehicle_id>125158</vehicle_id>
     <title>2025 Ford F-150 Tremor</title>
     <description>2025 Ford F-150. Trim: Tremor. Color: Agate Black Metallic. Body Style: SuperCrew Cab.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>F-150</model>
@@ -6359,13 +6611,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMWK8GCXTGA05295</vehicle_id>
+    <vehicle_id>126007</vehicle_id>
     <title>2026 Ford Explorer ST</title>
     <description>2026 Ford Explorer. Trim: ST. Color: Agate Black Metallic. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2026</year>
     <make>Ford</make>
     <model>Explorer</model>
@@ -6425,13 +6680,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMCU9JZ4TUA19579</vehicle_id>
+    <vehicle_id>126006</vehicle_id>
     <title>2026 Ford Escape Platinum</title>
     <description>2026 Ford Escape. Trim: Platinum. Color: rapid red metallic tinted clearcoat. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2026</year>
     <make>Ford</make>
     <model>Escape</model>
@@ -6494,13 +6752,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>KL4AMESL9RB073747</vehicle_id>
+    <vehicle_id>RT0016</vehicle_id>
     <title>2024 Buick Encore GX Sport Touring</title>
     <description>2024 Buick Encore GX. Trim: Sport Touring. Color: Sunrise Red Metallic. Body Style: Sport Utility Vehicle.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2024</year>
     <make>Buick</make>
     <model>Encore GX</model>
@@ -6581,13 +6842,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FTEW2LP8SKF38364</vehicle_id>
+    <vehicle_id>125155</vehicle_id>
     <title>2025 Ford F-150 STX</title>
     <description>2025 Ford F-150. Trim: STX. Color: Oxford White. Body Style: SuperCrew Cab.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>F-150</model>
@@ -6650,13 +6914,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMUK8JH3TGA09684</vehicle_id>
+    <vehicle_id>126004</vehicle_id>
     <title>2026 Ford Explorer Tremor</title>
     <description>2026 Ford Explorer. Trim: Tremor. Color: Star White Metallic Tri-Coat. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2026</year>
     <make>Ford</make>
     <model>Explorer</model>
@@ -6715,13 +6982,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMUK8DHXTGA12576</vehicle_id>
+    <vehicle_id>126005</vehicle_id>
     <title>2026 Ford Explorer Active</title>
     <description>2026 Ford Explorer. Trim: Active. Color: Carbonized Gray Metallic. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2026</year>
     <make>Ford</make>
     <model>Explorer</model>
@@ -6783,13 +7053,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMCU9MNXPUA44405</vehicle_id>
+    <vehicle_id>P0372</vehicle_id>
     <title>2023 Ford Escape ST-Line</title>
     <description>2023 Ford Escape. Trim: ST-Line. Color: Oxford White. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2023</year>
     <make>Ford</make>
     <model>Escape</model>
@@ -6870,13 +7143,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>WZ1DB0C06NW051158</vehicle_id>
+    <vehicle_id>124033A</vehicle_id>
     <title>2022 Toyota GR Supra 3.0 Premium</title>
     <description>2022 Toyota GR Supra. Trim: 3.0 Premium. Color: Nitro Yellow. Body Style: Coupe.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2022</year>
     <make>Toyota</make>
     <model>GR Supra</model>
@@ -6957,13 +7233,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FTEW2LP7SFC10927</vehicle_id>
+    <vehicle_id>125152</vehicle_id>
     <title>2025 Ford F-150 STX</title>
     <description>2025 Ford F-150. Trim: STX. Color: ATLAS BLUE METALLIC. Body Style: SuperCrew Cab.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>F-150</model>
@@ -7025,13 +7304,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMWK8GC4SGD04120</vehicle_id>
+    <vehicle_id>125151</vehicle_id>
     <title>2025 Ford Explorer ST</title>
     <description>2025 Ford Explorer. Trim: ST. Color: Vapor Blue Metallic. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Explorer</model>
@@ -7091,13 +7373,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3FMCR9BN2SRF41842</vehicle_id>
+    <vehicle_id>125147</vehicle_id>
     <title>2025 Ford Bronco Sport Big Bend</title>
     <description>2025 Ford Bronco Sport. Trim: Big Bend. Color: Azure Gray Metallic Tri-Coat. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Bronco Sport</model>
@@ -7160,13 +7445,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FTEW2LP4SKF06026</vehicle_id>
+    <vehicle_id>125146</vehicle_id>
     <title>2025 Ford F-150 STX</title>
     <description>2025 Ford F-150. Trim: STX. Color: Space White Metallic. Body Style: SuperCrew Cab.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>F-150</model>
@@ -7229,13 +7517,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMUK8KHXSGD09820</vehicle_id>
+    <vehicle_id>125137</vehicle_id>
     <title>2025 Ford Explorer ST-Line</title>
     <description>2025 Ford Explorer. Trim: ST-Line. Color: AGATE BLACK METALLIC. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Explorer</model>
@@ -7297,13 +7588,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3FMCR9CN8SRF28057</vehicle_id>
+    <vehicle_id>125134</vehicle_id>
     <title>2025 Ford Bronco Sport Outer Banks</title>
     <description>2025 Ford Bronco Sport. Trim: Outer Banks. Color: Azure Gray Metallic Tri-Coat. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Bronco Sport</model>
@@ -7366,13 +7660,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FTFW1RG7SFB73027</vehicle_id>
+    <vehicle_id>125133</vehicle_id>
     <title>2025 Ford F-150 Raptor</title>
     <description>2025 Ford F-150. Trim: Raptor. Color: AGATE BLACK METALLIC. Body Style: SuperCrew Cab.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>F-150</model>
@@ -7434,13 +7731,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FTEW2LP7SFB82773</vehicle_id>
+    <vehicle_id>125132</vehicle_id>
     <title>2025 Ford F-150 STX</title>
     <description>2025 Ford F-150. Trim: STX. Color: AGATE BLACK METALLIC. Body Style: SuperCrew Cab.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>F-150</model>
@@ -7502,13 +7802,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FTFW5LD2SFB74396</vehicle_id>
+    <vehicle_id>125127</vehicle_id>
     <title>2025 Ford F-150 LARIAT</title>
     <description>2025 Ford F-150. Trim: LARIAT. Color: Star White Metallic Tri-Coat. Body Style: SuperCrew Cab.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>F-150</model>
@@ -7571,13 +7874,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMCU9MN5SUB52097</vehicle_id>
+    <vehicle_id>125129</vehicle_id>
     <title>2025 Ford Escape ST-Line</title>
     <description>2025 Ford Escape. Trim: ST-Line. Color: AGATE BLACK METALLIC. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Escape</model>
@@ -7639,13 +7945,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMCU9GN3SUB51882</vehicle_id>
+    <vehicle_id>125126</vehicle_id>
     <title>2025 Ford Escape Active</title>
     <description>2025 Ford Escape. Trim: Active. Color: VAPOR BLUE METALLIC. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Escape</model>
@@ -7707,13 +8016,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMUK8KH1SGC67215</vehicle_id>
+    <vehicle_id>125120</vehicle_id>
     <title>2025 Ford Explorer ST-Line</title>
     <description>2025 Ford Explorer. Trim: ST-Line. Color: Vapor Blue Metallic. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Explorer</model>
@@ -7776,13 +8088,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FTER4LR7SLE39016</vehicle_id>
+    <vehicle_id>125110</vehicle_id>
     <title>2025 Ford Ranger Raptor</title>
     <description>2025 Ford Ranger. Trim: Raptor. Color: MARSH GRAY. Body Style: SuperCrew.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Ranger</model>
@@ -7844,13 +8159,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3FMCR9BN8SRF09168</vehicle_id>
+    <vehicle_id>125108</vehicle_id>
     <title>2025 Ford Bronco Sport Big Bend</title>
     <description>2025 Ford Bronco Sport. Trim: Big Bend. Color: SHADOW BLACK. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Bronco Sport</model>
@@ -7912,13 +8230,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FMUK8KH0SGB89994</vehicle_id>
+    <vehicle_id>125105</vehicle_id>
     <title>2025 Ford Explorer ST-Line</title>
     <description>2025 Ford Explorer. Trim: ST-Line. Color: CARBONIZED GRAY METALLIC. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Explorer</model>
@@ -7980,13 +8301,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3FMTK4SX0SMA36887</vehicle_id>
+    <vehicle_id>125102</vehicle_id>
     <title>2025 Ford Mustang Mach-E GT</title>
     <description>2025 Ford Mustang Mach-E. Trim: GT. Color: Molten Magenta Metallic Tinted Clearcoat. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Mustang Mach-E</model>
@@ -8043,13 +8367,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1FTSX31S1XEC58692</vehicle_id>
+    <vehicle_id>P0353</vehicle_id>
     <title>1999 Ford Super Duty F-350 SRW XLT</title>
     <description>1999 Ford Super Duty F-350 SRW. Trim: XLT. Color: GREEN. Body Style: Extended Cab Pickup - Short Bed.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>1999</year>
     <make>Ford</make>
     <model>Super Duty F-350 SRW</model>
@@ -8129,13 +8456,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3FMCR9BN1SRE98336</vehicle_id>
+    <vehicle_id>125098</vehicle_id>
     <title>2025 Ford Bronco Sport Big Bend</title>
     <description>2025 Ford Bronco Sport. Trim: Big Bend. Color: CARBONIZED GRAY METALLIC. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Bronco Sport</model>
@@ -8197,13 +8527,16 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3FMTK1S5XSMA30012</vehicle_id>
+    <vehicle_id>125094</vehicle_id>
     <title>2025 Ford Mustang Mach-E Select</title>
     <description>2025 Ford Mustang Mach-E. Trim: Select. Color: Glacier Gray Metallic TriCoat. Body Style: Sport Utility.</description>
-    <street_address>330 Transit Rd.</street_address>
-    <city>Columbus</city>
-    <region>WI</region>
-    <country>US</country>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
     <year>2025</year>
     <make>Ford</make>
     <model>Mustang Mach-E</model>
