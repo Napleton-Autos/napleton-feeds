@@ -435,6 +435,7 @@ def generate_facebook_feed(vehicles, dealership):
         ET.SubElement(listing, 'make').text = vehicle['Make']
         ET.SubElement(listing, 'model').text = vehicle['Model']
         ET.SubElement(listing, 'vin').text = vehicle['VIN']
+        ET.SubElement(listing, 'content_id').text = vehicle['VIN']
         ET.SubElement(listing, 'availability').text = 'in stock'
 
         # Required: Price
