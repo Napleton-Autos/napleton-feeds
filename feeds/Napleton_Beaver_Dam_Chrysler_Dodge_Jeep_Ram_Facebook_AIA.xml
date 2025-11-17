@@ -1,96 +1,6 @@
 <?xml version="1.0" ?>
 <listings>
   <listing>
-    <vehicle_id>340050</vehicle_id>
-    <title>2025 Jeep Wrangler Sahara</title>
-    <description>2025 Jeep Wrangler. Trim: Sahara. Color: Hydro Blue Pearlcoat. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">1724 N Spring St.</component>
-      <component name="city">Beaver Dam</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53916</component>
-    </address>
-    <year>2025</year>
-    <make>Jeep</make>
-    <model>Wrangler</model>
-    <vin>1C4PJXEN2SW508544</vin>
-    <availability>in stock</availability>
-    <price>50230.00 USD</price>
-    <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4PJXEN2SW508544</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>1480</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Sahara</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Hydro Blue Pearlcoat</exterior_color>
-    <interior_color>Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172791--CYBWR-ltid1/1207172791.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172801--W0KSK-ltid1/1207172801.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172811--W0KSK-ltid1/1207172811.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172821--JIM73-ltid1/1207172821.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172831--JIM73-ltid1/1207172831.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172841--JIM73-ltid1/1207172841.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172851--05EKD-ltid1/1207172851.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172861--05EKD-ltid1/1207172861.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172871--O43ZF-ltid1/1207172871.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172881--O43ZF-ltid1/1207172881.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172891--3SMV4-ltid1/1207172891.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172901--3SMV4-ltid1/1207172901.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172911--5XGY2-ltid1/1207172911.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172921--5XGY2-ltid1/1207172921.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172931--2MZIQ-ltid1/1207172931.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172941--2MZIQ-ltid1/1207172941.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172951--BTHKS-ltid1/1207172951.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172961--BTHKS-ltid1/1207172961.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172971--ZW-IX-ltid1/1207172971.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172981--ZW-IX-ltid1/1207172981.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>340025</vehicle_id>
     <title>2025 Jeep Grand Cherokee L Limited</title>
     <description>2025 Jeep Grand Cherokee L. Trim: Limited. Color: Velvet Red Pearlcoat. Body Style: Sport Utility.</description>
@@ -178,6 +88,96 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175311--NT2HH-ltid1/1207175311.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>340050</vehicle_id>
+    <title>2025 Jeep Wrangler Sahara</title>
+    <description>2025 Jeep Wrangler. Trim: Sahara. Color: Hydro Blue Pearlcoat. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">1724 N Spring St.</component>
+      <component name="city">Beaver Dam</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53916</component>
+    </address>
+    <year>2025</year>
+    <make>Jeep</make>
+    <model>Wrangler</model>
+    <vin>1C4PJXEN2SW508544</vin>
+    <availability>in stock</availability>
+    <price>50230.00 USD</price>
+    <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4PJXEN2SW508544</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>1480</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Sahara</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Hydro Blue Pearlcoat</exterior_color>
+    <interior_color>Black</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172791--CYBWR-ltid1/1207172791.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172801--W0KSK-ltid1/1207172801.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172811--W0KSK-ltid1/1207172811.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172821--JIM73-ltid1/1207172821.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172831--JIM73-ltid1/1207172831.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172841--JIM73-ltid1/1207172841.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172851--05EKD-ltid1/1207172851.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172861--05EKD-ltid1/1207172861.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172871--O43ZF-ltid1/1207172871.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172881--O43ZF-ltid1/1207172881.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172891--3SMV4-ltid1/1207172891.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172901--3SMV4-ltid1/1207172901.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172911--5XGY2-ltid1/1207172911.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172921--5XGY2-ltid1/1207172921.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172931--2MZIQ-ltid1/1207172931.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172941--2MZIQ-ltid1/1207172941.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172951--BTHKS-ltid1/1207172951.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172961--BTHKS-ltid1/1207172961.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172971--ZW-IX-ltid1/1207172971.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172981--ZW-IX-ltid1/1207172981.jpg</url>
     </image>
   </listing>
   <listing>
