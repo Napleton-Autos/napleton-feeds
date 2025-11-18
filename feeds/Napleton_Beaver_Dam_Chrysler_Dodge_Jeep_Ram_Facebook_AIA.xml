@@ -1,97 +1,6 @@
 <?xml version="1.0" ?>
 <listings>
   <listing>
-    <vehicle_id>340025</vehicle_id>
-    <title>2025 Jeep Grand Cherokee L Limited</title>
-    <description>2025 Jeep Grand Cherokee L. Trim: Limited. Color: Velvet Red Pearlcoat. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">1724 N Spring St.</component>
-      <component name="city">Beaver Dam</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53916</component>
-    </address>
-    <year>2025</year>
-    <make>Jeep</make>
-    <model>Grand Cherokee L</model>
-    <vin>1C4RJKBGXS8637895</vin>
-    <content_id>1C4RJKBGXS8637895</content_id>
-    <availability>in stock</availability>
-    <price>48349.00 USD</price>
-    <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJKBGXS8637895</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>2479</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Limited</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Velvet Red Pearlcoat</exterior_color>
-    <interior_color>Global Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175121--CYBWR-ltid1/1207175121.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175131--HGL97-ltid1/1207175131.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175141--USYIF-ltid1/1207175141.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175151--LCA5T-ltid1/1207175151.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175161--LCA5T-ltid1/1207175161.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175171--LCA5T-ltid1/1207175171.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175181--GDXAE-ltid1/1207175181.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175191--TEBCB-ltid1/1207175191.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175201--P6XUU-ltid1/1207175201.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175211--P6XUU-ltid1/1207175211.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175221--YMJ7V-ltid1/1207175221.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175231--FO534-ltid1/1207175231.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175241--TMTOA-ltid1/1207175241.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175251--TMTOA-ltid1/1207175251.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175261--TDDEY-ltid1/1207175261.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175271--E342B-ltid1/1207175271.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175281--LBGEP-ltid1/1207175281.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175291--LBGEP-ltid1/1207175291.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175301---9OBT-ltid1/1207175301.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175311--NT2HH-ltid1/1207175311.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>340050</vehicle_id>
     <title>2025 Jeep Wrangler Sahara</title>
     <description>2025 Jeep Wrangler. Trim: Sahara. Color: Hydro Blue Pearlcoat. Body Style: Sport Utility.</description>
@@ -180,6 +89,97 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172981--ZW-IX-ltid1/1207172981.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>340025</vehicle_id>
+    <title>2025 Jeep Grand Cherokee L Limited</title>
+    <description>2025 Jeep Grand Cherokee L. Trim: Limited. Color: Velvet Red Pearlcoat. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">1724 N Spring St.</component>
+      <component name="city">Beaver Dam</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53916</component>
+    </address>
+    <year>2025</year>
+    <make>Jeep</make>
+    <model>Grand Cherokee L</model>
+    <vin>1C4RJKBGXS8637895</vin>
+    <content_id>1C4RJKBGXS8637895</content_id>
+    <availability>in stock</availability>
+    <price>48349.00 USD</price>
+    <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJKBGXS8637895</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>2479</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Limited</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Velvet Red Pearlcoat</exterior_color>
+    <interior_color>Global Black</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175121--CYBWR-ltid1/1207175121.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175131--HGL97-ltid1/1207175131.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175141--USYIF-ltid1/1207175141.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175151--LCA5T-ltid1/1207175151.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175161--LCA5T-ltid1/1207175161.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175171--LCA5T-ltid1/1207175171.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175181--GDXAE-ltid1/1207175181.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175191--TEBCB-ltid1/1207175191.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175201--P6XUU-ltid1/1207175201.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175211--P6XUU-ltid1/1207175211.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175221--YMJ7V-ltid1/1207175221.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175231--FO534-ltid1/1207175231.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175241--TMTOA-ltid1/1207175241.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175251--TMTOA-ltid1/1207175251.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175261--TDDEY-ltid1/1207175261.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175271--E342B-ltid1/1207175271.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175281--LBGEP-ltid1/1207175281.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175291--LBGEP-ltid1/1207175291.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175301---9OBT-ltid1/1207175301.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175311--NT2HH-ltid1/1207175311.jpg</url>
     </image>
   </listing>
   <listing>
@@ -3333,7 +3333,7 @@
     <vin>2C3CDZGG5LH110703</vin>
     <content_id>2C3CDZGG5LH110703</content_id>
     <availability>in stock</availability>
-    <price>23288.00 USD</price>
+    <price>23199.00 USD</price>
     <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C3CDZGG5LH110703</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -4638,7 +4638,7 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
     <mileage>
-      <value>5</value>
+      <value>20</value>
       <unit>MI</unit>
     </mileage>
     <trim>Big Horn</trim>
@@ -4646,41 +4646,47 @@
     <exterior_color>Canyon Lake</exterior_color>
     <interior_color>Black</interior_color>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1756440151--YPKDQ-ltid1/1756440151.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1804425021--XE+V8-ltid1/1804425021.jpg</url>
       <tag>main</tag>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1756440161--RTFAJ-ltid1/1756440161.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1804425031--IOIKQ-ltid1/1804425031.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1756440171--RTFAJ-ltid1/1756440171.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1804425041--DLMHA-ltid1/1804425041.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1756440181--TFE7K-ltid1/1756440181.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1804425051--5XCEO-ltid1/1804425051.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1756440191--HR-IL-ltid1/1756440191.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1804425061--5XCEO-ltid1/1804425061.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1756440201--4VONR-ltid1/1756440201.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1804425071--PLNSP-ltid1/1804425071.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1756440211--DP44R-ltid1/1756440211.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1804425081--2AXJI-ltid1/1804425081.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1756440221--X1QKI-ltid1/1756440221.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1804425091--0ZD9T-ltid1/1804425091.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1756440231--5BXWY-ltid1/1756440231.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1804425101--UO+L1-ltid1/1804425101.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1756440241--4BOUS-ltid1/1756440241.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1804425111--UO+L1-ltid1/1804425111.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1756440251--SVA-O-ltid1/1756440251.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1804425121--WJ8SZ-ltid1/1804425121.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1756440261--SLGXV-ltid1/1756440261.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1804425131--W5R7M-ltid1/1804425131.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1804425141--9ORWV-ltid1/1804425141.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1804425151--XS5FU-ltid1/1804425151.jpg</url>
     </image>
   </listing>
   <listing>
@@ -4944,44 +4950,47 @@
     <exterior_color>Ceramic Grey Clearcoat</exterior_color>
     <interior_color>Black</interior_color>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1756440521--ISWYL-ltid1/1756440521.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1804185571--L4GAP-ltid1/1804185571.jpg</url>
       <tag>main</tag>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1756440531--MUG4Q-ltid1/1756440531.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1804185581--L4GAP-ltid1/1804185581.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1756440541--MUG4Q-ltid1/1756440541.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1804185451--ZBB1X-ltid1/1804185451.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1756440551--N2QKB-ltid1/1756440551.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1804185461--6JF5+-ltid1/1804185461.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1756440561--QTCRG-ltid1/1756440561.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1804185471--B9ZYP-ltid1/1804185471.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1756440571---Z+JY-ltid1/1756440571.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1804185481--LCTVG-ltid1/1804185481.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1756440581--EWDD4-ltid1/1756440581.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1804185491--QX1SU-ltid1/1804185491.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1756440591--EOIZI-ltid1/1756440591.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1804185501--SJ5EB-ltid1/1804185501.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1756440601--DRSZQ-ltid1/1756440601.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1804185511--B-JWS-ltid1/1804185511.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1756440611--DJNHR-ltid1/1756440611.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1804185521--B-JWS-ltid1/1804185521.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1756440621--DZ0TK-ltid1/1756440621.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1804185531--JZSEC-ltid1/1804185531.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1756440631--OMHIU-ltid1/1756440631.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1804185541--48SQ3-ltid1/1804185541.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1756440641--PNJUU-ltid1/1756440641.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1804185551--OVU7Y-ltid1/1804185551.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1804185561--NDXR6-ltid1/1804185561.jpg</url>
     </image>
   </listing>
   <listing>

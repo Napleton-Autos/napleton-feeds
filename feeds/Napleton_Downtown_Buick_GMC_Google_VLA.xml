@@ -2,11 +2,11 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Downtown Buick GMC Inventory Feed</title>
   <link href="https://www.downtownbuickgmc.com" rel="self"/>
-  <updated>2025-11-18T08:17:11.260430</updated>
+  <updated>2025-11-18T12:24:49.052973</updated>
   <entry>
     <id>B25118</id>
     <title>2025 Buick Encore GX Preferred</title>
-    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/details/KL4AMBSPXSB115611"/>
+    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2025-buick-encore-gx-preferred-front-wheel-drive-suv-kl4ambspxsb115611/"/>
     <ns0:id>B25118</ns0:id>
     <ns0:price>23967.00 USD</ns0:price>
     <ns0:vehicle_msrp>27235.00 USD</ns0:vehicle_msrp>
@@ -25,7 +25,7 @@
     <ns0:model>Encore GX</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/details/KL4AMBSPXSB115611?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/new-2025-buick-encore-gx-preferred-front-wheel-drive-suv-kl4ambspxsb115611/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Preferred</ns0:trim>
     <ns0:mileage>4117 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -42,9 +42,47 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1623098091--HQXHI-ltid1/1623098091.jpg</ns0:additional_image_link>
   </entry>
   <entry>
+    <id>B25195</id>
+    <title>2025 Buick Envista Preferred</title>
+    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2025-buick-envista-preferred-front-wheel-drive-suv-kl47laep4sb218428/"/>
+    <ns0:id>B25195</ns0:id>
+    <ns0:price>24227.00 USD</ns0:price>
+    <ns0:vehicle_msrp>27530.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KL47LAEP4SB218428</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Buick</ns0:brand>
+    <ns0:store_code>4088446453747783674</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Buick GMC</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>4088446453747783674</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Buick</ns0:make>
+    <ns0:model>Envista</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/new-2025-buick-envista-preferred-front-wheel-drive-suv-kl47laep4sb218428/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Preferred</ns0:trim>
+    <ns0:mileage>6478 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Ocean Blue Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677181--DXRPV-ltid1/1771677181.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677191--DXRPV-ltid1/1771677191.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677201--DZOWI-ltid1/1771677201.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677211--DZOWI-ltid1/1771677211.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677221--DZOWI-ltid1/1771677221.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677231--OTPD+-ltid1/1771677231.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677241--OTPD+-ltid1/1771677241.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677251--OTPD+-ltid1/1771677251.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677261--AD4J1-ltid1/1771677261.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677271--AD4J1-ltid1/1771677271.jpg</ns0:additional_image_link>
+  </entry>
+  <entry>
     <id>T24038</id>
     <title>2024 GMC HUMMER EV SUV 3X</title>
-    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/details/1GKB0RDC7RU102181"/>
+    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2024-gmc-hummer-ev-suv-3x-four-wheel-drive-suv-1gkb0rdc7ru102181/"/>
     <ns0:id>T24038</ns0:id>
     <ns0:price>114930.00 USD</ns0:price>
     <ns0:vehicle_msrp>116180.00 USD</ns0:vehicle_msrp>
@@ -63,7 +101,7 @@
     <ns0:model>HUMMER EV SUV</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/details/1GKB0RDC7RU102181?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/new-2024-gmc-hummer-ev-suv-3x-four-wheel-drive-suv-1gkb0rdc7ru102181/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>3X</ns0:trim>
     <ns0:mileage>1788 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -119,7 +157,7 @@
   <entry>
     <id>T25000</id>
     <title>2025 GMC HUMMER EV Pickup 3X</title>
-    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/details/1GT10DDB7SU101085"/>
+    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2025-gmc-hummer-ev-pickup-3x-four-wheel-drive-crew-cab-1gt10ddb7su101085/"/>
     <ns0:id>T25000</ns0:id>
     <ns0:price>92570.00 USD</ns0:price>
     <ns0:vehicle_msrp>107570.00 USD</ns0:vehicle_msrp>
@@ -138,7 +176,7 @@
     <ns0:model>HUMMER EV Pickup</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/details/1GT10DDB7SU101085?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/new-2025-gmc-hummer-ev-pickup-3x-four-wheel-drive-crew-cab-1gt10ddb7su101085/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>3X</ns0:trim>
     <ns0:mileage>758 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
@@ -157,7 +195,7 @@
   <entry>
     <id>BD25134</id>
     <title>2025 Buick Envista Preferred</title>
-    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/details/KL47LAEP6SB191801"/>
+    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2025-buick-envista-preferred-front-wheel-drive-suv-kl47laep6sb191801/"/>
     <ns0:id>BD25134</ns0:id>
     <ns0:price>24442.00 USD</ns0:price>
     <ns0:vehicle_msrp>27775.00 USD</ns0:vehicle_msrp>
@@ -176,7 +214,7 @@
     <ns0:model>Envista</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/details/KL47LAEP6SB191801?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/new-2025-buick-envista-preferred-front-wheel-drive-suv-kl47laep6sb191801/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Preferred</ns0:trim>
     <ns0:mileage>2876 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -195,7 +233,7 @@
   <entry>
     <id>T25007</id>
     <title>2025 GMC Sierra EV Extended Range Denali</title>
-    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/details/1GT10MED0SU412714"/>
+    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2025-gmc-sierra-ev-extended-range-denali-four-wheel-drive-crew-cab-1gt10med0su412714/"/>
     <ns0:id>T25007</ns0:id>
     <ns0:price>83507.00 USD</ns0:price>
     <ns0:vehicle_msrp>92785.00 USD</ns0:vehicle_msrp>
@@ -214,7 +252,7 @@
     <ns0:model>Sierra EV</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/details/1GT10MED0SU412714?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/new-2025-gmc-sierra-ev-extended-range-denali-four-wheel-drive-crew-cab-1gt10med0su412714/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Extended Range Denali</ns0:trim>
     <ns0:mileage>2062 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
@@ -344,47 +382,9 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771678111--KIUW9-ltid1/1771678111.jpg</ns0:additional_image_link>
   </entry>
   <entry>
-    <id>B25195</id>
-    <title>2025 Buick Envista Preferred</title>
-    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/details/KL47LAEP4SB218428"/>
-    <ns0:id>B25195</ns0:id>
-    <ns0:price>24227.00 USD</ns0:price>
-    <ns0:vehicle_msrp>27530.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>KL47LAEP4SB218428</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Buick</ns0:brand>
-    <ns0:store_code>4088446453747783674</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Buick GMC</ns0:dealership_name>
-    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>4088446453747783674</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Buick</ns0:make>
-    <ns0:model>Envista</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/details/KL47LAEP4SB218428?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Preferred</ns0:trim>
-    <ns0:mileage>6478 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Ocean Blue Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677181--DXRPV-ltid1/1771677181.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677191--DXRPV-ltid1/1771677191.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677201--DZOWI-ltid1/1771677201.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677211--DZOWI-ltid1/1771677211.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677221--DZOWI-ltid1/1771677221.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677231--OTPD+-ltid1/1771677231.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677241--OTPD+-ltid1/1771677241.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677251--OTPD+-ltid1/1771677251.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677261--AD4J1-ltid1/1771677261.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677271--AD4J1-ltid1/1771677271.jpg</ns0:additional_image_link>
-  </entry>
-  <entry>
     <id>B25197</id>
     <title>2025 Buick Envista Preferred</title>
-    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/details/KL47LAEP7SB223414"/>
+    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2025-buick-envista-preferred-front-wheel-drive-suv-kl47laep7sb223414/"/>
     <ns0:id>B25197</ns0:id>
     <ns0:price>24750.00 USD</ns0:price>
     <ns0:vehicle_msrp>28125.00 USD</ns0:vehicle_msrp>
@@ -403,7 +403,7 @@
     <ns0:model>Envista</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/details/KL47LAEP7SB223414?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/new-2025-buick-envista-preferred-front-wheel-drive-suv-kl47laep7sb223414/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Preferred</ns0:trim>
     <ns0:mileage>30 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -650,7 +650,7 @@
   <entry>
     <id>T25012</id>
     <title>2025 GMC HUMMER EV SUV 3X</title>
-    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/details/1GKT0RDC6SU120732"/>
+    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2025-gmc-hummer-ev-suv-3x-four-wheel-drive-suv-1gkt0rdc6su120732/"/>
     <ns0:id>T25012</ns0:id>
     <ns0:price>92495.00 USD</ns0:price>
     <ns0:vehicle_msrp>107495.00 USD</ns0:vehicle_msrp>
@@ -669,7 +669,7 @@
     <ns0:model>HUMMER EV SUV</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/details/1GKT0RDC6SU120732?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/new-2025-gmc-hummer-ev-suv-3x-four-wheel-drive-suv-1gkt0rdc6su120732/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>3X</ns0:trim>
     <ns0:mileage>855 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1441,7 +1441,7 @@
   <entry>
     <id>T26015</id>
     <title>2026 GMC Terrain AWD Elevation</title>
-    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/details/3GKALUEG2TL294294"/>
+    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-gmc-terrain-elevation-all-wheel-drive-suv-3gkalueg2tl294294/"/>
     <ns0:id>T26015</ns0:id>
     <ns0:price>32923.00 USD</ns0:price>
     <ns0:vehicle_msrp>34655.00 USD</ns0:vehicle_msrp>
@@ -1460,7 +1460,7 @@
     <ns0:model>Terrain</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/details/3GKALUEG2TL294294?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/new-2026-gmc-terrain-elevation-all-wheel-drive-suv-3gkalueg2tl294294/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>AWD Elevation</ns0:trim>
     <ns0:mileage>3 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1517,7 +1517,7 @@
   <entry>
     <id>B26015</id>
     <title>2026 Buick Enclave Preferred</title>
-    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/details/5GAEVAKS3TJ179811"/>
+    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-buick-enclave-preferred-all-wheel-drive-suv-5gaevaks3tj179811/"/>
     <ns0:id>B26015</ns0:id>
     <ns0:price>47591.00 USD</ns0:price>
     <ns0:vehicle_msrp>50095.00 USD</ns0:vehicle_msrp>
@@ -1536,7 +1536,7 @@
     <ns0:model>Enclave</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/details/5GAEVAKS3TJ179811?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/new-2026-buick-enclave-preferred-all-wheel-drive-suv-5gaevaks3tj179811/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Preferred</ns0:trim>
     <ns0:mileage>2 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1555,7 +1555,7 @@
   <entry>
     <id>B26016</id>
     <title>2026 Buick Encore GX Preferred</title>
-    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/details/KL4AMBSL6TB070178"/>
+    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-buick-encore-gx-preferred-front-wheel-drive-suv-kl4ambsl6tb070178/"/>
     <ns0:id>B26016</ns0:id>
     <ns0:price>28379.00 USD</ns0:price>
     <ns0:vehicle_msrp>30515.00 USD</ns0:vehicle_msrp>
@@ -1574,7 +1574,7 @@
     <ns0:model>Encore GX</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/details/KL4AMBSL6TB070178?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/new-2026-buick-encore-gx-preferred-front-wheel-drive-suv-kl4ambsl6tb070178/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Preferred</ns0:trim>
     <ns0:mileage>3 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1627,43 +1627,6 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771675851--NISL9-ltid1/1771675851.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771675861--NISL9-ltid1/1771675861.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771675871--NISL9-ltid1/1771675871.jpg</ns0:additional_image_link>
-  </entry>
-  <entry>
-    <id>T26019</id>
-    <title>2026 GMC Acadia AWD Elevation</title>
-    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/details/1GKENNKSXTJ202933"/>
-    <ns0:id>T26019</ns0:id>
-    <ns0:price>52135.00 USD</ns0:price>
-    <ns0:vehicle_msrp>52135.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1GKENNKSXTJ202933</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>GMC</ns0:brand>
-    <ns0:store_code>4088446453747783674</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Buick GMC</ns0:dealership_name>
-    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>4088446453747783674</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>GMC</ns0:make>
-    <ns0:model>Acadia</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/details/1GKENNKSXTJ202933?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>AWD Elevation</ns0:trim>
-    <ns0:mileage>3 miles</ns0:mileage>
-    <ns0:color>Volcanic Red Tintcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1761488161--SL4FF-ltid1/1761488161.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1761488171--1ZTVC-ltid1/1761488171.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1761488181--ZKALX-ltid1/1761488181.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1761488191--TXA0V-ltid1/1761488191.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1761488201--W3W-F-ltid1/1761488201.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1761488211--0YN5D-ltid1/1761488211.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1761488221--BU+U9-ltid1/1761488221.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1761488231--BU+U9-ltid1/1761488231.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1761488241--EGYA2-ltid1/1761488241.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1761488251--E0DFB-ltid1/1761488251.jpg</ns0:additional_image_link>
   </entry>
   <entry>
     <id>T26020</id>
@@ -1926,5 +1889,42 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1796308261--ZWCE0-ltid1/1796308261.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1796308271--HMR8J-ltid1/1796308271.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1796308281--QUQJ7-ltid1/1796308281.jpg</ns0:additional_image_link>
+  </entry>
+  <entry>
+    <id>T26019</id>
+    <title>2026 GMC Acadia AWD Elevation</title>
+    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-gmc-acadia-elevation-all-wheel-drive-suv-1gkennksxtj202933/"/>
+    <ns0:id>T26019</ns0:id>
+    <ns0:price>52135.00 USD</ns0:price>
+    <ns0:vehicle_msrp>52135.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1GKENNKSXTJ202933</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>GMC</ns0:brand>
+    <ns0:store_code>4088446453747783674</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Buick GMC</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>4088446453747783674</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>GMC</ns0:make>
+    <ns0:model>Acadia</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/new-2026-gmc-acadia-elevation-all-wheel-drive-suv-1gkennksxtj202933/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>AWD Elevation</ns0:trim>
+    <ns0:mileage>3 miles</ns0:mileage>
+    <ns0:color>Volcanic Red Tintcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1761488161--SL4FF-ltid1/1761488161.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1761488171--1ZTVC-ltid1/1761488171.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1761488181--ZKALX-ltid1/1761488181.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1761488191--TXA0V-ltid1/1761488191.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1761488201--W3W-F-ltid1/1761488201.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1761488211--0YN5D-ltid1/1761488211.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1761488221--BU+U9-ltid1/1761488221.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1761488231--BU+U9-ltid1/1761488231.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1761488241--EGYA2-ltid1/1761488241.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1761488251--E0DFB-ltid1/1761488251.jpg</ns0:additional_image_link>
   </entry>
 </feed>
