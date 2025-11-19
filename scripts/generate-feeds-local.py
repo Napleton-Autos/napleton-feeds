@@ -445,17 +445,11 @@ def generate_facebook_feed(vehicles, dealership):
         url = vehicle.get('VDPURL') or f"{dealership['website']}/inventory/details/{vehicle['VIN']}"
         ET.SubElement(listing, 'url').text = url
 
-        # Required: state_of_vehicle (NEW/USED/CPO)
-        condition_raw = vehicle.get('New/Used', '').upper()
-        if condition_raw == 'N':
-            state_of_vehicle = 'NEW'
-        elif condition_raw == 'C':
-            state_of_vehicle = 'CPO'
-        else:
-            state_of_vehicle = 'USED'
-        ET.SubElement(listing, 'state_of_vehicle').text = state_of_vehicle
+        # Required: state_of_vehicle (always "available")
+        ET.SubElement(listing, 'state_of_vehicle').text = 'available'
 
         # Keep old condition field for compatibility
+        condition_raw = vehicle.get('New/Used', '').upper()
         condition = 'new' if condition_raw == 'N' else 'used'
         ET.SubElement(listing, 'condition').text = condition
 
@@ -469,11 +463,11 @@ def generate_facebook_feed(vehicles, dealership):
                 ET.SubElement(mileage_elem, 'unit').text = 'MI'
             except:
                 # Provide default mileage for new vehicles if missing
-                if state_of_vehicle == 'NEW':
+                if condition_raw == 'N':
                     mileage_elem = ET.SubElement(listing, 'mileage')
                     ET.SubElement(mileage_elem, 'value').text = '0'
                     ET.SubElement(mileage_elem, 'unit').text = 'MI'
-        elif state_of_vehicle == 'NEW':
+        elif condition_raw == 'N':
             # Default to 0 for new vehicles
             mileage_elem = ET.SubElement(listing, 'mileage')
             ET.SubElement(mileage_elem, 'value').text = '0'
