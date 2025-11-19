@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Downtown Hyundai Inventory Feed</title>
   <link href="https://www.napletondowntownhyundai.com/" rel="self"/>
-  <updated>2025-11-19T08:17:12.894956</updated>
+  <updated>2025-11-19T12:24:07.515675</updated>
   <entry>
     <id>H24402</id>
     <title>2025 Hyundai IONIQ 5 N</title>
@@ -4034,7 +4034,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8RKESA0TU039040&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Limited</ns0:trim>
-    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:mileage>28 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Ecotronic Gray Pearl</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1774796381--SIULH-ltid1/1774796381.jpg</ns0:image_link>
@@ -4462,7 +4462,7 @@
   <entry>
     <id>H26073</id>
     <title>2026 Hyundai Kona SE</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com//inventory/details/KM8HACAB1TU392531"/>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8HACAB1TU392531"/>
     <ns0:id>H26073</ns0:id>
     <ns0:price>29815.00 USD</ns0:price>
     <ns0:vehicle_msrp>29815.00 USD</ns0:vehicle_msrp>
@@ -4481,16 +4481,26 @@
     <ns0:model>Kona</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com//inventory/details/KM8HACAB1TU392531?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8HACAB1TU392531&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>SE</ns0:trim>
     <ns0:mileage>1 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Ultimate Red Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805971961--ZLF6P-ltid1/1805971961.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805971971--XSILW-ltid1/1805971971.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805971981--2T-U9-ltid1/1805971981.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805971991--2T-U9-ltid1/1805971991.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805972001--MJM5W-ltid1/1805972001.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805972011--YS7LJ-ltid1/1805972011.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805972021---GWXD-ltid1/1805972021.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805972031--IFIUX-ltid1/1805972031.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805972041--9Q6PT-ltid1/1805972041.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805972051--BICUC-ltid1/1805972051.jpg</ns0:additional_image_link>
   </entry>
   <entry>
     <id>H26075</id>
     <title>2026 Hyundai Tucson Hybrid Limited</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com//inventory/details/KM8JEDD10TU415537"/>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8JEDD10TU415537"/>
     <ns0:id>H26075</ns0:id>
     <ns0:price>44605.00 USD</ns0:price>
     <ns0:vehicle_msrp>44605.00 USD</ns0:vehicle_msrp>
@@ -4509,16 +4519,26 @@
     <ns0:model>Tucson Hybrid</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com//inventory/details/KM8JEDD10TU415537?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8JEDD10TU415537&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Limited</ns0:trim>
     <ns0:mileage>1 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Amazon Gray</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805972091--X3NKU-ltid1/1805972091.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805972101--SUD8P-ltid1/1805972101.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805972111--MSTJN-ltid1/1805972111.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805972121--2GSUR-ltid1/1805972121.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805972131---MTC8-ltid1/1805972131.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805972141--Z9FVK-ltid1/1805972141.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805972151--ZH-03-ltid1/1805972151.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805972161--YDQOQ-ltid1/1805972161.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805972171--FO-N4-ltid1/1805972171.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805972181--OAFUD-ltid1/1805972181.jpg</ns0:additional_image_link>
   </entry>
   <entry>
     <id>H26074</id>
     <title>2026 Hyundai Tucson Hybrid Limited</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com//inventory/details/KM8JEDD17TU416183"/>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8JEDD17TU416183"/>
     <ns0:id>H26074</ns0:id>
     <ns0:price>44900.00 USD</ns0:price>
     <ns0:vehicle_msrp>44900.00 USD</ns0:vehicle_msrp>
@@ -4537,16 +4557,26 @@
     <ns0:model>Tucson Hybrid</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com//inventory/details/KM8JEDD17TU416183?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8JEDD17TU416183&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Limited</ns0:trim>
     <ns0:mileage>1 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Ash Black</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805972221--YXRAF-ltid1/1805972221.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805972231--QIPO--ltid1/1805972231.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805972241--QIPO--ltid1/1805972241.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805972251--SSXAS-ltid1/1805972251.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805972261--YSOJD-ltid1/1805972261.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805972271--FYZPF-ltid1/1805972271.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805972281--XJCNK-ltid1/1805972281.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805972291--F61L8-ltid1/1805972291.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805972301--67XVL-ltid1/1805972301.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805972311--BTTB7-ltid1/1805972311.jpg</ns0:additional_image_link>
   </entry>
   <entry>
     <id>H26076</id>
     <title>2026 Hyundai Palisade Hybrid Calligraphy</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com//inventory/details/KM8RMESA6TU038534"/>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8RMESA6TU038534"/>
     <ns0:id>H26076</ns0:id>
     <ns0:price>60625.00 USD</ns0:price>
     <ns0:vehicle_msrp>60625.00 USD</ns0:vehicle_msrp>
@@ -4565,20 +4595,22 @@
     <ns0:model>Palisade Hybrid</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com//inventory/details/KM8RMESA6TU038534?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8RMESA6TU038534&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Calligraphy</ns0:trim>
     <ns0:mileage>1 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Abyss Black Pearl</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805972351--OBTJM-ltid1/1805972351.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1805972361--OBTJM-ltid1/1805972361.jpg</ns0:additional_image_link>
   </entry>
   <entry>
-    <id>HD26050</id>
-    <title>2026 Hyundai Santa Cruz Limited</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com//inventory/details/5NTJEDDF2TH163494"/>
-    <ns0:id>HD26050</ns0:id>
-    <ns0:price>46880.00 USD</ns0:price>
-    <ns0:vehicle_msrp>46880.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>5NTJEDDF2TH163494</ns0:vin>
+    <id>H26077</id>
+    <title>2026 Hyundai IONIQ 5 SEL</title>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com//inventory/details/7YAKNDDCXTY043961"/>
+    <ns0:id>H26077</ns0:id>
+    <ns0:price>45930.00 USD</ns0:price>
+    <ns0:vehicle_msrp>45930.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>7YAKNDDCXTY043961</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Hyundai</ns0:brand>
     <ns0:store_code>8954334598476874759</ns0:store_code>
@@ -4590,13 +4622,13 @@
     </ns0:vehicle_fulfillment>
     <ns0:year>2026</ns0:year>
     <ns0:make>Hyundai</ns0:make>
-    <ns0:model>Santa Cruz</ns0:model>
+    <ns0:model>IONIQ 5</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com//inventory/details/5NTJEDDF2TH163494?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Limited</ns0:trim>
-    <ns0:mileage>10 miles</ns0:mileage>
-    <ns0:body_style>truck</ns0:body_style>
-    <ns0:color>Blue Stone</ns0:color>
+    <ns0:link_template>https://www.napletondowntownhyundai.com//inventory/details/7YAKNDDCXTY043961?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SEL</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Cyber Gray</ns0:color>
   </entry>
 </feed>

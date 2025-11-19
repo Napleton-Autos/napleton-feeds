@@ -92,97 +92,6 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>340025</vehicle_id>
-    <title>2025 Jeep Grand Cherokee L Limited</title>
-    <description>2025 Jeep Grand Cherokee L. Trim: Limited. Color: Velvet Red Pearlcoat. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">1724 N Spring St.</component>
-      <component name="city">Beaver Dam</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53916</component>
-    </address>
-    <year>2025</year>
-    <make>Jeep</make>
-    <model>Grand Cherokee L</model>
-    <vin>1C4RJKBGXS8637895</vin>
-    <content_ids>1C4RJKBGXS8637895</content_ids>
-    <availability>in stock</availability>
-    <price>48349.00 USD</price>
-    <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJKBGXS8637895</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>2479</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Limited</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Velvet Red Pearlcoat</exterior_color>
-    <interior_color>Global Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175121--CYBWR-ltid1/1207175121.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175131--HGL97-ltid1/1207175131.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175141--USYIF-ltid1/1207175141.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175151--LCA5T-ltid1/1207175151.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175161--LCA5T-ltid1/1207175161.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175171--LCA5T-ltid1/1207175171.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175181--GDXAE-ltid1/1207175181.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175191--TEBCB-ltid1/1207175191.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175201--P6XUU-ltid1/1207175201.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175211--P6XUU-ltid1/1207175211.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175221--YMJ7V-ltid1/1207175221.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175231--FO534-ltid1/1207175231.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175241--TMTOA-ltid1/1207175241.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175251--TMTOA-ltid1/1207175251.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175261--TDDEY-ltid1/1207175261.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175271--E342B-ltid1/1207175271.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175281--LBGEP-ltid1/1207175281.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175291--LBGEP-ltid1/1207175291.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175301---9OBT-ltid1/1207175301.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207175311--NT2HH-ltid1/1207175311.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>140015</vehicle_id>
     <title>2025 Chrysler Pacifica Select</title>
     <description>2025 Chrysler Pacifica. Trim: Select. Color: Diamond Black Crystal Pearlcoat. Body Style: Passenger Van.</description>
@@ -4030,7 +3939,7 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
     <mileage>
-      <value>5</value>
+      <value>16</value>
       <unit>MI</unit>
     </mileage>
     <trim>Select</trim>
@@ -5606,7 +5515,7 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
     <mileage>
-      <value>5</value>
+      <value>15</value>
       <unit>MI</unit>
     </mileage>
     <trim>Limited</trim>
