@@ -448,9 +448,14 @@ def generate_facebook_feed(vehicles, dealership):
         # Required: state_of_vehicle (always "available")
         ET.SubElement(listing, 'state_of_vehicle').text = 'available'
 
-        # Keep old condition field for compatibility
+        # Required: condition (new/used/cpo)
         condition_raw = vehicle.get('New/Used', '').upper()
-        condition = 'new' if condition_raw == 'N' else 'used'
+        if condition_raw == 'N':
+            condition = 'new'
+        elif condition_raw == 'C':
+            condition = 'cpo'
+        else:
+            condition = 'used'
         ET.SubElement(listing, 'condition').text = condition
 
         # Required: Mileage with proper structure (unit must be uppercase "MI")
