@@ -445,11 +445,17 @@ def generate_facebook_feed(vehicles, dealership):
         url = vehicle.get('VDPURL') or f"{dealership['website']}/inventory/details/{vehicle['VIN']}"
         ET.SubElement(listing, 'url').text = url
 
-        # Required: state_of_vehicle (always "available")
-        ET.SubElement(listing, 'state_of_vehicle').text = 'available'
+        # Required: state_of_vehicle (NEW/USED/CPO)
+        condition_raw = vehicle.get('New/Used', '').upper()
+        if condition_raw == 'N':
+            state_of_vehicle = 'NEW'
+        elif condition_raw == 'C':
+            state_of_vehicle = 'CPO'
+        else:
+            state_of_vehicle = 'USED'
+        ET.SubElement(listing, 'state_of_vehicle').text = state_of_vehicle
 
         # Required: condition (new/used/cpo)
-        condition_raw = vehicle.get('New/Used', '').upper()
         if condition_raw == 'N':
             condition = 'new'
         elif condition_raw == 'C':
