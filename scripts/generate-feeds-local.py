@@ -659,6 +659,10 @@ def generate_google_feed(vehicles, dealership, dealer_id):
             for photo_url in photos[1:10]:
                 _add_g_element(entry, 'additional_image_link', photo_url)
 
+        # Custom labels
+        if vehicle.get('Model'):
+            _add_g_element(entry, 'custom_label_0', vehicle['Model'].strip())
+
     rough_string = ET.tostring(root, encoding='unicode')
     reparsed = minidom.parseString(rough_string)
     return reparsed.toprettyxml(indent="  ")
