@@ -1,717 +1,6 @@
 <?xml version="1.0" ?>
 <listings>
   <listing>
-    <vehicle_id>C24244</vehicle_id>
-    <title>2024 Chevrolet Silverado 1500 Custom</title>
-    <description>2024 Chevrolet Silverado 1500. Trim: Custom. Color: Sterling Gray Metallic. Body Style: Double Cab Pickup.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2024</year>
-    <make>Chevrolet</make>
-    <model>Silverado 1500</model>
-    <vin>1gcrdbekxrz243552</vin>
-    <content_ids>1gcrdbekxrz243552</content_ids>
-    <availability>in stock</availability>
-    <price>45715.00 USD</price>
-    <url>https://www.downtownchevy.com/inventory/new-2024-chevrolet-silverado-1500-custom-four-wheel-drive-double-cab-1gcrdbekxrz243552/</url>
-    <state_of_vehicle>available</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>100</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Custom</trim>
-    <body_style>TRUCK</body_style>
-    <exterior_color>Sterling Gray Metallic</exterior_color>
-    <interior_color>Jet Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145891--W9HHY-ltid1/1207145891.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145901--RKVTW-ltid1/1207145901.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145911--1HH08-ltid1/1207145911.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145921--R-WDE-ltid1/1207145921.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145931--R-WDE-ltid1/1207145931.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145941--VFEJS-ltid1/1207145941.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145951--7EJCW-ltid1/1207145951.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145961--GNYFM-ltid1/1207145961.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145971--KN27+-ltid1/1207145971.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145981--KN27+-ltid1/1207145981.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145991--ODBFE-ltid1/1207145991.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207146001--SLGZC-ltid1/1207146001.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207146011--GZJH7-ltid1/1207146011.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207146021--MPVSS-ltid1/1207146021.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207146031--MPVSS-ltid1/1207146031.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207146041--YNQAJ-ltid1/1207146041.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207146051--WWULL-ltid1/1207146051.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207146061--WWULL-ltid1/1207146061.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207146071--L9AJG-ltid1/1207146071.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207146081--1FHSD-ltid1/1207146081.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>C24409</vehicle_id>
-    <title>2024 Chevrolet Silverado 1500 Custom</title>
-    <description>2024 Chevrolet Silverado 1500. Trim: Custom. Color: Slate Gray Metallic. Body Style: Double Cab Pickup.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2024</year>
-    <make>Chevrolet</make>
-    <model>Silverado 1500</model>
-    <vin>1gcrdbek8rz347859</vin>
-    <content_ids>1gcrdbek8rz347859</content_ids>
-    <availability>in stock</availability>
-    <price>45770.00 USD</price>
-    <url>https://www.downtownchevy.com/inventory/new-2024-chevrolet-silverado-1500-custom-four-wheel-drive-double-cab-1gcrdbek8rz347859/</url>
-    <state_of_vehicle>available</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>43</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Custom</trim>
-    <body_style>TRUCK</body_style>
-    <exterior_color>Slate Gray Metallic</exterior_color>
-    <interior_color>Jet Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771603611--45ZQ4-ltid1/1771603611.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771603621--45ZQ4-ltid1/1771603621.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771603631--QE5GV-ltid1/1771603631.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771603641--QE5GV-ltid1/1771603641.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771603651--QE5GV-ltid1/1771603651.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771603661--FQTUE-ltid1/1771603661.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771603671--FQTUE-ltid1/1771603671.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771603681--FQTUE-ltid1/1771603681.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771603691--ZRB8R-ltid1/1771603691.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771603701--ZRB8R-ltid1/1771603701.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771603711--ZRB8R-ltid1/1771603711.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771603721--ZRBUQ-ltid1/1771603721.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771603731--ZRBUQ-ltid1/1771603731.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771603741--RMGEW-ltid1/1771603741.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>C25078</vehicle_id>
-    <title>2025 Chevrolet Silverado 2500HD Work Truck</title>
-    <description>2025 Chevrolet Silverado 2500HD. Trim: Work Truck. Color: Summit White. Body Style: Regular Cab Pickup.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2025</year>
-    <make>Chevrolet</make>
-    <model>Silverado 2500HD</model>
-    <vin>1gc3kle7xsf112206</vin>
-    <content_ids>1gc3kle7xsf112206</content_ids>
-    <availability>in stock</availability>
-    <price>46745.00 USD</price>
-    <url>https://www.downtownchevy.com/inventory/new-2025-chevrolet-silverado-2500-hd-wt-four-wheel-drive-regular-cab-1gc3kle7xsf112206/</url>
-    <state_of_vehicle>available</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>3</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Work Truck</trim>
-    <body_style>TRUCK</body_style>
-    <exterior_color>Summit White</exterior_color>
-    <interior_color>Jet Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604961--+LI1O-ltid1/1771604961.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604971--+LI1O-ltid1/1771604971.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604981--+LI1O-ltid1/1771604981.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604991--EWNQZ-ltid1/1771604991.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605001--EWNQZ-ltid1/1771605001.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605011--WPVGD-ltid1/1771605011.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605021--WPVGD-ltid1/1771605021.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605031--WPVGD-ltid1/1771605031.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605041--X6TR2-ltid1/1771605041.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605051--X6TR2-ltid1/1771605051.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605061--X6TR2-ltid1/1771605061.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605071--4+N1X-ltid1/1771605071.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605081--4+N1X-ltid1/1771605081.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605091--4+N1X-ltid1/1771605091.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>C25116</vehicle_id>
-    <title>2025 Chevrolet Trax LT</title>
-    <description>2025 Chevrolet Trax. Trim: LT. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2025</year>
-    <make>Chevrolet</make>
-    <model>Trax</model>
-    <vin>kl77lhep8sc082097</vin>
-    <content_ids>kl77lhep8sc082097</content_ids>
-    <availability>in stock</availability>
-    <price>23810.00 USD</price>
-    <url>https://www.downtownchevy.com/inventory/details/KL77LHEP8SC082097</url>
-    <state_of_vehicle>available</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>4929</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>LT</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Summit White</exterior_color>
-    <interior_color>Jet Black with Blue accents</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610061--I+BDL-ltid1/1771610061.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610071--H4P7W-ltid1/1771610071.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610081--H4P7W-ltid1/1771610081.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610091--H4P7W-ltid1/1771610091.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610101--H4P7W-ltid1/1771610101.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610111--LPQO1-ltid1/1771610111.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610121--LPQO1-ltid1/1771610121.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610131--LPQO1-ltid1/1771610131.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610141--SNHAH-ltid1/1771610141.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610151--SNHAH-ltid1/1771610151.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610161--SNHAH-ltid1/1771610161.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610171--3PM5--ltid1/1771610171.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610181--3PM5--ltid1/1771610181.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610191--3PM5--ltid1/1771610191.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>C25189</vehicle_id>
-    <title>2025 Chevrolet Trax 2RS</title>
-    <description>2025 Chevrolet Trax. Trim: 2RS. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2025</year>
-    <make>Chevrolet</make>
-    <model>Trax</model>
-    <vin>kl77ljepxsc154196</vin>
-    <content_ids>kl77ljepxsc154196</content_ids>
-    <availability>in stock</availability>
-    <price>23594.00 USD</price>
-    <url>https://www.downtownchevy.com/inventory/details/KL77LJEPXSC154196</url>
-    <state_of_vehicle>available</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>5247</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>2RS</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Summit White</exterior_color>
-    <interior_color>Jet Black with Red accents</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026111--W9HHY-ltid1/1209026111.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026121--9N1SQ-ltid1/1209026121.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026131--9N1SQ-ltid1/1209026131.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026141--5-VHG-ltid1/1209026141.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026151--5-VHG-ltid1/1209026151.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026161--63GJN-ltid1/1209026161.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026171--63GJN-ltid1/1209026171.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026181--CQJIF-ltid1/1209026181.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026191--CQJIF-ltid1/1209026191.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026201--K2UBF-ltid1/1209026201.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026211--K2UBF-ltid1/1209026211.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026221--6QGTH-ltid1/1209026221.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026231--6QGTH-ltid1/1209026231.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026241--6QGTH-ltid1/1209026241.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026251--FO36--ltid1/1209026251.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026261--FO36--ltid1/1209026261.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026271--VIEKY-ltid1/1209026271.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026281--VIEKY-ltid1/1209026281.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026291--LKXZ5-ltid1/1209026291.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026301--LKXZ5-ltid1/1209026301.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>HL25023</vehicle_id>
-    <title>2025 Hyundai Elantra SEL Sport</title>
-    <description>2025 Hyundai Elantra. Trim: SEL Sport. Color: Abyss Black. Body Style: Sedan.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2025</year>
-    <make>Hyundai</make>
-    <model>Elantra</model>
-    <vin>kmhlm4dg6su910534</vin>
-    <content_ids>kmhlm4dg6su910534</content_ids>
-    <availability>in stock</availability>
-    <price>19991.00 USD</price>
-    <url>https://www.downtownchevy.com/inventory/used-2025-hyundai-elantra-sel-sport-front-wheel-drive-sedan-4-dr-kmhlm4dg6su910534/</url>
-    <state_of_vehicle>available</state_of_vehicle>
-    <condition>used</condition>
-    <mileage>
-      <value>4313</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>SEL Sport</trim>
-    <body_style>SEDAN</body_style>
-    <exterior_color>Abyss Black</exterior_color>
-    <interior_color>Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423331--YON73-ltid2/1775423331.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423341--MAINV-ltid2/1775423341.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423351--MAINV-ltid2/1775423351.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423361--Y0INY-ltid2/1775423361.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423371--9FCXE-ltid2/1775423371.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423381--RXOIX-ltid2/1775423381.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423391--RXOIX-ltid2/1775423391.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423401--SGBBY-ltid2/1775423401.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423071--JUEFS-ltid2/1775423071.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423081--CDT4A-ltid2/1775423081.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423091--CDT4A-ltid2/1775423091.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423101--EXQIT-ltid2/1775423101.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423111--1A0FI-ltid2/1775423111.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423121--ZQD4K-ltid2/1775423121.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423131--ZQD4K-ltid2/1775423131.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423141--OBRO8-ltid2/1775423141.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423151--UISHN-ltid2/1775423151.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423161--UISHN-ltid2/1775423161.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423171--P0UU3-ltid2/1775423171.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423181--15DTE-ltid2/1775423181.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>C25129</vehicle_id>
-    <title>2025 Chevrolet Silverado 1500 Work Truck</title>
-    <description>2025 Chevrolet Silverado 1500. Trim: Work Truck. Color: Summit White. Body Style: Regular Cab Pickup.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2025</year>
-    <make>Chevrolet</make>
-    <model>Silverado 1500</model>
-    <vin>3gcnkaed0sg137665</vin>
-    <content_ids>3gcnkaed0sg137665</content_ids>
-    <availability>in stock</availability>
-    <price>38015.00 USD</price>
-    <url>https://www.downtownchevy.com/inventory/new-2025-chevrolet-silverado-1500-wt-four-wheel-drive-regular-cab-3gcnkaed0sg137665/</url>
-    <state_of_vehicle>available</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>12</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Work Truck</trim>
-    <body_style>TRUCK</body_style>
-    <exterior_color>Summit White</exterior_color>
-    <interior_color>Jet Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611361--JMZPS-ltid1/1771611361.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611371--JMZPS-ltid1/1771611371.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611381--JMZPS-ltid1/1771611381.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611391--K8OIS-ltid1/1771611391.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611401--K8OIS-ltid1/1771611401.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611411--BYISY-ltid1/1771611411.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611421--BYISY-ltid1/1771611421.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611431--BYISY-ltid1/1771611431.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611441--M5QOR-ltid1/1771611441.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611451--M5QOR-ltid1/1771611451.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611461--KLYIZ-ltid1/1771611461.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611471--KLYIZ-ltid1/1771611471.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611481--KLYIZ-ltid1/1771611481.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611491--I+BDL-ltid1/1771611491.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>C25192</vehicle_id>
-    <title>2025 Chevrolet Silverado 1500 Work Truck</title>
-    <description>2025 Chevrolet Silverado 1500. Trim: Work Truck. Color: Black. Body Style: Regular Cab Pickup.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2025</year>
-    <make>Chevrolet</make>
-    <model>Silverado 1500</model>
-    <vin>3gcnkaed2sg218022</vin>
-    <content_ids>3gcnkaed2sg218022</content_ids>
-    <availability>in stock</availability>
-    <price>36284.00 USD</price>
-    <url>https://www.downtownchevy.com/inventory/new-2025-chevrolet-silverado-1500-wt-four-wheel-drive-regular-cab-3gcnkaed2sg218022/</url>
-    <state_of_vehicle>available</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>11</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Work Truck</trim>
-    <body_style>TRUCK</body_style>
-    <exterior_color>Black</exterior_color>
-    <interior_color>Jet Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612711--D2STT-ltid1/1771612711.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612721--BOI0C-ltid1/1771612721.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612731--BOI0C-ltid1/1771612731.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612741--BOI0C-ltid1/1771612741.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612751--YI4JL-ltid1/1771612751.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612761--YI4JL-ltid1/1771612761.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612771--YI4JL-ltid1/1771612771.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612781--TRB-8-ltid1/1771612781.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612791--TRB-8-ltid1/1771612791.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612801--HPBXG-ltid1/1771612801.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612811--HPBXG-ltid1/1771612811.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612821--HPBXG-ltid1/1771612821.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612831--KMGUO-ltid1/1771612831.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612841--KMGUO-ltid1/1771612841.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>C25221</vehicle_id>
-    <title>2025 Chevrolet Blazer EV AWD LT</title>
-    <description>2025 Chevrolet Blazer EV. Trim: AWD LT. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2025</year>
-    <make>Chevrolet</make>
-    <model>Blazer EV</model>
-    <vin>3gnkdgrj2ss172986</vin>
-    <content_ids>3gnkdgrj2ss172986</content_ids>
-    <availability>in stock</availability>
-    <price>44035.00 USD</price>
-    <url>https://www.downtownchevy.com/inventory/new-2025-chevrolet-blazer-ev-lt-all-wheel-drive-suv-3gnkdgrj2ss172986/</url>
-    <state_of_vehicle>available</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>1</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>AWD LT</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Summit White</exterior_color>
-    <interior_color>Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609461--INS2L-ltid1/1771609461.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609471--INS2L-ltid1/1771609471.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609481--9F-V3-ltid1/1771609481.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609491--9F-V3-ltid1/1771609491.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609501--9F-V3-ltid1/1771609501.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609511---R0SO-ltid1/1771609511.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609521---R0SO-ltid1/1771609521.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609531---R0SO-ltid1/1771609531.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609541--VPX7N-ltid1/1771609541.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609551--VPX7N-ltid1/1771609551.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609561--VPX7N-ltid1/1771609561.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609571--STHV5-ltid1/1771609571.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609581--STHV5-ltid1/1771609581.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609591---MYSM-ltid1/1771609591.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>C25222</vehicle_id>
     <title>2025 Chevrolet Blazer EV AWD LT</title>
     <description>2025 Chevrolet Blazer EV. Trim: AWD LT. Color: Black. Body Style: Sport Utility Vehicle.</description>
@@ -1285,79 +574,6 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771602441--H7AOG-ltid1/1771602441.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>C25336</vehicle_id>
-    <title>2025 Chevrolet Silverado 1500 RST</title>
-    <description>2025 Chevrolet Silverado 1500. Trim: RST. Color: Summit White. Body Style: Crew Cab Pickup.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2025</year>
-    <make>Chevrolet</make>
-    <model>Silverado 1500</model>
-    <vin>1gcukee80sz326094</vin>
-    <content_ids>1gcukee80sz326094</content_ids>
-    <availability>in stock</availability>
-    <price>50726.00 USD</price>
-    <url>https://www.downtownchevy.com/inventory/new-2025-chevrolet-silverado-1500-rst-four-wheel-drive-crew-cab-1gcukee80sz326094/</url>
-    <state_of_vehicle>available</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>4</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>RST</trim>
-    <body_style>TRUCK</body_style>
-    <exterior_color>Summit White</exterior_color>
-    <interior_color>Jet Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604661--QAXTV-ltid1/1771604661.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604671--9BYEM-ltid1/1771604671.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604681--9BYEM-ltid1/1771604681.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604691--9BYEM-ltid1/1771604691.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604701--FMKD8-ltid1/1771604701.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604711--FMKD8-ltid1/1771604711.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604721--6CSNC-ltid1/1771604721.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604731--6CSNC-ltid1/1771604731.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604741--6CSNC-ltid1/1771604741.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604751--PIU+5-ltid1/1771604751.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604761--PIU+5-ltid1/1771604761.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604771--6NMHN-ltid1/1771604771.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771602651--J6ZRG-ltid1/1771602651.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771602661--QAXTV-ltid1/1771602661.jpg</url>
     </image>
   </listing>
   <listing>
@@ -1957,78 +1173,6 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771614211--PK8C7-ltid2/1771614211.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>C26022</vehicle_id>
-    <title>2026 Chevrolet Traverse FWD LT</title>
-    <description>2026 Chevrolet Traverse. Trim: FWD LT. Color: SUMMIT WHITE. Body Style: Sport Utility Vehicle.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2026</year>
-    <make>Chevrolet</make>
-    <model>Traverse</model>
-    <vin>1gnergks5tj136746</vin>
-    <content_ids>1gnergks5tj136746</content_ids>
-    <availability>in stock</availability>
-    <price>42503.00 USD</price>
-    <url>https://www.downtownchevy.com/inventory/new-2026-chevrolet-traverse-lt-front-wheel-drive-suv-1gnergks5tj136746/</url>
-    <state_of_vehicle>available</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>5</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>FWD LT</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>SUMMIT WHITE</exterior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612181--LE6IY-ltid1/1771612181.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612191--LE6IY-ltid1/1771612191.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612201--LE6IY-ltid1/1771612201.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612211--XWDEK-ltid1/1771612211.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612221--XWDEK-ltid1/1771612221.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612231--PFIPM-ltid1/1771612231.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612241--PFIPM-ltid1/1771612241.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612251--PFIPM-ltid1/1771612251.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612261--E41M7-ltid1/1771612261.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612271--E41M7-ltid1/1771612271.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612281--ZUENS-ltid1/1771612281.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612291--ZUENS-ltid1/1771612291.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612301--KEDYS-ltid1/1771612301.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612311--KEDYS-ltid1/1771612311.jpg</url>
     </image>
   </listing>
   <listing>
@@ -2686,6 +1830,388 @@
     </image>
   </listing>
   <listing>
+    <vehicle_id>C26060</vehicle_id>
+    <title>2026 Chevrolet Trax LS</title>
+    <description>2026 Chevrolet Trax. Trim: LS. Color: Marina Blue Metallic. Body Style: Sport Utility Vehicle.</description>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2026</year>
+    <make>Chevrolet</make>
+    <model>Trax</model>
+    <vin>kl77lfep6tc025175</vin>
+    <content_ids>kl77lfep6tc025175</content_ids>
+    <availability>in stock</availability>
+    <price>24308.00 USD</price>
+    <url>https://www.downtownchevy.com/inventory/new-2026-chevrolet-trax-ls-front-wheel-drive-suv-kl77lfep6tc025175/</url>
+    <state_of_vehicle>available</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>5</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>LS</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Marina Blue Metallic</exterior_color>
+    <interior_color>Jet Black/Gray with Blue accents</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771600641--HJOBN-ltid1/1771600641.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771600651--VZVIH-ltid1/1771600651.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771600661--XXMQA-ltid1/1771600661.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771600671--XXMQA-ltid1/1771600671.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771600681--C0LCI-ltid1/1771600681.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771600691--DRKKS-ltid1/1771600691.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771600701--2DBGF-ltid1/1771600701.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771600711--2DBGF-ltid1/1771600711.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771600721--C4FQW-ltid1/1771600721.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771600731--1SRRJ-ltid1/1771600731.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771600741--ZK4KY-ltid1/1771600741.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771600751--ZK4KY-ltid1/1771600751.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771600761--LKEQS-ltid1/1771600761.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771600771--SXMLC-ltid1/1771600771.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>P0767</vehicle_id>
+    <title>2022 Buick Envision Preferred</title>
+    <description>2022 Buick Envision. Trim: Preferred. Color: Ebony Twilight Metallic. Body Style: Sport Utility Vehicle.</description>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2022</year>
+    <make>Buick</make>
+    <model>Envision</model>
+    <vin>lrbazlr47nd166998</vin>
+    <content_ids>lrbazlr47nd166998</content_ids>
+    <availability>in stock</availability>
+    <price>22981.00 USD</price>
+    <url>https://www.downtownchevy.com/inventory/used-2022-buick-envision-preferred-front-wheel-drive-suv-lrbazlr47nd166998/</url>
+    <state_of_vehicle>available</state_of_vehicle>
+    <condition>used</condition>
+    <mileage>
+      <value>25463</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Preferred</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Ebony Twilight Metallic</exterior_color>
+    <interior_color>Whisper Beige seats</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465521--J4MXD-ltid2/1797465521.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465531--J4MXD-ltid2/1797465531.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465541--J4MXD-ltid2/1797465541.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465551--LGFHD-ltid2/1797465551.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465561--LGFHD-ltid2/1797465561.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465571--RKTSB-ltid2/1797465571.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465581--RKTSB-ltid2/1797465581.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465591--RKTSB-ltid2/1797465591.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465601--HTHHY-ltid2/1797465601.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465611--HTHHY-ltid2/1797465611.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465671--5ZZWX-ltid2/1797465671.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465681--5ZZWX-ltid2/1797465681.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465691--KETFT-ltid2/1797465691.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465701--XSPL6-ltid2/1797465701.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465711--XSPL6-ltid2/1797465711.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465721--AH-CZ-ltid2/1797465721.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465731--AH-CZ-ltid2/1797465731.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465741--AH-CZ-ltid2/1797465741.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465751--VDMKH-ltid2/1797465751.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465761--VDMKH-ltid2/1797465761.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>C25221</vehicle_id>
+    <title>2025 Chevrolet Blazer EV AWD LT</title>
+    <description>2025 Chevrolet Blazer EV. Trim: AWD LT. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2025</year>
+    <make>Chevrolet</make>
+    <model>Blazer EV</model>
+    <vin>3gnkdgrj2ss172986</vin>
+    <content_ids>3gnkdgrj2ss172986</content_ids>
+    <availability>in stock</availability>
+    <price>44035.00 USD</price>
+    <url>https://www.downtownchevy.com/inventory/new-2025-chevrolet-blazer-ev-lt-all-wheel-drive-suv-3gnkdgrj2ss172986/</url>
+    <state_of_vehicle>available</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>1</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>AWD LT</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Summit White</exterior_color>
+    <interior_color>Black</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609461--INS2L-ltid1/1771609461.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609471--INS2L-ltid1/1771609471.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609481--9F-V3-ltid1/1771609481.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609491--9F-V3-ltid1/1771609491.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609501--9F-V3-ltid1/1771609501.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609511---R0SO-ltid1/1771609511.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609521---R0SO-ltid1/1771609521.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609531---R0SO-ltid1/1771609531.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609541--VPX7N-ltid1/1771609541.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609551--VPX7N-ltid1/1771609551.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609561--VPX7N-ltid1/1771609561.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609571--STHV5-ltid1/1771609571.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609581--STHV5-ltid1/1771609581.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609591---MYSM-ltid1/1771609591.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>C25336</vehicle_id>
+    <title>2025 Chevrolet Silverado 1500 RST</title>
+    <description>2025 Chevrolet Silverado 1500. Trim: RST. Color: Summit White. Body Style: Crew Cab Pickup.</description>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2025</year>
+    <make>Chevrolet</make>
+    <model>Silverado 1500</model>
+    <vin>1gcukee80sz326094</vin>
+    <content_ids>1gcukee80sz326094</content_ids>
+    <availability>in stock</availability>
+    <price>50726.00 USD</price>
+    <url>https://www.downtownchevy.com/inventory/new-2025-chevrolet-silverado-1500-rst-four-wheel-drive-crew-cab-1gcukee80sz326094/</url>
+    <state_of_vehicle>available</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>4</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>RST</trim>
+    <body_style>TRUCK</body_style>
+    <exterior_color>Summit White</exterior_color>
+    <interior_color>Jet Black</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604661--QAXTV-ltid1/1771604661.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604671--9BYEM-ltid1/1771604671.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604681--9BYEM-ltid1/1771604681.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604691--9BYEM-ltid1/1771604691.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604701--FMKD8-ltid1/1771604701.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604711--FMKD8-ltid1/1771604711.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604721--6CSNC-ltid1/1771604721.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604731--6CSNC-ltid1/1771604731.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604741--6CSNC-ltid1/1771604741.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604751--PIU+5-ltid1/1771604751.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604761--PIU+5-ltid1/1771604761.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604771--6NMHN-ltid1/1771604771.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771602651--J6ZRG-ltid1/1771602651.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771602661--QAXTV-ltid1/1771602661.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>C26022</vehicle_id>
+    <title>2026 Chevrolet Traverse FWD LT</title>
+    <description>2026 Chevrolet Traverse. Trim: FWD LT. Color: SUMMIT WHITE. Body Style: Sport Utility Vehicle.</description>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2026</year>
+    <make>Chevrolet</make>
+    <model>Traverse</model>
+    <vin>1gnergks5tj136746</vin>
+    <content_ids>1gnergks5tj136746</content_ids>
+    <availability>in stock</availability>
+    <price>42503.00 USD</price>
+    <url>https://www.downtownchevy.com/inventory/new-2026-chevrolet-traverse-lt-front-wheel-drive-suv-1gnergks5tj136746/</url>
+    <state_of_vehicle>available</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>5</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>FWD LT</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>SUMMIT WHITE</exterior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612181--LE6IY-ltid1/1771612181.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612191--LE6IY-ltid1/1771612191.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612201--LE6IY-ltid1/1771612201.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612211--XWDEK-ltid1/1771612211.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612221--XWDEK-ltid1/1771612221.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612231--PFIPM-ltid1/1771612231.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612241--PFIPM-ltid1/1771612241.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612251--PFIPM-ltid1/1771612251.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612261--E41M7-ltid1/1771612261.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612271--E41M7-ltid1/1771612271.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612281--ZUENS-ltid1/1771612281.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612291--ZUENS-ltid1/1771612291.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612301--KEDYS-ltid1/1771612301.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612311--KEDYS-ltid1/1771612311.jpg</url>
+    </image>
+  </listing>
+  <listing>
     <vehicle_id>C26032</vehicle_id>
     <title>2026 Chevrolet Trax LS</title>
     <description>2026 Chevrolet Trax. Trim: LS. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
@@ -2756,6 +2282,149 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771615331--SFHJH-ltid1/1771615331.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>C26041</vehicle_id>
+    <title>2026 Chevrolet Equinox EV LT2 w/PDE</title>
+    <description>2026 Chevrolet Equinox EV. Trim: LT2 w/PDE. Color: Black. Body Style: Sport Utility Vehicle.</description>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2026</year>
+    <make>Chevrolet</make>
+    <model>Equinox EV</model>
+    <vin>3gn7dnrp8ts106796</vin>
+    <content_ids>3gn7dnrp8ts106796</content_ids>
+    <availability>in stock</availability>
+    <price>38855.00 USD</price>
+    <url>https://www.downtownchevy.com/inventory/new-2026-chevrolet-equinox-ev-lt-front-wheel-drive-suv-3gn7dnrp8ts106796/</url>
+    <state_of_vehicle>available</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>4</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>LT2 w/PDE</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Black</exterior_color>
+    <interior_color>Black with Blue Accents</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605591--UJA26-ltid1/1771605591.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605601--GZMLF-ltid1/1771605601.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605611--RHJBD-ltid1/1771605611.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605621--RHJBD-ltid1/1771605621.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605631--KKNY4-ltid1/1771605631.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771618821--QKI0L-ltid1/1771618821.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771618831--OPOER-ltid1/1771618831.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771619741--TDIIN-ltid1/1771619741.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771619751--TDIIN-ltid1/1771619751.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771619761--BUKKI-ltid1/1771619761.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771619771--XSD2A-ltid1/1771619771.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771619781--WRYQG-ltid1/1771619781.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771619791--YAX3J-ltid1/1771619791.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>C26052</vehicle_id>
+    <title>2026 Chevrolet Trax 2RS</title>
+    <description>2026 Chevrolet Trax. Trim: 2RS. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2026</year>
+    <make>Chevrolet</make>
+    <model>Trax</model>
+    <vin>kl77ljep1tc024695</vin>
+    <content_ids>kl77ljep1tc024695</content_ids>
+    <availability>in stock</availability>
+    <price>26909.00 USD</price>
+    <url>https://www.downtownchevy.com/inventory/new-2026-chevrolet-trax-2rs-front-wheel-drive-suv-kl77ljep1tc024695/</url>
+    <state_of_vehicle>available</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>4</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>2RS</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Summit White</exterior_color>
+    <interior_color>Jet Black with Red accents</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771607121---OLEO-ltid1/1771607121.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771607131--IHDIP-ltid1/1771607131.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771607141--BK-1C-ltid1/1771607141.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771607151--BK-1C-ltid1/1771607151.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771607161--SLDPB-ltid1/1771607161.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771607171--GLDAD-ltid1/1771607171.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771607181--PJ6BV-ltid1/1771607181.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771607191--PJ6BV-ltid1/1771607191.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771607201--12LP5-ltid1/1771607201.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771607211--IGTWV-ltid1/1771607211.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771607221--DOCRA-ltid1/1771607221.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771607231--DOCRA-ltid1/1771607231.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771607241--ZWEJ0-ltid1/1771607241.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771607251--AVCTR-ltid1/1771607251.jpg</url>
     </image>
   </listing>
   <listing>
@@ -3303,76 +2972,6 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>C26041</vehicle_id>
-    <title>2026 Chevrolet Equinox EV LT2 w/PDE</title>
-    <description>2026 Chevrolet Equinox EV. Trim: LT2 w/PDE. Color: Black. Body Style: Sport Utility Vehicle.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2026</year>
-    <make>Chevrolet</make>
-    <model>Equinox EV</model>
-    <vin>3gn7dnrp8ts106796</vin>
-    <content_ids>3gn7dnrp8ts106796</content_ids>
-    <availability>in stock</availability>
-    <price>38855.00 USD</price>
-    <url>https://www.downtownchevy.com/inventory/new-2026-chevrolet-equinox-ev-lt-front-wheel-drive-suv-3gn7dnrp8ts106796/</url>
-    <state_of_vehicle>available</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>4</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>LT2 w/PDE</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Black</exterior_color>
-    <interior_color>Black with Blue Accents</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605591--UJA26-ltid1/1771605591.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605601--GZMLF-ltid1/1771605601.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605611--RHJBD-ltid1/1771605611.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605621--RHJBD-ltid1/1771605621.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605631--KKNY4-ltid1/1771605631.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771618821--QKI0L-ltid1/1771618821.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771618831--OPOER-ltid1/1771618831.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771619741--TDIIN-ltid1/1771619741.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771619751--TDIIN-ltid1/1771619751.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771619761--BUKKI-ltid1/1771619761.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771619771--XSD2A-ltid1/1771619771.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771619781--WRYQG-ltid1/1771619781.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771619791--YAX3J-ltid1/1771619791.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>C26043</vehicle_id>
     <title>2026 Chevrolet Tahoe Z71</title>
     <description>2026 Chevrolet Tahoe. Trim: Z71. Color: Black. Body Style: Sport Utility Vehicle.</description>
@@ -3902,79 +3501,6 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>C26052</vehicle_id>
-    <title>2026 Chevrolet Trax 2RS</title>
-    <description>2026 Chevrolet Trax. Trim: 2RS. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2026</year>
-    <make>Chevrolet</make>
-    <model>Trax</model>
-    <vin>kl77ljep1tc024695</vin>
-    <content_ids>kl77ljep1tc024695</content_ids>
-    <availability>in stock</availability>
-    <price>26909.00 USD</price>
-    <url>https://www.downtownchevy.com/inventory/new-2026-chevrolet-trax-2rs-front-wheel-drive-suv-kl77ljep1tc024695/</url>
-    <state_of_vehicle>available</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>4</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>2RS</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Summit White</exterior_color>
-    <interior_color>Jet Black with Red accents</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771607121---OLEO-ltid1/1771607121.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771607131--IHDIP-ltid1/1771607131.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771607141--BK-1C-ltid1/1771607141.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771607151--BK-1C-ltid1/1771607151.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771607161--SLDPB-ltid1/1771607161.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771607171--GLDAD-ltid1/1771607171.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771607181--PJ6BV-ltid1/1771607181.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771607191--PJ6BV-ltid1/1771607191.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771607201--12LP5-ltid1/1771607201.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771607211--IGTWV-ltid1/1771607211.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771607221--DOCRA-ltid1/1771607221.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771607231--DOCRA-ltid1/1771607231.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771607241--ZWEJ0-ltid1/1771607241.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771607251--AVCTR-ltid1/1771607251.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>P0730</vehicle_id>
     <title>2024 Chrysler Pacifica Hybrid Select</title>
     <description>2024 Chrysler Pacifica. Trim: Hybrid Select. Color: Bright White Clearcoat. Body Style: Passenger Van.</description>
@@ -4427,7 +3953,7 @@
     <vin>wbx73ef01r5z81209</vin>
     <content_ids>wbx73ef01r5z81209</content_ids>
     <availability>in stock</availability>
-    <price>28720.00 USD</price>
+    <price>29456.00 USD</price>
     <url>https://www.downtownchevy.com/inventory/used-2024-bmw-x1-xdrive28i-all-wheel-drive-suv-wbx73ef01r5z81209/</url>
     <state_of_vehicle>available</state_of_vehicle>
     <condition>used</condition>
@@ -4678,79 +4204,6 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611771--ZIRSP-ltid2/1771611771.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>C26060</vehicle_id>
-    <title>2026 Chevrolet Trax LS</title>
-    <description>2026 Chevrolet Trax. Trim: LS. Color: Marina Blue Metallic. Body Style: Sport Utility Vehicle.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2026</year>
-    <make>Chevrolet</make>
-    <model>Trax</model>
-    <vin>kl77lfep6tc025175</vin>
-    <content_ids>kl77lfep6tc025175</content_ids>
-    <availability>in stock</availability>
-    <price>24308.00 USD</price>
-    <url>https://www.downtownchevy.com/inventory/new-2026-chevrolet-trax-ls-front-wheel-drive-suv-kl77lfep6tc025175/</url>
-    <state_of_vehicle>available</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>5</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>LS</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Marina Blue Metallic</exterior_color>
-    <interior_color>Jet Black/Gray with Blue accents</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771600641--HJOBN-ltid1/1771600641.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771600651--VZVIH-ltid1/1771600651.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771600661--XXMQA-ltid1/1771600661.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771600671--XXMQA-ltid1/1771600671.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771600681--C0LCI-ltid1/1771600681.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771600691--DRKKS-ltid1/1771600691.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771600701--2DBGF-ltid1/1771600701.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771600711--2DBGF-ltid1/1771600711.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771600721--C4FQW-ltid1/1771600721.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771600731--1SRRJ-ltid1/1771600731.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771600741--ZK4KY-ltid1/1771600741.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771600751--ZK4KY-ltid1/1771600751.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771600761--LKEQS-ltid1/1771600761.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771600771--SXMLC-ltid1/1771600771.jpg</url>
     </image>
   </listing>
   <listing>
@@ -5091,6 +4544,528 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609071--HSHIS-ltid2/1771609071.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>C26070</vehicle_id>
+    <title>2026 Chevrolet Trax LT</title>
+    <description>2026 Chevrolet Trax. Trim: LT. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2026</year>
+    <make>Chevrolet</make>
+    <model>Trax</model>
+    <vin>kl77lhep9tc024999</vin>
+    <content_ids>kl77lhep9tc024999</content_ids>
+    <availability>in stock</availability>
+    <price>25368.00 USD</price>
+    <url>https://www.downtownchevy.com/inventory/new-2026-chevrolet-trax-lt-front-wheel-drive-suv-kl77lhep9tc024999/</url>
+    <state_of_vehicle>available</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>5</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>LT</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Summit White</exterior_color>
+    <interior_color>Jet Black with Blue accents</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1724857661--RETTI-ltid1/1724857661.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1724857671--RETTI-ltid1/1724857671.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1724857681--6AAKN-ltid1/1724857681.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1724857691--1TWBB-ltid1/1724857691.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1724857701--1TWBB-ltid1/1724857701.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1724857711--DQNBM-ltid1/1724857711.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1724857721--DQNBM-ltid1/1724857721.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1724857731--NLYMC-ltid1/1724857731.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1724857741--4JHEG-ltid1/1724857741.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1724857751--4JHEG-ltid1/1724857751.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1724857761--OCTWO-ltid1/1724857761.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1724857771--UV5MB-ltid1/1724857771.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>P0746</vehicle_id>
+    <title>2023 Hyundai Tucson SE</title>
+    <description>2023 Hyundai Tucson. Trim: SE. Color: Serenity White Pearl. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2023</year>
+    <make>Hyundai</make>
+    <model>Tucson</model>
+    <vin>5nmjacae1ph186316</vin>
+    <content_ids>5nmjacae1ph186316</content_ids>
+    <availability>in stock</availability>
+    <price>20995.00 USD</price>
+    <url>https://www.downtownchevy.com/inventory/used-2023-hyundai-tucson-se-all-wheel-drive-suv-5nmjacae1ph186316/</url>
+    <state_of_vehicle>available</state_of_vehicle>
+    <condition>used</condition>
+    <mileage>
+      <value>29844</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>SE</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Serenity White Pearl</exterior_color>
+    <interior_color>Gray</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621641--EZMMJ-ltid2/1771621641.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621651--S4VWS-ltid2/1771621651.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621661--L9ECK-ltid2/1771621661.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621671--FQCWD-ltid2/1771621671.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621681--FQCWD-ltid2/1771621681.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621691--MMPKT-ltid2/1771621691.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621701--EZMVZ-ltid2/1771621701.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621711--8GC6G-ltid2/1771621711.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621721--8GC6G-ltid2/1771621721.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621731--ABCIH-ltid2/1771621731.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621741--SMKBH-ltid2/1771621741.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621751--1KGEW-ltid2/1771621751.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621761--1KGEW-ltid2/1771621761.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621771--JIDB9-ltid2/1771621771.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621781--KOZUH-ltid2/1771621781.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621791--2SXNX-ltid2/1771621791.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621801--2SXNX-ltid2/1771621801.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621811--QOHTR-ltid2/1771621811.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621821--EOHYX-ltid2/1771621821.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771601751--Y519C-ltid2/1771601751.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>P0753</vehicle_id>
+    <title>2024 Jeep Wrangler Sport S</title>
+    <description>2024 Jeep Wrangler. Trim: Sport S. Color: Silver Zynith Clearcoat. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2024</year>
+    <make>Jeep</make>
+    <model>Wrangler</model>
+    <vin>1c4pjxdg9rw308340</vin>
+    <content_ids>1c4pjxdg9rw308340</content_ids>
+    <availability>in stock</availability>
+    <price>33545.00 USD</price>
+    <url>https://www.downtownchevy.com/inventory/used-2024-jeep-wrangler-sport-s-four-wheel-drive-suv-1c4pjxdg9rw308340/</url>
+    <state_of_vehicle>available</state_of_vehicle>
+    <condition>used</condition>
+    <mileage>
+      <value>28816</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Sport S</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Silver Zynith Clearcoat</exterior_color>
+    <interior_color>Black</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771598961--PPDPI-ltid2/1771598961.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771598971--PPDPI-ltid2/1771598971.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771598981--K9P0F-ltid2/1771598981.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771598991--LIKQU-ltid2/1771598991.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599001--85RYI-ltid2/1771599001.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599011--85RYI-ltid2/1771599011.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599021--QKC5K-ltid2/1771599021.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599031--QKC5K-ltid2/1771599031.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599041--Y1LN8-ltid2/1771599041.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599051--UH26A-ltid2/1771599051.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599061--4ESJG-ltid2/1771599061.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599071--Z-ZCN-ltid2/1771599071.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599081--Z-ZCN-ltid2/1771599081.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599091--X7AOX-ltid2/1771599091.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599101--IDUH1-ltid2/1771599101.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599111--MGKZ4-ltid2/1771599111.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599121--MGKZ4-ltid2/1771599121.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599131--PG79X-ltid2/1771599131.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599141--37WQ8-ltid2/1771599141.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599151--EEGSS-ltid2/1771599151.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>BD25203A</vehicle_id>
+    <title>2023 Chevrolet Trailblazer LT</title>
+    <description>2023 Chevrolet Trailblazer. Trim: LT. Color: Mosaic Black Metallic. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2023</year>
+    <make>Chevrolet</make>
+    <model>Trailblazer</model>
+    <vin>kl79mps24pb061558</vin>
+    <content_ids>kl79mps24pb061558</content_ids>
+    <availability>in stock</availability>
+    <price>20991.00 USD</price>
+    <url>https://www.downtownchevy.com/inventory/used-2023-chevrolet-trailblazer-lt-front-wheel-drive-suv-kl79mps24pb061558/</url>
+    <state_of_vehicle>available</state_of_vehicle>
+    <condition>used</condition>
+    <mileage>
+      <value>5101</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>LT</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Mosaic Black Metallic</exterior_color>
+    <interior_color>Jet Black</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599791--PEGAM-ltid2/1771599791.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599801---BSIB-ltid2/1771599801.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599811---BSIB-ltid2/1771599811.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599821--KAJZR-ltid2/1771599821.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599831--HTW-X-ltid2/1771599831.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599841--BUY0T-ltid2/1771599841.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599851--I3QZW-ltid2/1771599851.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599861--I3QZW-ltid2/1771599861.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599871--0PXC--ltid2/1771599871.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599881--TM8KN-ltid2/1771599881.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599891--SEAC5-ltid2/1771599891.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599901--XWSPT-ltid2/1771599901.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599911--XWSPT-ltid2/1771599911.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599921---CAF+-ltid2/1771599921.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599931--STPYD-ltid2/1771599931.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599941--3WEJW-ltid2/1771599941.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599951--3WEJW-ltid2/1771599951.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599961--Q42R--ltid2/1771599961.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599971--AUQUC-ltid2/1771599971.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599981--B3WWE-ltid2/1771599981.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>P0757</vehicle_id>
+    <title>2022 Chevrolet Equinox LT</title>
+    <description>2022 Chevrolet Equinox. Trim: LT. Color: Mosaic Black Metallic. Body Style: Sport Utility Vehicle.</description>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2022</year>
+    <make>Chevrolet</make>
+    <model>Equinox</model>
+    <vin>3gnaxkev8nl268151</vin>
+    <content_ids>3gnaxkev8nl268151</content_ids>
+    <availability>in stock</availability>
+    <price>19991.00 USD</price>
+    <url>https://www.downtownchevy.com/inventory/used-2022-chevrolet-equinox-lt-front-wheel-drive-suv-3gnaxkev8nl268151/</url>
+    <state_of_vehicle>available</state_of_vehicle>
+    <condition>used</condition>
+    <mileage>
+      <value>32951</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>LT</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Mosaic Black Metallic</exterior_color>
+    <interior_color>Jet Black</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776661--Q3ERZ-ltid2/1777776661.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776671--OBE+Q-ltid2/1777776671.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776681--OBE+Q-ltid2/1777776681.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776691--OBE+Q-ltid2/1777776691.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776701--TJHHF-ltid2/1777776701.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776711--TJHHF-ltid2/1777776711.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776721--ECXT5-ltid2/1777776721.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776731--ECXT5-ltid2/1777776731.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776741--ECXT5-ltid2/1777776741.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776751--ICRHW-ltid2/1777776751.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776761--ICRHW-ltid2/1777776761.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776771--ICRHW-ltid2/1777776771.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776781--FC9SA-ltid2/1777776781.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776791--FC9SA-ltid2/1777776791.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776801--Z2LAI-ltid2/1777776801.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776811--Z2LAI-ltid2/1777776811.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776821--Z2LAI-ltid2/1777776821.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776831--BMIIW-ltid2/1777776831.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776841--BMIIW-ltid2/1777776841.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776851--OABUW-ltid2/1777776851.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>P0761</vehicle_id>
+    <title>2025 Buick Enclave Preferred</title>
+    <description>2025 Buick Enclave. Trim: Preferred. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2025</year>
+    <make>Buick</make>
+    <model>Enclave</model>
+    <vin>5gaevars7sj226374</vin>
+    <content_ids>5gaevars7sj226374</content_ids>
+    <availability>in stock</availability>
+    <price>37591.00 USD</price>
+    <url>https://www.downtownchevy.com/inventory/used-2025-buick-enclave-preferred-all-wheel-drive-suv-5gaevars7sj226374/</url>
+    <state_of_vehicle>available</state_of_vehicle>
+    <condition>used</condition>
+    <mileage>
+      <value>20669</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Preferred</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Summit White</exterior_color>
+    <interior_color>Ebony w/Sky Cool Gray &amp; Ebony Accents</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671301--GZYMY-ltid2/1799671301.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671311--A-RYV-ltid2/1799671311.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671321--NMBK1-ltid2/1799671321.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671331--NMBK1-ltid2/1799671331.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671341--CKG6F-ltid2/1799671341.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671351--+XUZU-ltid2/1799671351.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671361--+XUZU-ltid2/1799671361.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671371--LTUJ1-ltid2/1799671371.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671381--NBNT5-ltid2/1799671381.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671391--NBNT5-ltid2/1799671391.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671401--+QBYL-ltid2/1799671401.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671411--JCXKV-ltid2/1799671411.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671421--EP11U-ltid2/1799671421.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671431--EP11U-ltid2/1799671431.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671441--VI5HK-ltid2/1799671441.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671451--DKKLR-ltid2/1799671451.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671461--P1PJK-ltid2/1799671461.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671471--P1PJK-ltid2/1799671471.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671481--RDOW0-ltid2/1799671481.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671491--9G6HE-ltid2/1799671491.jpg</url>
     </image>
   </listing>
   <listing>
@@ -5523,73 +5498,6 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610701--XW8OS-ltid1/1771610701.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>C26070</vehicle_id>
-    <title>2026 Chevrolet Trax LT</title>
-    <description>2026 Chevrolet Trax. Trim: LT. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2026</year>
-    <make>Chevrolet</make>
-    <model>Trax</model>
-    <vin>kl77lhep9tc024999</vin>
-    <content_ids>kl77lhep9tc024999</content_ids>
-    <availability>in stock</availability>
-    <price>25368.00 USD</price>
-    <url>https://www.downtownchevy.com/inventory/new-2026-chevrolet-trax-lt-front-wheel-drive-suv-kl77lhep9tc024999/</url>
-    <state_of_vehicle>available</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>5</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>LT</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Summit White</exterior_color>
-    <interior_color>Jet Black with Blue accents</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1724857661--RETTI-ltid1/1724857661.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1724857671--RETTI-ltid1/1724857671.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1724857681--6AAKN-ltid1/1724857681.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1724857691--1TWBB-ltid1/1724857691.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1724857701--1TWBB-ltid1/1724857701.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1724857711--DQNBM-ltid1/1724857711.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1724857721--DQNBM-ltid1/1724857721.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1724857731--NLYMC-ltid1/1724857731.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1724857741--4JHEG-ltid1/1724857741.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1724857751--4JHEG-ltid1/1724857751.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1724857761--OCTWO-ltid1/1724857761.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1724857771--UV5MB-ltid1/1724857771.jpg</url>
     </image>
   </listing>
   <listing>
@@ -6026,7 +5934,7 @@
     <vin>3gnaxkeg6pl138423</vin>
     <content_ids>3gnaxkeg6pl138423</content_ids>
     <availability>in stock</availability>
-    <price>21411.00 USD</price>
+    <price>20991.00 USD</price>
     <url>https://www.downtownchevy.com/inventory/used-2023-chevrolet-equinox-lt-front-wheel-drive-suv-3gnaxkeg6pl138423/</url>
     <state_of_vehicle>available</state_of_vehicle>
     <condition>used</condition>
@@ -6189,97 +6097,6 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599531--3EIY3-ltid2/1771599531.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>P0746</vehicle_id>
-    <title>2023 Hyundai Tucson SE</title>
-    <description>2023 Hyundai Tucson. Trim: SE. Color: Serenity White Pearl. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2023</year>
-    <make>Hyundai</make>
-    <model>Tucson</model>
-    <vin>5nmjacae1ph186316</vin>
-    <content_ids>5nmjacae1ph186316</content_ids>
-    <availability>in stock</availability>
-    <price>20995.00 USD</price>
-    <url>https://www.downtownchevy.com/inventory/used-2023-hyundai-tucson-se-all-wheel-drive-suv-5nmjacae1ph186316/</url>
-    <state_of_vehicle>available</state_of_vehicle>
-    <condition>used</condition>
-    <mileage>
-      <value>29844</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>SE</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Serenity White Pearl</exterior_color>
-    <interior_color>Gray</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621641--EZMMJ-ltid2/1771621641.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621651--S4VWS-ltid2/1771621651.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621661--L9ECK-ltid2/1771621661.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621671--FQCWD-ltid2/1771621671.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621681--FQCWD-ltid2/1771621681.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621691--MMPKT-ltid2/1771621691.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621701--EZMVZ-ltid2/1771621701.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621711--8GC6G-ltid2/1771621711.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621721--8GC6G-ltid2/1771621721.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621731--ABCIH-ltid2/1771621731.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621741--SMKBH-ltid2/1771621741.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621751--1KGEW-ltid2/1771621751.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621761--1KGEW-ltid2/1771621761.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621771--JIDB9-ltid2/1771621771.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621781--KOZUH-ltid2/1771621781.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621791--2SXNX-ltid2/1771621791.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621801--2SXNX-ltid2/1771621801.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621811--QOHTR-ltid2/1771621811.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771621821--EOHYX-ltid2/1771621821.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771601751--Y519C-ltid2/1771601751.jpg</url>
     </image>
   </listing>
   <listing>
@@ -6556,97 +6373,6 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>P0753</vehicle_id>
-    <title>2024 Jeep Wrangler Sport S</title>
-    <description>2024 Jeep Wrangler. Trim: Sport S. Color: Silver Zynith Clearcoat. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2024</year>
-    <make>Jeep</make>
-    <model>Wrangler</model>
-    <vin>1c4pjxdg9rw308340</vin>
-    <content_ids>1c4pjxdg9rw308340</content_ids>
-    <availability>in stock</availability>
-    <price>33931.00 USD</price>
-    <url>https://www.downtownchevy.com/inventory/used-2024-jeep-wrangler-sport-s-four-wheel-drive-suv-1c4pjxdg9rw308340/</url>
-    <state_of_vehicle>available</state_of_vehicle>
-    <condition>used</condition>
-    <mileage>
-      <value>28816</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Sport S</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Silver Zynith Clearcoat</exterior_color>
-    <interior_color>Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771598961--PPDPI-ltid2/1771598961.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771598971--PPDPI-ltid2/1771598971.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771598981--K9P0F-ltid2/1771598981.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771598991--LIKQU-ltid2/1771598991.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599001--85RYI-ltid2/1771599001.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599011--85RYI-ltid2/1771599011.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599021--QKC5K-ltid2/1771599021.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599031--QKC5K-ltid2/1771599031.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599041--Y1LN8-ltid2/1771599041.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599051--UH26A-ltid2/1771599051.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599061--4ESJG-ltid2/1771599061.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599071--Z-ZCN-ltid2/1771599071.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599081--Z-ZCN-ltid2/1771599081.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599091--X7AOX-ltid2/1771599091.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599101--IDUH1-ltid2/1771599101.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599111--MGKZ4-ltid2/1771599111.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599121--MGKZ4-ltid2/1771599121.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599131--PG79X-ltid2/1771599131.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599141--37WQ8-ltid2/1771599141.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599151--EEGSS-ltid2/1771599151.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>P0754</vehicle_id>
     <title>2025 GMC Yukon Denali</title>
     <description>2025 GMC Yukon. Trim: Denali. Color: Titanium Rush Metallic. Body Style: Sport Utility Vehicle.</description>
@@ -6829,97 +6555,6 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>BD25203A</vehicle_id>
-    <title>2023 Chevrolet Trailblazer LT</title>
-    <description>2023 Chevrolet Trailblazer. Trim: LT. Color: Mosaic Black Metallic. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2023</year>
-    <make>Chevrolet</make>
-    <model>Trailblazer</model>
-    <vin>kl79mps24pb061558</vin>
-    <content_ids>kl79mps24pb061558</content_ids>
-    <availability>in stock</availability>
-    <price>20991.00 USD</price>
-    <url>https://www.downtownchevy.com/inventory/used-2023-chevrolet-trailblazer-lt-front-wheel-drive-suv-kl79mps24pb061558/</url>
-    <state_of_vehicle>available</state_of_vehicle>
-    <condition>used</condition>
-    <mileage>
-      <value>5101</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>LT</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Mosaic Black Metallic</exterior_color>
-    <interior_color>Jet Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599791--PEGAM-ltid2/1771599791.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599801---BSIB-ltid2/1771599801.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599811---BSIB-ltid2/1771599811.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599821--KAJZR-ltid2/1771599821.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599831--HTW-X-ltid2/1771599831.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599841--BUY0T-ltid2/1771599841.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599851--I3QZW-ltid2/1771599851.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599861--I3QZW-ltid2/1771599861.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599871--0PXC--ltid2/1771599871.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599881--TM8KN-ltid2/1771599881.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599891--SEAC5-ltid2/1771599891.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599901--XWSPT-ltid2/1771599901.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599911--XWSPT-ltid2/1771599911.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599921---CAF+-ltid2/1771599921.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599931--STPYD-ltid2/1771599931.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599941--3WEJW-ltid2/1771599941.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599951--3WEJW-ltid2/1771599951.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599961--Q42R--ltid2/1771599961.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599971--AUQUC-ltid2/1771599971.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771599981--B3WWE-ltid2/1771599981.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>P0758</vehicle_id>
     <title>2023 Buick Encore GX Select</title>
     <description>2023 Buick Encore GX. Trim: Select. Color: White Frost Tricoat. Body Style: Sport Utility Vehicle.</description>
@@ -7008,97 +6643,6 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1785864971--GQ3ST-ltid2/1785864971.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>P0757</vehicle_id>
-    <title>2022 Chevrolet Equinox LT</title>
-    <description>2022 Chevrolet Equinox. Trim: LT. Color: Mosaic Black Metallic. Body Style: Sport Utility Vehicle.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2022</year>
-    <make>Chevrolet</make>
-    <model>Equinox</model>
-    <vin>3gnaxkev8nl268151</vin>
-    <content_ids>3gnaxkev8nl268151</content_ids>
-    <availability>in stock</availability>
-    <price>19991.00 USD</price>
-    <url>https://www.downtownchevy.com/inventory/used-2022-chevrolet-equinox-lt-front-wheel-drive-suv-3gnaxkev8nl268151/</url>
-    <state_of_vehicle>available</state_of_vehicle>
-    <condition>used</condition>
-    <mileage>
-      <value>32951</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>LT</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Mosaic Black Metallic</exterior_color>
-    <interior_color>Jet Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776661--Q3ERZ-ltid2/1777776661.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776671--OBE+Q-ltid2/1777776671.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776681--OBE+Q-ltid2/1777776681.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776691--OBE+Q-ltid2/1777776691.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776701--TJHHF-ltid2/1777776701.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776711--TJHHF-ltid2/1777776711.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776721--ECXT5-ltid2/1777776721.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776731--ECXT5-ltid2/1777776731.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776741--ECXT5-ltid2/1777776741.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776751--ICRHW-ltid2/1777776751.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776761--ICRHW-ltid2/1777776761.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776771--ICRHW-ltid2/1777776771.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776781--FC9SA-ltid2/1777776781.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776791--FC9SA-ltid2/1777776791.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776801--Z2LAI-ltid2/1777776801.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776811--Z2LAI-ltid2/1777776811.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776821--Z2LAI-ltid2/1777776821.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776831--BMIIW-ltid2/1777776831.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776841--BMIIW-ltid2/1777776841.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1777776851--OABUW-ltid2/1777776851.jpg</url>
     </image>
   </listing>
   <listing>
@@ -7300,7 +6844,7 @@
     <vin>1gykpdrs8sz120637</vin>
     <content_ids>1gykpdrs8sz120637</content_ids>
     <availability>in stock</availability>
-    <price>42900.00 USD</price>
+    <price>44991.00 USD</price>
     <url>https://www.downtownchevy.com/inventory/used-2025-cadillac-xt6-premium-luxury-all-wheel-drive-suv-1gykpdrs8sz120637/</url>
     <state_of_vehicle>available</state_of_vehicle>
     <condition>used</condition>
@@ -7648,97 +7192,6 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>P0761</vehicle_id>
-    <title>2025 Buick Enclave Preferred</title>
-    <description>2025 Buick Enclave. Trim: Preferred. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2025</year>
-    <make>Buick</make>
-    <model>Enclave</model>
-    <vin>5gaevars7sj226374</vin>
-    <content_ids>5gaevars7sj226374</content_ids>
-    <availability>in stock</availability>
-    <price>37591.00 USD</price>
-    <url>https://www.downtownchevy.com/inventory/used-2025-buick-enclave-preferred-all-wheel-drive-suv-5gaevars7sj226374/</url>
-    <state_of_vehicle>available</state_of_vehicle>
-    <condition>used</condition>
-    <mileage>
-      <value>20669</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Preferred</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Summit White</exterior_color>
-    <interior_color>Ebony w/Sky Cool Gray &amp; Ebony Accents</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671301--GZYMY-ltid2/1799671301.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671311--A-RYV-ltid2/1799671311.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671321--NMBK1-ltid2/1799671321.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671331--NMBK1-ltid2/1799671331.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671341--CKG6F-ltid2/1799671341.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671351--+XUZU-ltid2/1799671351.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671361--+XUZU-ltid2/1799671361.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671371--LTUJ1-ltid2/1799671371.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671381--NBNT5-ltid2/1799671381.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671391--NBNT5-ltid2/1799671391.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671401--+QBYL-ltid2/1799671401.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671411--JCXKV-ltid2/1799671411.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671421--EP11U-ltid2/1799671421.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671431--EP11U-ltid2/1799671431.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671441--VI5HK-ltid2/1799671441.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671451--DKKLR-ltid2/1799671451.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671461--P1PJK-ltid2/1799671461.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671471--P1PJK-ltid2/1799671471.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671481--RDOW0-ltid2/1799671481.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671491--9G6HE-ltid2/1799671491.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>P0764</vehicle_id>
     <title>2022 Chevrolet Trax LS</title>
     <description>2022 Chevrolet Trax. Trim: LS. Color: Silver Ice Metallic. Body Style: Sport Utility Vehicle.</description>
@@ -8012,97 +7465,6 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>P0767</vehicle_id>
-    <title>2022 Buick Envision Preferred</title>
-    <description>2022 Buick Envision. Trim: Preferred. Color: Ebony Twilight Metallic. Body Style: Sport Utility Vehicle.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2022</year>
-    <make>Buick</make>
-    <model>Envision</model>
-    <vin>lrbazlr47nd166998</vin>
-    <content_ids>lrbazlr47nd166998</content_ids>
-    <availability>in stock</availability>
-    <price>22981.00 USD</price>
-    <url>https://www.downtownchevy.com/inventory/used-2022-buick-envision-preferred-front-wheel-drive-suv-lrbazlr47nd166998/</url>
-    <state_of_vehicle>available</state_of_vehicle>
-    <condition>used</condition>
-    <mileage>
-      <value>25463</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Preferred</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Ebony Twilight Metallic</exterior_color>
-    <interior_color>Whisper Beige seats</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465521--J4MXD-ltid2/1797465521.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465531--J4MXD-ltid2/1797465531.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465541--J4MXD-ltid2/1797465541.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465551--LGFHD-ltid2/1797465551.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465561--LGFHD-ltid2/1797465561.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465571--RKTSB-ltid2/1797465571.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465581--RKTSB-ltid2/1797465581.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465591--RKTSB-ltid2/1797465591.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465601--HTHHY-ltid2/1797465601.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465611--HTHHY-ltid2/1797465611.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465671--5ZZWX-ltid2/1797465671.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465681--5ZZWX-ltid2/1797465681.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465691--KETFT-ltid2/1797465691.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465701--XSPL6-ltid2/1797465701.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465711--XSPL6-ltid2/1797465711.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465721--AH-CZ-ltid2/1797465721.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465731--AH-CZ-ltid2/1797465731.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465741--AH-CZ-ltid2/1797465741.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465751--VDMKH-ltid2/1797465751.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1797465761--VDMKH-ltid2/1797465761.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>P0768</vehicle_id>
     <title>2023 Hyundai Tucson SEL</title>
     <description>2023 Hyundai Tucson. Trim: SEL. Color: Portofino Gray. Body Style: Sport Utility.</description>
@@ -8282,6 +7644,72 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1799671881--5OHKY-ltid2/1799671881.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>C26074</vehicle_id>
+    <title>2026 Chevrolet Blazer LT</title>
+    <description>2026 Chevrolet Blazer. Trim: LT. Color: Black. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2026</year>
+    <make>Chevrolet</make>
+    <model>Blazer</model>
+    <vin>3gnkbcr46ts135708</vin>
+    <content_ids>3gnkbcr46ts135708</content_ids>
+    <availability>in stock</availability>
+    <price>36095.00 USD</price>
+    <url>https://www.downtownchevy.com/inventory/new-2026-chevrolet-blazer-2lt-front-wheel-drive-suv-3gnkbcr46ts135708/</url>
+    <state_of_vehicle>available</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>1</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>LT</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Black</exterior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1796252241--JUCE3-ltid1/1796252241.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1796252251--K3GGS-ltid1/1796252251.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1796252261--K3GGS-ltid1/1796252261.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1796252271--ENFOK-ltid1/1796252271.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1796252281--FSH-8-ltid1/1796252281.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1796252291--404C6-ltid1/1796252291.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1796252301--J9S02-ltid1/1796252301.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1796252311--PTQYC-ltid1/1796252311.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1796252321--84NTK-ltid1/1796252321.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1796252331--6+5GQ-ltid1/1796252331.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1796252341--S10-X-ltid1/1796252341.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1796252351--ROCLD-ltid1/1796252351.jpg</url>
     </image>
   </listing>
   <listing>
@@ -8488,7 +7916,7 @@
     <state_of_vehicle>available</state_of_vehicle>
     <condition>used</condition>
     <mileage>
-      <value>43739</value>
+      <value>43740</value>
       <unit>MI</unit>
     </mileage>
     <trim>FWD Sport</trim>
@@ -8579,7 +8007,7 @@
     <state_of_vehicle>available</state_of_vehicle>
     <condition>used</condition>
     <mileage>
-      <value>36940</value>
+      <value>36942</value>
       <unit>MI</unit>
     </mileage>
     <trim>SLT</trim>
@@ -8715,9 +8143,9 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>C26074</vehicle_id>
-    <title>2026 Chevrolet Blazer LT</title>
-    <description>2026 Chevrolet Blazer. Trim: LT. Color: Black. Body Style: Sport Utility.</description>
+    <vehicle_id>C25328A</vehicle_id>
+    <title>2020 GMC Terrain SLE</title>
+    <description>2020 GMC Terrain. Trim: SLE. Color: Ebony Twilight Metallic. Body Style: Sport Utility.</description>
     <address format="simple">
       <component name="addr1">2720 S. Michigan Ave.</component>
       <component name="city">Chicago</component>
@@ -8725,59 +8153,175 @@
       <component name="country">US</component>
       <component name="postal_code">60616</component>
     </address>
-    <year>2026</year>
-    <make>Chevrolet</make>
-    <model>Blazer</model>
-    <vin>3gnkbcr46ts135708</vin>
-    <content_ids>3gnkbcr46ts135708</content_ids>
+    <year>2020</year>
+    <make>GMC</make>
+    <model>Terrain</model>
+    <vin>3gkaltev0ll192548</vin>
+    <content_ids>3gkaltev0ll192548</content_ids>
     <availability>in stock</availability>
-    <price>36095.00 USD</price>
-    <url>https://www.downtownchevy.com/inventory/new-2026-chevrolet-blazer-2lt-front-wheel-drive-suv-3gnkbcr46ts135708/</url>
+    <price>16991.00 USD</price>
+    <url>https://www.downtownchevy.com/inventory/used-2020-gmc-terrain-sle-all-wheel-drive-suv-3gkaltev0ll192548/</url>
     <state_of_vehicle>available</state_of_vehicle>
-    <condition>new</condition>
+    <condition>used</condition>
     <mileage>
-      <value>1</value>
+      <value>55353</value>
       <unit>MI</unit>
     </mileage>
-    <trim>LT</trim>
+    <trim>SLE</trim>
     <body_style>SUV</body_style>
-    <exterior_color>Black</exterior_color>
+    <exterior_color>Ebony Twilight Metallic</exterior_color>
+    <interior_color>Jet Black</interior_color>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1796252241--JUCE3-ltid1/1796252241.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808217701--0AYJ6-ltid2/1808217701.jpg</url>
       <tag>main</tag>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1796252251--K3GGS-ltid1/1796252251.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808217711--PUK-U-ltid2/1808217711.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1796252261--K3GGS-ltid1/1796252261.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808217721---T441-ltid2/1808217721.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1796252271--ENFOK-ltid1/1796252271.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808217731--L8EUL-ltid2/1808217731.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1796252281--FSH-8-ltid1/1796252281.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808217741--L8EUL-ltid2/1808217741.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1796252291--404C6-ltid1/1796252291.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808217751--XTASV-ltid2/1808217751.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1796252301--J9S02-ltid1/1796252301.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808217761--WULBF-ltid2/1808217761.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1796252311--PTQYC-ltid1/1796252311.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808217771--XY6EB-ltid2/1808217771.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1796252321--84NTK-ltid1/1796252321.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808217781--RCOJ4-ltid2/1808217781.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1796252331--6+5GQ-ltid1/1796252331.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808217791--XF8Y--ltid2/1808217791.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1796252341--S10-X-ltid1/1796252341.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808217801--DQLUO-ltid2/1808217801.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1796252351--ROCLD-ltid1/1796252351.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808217811--DQLUO-ltid2/1808217811.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808217821--L2QHG-ltid2/1808217821.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808217831--9W3ZA-ltid2/1808217831.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808217841--NDACN-ltid2/1808217841.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808217851--NDACN-ltid2/1808217851.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808217861--9BLLZ-ltid2/1808217861.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808217871--QLWLG-ltid2/1808217871.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808217881--JYOJU-ltid2/1808217881.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808217891--YOG1M-ltid2/1808217891.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>B25206A</vehicle_id>
+    <title>2020 Buick Encore GX Preferred</title>
+    <description>2020 Buick Encore GX. Trim: Preferred. Color: Ebony Twilight Metallic. Body Style: Sport Utility Vehicle.</description>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2020</year>
+    <make>Buick</make>
+    <model>Encore GX</model>
+    <vin>kl4mmbs24lb098212</vin>
+    <content_ids>kl4mmbs24lb098212</content_ids>
+    <availability>in stock</availability>
+    <price>15498.00 USD</price>
+    <url>https://www.downtownchevy.com/inventory/used-2020-buick-encore-gx-preferred-front-wheel-drive-suv-kl4mmbs24lb098212/</url>
+    <state_of_vehicle>available</state_of_vehicle>
+    <condition>used</condition>
+    <mileage>
+      <value>65654</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Preferred</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Ebony Twilight Metallic</exterior_color>
+    <interior_color>Ebony with Ebony interior accents</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808744561--IPQJ8-ltid2/1808744561.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808744571--+EE9J-ltid2/1808744571.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808744581--YHZ22-ltid2/1808744581.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808744591--YHZ22-ltid2/1808744591.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808744601--GCEXF-ltid2/1808744601.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808744611--HFW5V-ltid2/1808744611.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808744621--8BT5V-ltid2/1808744621.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808744631--8VQNR-ltid2/1808744631.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808744641--RAPAF-ltid2/1808744641.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808744651--SO6D3-ltid2/1808744651.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808744661--SO6D3-ltid2/1808744661.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808744671--EHN6N-ltid2/1808744671.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808744681--P2RYL-ltid2/1808744681.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808744691--QWW8Z-ltid2/1808744691.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808744701--V+2GI-ltid2/1808744701.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808744821--GOOOH-ltid2/1808744821.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808744831--4Z0FU-ltid2/1808744831.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808744841--GD92H-ltid2/1808744841.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808744851--GD92H-ltid2/1808744851.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1808744861--FURAM-ltid2/1808744861.jpg</url>
     </image>
   </listing>
   <listing>
@@ -8797,8 +8341,8 @@
     <vin>1gnevgks2tj195197</vin>
     <content_ids>1gnevgks2tj195197</content_ids>
     <availability>in stock</availability>
-    <price>47820.00 USD</price>
-    <url>https://www.downtownchevy.com/inventory/details/1GNEVGKS2TJ195197</url>
+    <price>47230.00 USD</price>
+    <url>https://www.downtownchevy.com/inventory/new-2026-chevrolet-traverse-lt-all-wheel-drive-suv-1gnevgks2tj195197/</url>
     <state_of_vehicle>available</state_of_vehicle>
     <condition>new</condition>
     <mileage>
@@ -8848,6 +8392,644 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1805971951--ZL8CG-ltid1/1805971951.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>C24244</vehicle_id>
+    <title>2024 Chevrolet Silverado 1500 Custom</title>
+    <description>2024 Chevrolet Silverado 1500. Trim: Custom. Color: Sterling Gray Metallic. Body Style: Double Cab Pickup.</description>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2024</year>
+    <make>Chevrolet</make>
+    <model>Silverado 1500</model>
+    <vin>1gcrdbekxrz243552</vin>
+    <content_ids>1gcrdbekxrz243552</content_ids>
+    <availability>in stock</availability>
+    <price>45715.00 USD</price>
+    <url>https://www.downtownchevy.com/inventory/new-2024-chevrolet-silverado-1500-custom-four-wheel-drive-double-cab-1gcrdbekxrz243552/</url>
+    <state_of_vehicle>available</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>100</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Custom</trim>
+    <body_style>TRUCK</body_style>
+    <exterior_color>Sterling Gray Metallic</exterior_color>
+    <interior_color>Jet Black</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145891--W9HHY-ltid1/1207145891.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145901--RKVTW-ltid1/1207145901.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145911--1HH08-ltid1/1207145911.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145921--R-WDE-ltid1/1207145921.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145931--R-WDE-ltid1/1207145931.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145941--VFEJS-ltid1/1207145941.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145951--7EJCW-ltid1/1207145951.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145961--GNYFM-ltid1/1207145961.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145971--KN27+-ltid1/1207145971.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145981--KN27+-ltid1/1207145981.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145991--ODBFE-ltid1/1207145991.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207146001--SLGZC-ltid1/1207146001.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207146011--GZJH7-ltid1/1207146011.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207146021--MPVSS-ltid1/1207146021.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207146031--MPVSS-ltid1/1207146031.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207146041--YNQAJ-ltid1/1207146041.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207146051--WWULL-ltid1/1207146051.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207146061--WWULL-ltid1/1207146061.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207146071--L9AJG-ltid1/1207146071.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207146081--1FHSD-ltid1/1207146081.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>C24409</vehicle_id>
+    <title>2024 Chevrolet Silverado 1500 Custom</title>
+    <description>2024 Chevrolet Silverado 1500. Trim: Custom. Color: Slate Gray Metallic. Body Style: Double Cab Pickup.</description>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2024</year>
+    <make>Chevrolet</make>
+    <model>Silverado 1500</model>
+    <vin>1gcrdbek8rz347859</vin>
+    <content_ids>1gcrdbek8rz347859</content_ids>
+    <availability>in stock</availability>
+    <price>45770.00 USD</price>
+    <url>https://www.downtownchevy.com/inventory/new-2024-chevrolet-silverado-1500-custom-four-wheel-drive-double-cab-1gcrdbek8rz347859/</url>
+    <state_of_vehicle>available</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>43</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Custom</trim>
+    <body_style>TRUCK</body_style>
+    <exterior_color>Slate Gray Metallic</exterior_color>
+    <interior_color>Jet Black</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771603611--45ZQ4-ltid1/1771603611.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771603621--45ZQ4-ltid1/1771603621.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771603631--QE5GV-ltid1/1771603631.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771603641--QE5GV-ltid1/1771603641.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771603651--QE5GV-ltid1/1771603651.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771603661--FQTUE-ltid1/1771603661.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771603671--FQTUE-ltid1/1771603671.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771603681--FQTUE-ltid1/1771603681.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771603691--ZRB8R-ltid1/1771603691.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771603701--ZRB8R-ltid1/1771603701.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771603711--ZRB8R-ltid1/1771603711.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771603721--ZRBUQ-ltid1/1771603721.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771603731--ZRBUQ-ltid1/1771603731.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771603741--RMGEW-ltid1/1771603741.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>C25078</vehicle_id>
+    <title>2025 Chevrolet Silverado 2500HD Work Truck</title>
+    <description>2025 Chevrolet Silverado 2500HD. Trim: Work Truck. Color: Summit White. Body Style: Regular Cab Pickup.</description>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2025</year>
+    <make>Chevrolet</make>
+    <model>Silverado 2500HD</model>
+    <vin>1gc3kle7xsf112206</vin>
+    <content_ids>1gc3kle7xsf112206</content_ids>
+    <availability>in stock</availability>
+    <price>46745.00 USD</price>
+    <url>https://www.downtownchevy.com/inventory/new-2025-chevrolet-silverado-2500-hd-wt-four-wheel-drive-regular-cab-1gc3kle7xsf112206/</url>
+    <state_of_vehicle>available</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>3</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Work Truck</trim>
+    <body_style>TRUCK</body_style>
+    <exterior_color>Summit White</exterior_color>
+    <interior_color>Jet Black</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604961--+LI1O-ltid1/1771604961.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604971--+LI1O-ltid1/1771604971.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604981--+LI1O-ltid1/1771604981.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771604991--EWNQZ-ltid1/1771604991.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605001--EWNQZ-ltid1/1771605001.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605011--WPVGD-ltid1/1771605011.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605021--WPVGD-ltid1/1771605021.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605031--WPVGD-ltid1/1771605031.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605041--X6TR2-ltid1/1771605041.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605051--X6TR2-ltid1/1771605051.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605061--X6TR2-ltid1/1771605061.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605071--4+N1X-ltid1/1771605071.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605081--4+N1X-ltid1/1771605081.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771605091--4+N1X-ltid1/1771605091.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>C25116</vehicle_id>
+    <title>2025 Chevrolet Trax LT</title>
+    <description>2025 Chevrolet Trax. Trim: LT. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2025</year>
+    <make>Chevrolet</make>
+    <model>Trax</model>
+    <vin>kl77lhep8sc082097</vin>
+    <content_ids>kl77lhep8sc082097</content_ids>
+    <availability>in stock</availability>
+    <price>23810.00 USD</price>
+    <url>https://www.downtownchevy.com/inventory/details/KL77LHEP8SC082097</url>
+    <state_of_vehicle>available</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>4929</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>LT</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Summit White</exterior_color>
+    <interior_color>Jet Black with Blue accents</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610061--I+BDL-ltid1/1771610061.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610071--H4P7W-ltid1/1771610071.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610081--H4P7W-ltid1/1771610081.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610091--H4P7W-ltid1/1771610091.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610101--H4P7W-ltid1/1771610101.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610111--LPQO1-ltid1/1771610111.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610121--LPQO1-ltid1/1771610121.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610131--LPQO1-ltid1/1771610131.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610141--SNHAH-ltid1/1771610141.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610151--SNHAH-ltid1/1771610151.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610161--SNHAH-ltid1/1771610161.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610171--3PM5--ltid1/1771610171.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610181--3PM5--ltid1/1771610181.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610191--3PM5--ltid1/1771610191.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>C25189</vehicle_id>
+    <title>2025 Chevrolet Trax 2RS</title>
+    <description>2025 Chevrolet Trax. Trim: 2RS. Color: Summit White. Body Style: Sport Utility Vehicle.</description>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2025</year>
+    <make>Chevrolet</make>
+    <model>Trax</model>
+    <vin>kl77ljepxsc154196</vin>
+    <content_ids>kl77ljepxsc154196</content_ids>
+    <availability>in stock</availability>
+    <price>23594.00 USD</price>
+    <url>https://www.downtownchevy.com/inventory/details/KL77LJEPXSC154196</url>
+    <state_of_vehicle>available</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>5247</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>2RS</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Summit White</exterior_color>
+    <interior_color>Jet Black with Red accents</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026111--W9HHY-ltid1/1209026111.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026121--9N1SQ-ltid1/1209026121.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026131--9N1SQ-ltid1/1209026131.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026141--5-VHG-ltid1/1209026141.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026151--5-VHG-ltid1/1209026151.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026161--63GJN-ltid1/1209026161.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026171--63GJN-ltid1/1209026171.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026181--CQJIF-ltid1/1209026181.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026191--CQJIF-ltid1/1209026191.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026201--K2UBF-ltid1/1209026201.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026211--K2UBF-ltid1/1209026211.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026221--6QGTH-ltid1/1209026221.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026231--6QGTH-ltid1/1209026231.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026241--6QGTH-ltid1/1209026241.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026251--FO36--ltid1/1209026251.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026261--FO36--ltid1/1209026261.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026271--VIEKY-ltid1/1209026271.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026281--VIEKY-ltid1/1209026281.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026291--LKXZ5-ltid1/1209026291.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1209026301--LKXZ5-ltid1/1209026301.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>HL25023</vehicle_id>
+    <title>2025 Hyundai Elantra SEL Sport</title>
+    <description>2025 Hyundai Elantra. Trim: SEL Sport. Color: Abyss Black. Body Style: Sedan.</description>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2025</year>
+    <make>Hyundai</make>
+    <model>Elantra</model>
+    <vin>kmhlm4dg6su910534</vin>
+    <content_ids>kmhlm4dg6su910534</content_ids>
+    <availability>in stock</availability>
+    <price>19991.00 USD</price>
+    <url>https://www.downtownchevy.com/inventory/used-2025-hyundai-elantra-sel-sport-front-wheel-drive-sedan-4-dr-kmhlm4dg6su910534/</url>
+    <state_of_vehicle>available</state_of_vehicle>
+    <condition>used</condition>
+    <mileage>
+      <value>4313</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>SEL Sport</trim>
+    <body_style>SEDAN</body_style>
+    <exterior_color>Abyss Black</exterior_color>
+    <interior_color>Black</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423331--YON73-ltid2/1775423331.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423341--MAINV-ltid2/1775423341.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423351--MAINV-ltid2/1775423351.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423361--Y0INY-ltid2/1775423361.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423371--9FCXE-ltid2/1775423371.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423381--RXOIX-ltid2/1775423381.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423391--RXOIX-ltid2/1775423391.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423401--SGBBY-ltid2/1775423401.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423071--JUEFS-ltid2/1775423071.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423081--CDT4A-ltid2/1775423081.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423091--CDT4A-ltid2/1775423091.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423101--EXQIT-ltid2/1775423101.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423111--1A0FI-ltid2/1775423111.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423121--ZQD4K-ltid2/1775423121.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423131--ZQD4K-ltid2/1775423131.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423141--OBRO8-ltid2/1775423141.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423151--UISHN-ltid2/1775423151.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423161--UISHN-ltid2/1775423161.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423171--P0UU3-ltid2/1775423171.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1775423181--15DTE-ltid2/1775423181.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>C25129</vehicle_id>
+    <title>2025 Chevrolet Silverado 1500 Work Truck</title>
+    <description>2025 Chevrolet Silverado 1500. Trim: Work Truck. Color: Summit White. Body Style: Regular Cab Pickup.</description>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2025</year>
+    <make>Chevrolet</make>
+    <model>Silverado 1500</model>
+    <vin>3gcnkaed0sg137665</vin>
+    <content_ids>3gcnkaed0sg137665</content_ids>
+    <availability>in stock</availability>
+    <price>38015.00 USD</price>
+    <url>https://www.downtownchevy.com/inventory/new-2025-chevrolet-silverado-1500-wt-four-wheel-drive-regular-cab-3gcnkaed0sg137665/</url>
+    <state_of_vehicle>available</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>12</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Work Truck</trim>
+    <body_style>TRUCK</body_style>
+    <exterior_color>Summit White</exterior_color>
+    <interior_color>Jet Black</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611361--JMZPS-ltid1/1771611361.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611371--JMZPS-ltid1/1771611371.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611381--JMZPS-ltid1/1771611381.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611391--K8OIS-ltid1/1771611391.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611401--K8OIS-ltid1/1771611401.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611411--BYISY-ltid1/1771611411.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611421--BYISY-ltid1/1771611421.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611431--BYISY-ltid1/1771611431.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611441--M5QOR-ltid1/1771611441.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611451--M5QOR-ltid1/1771611451.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611461--KLYIZ-ltid1/1771611461.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611471--KLYIZ-ltid1/1771611471.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611481--KLYIZ-ltid1/1771611481.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611491--I+BDL-ltid1/1771611491.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>C25192</vehicle_id>
+    <title>2025 Chevrolet Silverado 1500 Work Truck</title>
+    <description>2025 Chevrolet Silverado 1500. Trim: Work Truck. Color: Black. Body Style: Regular Cab Pickup.</description>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2025</year>
+    <make>Chevrolet</make>
+    <model>Silverado 1500</model>
+    <vin>3gcnkaed2sg218022</vin>
+    <content_ids>3gcnkaed2sg218022</content_ids>
+    <availability>in stock</availability>
+    <price>36284.00 USD</price>
+    <url>https://www.downtownchevy.com/inventory/new-2025-chevrolet-silverado-1500-wt-four-wheel-drive-regular-cab-3gcnkaed2sg218022/</url>
+    <state_of_vehicle>available</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>11</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Work Truck</trim>
+    <body_style>TRUCK</body_style>
+    <exterior_color>Black</exterior_color>
+    <interior_color>Jet Black</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612711--D2STT-ltid1/1771612711.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612721--BOI0C-ltid1/1771612721.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612731--BOI0C-ltid1/1771612731.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612741--BOI0C-ltid1/1771612741.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612751--YI4JL-ltid1/1771612751.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612761--YI4JL-ltid1/1771612761.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612771--YI4JL-ltid1/1771612771.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612781--TRB-8-ltid1/1771612781.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612791--TRB-8-ltid1/1771612791.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612801--HPBXG-ltid1/1771612801.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612811--HPBXG-ltid1/1771612811.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612821--HPBXG-ltid1/1771612821.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612831--KMGUO-ltid1/1771612831.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771612841--KMGUO-ltid1/1771612841.jpg</url>
     </image>
   </listing>
 </listings>
