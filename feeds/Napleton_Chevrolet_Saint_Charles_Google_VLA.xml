@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Chevrolet Saint Charles Inventory Feed</title>
   <link href="https://www.napletonchevrolet.com" rel="self"/>
-  <updated>2025-11-21T08:17:55.491487</updated>
+  <updated>2025-11-21T12:22:43.160217</updated>
   <entry>
     <id>24530</id>
     <title>2024 Chevrolet Silverado 5500HD Work Truck</title>
@@ -369,7 +369,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletonchevrolet.com/inventory/new-2025-chevrolet-tahoe-premier-four-wheel-drive-suv-1gns6srd2sr272256/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Premier</ns0:trim>
-    <ns0:mileage>10 miles</ns0:mileage>
+    <ns0:mileage>41 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>BLACK</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771479081--ELUIJ-ltid1/1771479081.jpg</ns0:image_link>
@@ -771,45 +771,6 @@
     <ns0:custom_label_0>SILVERADO EV</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>25465</id>
-    <title>2025 Chevrolet Colorado 4WD LT</title>
-    <link rel="alternate" href="https://www.napletonchevrolet.com/inventory/details/1GCPTCEK2S1241914"/>
-    <ns0:id>25465</ns0:id>
-    <ns0:price>40580.00 USD</ns0:price>
-    <ns0:vehicle_msrp>45195.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1GCPTCEK2S1241914</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Chevrolet</ns0:brand>
-    <ns0:store_code>7093661331809096168</ns0:store_code>
-    <ns0:dealership_name>Napleton Chevrolet Saint Charles</ns0:dealership_name>
-    <ns0:dealership_address>2015 E. Main St., Saint Charles, IL 60174</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>7093661331809096168</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Chevrolet</ns0:make>
-    <ns0:model>Colorado</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevrolet.com/inventory/details/1GCPTCEK2S1241914?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>4WD LT</ns0:trim>
-    <ns0:mileage>3 miles</ns0:mileage>
-    <ns0:body_style>truck</ns0:body_style>
-    <ns0:color>BLACK</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771476661--5BZ4J-ltid1/1771476661.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771476831--5BZ4J-ltid1/1771476831.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771476841--41CA8-ltid1/1771476841.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771493281--41CA8-ltid1/1771493281.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771493291--41CA8-ltid1/1771493291.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771493301--ANHH7-ltid1/1771493301.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771493311--ANHH7-ltid1/1771493311.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771493321--BOD1L-ltid1/1771493321.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771493331--BOD1L-ltid1/1771493331.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771493341--KPUJA-ltid1/1771493341.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Colorado</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>26045</id>
     <title>2026 CHEVROLET SILVERADO EV E4WD CREW CAB MAX RANGE L</title>
     <link rel="alternate" href="https://www.napletonchevrolet.com/inventory/new-2026-chevrolet-silverado-ev-lt-max-range-four-wheel-drive-crew-cab-1gc400el2tu401289/"/>
@@ -871,7 +832,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletonchevrolet.com/inventory/new-2025-chevrolet-silverado-3500-hd-chassis-cab-work-truck-four-wheel-drive-regular-cab-1gb3ksey1sf285734/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Work Truck</ns0:trim>
-    <ns0:mileage>11 miles</ns0:mileage>
+    <ns0:mileage>50 miles</ns0:mileage>
     <ns0:color>Summit White</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771479531--A7LCX-ltid1/1771479531.jpg</ns0:image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771479541--WBCUF-ltid1/1771479541.jpg</ns0:additional_image_link>
@@ -1636,7 +1597,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletonchevrolet.com/inventory/details/1GB3KSE77SF300275?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Work Truck</ns0:trim>
-    <ns0:mileage>11 miles</ns0:mileage>
+    <ns0:mileage>39 miles</ns0:mileage>
     <ns0:color>Summit White</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771481111--WIUNK-ltid1/1771481111.jpg</ns0:image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771481121--NUFJ3-ltid1/1771481121.jpg</ns0:additional_image_link>
@@ -2340,43 +2301,6 @@
     <ns0:custom_label_0>Escape</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>RT117</id>
-    <title>2023 GMC Acadia SLT</title>
-    <link rel="alternate" href="https://www.napletonchevrolet.com/inventory/used-2023-gmc-acadia-slt-all-wheel-drive-suv-1gkknuls9pz248837/"/>
-    <ns0:id>RT117</ns0:id>
-    <ns0:price>31995.00 USD</ns0:price>
-    <ns0:vin>1GKKNULS9PZ248837</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>GMC</ns0:brand>
-    <ns0:store_code>7093661331809096168</ns0:store_code>
-    <ns0:dealership_name>Napleton Chevrolet Saint Charles</ns0:dealership_name>
-    <ns0:dealership_address>2015 E. Main St., Saint Charles, IL 60174</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>7093661331809096168</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2023</ns0:year>
-    <ns0:make>GMC</ns0:make>
-    <ns0:model>Acadia</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevrolet.com/inventory/used-2023-gmc-acadia-slt-all-wheel-drive-suv-1gkknuls9pz248837/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>SLT</ns0:trim>
-    <ns0:mileage>18572 miles</ns0:mileage>
-    <ns0:color>Volcanic Red Tintcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771496721---YXFI-ltid2/1771496721.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771496731---YXFI-ltid2/1771496731.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771496741---YXFI-ltid2/1771496741.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771496751---T7QD-ltid2/1771496751.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771496761---T7QD-ltid2/1771496761.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771496771--I7X+I-ltid2/1771496771.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771497231--I7X+I-ltid2/1771497231.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771497241--I7X+I-ltid2/1771497241.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771497251--PCR8K-ltid2/1771497251.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771497261--PCR8K-ltid2/1771497261.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Acadia</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>RT114</id>
     <title>2023 Chevrolet Traverse LT Cloth</title>
     <link rel="alternate" href="https://www.napletonchevrolet.com/inventory/used-2023-chevrolet-traverse-lt-cloth-all-wheel-drive-suv-1gnevgkw6pj114856/"/>
@@ -2775,7 +2699,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletonchevrolet.com/inventory/new-2026-chevrolet-suburban-high-country-four-wheel-drive-suv-1gns6gkl2tr107016/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>High Country</ns0:trim>
-    <ns0:mileage>4 miles</ns0:mileage>
+    <ns0:mileage>7 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>BLACK</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771498301--+A3SW-ltid1/1771498301.jpg</ns0:image_link>
@@ -2941,7 +2865,7 @@
     <title>2025 Nissan Rogue S</title>
     <link rel="alternate" href="https://www.napletonchevrolet.com/inventory/used-2025-nissan-rogue-s-all-wheel-drive-suv-5n1bt3ab1sc773395/"/>
     <ns0:id>P709</ns0:id>
-    <ns0:price>23795.00 USD</ns0:price>
+    <ns0:price>23495.00 USD</ns0:price>
     <ns0:vin>5N1BT3AB1SC773395</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Nissan</ns0:brand>
@@ -3884,7 +3808,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletonchevrolet.com/inventory/new-2026-chevrolet-suburban-high-country-four-wheel-drive-suv-1gns6gkl1tr126432/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>High Country</ns0:trim>
-    <ns0:mileage>11 miles</ns0:mileage>
+    <ns0:mileage>4 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Polar White Tricoat</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771502011--9GVCR-ltid1/1771502011.jpg</ns0:image_link>
@@ -3925,16 +3849,16 @@
     <ns0:mileage>36219 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Northsky Blue Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771477251--CBMI6-ltid2/1771477251.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771477261--BSG7A-ltid2/1771477261.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771477271--BSG7A-ltid2/1771477271.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771477281--BSG7A-ltid2/1771477281.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771477291--CNVWK-ltid2/1771477291.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771477301--CNVWK-ltid2/1771477301.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771477311--KT+OG-ltid2/1771477311.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771477321--KT+OG-ltid2/1771477321.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771477331--2DXKC-ltid2/1771477331.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1771477341--2DXKC-ltid2/1771477341.jpg</ns0:additional_image_link>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1811536071--EU9KB-ltid2/1811536071.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1811536081--CO8VX-ltid2/1811536081.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1811536091--VQTTK-ltid2/1811536091.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1811536101--F1QP2-ltid2/1811536101.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1811536111--F1QP2-ltid2/1811536111.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1811536121--JHN+C-ltid2/1811536121.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1811536131--YE4ZD-ltid2/1811536131.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1811536141--FTKEO-ltid2/1811536141.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1811536151--CFN++-ltid2/1811536151.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1811536161--CFN++-ltid2/1811536161.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Silverado 1500</ns0:custom_label_0>
   </entry>
   <entry>
@@ -6597,42 +6521,6 @@
     <ns0:custom_label_0>Armada</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>P639B</id>
-    <title>2005 Lexus ES 330</title>
-    <link rel="alternate" href="https://www.napletonchevrolet.com/inventory/used-2005-lexus-es-330-front-wheel-drive-sedan-4-dr-jthba30g455064880/"/>
-    <ns0:id>P639B</ns0:id>
-    <ns0:price>9995.00 USD</ns0:price>
-    <ns0:vin>JTHBA30G455064880</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Lexus</ns0:brand>
-    <ns0:store_code>7093661331809096168</ns0:store_code>
-    <ns0:dealership_name>Napleton Chevrolet Saint Charles</ns0:dealership_name>
-    <ns0:dealership_address>2015 E. Main St., Saint Charles, IL 60174</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>7093661331809096168</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2005</ns0:year>
-    <ns0:make>Lexus</ns0:make>
-    <ns0:model>ES 330</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevrolet.com/inventory/used-2005-lexus-es-330-front-wheel-drive-sedan-4-dr-jthba30g455064880/?store={store_code}&amp;</ns0:link_template>
-    <ns0:mileage>66170 miles</ns0:mileage>
-    <ns0:body_style>sedan</ns0:body_style>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1793798321--2XXF1-ltid2/1793798321.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1793798331--2XXF1-ltid2/1793798331.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1793798341--YW62G-ltid2/1793798341.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1793798351--NOBRP-ltid2/1793798351.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1793798361--NOBRP-ltid2/1793798361.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1793798371--LLVLB-ltid2/1793798371.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1793798381--HKECG-ltid2/1793798381.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1793798391--0ORCP-ltid2/1793798391.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1793798401--0ORCP-ltid2/1793798401.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1793798411--RLLXM-ltid2/1793798411.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>ES 330</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>26190</id>
     <title>2026 Chevrolet Colorado 4WD Trail Boss</title>
     <link rel="alternate" href="https://www.napletonchevrolet.com/inventory/details/1GCPTEEK8T1156413"/>
@@ -6771,7 +6659,7 @@
     <title>2026 Chevrolet Traverse AWD Z71</title>
     <link rel="alternate" href="https://www.napletonchevrolet.com/inventory/new-2026-chevrolet-traverse-z71-all-wheel-drive-suv-1gnevjks7tj139284/"/>
     <ns0:id>26195</ns0:id>
-    <ns0:price>54340.00 USD</ns0:price>
+    <ns0:price>51623.00 USD</ns0:price>
     <ns0:vehicle_msrp>54340.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1GNEVJKS7TJ139284</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -6806,6 +6694,62 @@
     <ns0:custom_label_0>Traverse</ns0:custom_label_0>
   </entry>
   <entry>
+    <id>26194A</id>
+    <title>2020 Chevrolet Equinox Premier</title>
+    <link rel="alternate" href="https://www.napletonchevrolet.com/inventory/used-2020-chevrolet-equinox-premier-all-wheel-drive-suv-2gnaxxev8l6264888/"/>
+    <ns0:id>26194A</ns0:id>
+    <ns0:price>21995.00 USD</ns0:price>
+    <ns0:vin>2GNAXXEV8L6264888</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Chevrolet</ns0:brand>
+    <ns0:store_code>7093661331809096168</ns0:store_code>
+    <ns0:dealership_name>Napleton Chevrolet Saint Charles</ns0:dealership_name>
+    <ns0:dealership_address>2015 E. Main St., Saint Charles, IL 60174</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7093661331809096168</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2020</ns0:year>
+    <ns0:make>Chevrolet</ns0:make>
+    <ns0:model>Equinox</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonchevrolet.com/inventory/used-2020-chevrolet-equinox-premier-all-wheel-drive-suv-2gnaxxev8l6264888/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Premier</ns0:trim>
+    <ns0:mileage>57847 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Mosaic Black Metallic</ns0:color>
+    <ns0:custom_label_0>Equinox</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>25512B</id>
+    <title>2010 INFINITI G37 Sedan x</title>
+    <link rel="alternate" href="https://www.napletonchevrolet.com/inventory/used-2010-infiniti-g37-sedan-x-all-wheel-drive-sedan-4-dr-jn1cv6arxam455577/"/>
+    <ns0:id>25512B</ns0:id>
+    <ns0:price>7995.00 USD</ns0:price>
+    <ns0:vin>JN1CV6ARXAM455577</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>INFINITI</ns0:brand>
+    <ns0:store_code>7093661331809096168</ns0:store_code>
+    <ns0:dealership_name>Napleton Chevrolet Saint Charles</ns0:dealership_name>
+    <ns0:dealership_address>2015 E. Main St., Saint Charles, IL 60174</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7093661331809096168</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2010</ns0:year>
+    <ns0:make>INFINITI</ns0:make>
+    <ns0:model>G37 Sedan</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonchevrolet.com/inventory/used-2010-infiniti-g37-sedan-x-all-wheel-drive-sedan-4-dr-jn1cv6arxam455577/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>x</ns0:trim>
+    <ns0:mileage>164612 miles</ns0:mileage>
+    <ns0:body_style>sedan</ns0:body_style>
+    <ns0:color>Graphite Shadow</ns0:color>
+    <ns0:custom_label_0>G37 Sedan</ns0:custom_label_0>
+  </entry>
+  <entry>
     <id>26197</id>
     <title>2026 Chevrolet Traverse AWD Z71</title>
     <link rel="alternate" href="https://www.napletonchevrolet.com/inventory/details/1GNEVJKS8TJ219662"/>
@@ -6832,6 +6776,16 @@
     <ns0:mileage>10 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Mosaic Black Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1810520791--UMLB7-ltid1/1810520791.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1810520801--N6IXJ-ltid1/1810520801.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1810520811--N6IXJ-ltid1/1810520811.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1810520821--HHSQD-ltid1/1810520821.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1810520831---I-AS-ltid1/1810520831.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1810520841--2DHB3-ltid1/1810520841.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1810520851--KJ-XZ-ltid1/1810520851.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1810520861--ZWNEV-ltid1/1810520861.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1810520871--LLV7+-ltid1/1810520871.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1810520881--CR77K-ltid1/1810520881.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Traverse</ns0:custom_label_0>
   </entry>
   <entry>
@@ -6861,6 +6815,45 @@
     <ns0:mileage>10 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Black</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1810520661--8D3P5-ltid1/1810520661.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1810520671--IAM3I-ltid1/1810520671.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1810520681--IAM3I-ltid1/1810520681.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1810520691--DCR0G-ltid1/1810520691.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1810520701--YDL1Y-ltid1/1810520701.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1810520711--27QBQ-ltid1/1810520711.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1810520721--27QBQ-ltid1/1810520721.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1810520731--BR08K-ltid1/1810520731.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1810520741--+NIMD-ltid1/1810520741.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1810520751--+NIMD-ltid1/1810520751.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Suburban</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>26199</id>
+    <title>2026 Chevrolet Equinox FWD LT</title>
+    <link rel="alternate" href="https://www.napletonchevrolet.com/inventory/details/3GNAXHEG9TL338936"/>
+    <ns0:id>26199</ns0:id>
+    <ns0:price>34180.00 USD</ns0:price>
+    <ns0:vehicle_msrp>34180.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3GNAXHEG9TL338936</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Chevrolet</ns0:brand>
+    <ns0:store_code>7093661331809096168</ns0:store_code>
+    <ns0:dealership_name>Napleton Chevrolet Saint Charles</ns0:dealership_name>
+    <ns0:dealership_address>2015 E. Main St., Saint Charles, IL 60174</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7093661331809096168</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Chevrolet</ns0:make>
+    <ns0:model>Equinox</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonchevrolet.com/inventory/details/3GNAXHEG9TL338936?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>FWD LT</ns0:trim>
+    <ns0:mileage>10 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Mosaic Black Metallic</ns0:color>
+    <ns0:custom_label_0>Equinox</ns0:custom_label_0>
   </entry>
 </feed>
