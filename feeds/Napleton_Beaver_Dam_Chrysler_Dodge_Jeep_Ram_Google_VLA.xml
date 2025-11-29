@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Beaver Dam Chrysler Dodge Jeep Ram Inventory Feed</title>
   <link href="https://www.beaverdamcdjr.com/" rel="self"/>
-  <updated>2025-11-29T08:02:41.099644</updated>
+  <updated>2025-11-29T12:03:12.874114</updated>
   <entry>
     <id>340050</id>
     <title>2025 Jeep Wrangler Sahara</title>
@@ -749,7 +749,7 @@
     <title>2023 Chevrolet Traverse Premier</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1GNEVKKW8PJ173121"/>
     <ns0:id>340065A</ns0:id>
-    <ns0:price>28000.00 USD</ns0:price>
+    <ns0:price>27588.00 USD</ns0:price>
     <ns0:vin>1GNEVKKW8PJ173121</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Chevrolet</ns0:brand>
@@ -825,7 +825,7 @@
     <title>2022 Ford Escape SE</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9G66NUA66595"/>
     <ns0:id>RT1018</ns0:id>
-    <ns0:price>17000.00 USD</ns0:price>
+    <ns0:price>16599.00 USD</ns0:price>
     <ns0:vin>1FMCU9G66NUA66595</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Ford</ns0:brand>
@@ -976,87 +976,11 @@
     <ns0:custom_label_0>Grand Cherokee</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>440062A</id>
-    <title>2023 Dodge Hornet GT</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=ZACNDFAN7P3A05067"/>
-    <ns0:id>440062A</ns0:id>
-    <ns0:price>20000.00 USD</ns0:price>
-    <ns0:vin>ZACNDFAN7P3A05067</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Dodge</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2023</ns0:year>
-    <ns0:make>Dodge</ns0:make>
-    <ns0:model>Hornet</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=ZACNDFAN7P3A05067&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>GT</ns0:trim>
-    <ns0:mileage>19084 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>8 Ball</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627411--JUE8T-ltid2/1771627411.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627881--OLZUO-ltid2/1771627881.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627891--OLZUO-ltid2/1771627891.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627901--UGR7X-ltid2/1771627901.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627801--JUE8T-ltid2/1771627801.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627811--JUE8T-ltid2/1771627811.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627821--K+FOM-ltid2/1771627821.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627831--K+FOM-ltid2/1771627831.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627841--6XIVP-ltid2/1771627841.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627851--6XIVP-ltid2/1771627851.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Hornet</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>340089B</id>
-    <title>2024 Mazda CX-90 3.3 Turbo Premium Plus</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=JM3KKEHD8R1168412"/>
-    <ns0:id>340089B</ns0:id>
-    <ns0:price>34500.00 USD</ns0:price>
-    <ns0:vin>JM3KKEHD8R1168412</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Mazda</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2024</ns0:year>
-    <ns0:make>Mazda</ns0:make>
-    <ns0:model>CX-90</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=JM3KKEHD8R1168412&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>3.3 Turbo Premium Plus</ns0:trim>
-    <ns0:mileage>27596 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Machine Gray Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771629001--8X3T6-ltid2/1771629001.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771629011--8X3T6-ltid2/1771629011.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771629021--A92S1-ltid2/1771629021.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771629031--A92S1-ltid2/1771629031.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771629041--A92S1-ltid2/1771629041.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771629051--T5KSG-ltid2/1771629051.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771629061--T5KSG-ltid2/1771629061.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771629071--T5KSG-ltid2/1771629071.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771629081--6Q0OL-ltid2/1771629081.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771629091--6Q0OL-ltid2/1771629091.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>CX-90</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>P0173</id>
     <title>2024 Chevrolet Equinox RS</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3GNAXWEG0RS107152"/>
     <ns0:id>P0173</ns0:id>
-    <ns0:price>25000.00 USD</ns0:price>
+    <ns0:price>24654.00 USD</ns0:price>
     <ns0:vin>3GNAXWEG0RS107152</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Chevrolet</ns0:brand>
@@ -1094,7 +1018,7 @@
     <title>2024 Dodge Hornet R/T</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=ZACPDFCW7R3A29631"/>
     <ns0:id>PB0071</ns0:id>
-    <ns0:price>20369.00 USD</ns0:price>
+    <ns0:price>20000.00 USD</ns0:price>
     <ns0:vin>ZACPDFCW7R3A29631</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Dodge</ns0:brand>
@@ -1131,7 +1055,7 @@
     <title>2022 Mercedes-Benz CLA CLA 250</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=W1K5J4HB7NN322943"/>
     <ns0:id>340087AA</ns0:id>
-    <ns0:price>30548.00 USD</ns0:price>
+    <ns0:price>30000.00 USD</ns0:price>
     <ns0:vin>W1K5J4HB7NN322943</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Mercedes-Benz</ns0:brand>
@@ -1505,44 +1429,6 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771624191--BXZWG-ltid2/1771624191.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771624201--NR3EY-ltid2/1771624201.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Challenger</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>PB0084</id>
-    <title>2024 Jeep Compass Latitude</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDBN0RT132677"/>
-    <ns0:id>PB0084</ns0:id>
-    <ns0:price>18654.00 USD</ns0:price>
-    <ns0:vin>3C4NJDBN0RT132677</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Jeep</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2024</ns0:year>
-    <ns0:make>Jeep</ns0:make>
-    <ns0:model>Compass</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDBN0RT132677&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Latitude</ns0:trim>
-    <ns0:mileage>37861 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Silver Zynith Metallic Clearcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771630911--6JBS3-ltid2/1771630911.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771630921--B9FNW-ltid2/1771630921.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771630931--B9FNW-ltid2/1771630931.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771630941--B9FNW-ltid2/1771630941.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771630951--GTUU3-ltid2/1771630951.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771630961--GTUU3-ltid2/1771630961.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771630971--8L9LF-ltid2/1771630971.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771630981--8L9LF-ltid2/1771630981.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771630991--8L9LF-ltid2/1771630991.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771631001--QMLJO-ltid2/1771631001.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Compass</ns0:custom_label_0>
   </entry>
   <entry>
     <id>PB0085</id>
@@ -2784,44 +2670,6 @@
     <ns0:custom_label_0>Pacifica</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>440050A</id>
-    <title>2019 Ram 1500 Limited</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFHT9KN856989"/>
-    <ns0:id>440050A</ns0:id>
-    <ns0:price>28411.00 USD</ns0:price>
-    <ns0:vin>1C6SRFHT9KN856989</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ram</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2019</ns0:year>
-    <ns0:make>Ram</ns0:make>
-    <ns0:model>1500</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFHT9KN856989&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Limited</ns0:trim>
-    <ns0:mileage>103794 miles</ns0:mileage>
-    <ns0:body_style>truck</ns0:body_style>
-    <ns0:color>Maximum Steel Metallic Clearcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1808957761--YBF0X-ltid2/1808957761.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1808957771--DMFWQ-ltid2/1808957771.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1808957781--F5HH+-ltid2/1808957781.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1808957791--61URN-ltid2/1808957791.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1808957801--XSK9Y-ltid2/1808957801.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1808957811--AE87Z-ltid2/1808957811.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1808957821--AE87Z-ltid2/1808957821.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1808957831--0LZ9M-ltid2/1808957831.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1808957841--ZPAJV-ltid2/1808957841.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1808957851--AE1UG-ltid2/1808957851.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>1500</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>PB0092</id>
     <title>2023 Nissan Rogue SV</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=JN8BT3BB5PW186808"/>
@@ -2873,7 +2721,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4PJXEG3TW202584&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Sahara</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:mileage>13 miles</ns0:mileage>
     <ns0:color>Bright White Clearcoat</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1810520041--ZVMAH-ltid1/1810520041.jpg</ns0:image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1810520051--24N8--ltid1/1810520051.jpg</ns0:additional_image_link>
