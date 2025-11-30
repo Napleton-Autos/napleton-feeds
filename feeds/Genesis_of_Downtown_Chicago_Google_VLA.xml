@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Genesis of Downtown Chicago Inventory Feed</title>
   <link href="https://www.genesisofdowntownchicago.com/" rel="self"/>
-  <updated>2025-11-30T08:02:45.378271</updated>
+  <updated>2025-11-30T12:03:09.879469</updated>
   <entry>
     <id>G25051</id>
     <title>2025 Genesis GV70 3.5T Sport</title>
@@ -162,7 +162,7 @@
   <entry>
     <id>G25097</id>
     <title>2025 Genesis GV80 Prestige</title>
-    <link rel="alternate" href="https://www.genesisofdowntownchicago.com/inventory/new-2025-genesis-gv80-prestige-all-wheel-drive-sport-utility-kmuhcesb4su278222/"/>
+    <link rel="alternate" href="https://www.genesisofdowntownchicago.com/inventory/new-2025-genesis-gv80-2-5t-prestige-all-wheel-drive-sport-utility-kmuhcesb4su278222/"/>
     <ns0:id>G25097</ns0:id>
     <ns0:price>66605.00 USD</ns0:price>
     <ns0:vehicle_msrp>74005.00 USD</ns0:vehicle_msrp>
@@ -181,7 +181,7 @@
     <ns0:model>GV80</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.genesisofdowntownchicago.com/inventory/new-2025-genesis-gv80-prestige-all-wheel-drive-sport-utility-kmuhcesb4su278222/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.genesisofdowntownchicago.com/inventory/new-2025-genesis-gv80-2-5t-prestige-all-wheel-drive-sport-utility-kmuhcesb4su278222/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Prestige</ns0:trim>
     <ns0:mileage>2 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -240,9 +240,9 @@
   <entry>
     <id>G26007</id>
     <title>2026 Genesis GV70 3.5T Sport Prestige</title>
-    <link rel="alternate" href="https://www.genesisofdowntownchicago.com//inventory/details/KMUMEDTC7TU229544"/>
+    <link rel="alternate" href="https://www.genesisofdowntownchicago.com/inventory/new-2026-genesis-gv70-3-5t-sport-prestige-all-wheel-drive-sport-utility-kmumedtc7tu229544/"/>
     <ns0:id>G26007</ns0:id>
-    <ns0:price>69003.00 USD</ns0:price>
+    <ns0:price>67550.00 USD</ns0:price>
     <ns0:vehicle_msrp>72635.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KMUMEDTC7TU229544</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -259,9 +259,9 @@
     <ns0:model>GV70</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.genesisofdowntownchicago.com//inventory/details/KMUMEDTC7TU229544?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.genesisofdowntownchicago.com/inventory/new-2026-genesis-gv70-3-5t-sport-prestige-all-wheel-drive-sport-utility-kmumedtc7tu229544/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>3.5T Sport Prestige</ns0:trim>
-    <ns0:mileage>14 miles</ns0:mileage>
+    <ns0:mileage>4165 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Uyuni White</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid215614-photoid1808222371--0WZNH-ltid1/1808222371.jpg</ns0:image_link>
@@ -357,9 +357,9 @@
   <entry>
     <id>G26020</id>
     <title>2026 Genesis G70 2.5T Standard</title>
-    <link rel="alternate" href="https://www.genesisofdowntownchicago.com/inventory/new-2026-genesis-g70-2-5t-standard-all-wheel-drive-sedan-kmtg64sc2tu162769/"/>
+    <link rel="alternate" href="https://www.genesisofdowntownchicago.com/inventory/new-2026-genesis-g70-2-5t-all-wheel-drive-sedan-kmtg64sc2tu162769/"/>
     <ns0:id>G26020</ns0:id>
-    <ns0:price>42996.00 USD</ns0:price>
+    <ns0:price>43500.00 USD</ns0:price>
     <ns0:vehicle_msrp>47410.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KMTG64SC2TU162769</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -376,7 +376,7 @@
     <ns0:model>G70</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.genesisofdowntownchicago.com/inventory/new-2026-genesis-g70-2-5t-standard-all-wheel-drive-sedan-kmtg64sc2tu162769/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.genesisofdowntownchicago.com/inventory/new-2026-genesis-g70-2-5t-all-wheel-drive-sedan-kmtg64sc2tu162769/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>2.5T Standard</ns0:trim>
     <ns0:mileage>1 miles</ns0:mileage>
     <ns0:body_style>sedan</ns0:body_style>
@@ -628,45 +628,6 @@
     <ns0:custom_label_0>GV80</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>G26039</id>
-    <title>2026 Genesis GV80 Coupe 3.5T e-SC Prestige Black</title>
-    <link rel="alternate" href="https://www.genesisofdowntownchicago.com/inventory/new-2026-genesis-gv80-coupe-3-5t-e-sc-mhev-prestige-black-all-wheel-drive-sport-utility-kmujdesc6tu296925/"/>
-    <ns0:id>G26039</ns0:id>
-    <ns0:price>91980.00 USD</ns0:price>
-    <ns0:vehicle_msrp>91980.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>KMUJDESC6TU296925</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Genesis</ns0:brand>
-    <ns0:store_code>3078858109013009292</ns0:store_code>
-    <ns0:dealership_name>Genesis of Downtown Chicago</ns0:dealership_name>
-    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>3078858109013009292</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Genesis</ns0:make>
-    <ns0:model>GV80 Coupe</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.genesisofdowntownchicago.com/inventory/new-2026-genesis-gv80-coupe-3-5t-e-sc-mhev-prestige-black-all-wheel-drive-sport-utility-kmujdesc6tu296925/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>3.5T e-SC Prestige Black</ns0:trim>
-    <ns0:mileage>22 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Vik Black</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid215614-photoid1771673401--2VEMW-ltid1/1771673401.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid215614-photoid1771673411--2VEMW-ltid1/1771673411.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid215614-photoid1771673421--2VEMW-ltid1/1771673421.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid215614-photoid1771673431--LL1RO-ltid1/1771673431.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid215614-photoid1771673441--LL1RO-ltid1/1771673441.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid215614-photoid1771673451--LL1RO-ltid1/1771673451.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid215614-photoid1771673461--0O-NA-ltid1/1771673461.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid215614-photoid1771673471--0O-NA-ltid1/1771673471.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid215614-photoid1771673481--YB+B1-ltid1/1771673481.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid215614-photoid1771673491--YB+B1-ltid1/1771673491.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>GV80 Coupe</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>G26043</id>
     <title>2026 Genesis GV80 Advanced</title>
     <link rel="alternate" href="https://www.genesisofdowntownchicago.com/inventory/new-2026-genesis-gv80-2-5t-advanced-all-wheel-drive-sport-utility-kmuhbesb3tu295243/"/>
@@ -866,7 +827,7 @@
     <title>2026 Genesis G80 3.5T Prestige Black</title>
     <link rel="alternate" href="https://www.genesisofdowntownchicago.com/inventory/new-2026-genesis-g80-3-5t-prestige-black-all-wheel-drive-sedan-kmtgf4sd9tu304740/"/>
     <ns0:id>G26051</ns0:id>
-    <ns0:price>77734.00 USD</ns0:price>
+    <ns0:price>77500.00 USD</ns0:price>
     <ns0:vehicle_msrp>81825.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KMTGF4SD9TU304740</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1556,7 +1517,7 @@
   <entry>
     <id>G26026</id>
     <title>2026 Genesis G70 2.5T Prestige</title>
-    <link rel="alternate" href="https://www.genesisofdowntownchicago.com//inventory/details/KMTG34SCXTU163273"/>
+    <link rel="alternate" href="https://www.genesisofdowntownchicago.com/inventory/new-2026-genesis-g70-2-5t-prestige-all-wheel-drive-sedan-kmtg34scxtu163273/"/>
     <ns0:id>G26026</ns0:id>
     <ns0:price>49889.00 USD</ns0:price>
     <ns0:vehicle_msrp>52515.00 USD</ns0:vehicle_msrp>
@@ -1575,7 +1536,7 @@
     <ns0:model>G70</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.genesisofdowntownchicago.com//inventory/details/KMTG34SCXTU163273?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.genesisofdowntownchicago.com/inventory/new-2026-genesis-g70-2-5t-prestige-all-wheel-drive-sedan-kmtg34scxtu163273/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>2.5T Prestige</ns0:trim>
     <ns0:mileage>24 miles</ns0:mileage>
     <ns0:body_style>sedan</ns0:body_style>
@@ -1595,9 +1556,9 @@
   <entry>
     <id>G26012</id>
     <title>2026 Genesis G70 2.5T Prestige</title>
-    <link rel="alternate" href="https://www.genesisofdowntownchicago.com//inventory/details/KMTG34SC6TU160600"/>
+    <link rel="alternate" href="https://www.genesisofdowntownchicago.com/inventory/new-2026-genesis-g70-2-5t-prestige-all-wheel-drive-sedan-kmtg34sc6tu160600/"/>
     <ns0:id>G26012</ns0:id>
-    <ns0:price>49695.00 USD</ns0:price>
+    <ns0:price>48079.00 USD</ns0:price>
     <ns0:vehicle_msrp>52310.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KMTG34SC6TU160600</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1614,7 +1575,7 @@
     <ns0:model>G70</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.genesisofdowntownchicago.com//inventory/details/KMTG34SC6TU160600?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.genesisofdowntownchicago.com/inventory/new-2026-genesis-g70-2-5t-prestige-all-wheel-drive-sedan-kmtg34sc6tu160600/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>2.5T Prestige</ns0:trim>
     <ns0:mileage>4210 miles</ns0:mileage>
     <ns0:body_style>sedan</ns0:body_style>
@@ -1634,9 +1595,9 @@
   <entry>
     <id>GD25081</id>
     <title>2025 Genesis GV80 Advanced</title>
-    <link rel="alternate" href="https://www.genesisofdowntownchicago.com//inventory/details/KMUHBESB7SU261790"/>
+    <link rel="alternate" href="https://www.genesisofdowntownchicago.com/inventory/new-2025-genesis-gv80-advanced-all-wheel-drive-sport-utility-kmuhbesb7su261790/"/>
     <ns0:id>GD25081</ns0:id>
-    <ns0:price>61893.00 USD</ns0:price>
+    <ns0:price>64645.00 USD</ns0:price>
     <ns0:vehicle_msrp>68770.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KMUHBESB7SU261790</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1653,7 +1614,7 @@
     <ns0:model>GV80</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.genesisofdowntownchicago.com//inventory/details/KMUHBESB7SU261790?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.genesisofdowntownchicago.com/inventory/new-2025-genesis-gv80-advanced-all-wheel-drive-sport-utility-kmuhbesb7su261790/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Advanced</ns0:trim>
     <ns0:mileage>3921 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1673,9 +1634,9 @@
   <entry>
     <id>G25068</id>
     <title>2025 Genesis GV80 Standard</title>
-    <link rel="alternate" href="https://www.genesisofdowntownchicago.com//inventory/details/KMUHFESB9SU258037"/>
+    <link rel="alternate" href="https://www.genesisofdowntownchicago.com/inventory/new-2025-genesis-gv80-standard-all-wheel-drive-sport-utility-kmuhfesb9su258037/"/>
     <ns0:id>G25068</ns0:id>
-    <ns0:price>55026.00 USD</ns0:price>
+    <ns0:price>57472.00 USD</ns0:price>
     <ns0:vehicle_msrp>61140.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KMUHFESB9SU258037</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1692,7 +1653,7 @@
     <ns0:model>GV80</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.genesisofdowntownchicago.com//inventory/details/KMUHFESB9SU258037?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.genesisofdowntownchicago.com/inventory/new-2025-genesis-gv80-standard-all-wheel-drive-sport-utility-kmuhfesb9su258037/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Standard</ns0:trim>
     <ns0:mileage>3772 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1712,9 +1673,9 @@
   <entry>
     <id>G25074</id>
     <title>2025 Genesis GV70 2.5T</title>
-    <link rel="alternate" href="https://www.genesisofdowntownchicago.com//inventory/details/5NMMADTBXSH033352"/>
+    <link rel="alternate" href="https://www.genesisofdowntownchicago.com/inventory/new-2025-genesis-gv70-2-5t-all-wheel-drive-sport-utility-5nmmadtbxsh033352/"/>
     <ns0:id>G25074</ns0:id>
-    <ns0:price>46504.00 USD</ns0:price>
+    <ns0:price>50881.00 USD</ns0:price>
     <ns0:vehicle_msrp>54710.00 USD</ns0:vehicle_msrp>
     <ns0:vin>5NMMADTBXSH033352</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1731,7 +1692,7 @@
     <ns0:model>GV70</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.genesisofdowntownchicago.com//inventory/details/5NMMADTBXSH033352?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.genesisofdowntownchicago.com/inventory/new-2025-genesis-gv70-2-5t-all-wheel-drive-sport-utility-5nmmadtbxsh033352/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>2.5T</ns0:trim>
     <ns0:mileage>3289 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>

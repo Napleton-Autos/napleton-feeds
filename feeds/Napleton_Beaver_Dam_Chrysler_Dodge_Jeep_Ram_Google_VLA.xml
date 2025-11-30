@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Beaver Dam Chrysler Dodge Jeep Ram Inventory Feed</title>
   <link href="https://www.beaverdamcdjr.com/" rel="self"/>
-  <updated>2025-11-30T08:02:45.114390</updated>
+  <updated>2025-11-30T12:03:09.629990</updated>
   <entry>
     <id>340050</id>
     <title>2025 Jeep Wrangler Sahara</title>
@@ -3014,5 +3014,61 @@
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Bright White Clearcoat</ns0:color>
     <ns0:custom_label_0>Compass</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>440050B</id>
+    <title>2023 Chevrolet Trailblazer LT</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=KL79MRSL2PB217570"/>
+    <ns0:id>440050B</ns0:id>
+    <ns0:price>20849.00 USD</ns0:price>
+    <ns0:vin>KL79MRSL2PB217570</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Chevrolet</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2023</ns0:year>
+    <ns0:make>Chevrolet</ns0:make>
+    <ns0:model>Trailblazer</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=KL79MRSL2PB217570&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>LT</ns0:trim>
+    <ns0:mileage>38093 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Sterling Gray Metallic</ns0:color>
+    <ns0:custom_label_0>Trailblazer</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>340089C</id>
+    <title>2024 Honda Civic Sedan EX</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2HGFE1F77RH310694"/>
+    <ns0:id>340089C</ns0:id>
+    <ns0:price>23164.00 USD</ns0:price>
+    <ns0:vin>2HGFE1F77RH310694</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Honda</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2024</ns0:year>
+    <ns0:make>Honda</ns0:make>
+    <ns0:model>Civic Sedan</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2HGFE1F77RH310694&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>EX</ns0:trim>
+    <ns0:mileage>44390 miles</ns0:mileage>
+    <ns0:body_style>sedan</ns0:body_style>
+    <ns0:color>Crystal Black Pearl</ns0:color>
+    <ns0:custom_label_0>Civic Sedan</ns0:custom_label_0>
   </entry>
 </feed>
