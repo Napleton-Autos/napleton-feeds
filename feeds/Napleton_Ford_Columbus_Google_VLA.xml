@@ -2,916 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Ford Columbus Inventory Feed</title>
   <link href="https://www.napletonfordcolumbus.com" rel="self"/>
-  <updated>2025-12-01T08:03:25.833128</updated>
-  <entry>
-    <id>126017</id>
-    <title>2026 Ford F-150 STX</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/1FTEX2LP3TKD19911"/>
-    <ns0:id>126017</ns0:id>
-    <ns0:price>48955.00 USD</ns0:price>
-    <ns0:vehicle_msrp>48955.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1FTEX2LP3TKD19911</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>F-150</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/1FTEX2LP3TKD19911?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>STX</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
-    <ns0:body_style>truck</ns0:body_style>
-    <ns0:color>Agate Black Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808224021--AIXHK-ltid1/1808224021.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808224031--AIXHK-ltid1/1808224031.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808224041--JWCJK-ltid1/1808224041.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808224051--CWE-Y-ltid1/1808224051.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808224061--MFQLP-ltid1/1808224061.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808224071--WHEVW-ltid1/1808224071.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808224081--78FQN-ltid1/1808224081.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808224091--BMYML-ltid1/1808224091.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808224101--BMYML-ltid1/1808224101.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808224111--KLXOR-ltid1/1808224111.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>F-150</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>125180</id>
-    <title>2025 Ford Bronco Sport Outer Banks</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/3FMCR9CN5SRF79032"/>
-    <ns0:id>125180</ns0:id>
-    <ns0:price>36152.00 USD</ns0:price>
-    <ns0:vehicle_msrp>42475.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>3FMCR9CN5SRF79032</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>Bronco Sport</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/3FMCR9CN5SRF79032?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Outer Banks</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Ruby Red Metallic Tinted Clearcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223651--L8SHT-ltid1/1808223651.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223661--I-1A4-ltid1/1808223661.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223671--I-1A4-ltid1/1808223671.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223681--PQMNW-ltid1/1808223681.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223691--PQMNW-ltid1/1808223691.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223701--DKJF7-ltid1/1808223701.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223711--WNTH6-ltid1/1808223711.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223721--WNTH6-ltid1/1808223721.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223731--Z8JG1-ltid1/1808223731.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223741--OV3WZ-ltid1/1808223741.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Bronco Sport</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>126016</id>
-    <title>2026 Ford Maverick LARIAT</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/3FTTW8S32TRA16805"/>
-    <ns0:id>126016</ns0:id>
-    <ns0:price>41375.00 USD</ns0:price>
-    <ns0:vehicle_msrp>41375.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>3FTTW8S32TRA16805</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>Maverick</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/3FTTW8S32TRA16805?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>LARIAT</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
-    <ns0:body_style>truck</ns0:body_style>
-    <ns0:color>Azure Gray Metallic Tri-Coat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223781--DF2LH-ltid1/1808223781.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223791--TVNHP-ltid1/1808223791.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223801--TVNHP-ltid1/1808223801.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223811--9M7MW-ltid1/1808223811.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223821--LLP2W-ltid1/1808223821.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223831--4U6I4-ltid1/1808223831.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223841--WWZF7-ltid1/1808223841.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223851--IXA0J-ltid1/1808223851.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223861---YYDR-ltid1/1808223861.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223871--OWVAJ-ltid1/1808223871.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Maverick</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>PB0051</id>
-    <title>2018 Ford Taurus SHO</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/used-2018-ford-taurus-sho-all-wheel-drive-4-door-sedan-1fahp2kt0jg136368/"/>
-    <ns0:id>PB0051</ns0:id>
-    <ns0:price>23377.00 USD</ns0:price>
-    <ns0:vin>1FAHP2KT0JG136368</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2018</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>Taurus</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/used-2018-ford-taurus-sho-all-wheel-drive-4-door-sedan-1fahp2kt0jg136368/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>SHO</ns0:trim>
-    <ns0:mileage>77891 miles</ns0:mileage>
-    <ns0:body_style>sedan</ns0:body_style>
-    <ns0:color>Magnetic Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1811504161--RORS--ltid2/1811504161.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1811504171--UXKUN-ltid2/1811504171.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1811504181--UXKUN-ltid2/1811504181.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1811504191--B7DAC-ltid2/1811504191.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1811504201--KWZIJ-ltid2/1811504201.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1811504211--KWZIJ-ltid2/1811504211.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1811504221--RBGQL-ltid2/1811504221.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1811504231--85PRD-ltid2/1811504231.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1811504241--FGUI6-ltid2/1811504241.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1811504251--UJIZ0-ltid2/1811504251.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Taurus</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>125181</id>
-    <title>2025 Ford Bronco Sport Outer Banks</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/3FMCR9CN7SRF75368"/>
-    <ns0:id>125181</ns0:id>
-    <ns0:price>35156.00 USD</ns0:price>
-    <ns0:vehicle_msrp>41380.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>3FMCR9CN7SRF75368</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>Bronco Sport</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/3FMCR9CN7SRF75368?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Outer Banks</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Eruption Green Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1810520411--NOCWD-ltid1/1810520411.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1810520421--KFQGR-ltid1/1810520421.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1810520431--KFQGR-ltid1/1810520431.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1810520441--GVUMB-ltid1/1810520441.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1810520451--GVUMB-ltid1/1810520451.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1810520461--TQ59I-ltid1/1810520461.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1810520471--+YI-Y-ltid1/1810520471.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1810520481--+YI-Y-ltid1/1810520481.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1810520491--WQKWQ-ltid1/1810520491.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1810520501--RUPJR-ltid1/1810520501.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Bronco Sport</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>125098A</id>
-    <title>2019 Nissan Frontier PRO-4X</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/used-2019-nissan-frontier-pro-4x-four-wheel-drive-4-door-crew-cab-short-bed-truck-1n6ad0ev3kn767891/"/>
-    <ns0:id>125098A</ns0:id>
-    <ns0:price>24221.00 USD</ns0:price>
-    <ns0:vin>1N6AD0EV3KN767891</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Nissan</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2019</ns0:year>
-    <ns0:make>Nissan</ns0:make>
-    <ns0:model>Frontier</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/used-2019-nissan-frontier-pro-4x-four-wheel-drive-4-door-crew-cab-short-bed-truck-1n6ad0ev3kn767891/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>PRO-4X</ns0:trim>
-    <ns0:mileage>54899 miles</ns0:mileage>
-    <ns0:body_style>truck</ns0:body_style>
-    <ns0:color>Gun Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1818685061--WRT6H-ltid2/1818685061.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1818685071--TABKO-ltid2/1818685071.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1818685081--S6PBL-ltid2/1818685081.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1818685091--REI2C-ltid2/1818685091.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1818685101--HJVK1-ltid2/1818685101.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1818685111--OEWA--ltid2/1818685111.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1818685121--OEWA--ltid2/1818685121.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1818685131--ZWUEK-ltid2/1818685131.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1818685141--WK+P1-ltid2/1818685141.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1818685151--KFQJC-ltid2/1818685151.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Frontier</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>125182</id>
-    <title>2025 Ford Maverick XLT</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/new-2025-ford-maverick-xlt-all-wheel-drive-supercrew-3fttw8j36srb75889/"/>
-    <ns0:id>125182</ns0:id>
-    <ns0:price>36105.00 USD</ns0:price>
-    <ns0:vehicle_msrp>38410.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>3FTTW8J36SRB75889</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>Maverick</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/new-2025-ford-maverick-xlt-all-wheel-drive-supercrew-3fttw8j36srb75889/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>XLT</ns0:trim>
-    <ns0:mileage>200 miles</ns0:mileage>
-    <ns0:body_style>truck</ns0:body_style>
-    <ns0:color>Velocity Blue</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1821194621--WMBSL-ltid1/1821194621.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1821194631--OTANL-ltid1/1821194631.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1821194641--QR6CI-ltid1/1821194641.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1821194651--JY0PD-ltid1/1821194651.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1821194661--YDAUW-ltid1/1821194661.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1821194671--YDAUW-ltid1/1821194671.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1821194681--8OY1W-ltid1/1821194681.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1821194691--V75DB-ltid1/1821194691.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1821194701--T7UJZ-ltid1/1821194701.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1821194711--T7UJZ-ltid1/1821194711.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Maverick</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>126020</id>
-    <title>2026 Ford Mustang EcoBoost</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/1FA6P8TH2T5110003"/>
-    <ns0:id>126020</ns0:id>
-    <ns0:price>32881.00 USD</ns0:price>
-    <ns0:vehicle_msrp>34980.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1FA6P8TH2T5110003</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>Mustang</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/1FA6P8TH2T5110003?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>EcoBoost</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
-    <ns0:color>Shadow Black</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945461--SM8ZB-ltid1/1825945461.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945471--+P-QT-ltid1/1825945471.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945481--SLG0I-ltid1/1825945481.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945491--AKJEW-ltid1/1825945491.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945501--RFGPV-ltid1/1825945501.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945511--DEB+C-ltid1/1825945511.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945521--2QCHN-ltid1/1825945521.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945531--1DO1G-ltid1/1825945531.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945541--MIQ4C-ltid1/1825945541.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945551--FXN-T-ltid1/1825945551.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Mustang</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>126019</id>
-    <title>2026 Ford Escape ST-Line Select</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/1FMCU9NA5TUA26996"/>
-    <ns0:id>126019</ns0:id>
-    <ns0:price>35661.00 USD</ns0:price>
-    <ns0:vehicle_msrp>38345.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1FMCU9NA5TUA26996</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>Escape</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/1FMCU9NA5TUA26996?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>ST-Line Select</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>vapor blue metallic</ns0:color>
-    <ns0:custom_label_0>Escape</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>126023</id>
-    <title>2026 Ford Escape ST-Line Select</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/1FMCU9NA8TUA36860"/>
-    <ns0:id>126023</ns0:id>
-    <ns0:price>40120.00 USD</ns0:price>
-    <ns0:vehicle_msrp>43140.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1FMCU9NA8TUA36860</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>Escape</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/1FMCU9NA8TUA36860?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>ST-Line Select</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>rapid red metallic tinted clearcoat</ns0:color>
-    <ns0:custom_label_0>Escape</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>125184</id>
-    <title>2025 Ford Bronco Badlands</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/1FMEE9BP0SLB77280"/>
-    <ns0:id>125184</ns0:id>
-    <ns0:price>57436.00 USD</ns0:price>
-    <ns0:vehicle_msrp>62430.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1FMEE9BP0SLB77280</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>Bronco</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/1FMEE9BP0SLB77280?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Badlands</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Carbonized Gray Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945581--+RAQC-ltid1/1825945581.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945591--QHGPD-ltid1/1825945591.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945601--9MRNK-ltid1/1825945601.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945611--ZYWL5-ltid1/1825945611.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945621--ZOELD-ltid1/1825945621.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945631--KE-3X-ltid1/1825945631.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945641--967GO-ltid1/1825945641.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945651--T5OOM-ltid1/1825945651.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945661--ZGHNH-ltid1/1825945661.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945671--OOTUC-ltid1/1825945671.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Bronco</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>126021</id>
-    <title>2026 Ford F-150 STX</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/1FTEX2LP7TKD20575"/>
-    <ns0:id>126021</ns0:id>
-    <ns0:price>48955.00 USD</ns0:price>
-    <ns0:vehicle_msrp>48955.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1FTEX2LP7TKD20575</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>F-150</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/1FTEX2LP7TKD20575?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>STX</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
-    <ns0:body_style>truck</ns0:body_style>
-    <ns0:color>Carbonized Gray Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945711--EEVNE-ltid1/1825945711.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945721--UBGPK-ltid1/1825945721.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945731--KK8FI-ltid1/1825945731.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945741--HAVA5-ltid1/1825945741.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945751--0UOGE-ltid1/1825945751.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945761--ZXAJK-ltid1/1825945761.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945771--W+KGX-ltid1/1825945771.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945781--7AMSO-ltid1/1825945781.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945791--MBCQD-ltid1/1825945791.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945801--GKAA7-ltid1/1825945801.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>F-150</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>125183</id>
-    <title>2025 Ford Bronco Sport Big Bend</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/3FMCR9BN8SRF78460"/>
-    <ns0:id>125183</ns0:id>
-    <ns0:price>33060.00 USD</ns0:price>
-    <ns0:vehicle_msrp>36330.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>3FMCR9BN8SRF78460</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>Bronco Sport</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/3FMCR9BN8SRF78460?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Big Bend</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Desert Sand</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945841--LPXAG-ltid1/1825945841.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945851--VQA3H-ltid1/1825945851.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945861--IQLLN-ltid1/1825945861.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945871--J5FT0-ltid1/1825945871.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945881--RLXWW-ltid1/1825945881.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945891--NAK-F-ltid1/1825945891.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945901--62FEY-ltid1/1825945901.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945911--E6-4K-ltid1/1825945911.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945921--IBUIK-ltid1/1825945921.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945931--ACG3K-ltid1/1825945931.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Bronco Sport</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>126022</id>
-    <title>2026 Ford Maverick XLT</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/3FTTW8JA0TRA24322"/>
-    <ns0:id>126022</ns0:id>
-    <ns0:price>36160.00 USD</ns0:price>
-    <ns0:vehicle_msrp>36160.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>3FTTW8JA0TRA24322</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>Maverick</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/3FTTW8JA0TRA24322?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>XLT</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
-    <ns0:body_style>truck</ns0:body_style>
-    <ns0:color>Ruby Red Metallic Tinted Clearcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945961--SOLG1-ltid1/1825945961.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945971--LKFPW-ltid1/1825945971.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945981--1J73M-ltid1/1825945981.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945991--TLRKT-ltid1/1825945991.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946001--LUBE1-ltid1/1825946001.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946011--JTC0F-ltid1/1825946011.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946021--JTC0F-ltid1/1825946021.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946031--VHQW--ltid1/1825946031.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946041--BVVGW-ltid1/1825946041.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946051--KEYFW-ltid1/1825946051.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Maverick</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>126018</id>
-    <title>2026 Ford Maverick LARIAT</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/3FTTW8S35TRA22484"/>
-    <ns0:id>126018</ns0:id>
-    <ns0:price>41245.00 USD</ns0:price>
-    <ns0:vehicle_msrp>41245.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>3FTTW8S35TRA22484</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>Maverick</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/3FTTW8S35TRA22484?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>LARIAT</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
-    <ns0:body_style>truck</ns0:body_style>
-    <ns0:color>Carbonized Gray Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946081--RNJS3-ltid1/1825946081.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946091--ERKXL-ltid1/1825946091.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946101--ERKXL-ltid1/1825946101.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946111--YNCWO-ltid1/1825946111.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946121--9JPX8-ltid1/1825946121.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946131--FCGKW-ltid1/1825946131.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946141--MQRP6-ltid1/1825946141.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946151--S8J-Q-ltid1/1825946151.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946161--MBNMX-ltid1/1825946161.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946171--MF0RU-ltid1/1825946171.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Maverick</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>124158</id>
-    <title>2024 Ford Super Duty F-350 DRW XL</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/new-2024-ford-chassis-cab-f-350%c2%ae-xl-four-wheel-drive-sd-regular-cab-1fdrf3ht9rda28659/"/>
-    <ns0:id>124158</ns0:id>
-    <ns0:price>73911.00 USD</ns0:price>
-    <ns0:vehicle_msrp>67565.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1FDRF3HT9RDA28659</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2024</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>Super Duty F-350 DRW</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/new-2024-ford-chassis-cab-f-350%c2%ae-xl-four-wheel-drive-sd-regular-cab-1fdrf3ht9rda28659/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>XL</ns0:trim>
-    <ns0:mileage>10 miles</ns0:mileage>
-    <ns0:color>OXFORD WHITE</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556131--CAN9O-ltid1/1771556131.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556141--TK3W4-ltid1/1771556141.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556151--TK3W4-ltid1/1771556151.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556161--TK3W4-ltid1/1771556161.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556171--9QWAO-ltid1/1771556171.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771557541--9QWAO-ltid1/1771557541.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771557551--9QWAO-ltid1/1771557551.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771557561--4IZ1+-ltid1/1771557561.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771557571--4IZ1+-ltid1/1771557571.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771557581--4IZ1+-ltid1/1771557581.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Super Duty F-350 DRW</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>124036</id>
-    <title>2024 Ford Super Duty F-550 DRW XL</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/new-2024-ford-chassis-cab-f-550%c2%ae-xl-rear-wheel-drive-sd-regular-cab-1fduf5gtxrda09643/"/>
-    <ns0:id>124036</ns0:id>
-    <ns0:price>65474.00 USD</ns0:price>
-    <ns0:vehicle_msrp>67545.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1FDUF5GTXRDA09643</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2024</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>Super Duty F-550 DRW</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/new-2024-ford-chassis-cab-f-550%c2%ae-xl-rear-wheel-drive-sd-regular-cab-1fduf5gtxrda09643/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>XL</ns0:trim>
-    <ns0:mileage>77 miles</ns0:mileage>
-    <ns0:color>OXFORD WHITE</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043401--+XRF6-ltid1/1207043401.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043411--GSTZ5-ltid1/1207043411.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043421--GSTZ5-ltid1/1207043421.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043431--LQBYH-ltid1/1207043431.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043441--LQBYH-ltid1/1207043441.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043451--D3WTR-ltid1/1207043451.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043461--D3WTR-ltid1/1207043461.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043471--BMTTQ-ltid1/1207043471.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043481--BMTTQ-ltid1/1207043481.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043491--CTJN4-ltid1/1207043491.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Super Duty F-550 DRW</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>125019</id>
-    <title>2025 Ford Escape PHEV</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/new-2025-ford-escape-plug-in-hybrid-front-wheel-drive-sport-utility-1fmcu0e18sua54771/"/>
-    <ns0:id>125019</ns0:id>
-    <ns0:price>27393.00 USD</ns0:price>
-    <ns0:vehicle_msrp>41050.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1FMCU0E18SUA54771</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>Escape</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/new-2025-ford-escape-plug-in-hybrid-front-wheel-drive-sport-utility-1fmcu0e18sua54771/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>PHEV</ns0:trim>
-    <ns0:mileage>1062 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Star White Metallic Tri-Coat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044261--ESJZX-ltid1/1207044261.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044271--ESJZX-ltid1/1207044271.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044281--J5LRF-ltid1/1207044281.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044291--J5LRF-ltid1/1207044291.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044301--J5LRF-ltid1/1207044301.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044311--KXU1W-ltid1/1207044311.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044321--KXU1W-ltid1/1207044321.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044331--DKLYQ-ltid1/1207044331.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044341--DKLYQ-ltid1/1207044341.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044351--MHDI0-ltid1/1207044351.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Escape</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>125017</id>
-    <title>2025 Ford Escape Active</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/new-2025-ford-escape-active%e2%84%a2-all-wheel-drive-sport-utility-1fmcu9gn0sua49312/"/>
-    <ns0:id>125017</ns0:id>
-    <ns0:price>24763.00 USD</ns0:price>
-    <ns0:vehicle_msrp>32880.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1FMCU9GN0SUA49312</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>Escape</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/new-2025-ford-escape-active%e2%84%a2-all-wheel-drive-sport-utility-1fmcu9gn0sua49312/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Active</ns0:trim>
-    <ns0:mileage>2116 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>OXFORD WHITE</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207045121--M9MLQ-ltid1/1207045121.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207045131--M9MLQ-ltid1/1207045131.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207045141--BELOB-ltid1/1207045141.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207045151--BELOB-ltid1/1207045151.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207045161--IM5KO-ltid1/1207045161.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207045171--IM5KO-ltid1/1207045171.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207045181--IM5KO-ltid1/1207045181.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207045191--IHZCP-ltid1/1207045191.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207045201--IHZCP-ltid1/1207045201.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207045211--ITRKJ-ltid1/1207045211.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Escape</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>125018</id>
-    <title>2025 Ford Escape ST-Line</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/new-2025-ford-escape-st-line-all-wheel-drive-sport-utility-1fmcu9mn2sua50935/"/>
-    <ns0:id>125018</ns0:id>
-    <ns0:price>27232.00 USD</ns0:price>
-    <ns0:vehicle_msrp>34870.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1FMCU9MN2SUA50935</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>Escape</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/new-2025-ford-escape-st-line-all-wheel-drive-sport-utility-1fmcu9mn2sua50935/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>ST-Line</ns0:trim>
-    <ns0:mileage>1610 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Star White Metallic Tri-Coat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039231--ZPWOG-ltid1/1207039231.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039241--VTIB7-ltid1/1207039241.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039251--A0B7C-ltid1/1207039251.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039261--A0B7C-ltid1/1207039261.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039271--A0B7C-ltid1/1207039271.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039281--YWF3B-ltid1/1207039281.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039291--YWF3B-ltid1/1207039291.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039301--MICZR-ltid1/1207039301.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039311--MICZR-ltid1/1207039311.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039321--NO879-ltid1/1207039321.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Escape</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>124089</id>
-    <title>2024 Ford Escape ST-Line</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/new-2024-ford-escape-st-line-all-wheel-drive-sport-utility-1fmcu9mn9rua83568/"/>
-    <ns0:id>124089</ns0:id>
-    <ns0:price>28500.00 USD</ns0:price>
-    <ns0:vehicle_msrp>35395.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1FMCU9MN9RUA83568</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2024</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>Escape</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/new-2024-ford-escape-st-line-all-wheel-drive-sport-utility-1fmcu9mn9rua83568/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>ST-Line</ns0:trim>
-    <ns0:mileage>2310 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Star White Metallic Tri-Coat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039831--75B6+-ltid1/1207039831.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039841--75B6+-ltid1/1207039841.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039851--75B6+-ltid1/1207039851.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039861--75B6+-ltid1/1207039861.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039871--75B6+-ltid1/1207039871.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039881--75B6+-ltid1/1207039881.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039891--75B6+-ltid1/1207039891.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039901--75B6+-ltid1/1207039901.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039911--75B6+-ltid1/1207039911.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039921--75B6+-ltid1/1207039921.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Escape</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>125020</id>
-    <title>2025 Ford F-150 XLT</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/new-2025-ford-f-150-xlt-four-wheel-drive-supercrew-cab-1ftfw3l86skd09457/"/>
-    <ns0:id>125020</ns0:id>
-    <ns0:price>56982.00 USD</ns0:price>
-    <ns0:vehicle_msrp>67795.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1FTFW3L86SKD09457</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>F-150</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/new-2025-ford-f-150-xlt-four-wheel-drive-supercrew-cab-1ftfw3l86skd09457/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>XLT</ns0:trim>
-    <ns0:mileage>1745 miles</ns0:mileage>
-    <ns0:color>OXFORD WHITE</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207056981--U8YXI-ltid1/1207056981.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207056991--U8YXI-ltid1/1207056991.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057001--U8YXI-ltid1/1207057001.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057011--K3R8A-ltid1/1207057011.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057021--K3R8A-ltid1/1207057021.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057031--LB5-W-ltid1/1207057031.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057041--FJ+OU-ltid1/1207057041.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057051--FJ+OU-ltid1/1207057051.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057061--9TPSC-ltid1/1207057061.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057071--9TPSC-ltid1/1207057071.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>F-150</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>125029</id>
-    <title>2025 Ford Explorer ST</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/new-2025-ford-explorer-st-four-wheel-drive-sport-utility-1fmwk8gc4sgb09523/"/>
-    <ns0:id>125029</ns0:id>
-    <ns0:price>52884.00 USD</ns0:price>
-    <ns0:vehicle_msrp>57855.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1FMWK8GC4SGB09523</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>Explorer</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/new-2025-ford-explorer-st-four-wheel-drive-sport-utility-1fmwk8gc4sgb09523/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>ST</ns0:trim>
-    <ns0:mileage>1310 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>CARBONIZED GRAY METALLIC</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207064871--SGRCD-ltid1/1207064871.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207064881--GM-BN-ltid1/1207064881.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207064891--GM-BN-ltid1/1207064891.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207064901--GM-BN-ltid1/1207064901.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207064911--L04X3-ltid1/1207064911.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207064921--L04X3-ltid1/1207064921.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207064931--E0ZX7-ltid1/1207064931.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207064941--E0ZX7-ltid1/1207064941.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207064951--GW+DF-ltid1/1207064951.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207064961--IW6VI-ltid1/1207064961.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Explorer</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>125033</id>
-    <title>2025 Ford Super Duty F-250 SRW LARIAT</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/new-2025-ford-super-duty-f-250%c2%ae-lariat%c2%ae-four-wheel-drive-sd-crew-cab-1ft8w2bt6sec49297/"/>
-    <ns0:id>125033</ns0:id>
-    <ns0:price>73488.00 USD</ns0:price>
-    <ns0:vehicle_msrp>81305.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1FT8W2BT6SEC49297</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>Super Duty F-250 SRW</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/new-2025-ford-super-duty-f-250%c2%ae-lariat%c2%ae-four-wheel-drive-sd-crew-cab-1ft8w2bt6sec49297/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>LARIAT</ns0:trim>
-    <ns0:mileage>19 miles</ns0:mileage>
-    <ns0:color>Agate Black Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228305981--AFCKN-ltid1/1228305981.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228305991--AFCKN-ltid1/1228305991.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207066861--823OK-ltid1/1207066861.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228306001--OVNH+-ltid1/1228306001.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207066881--823OK-ltid1/1207066881.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228306011--OVNH+-ltid1/1228306011.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228306021--NRYTM-ltid1/1228306021.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228306031--NRYTM-ltid1/1228306031.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228306041--MRTXA-ltid1/1228306041.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228306051--MRTXA-ltid1/1228306051.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Super Duty F-250 SRW</ns0:custom_label_0>
-  </entry>
+  <updated>2025-12-01T12:04:11.188860</updated>
   <entry>
     <id>125040</id>
     <title>2025 Ford Transit Cargo Van</title>
@@ -1029,44 +120,6 @@
     <ns0:custom_label_0>Transit Cargo Van</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>125048</id>
-    <title>2025 Ford F-150 XLT</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/new-2025-ford-f-150-xlt-four-wheel-drive-supercrew-cab-1ftfw3l89skd49032/"/>
-    <ns0:id>125048</ns0:id>
-    <ns0:price>52666.00 USD</ns0:price>
-    <ns0:vehicle_msrp>62835.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1FTFW3L89SKD49032</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>F-150</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/new-2025-ford-f-150-xlt-four-wheel-drive-supercrew-cab-1ftfw3l89skd49032/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>XLT</ns0:trim>
-    <ns0:mileage>1611 miles</ns0:mileage>
-    <ns0:color>Rapid Red Metallic Tinted Clearcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1226780901--PIFAH-ltid1/1226780901.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1226780911--PIFAH-ltid1/1226780911.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1226780921--QYZ+F-ltid1/1226780921.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1226780931--1EV-3-ltid1/1226780931.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1226780941--1EV-3-ltid1/1226780941.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1227692561--R97UL-ltid1/1227692561.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1227692571--R97UL-ltid1/1227692571.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1226780971--41KI1-ltid1/1226780971.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1226780981--41KI1-ltid1/1226780981.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1226780991--GKLPG-ltid1/1226780991.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>F-150</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>125052</id>
     <title>2025 Ford Transit Cargo Van</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/new-2025-ford-transit-commercial-cargo-van-rear-wheel-drive-low-roof-van-1ftbf1y83ska32956/"/>
@@ -1103,44 +156,6 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771574371--RS9L6-ltid1/1771574371.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771574541--RS9L6-ltid1/1771574541.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Transit Cargo Van</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>125076</id>
-    <title>2025 Ford F-150 XLT</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/new-2025-ford-f-150-xlt-four-wheel-drive-supercrew-cab-1ftfw3l8xske20853/"/>
-    <ns0:id>125076</ns0:id>
-    <ns0:price>52279.00 USD</ns0:price>
-    <ns0:vehicle_msrp>62390.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1FTFW3L8XSKE20853</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>F-150</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/new-2025-ford-f-150-xlt-four-wheel-drive-supercrew-cab-1ftfw3l8xske20853/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>XLT</ns0:trim>
-    <ns0:mileage>1104 miles</ns0:mileage>
-    <ns0:color>CARBONIZED GRAY METALLIC</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556901--EHIKP-ltid1/1771556901.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556911--EHIKP-ltid1/1771556911.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556921--SXJV9-ltid1/1771556921.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556931--SXJV9-ltid1/1771556931.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556941--SXJV9-ltid1/1771556941.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556951--JIHXM-ltid1/1771556951.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556961--JIHXM-ltid1/1771556961.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556971--JIHXM-ltid1/1771556971.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556981--WWFUW-ltid1/1771556981.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556991--WWFUW-ltid1/1771556991.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>F-150</ns0:custom_label_0>
   </entry>
   <entry>
     <id>125079</id>
@@ -2378,6 +1393,429 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771562221--SS38M-ltid1/1771562221.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771562231--2PVPJ-ltid1/1771562231.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Escape</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>125076</id>
+    <title>2025 Ford F-150 XLT</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/new-2025-ford-f-150-xlt-four-wheel-drive-supercrew-cab-1ftfw3l8xske20853/"/>
+    <ns0:id>125076</ns0:id>
+    <ns0:price>52279.00 USD</ns0:price>
+    <ns0:vehicle_msrp>62390.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1FTFW3L8XSKE20853</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>F-150</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/new-2025-ford-f-150-xlt-four-wheel-drive-supercrew-cab-1ftfw3l8xske20853/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>XLT</ns0:trim>
+    <ns0:mileage>1104 miles</ns0:mileage>
+    <ns0:color>CARBONIZED GRAY METALLIC</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556901--EHIKP-ltid1/1771556901.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556911--EHIKP-ltid1/1771556911.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556921--SXJV9-ltid1/1771556921.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556931--SXJV9-ltid1/1771556931.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556941--SXJV9-ltid1/1771556941.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556951--JIHXM-ltid1/1771556951.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556961--JIHXM-ltid1/1771556961.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556971--JIHXM-ltid1/1771556971.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556981--WWFUW-ltid1/1771556981.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556991--WWFUW-ltid1/1771556991.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>F-150</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>125048</id>
+    <title>2025 Ford F-150 XLT</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/new-2025-ford-f-150-xlt-four-wheel-drive-supercrew-cab-1ftfw3l89skd49032/"/>
+    <ns0:id>125048</ns0:id>
+    <ns0:price>52666.00 USD</ns0:price>
+    <ns0:vehicle_msrp>62835.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1FTFW3L89SKD49032</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>F-150</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/new-2025-ford-f-150-xlt-four-wheel-drive-supercrew-cab-1ftfw3l89skd49032/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>XLT</ns0:trim>
+    <ns0:mileage>1611 miles</ns0:mileage>
+    <ns0:color>Rapid Red Metallic Tinted Clearcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1226780901--PIFAH-ltid1/1226780901.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1226780911--PIFAH-ltid1/1226780911.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1226780921--QYZ+F-ltid1/1226780921.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1226780931--1EV-3-ltid1/1226780931.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1226780941--1EV-3-ltid1/1226780941.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1227692561--R97UL-ltid1/1227692561.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1227692571--R97UL-ltid1/1227692571.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1226780971--41KI1-ltid1/1226780971.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1226780981--41KI1-ltid1/1226780981.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1226780991--GKLPG-ltid1/1226780991.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>F-150</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>125033</id>
+    <title>2025 Ford Super Duty F-250 SRW LARIAT</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/new-2025-ford-super-duty-f-250%c2%ae-lariat%c2%ae-four-wheel-drive-sd-crew-cab-1ft8w2bt6sec49297/"/>
+    <ns0:id>125033</ns0:id>
+    <ns0:price>73488.00 USD</ns0:price>
+    <ns0:vehicle_msrp>81305.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1FT8W2BT6SEC49297</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>Super Duty F-250 SRW</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/new-2025-ford-super-duty-f-250%c2%ae-lariat%c2%ae-four-wheel-drive-sd-crew-cab-1ft8w2bt6sec49297/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>LARIAT</ns0:trim>
+    <ns0:mileage>19 miles</ns0:mileage>
+    <ns0:color>Agate Black Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228305981--AFCKN-ltid1/1228305981.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228305991--AFCKN-ltid1/1228305991.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207066861--823OK-ltid1/1207066861.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228306001--OVNH+-ltid1/1228306001.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207066881--823OK-ltid1/1207066881.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228306011--OVNH+-ltid1/1228306011.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228306021--NRYTM-ltid1/1228306021.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228306031--NRYTM-ltid1/1228306031.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228306041--MRTXA-ltid1/1228306041.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228306051--MRTXA-ltid1/1228306051.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Super Duty F-250 SRW</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>125029</id>
+    <title>2025 Ford Explorer ST</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/new-2025-ford-explorer-st-four-wheel-drive-sport-utility-1fmwk8gc4sgb09523/"/>
+    <ns0:id>125029</ns0:id>
+    <ns0:price>52884.00 USD</ns0:price>
+    <ns0:vehicle_msrp>57855.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1FMWK8GC4SGB09523</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>Explorer</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/new-2025-ford-explorer-st-four-wheel-drive-sport-utility-1fmwk8gc4sgb09523/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>ST</ns0:trim>
+    <ns0:mileage>1310 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>CARBONIZED GRAY METALLIC</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207064871--SGRCD-ltid1/1207064871.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207064881--GM-BN-ltid1/1207064881.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207064891--GM-BN-ltid1/1207064891.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207064901--GM-BN-ltid1/1207064901.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207064911--L04X3-ltid1/1207064911.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207064921--L04X3-ltid1/1207064921.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207064931--E0ZX7-ltid1/1207064931.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207064941--E0ZX7-ltid1/1207064941.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207064951--GW+DF-ltid1/1207064951.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207064961--IW6VI-ltid1/1207064961.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Explorer</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>125020</id>
+    <title>2025 Ford F-150 XLT</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/new-2025-ford-f-150-xlt-four-wheel-drive-supercrew-cab-1ftfw3l86skd09457/"/>
+    <ns0:id>125020</ns0:id>
+    <ns0:price>56982.00 USD</ns0:price>
+    <ns0:vehicle_msrp>67795.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1FTFW3L86SKD09457</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>F-150</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/new-2025-ford-f-150-xlt-four-wheel-drive-supercrew-cab-1ftfw3l86skd09457/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>XLT</ns0:trim>
+    <ns0:mileage>1745 miles</ns0:mileage>
+    <ns0:color>OXFORD WHITE</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207056981--U8YXI-ltid1/1207056981.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207056991--U8YXI-ltid1/1207056991.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057001--U8YXI-ltid1/1207057001.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057011--K3R8A-ltid1/1207057011.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057021--K3R8A-ltid1/1207057021.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057031--LB5-W-ltid1/1207057031.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057041--FJ+OU-ltid1/1207057041.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057051--FJ+OU-ltid1/1207057051.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057061--9TPSC-ltid1/1207057061.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057071--9TPSC-ltid1/1207057071.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>F-150</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>124089</id>
+    <title>2024 Ford Escape ST-Line</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/new-2024-ford-escape-st-line-all-wheel-drive-sport-utility-1fmcu9mn9rua83568/"/>
+    <ns0:id>124089</ns0:id>
+    <ns0:price>28500.00 USD</ns0:price>
+    <ns0:vehicle_msrp>35395.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1FMCU9MN9RUA83568</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2024</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>Escape</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/new-2024-ford-escape-st-line-all-wheel-drive-sport-utility-1fmcu9mn9rua83568/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>ST-Line</ns0:trim>
+    <ns0:mileage>2310 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Star White Metallic Tri-Coat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039831--75B6+-ltid1/1207039831.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039841--75B6+-ltid1/1207039841.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039851--75B6+-ltid1/1207039851.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039861--75B6+-ltid1/1207039861.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039871--75B6+-ltid1/1207039871.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039881--75B6+-ltid1/1207039881.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039891--75B6+-ltid1/1207039891.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039901--75B6+-ltid1/1207039901.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039911--75B6+-ltid1/1207039911.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039921--75B6+-ltid1/1207039921.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Escape</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>125018</id>
+    <title>2025 Ford Escape ST-Line</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/new-2025-ford-escape-st-line-all-wheel-drive-sport-utility-1fmcu9mn2sua50935/"/>
+    <ns0:id>125018</ns0:id>
+    <ns0:price>27232.00 USD</ns0:price>
+    <ns0:vehicle_msrp>34870.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1FMCU9MN2SUA50935</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>Escape</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/new-2025-ford-escape-st-line-all-wheel-drive-sport-utility-1fmcu9mn2sua50935/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>ST-Line</ns0:trim>
+    <ns0:mileage>1610 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Star White Metallic Tri-Coat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039231--ZPWOG-ltid1/1207039231.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039241--VTIB7-ltid1/1207039241.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039251--A0B7C-ltid1/1207039251.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039261--A0B7C-ltid1/1207039261.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039271--A0B7C-ltid1/1207039271.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039281--YWF3B-ltid1/1207039281.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039291--YWF3B-ltid1/1207039291.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039301--MICZR-ltid1/1207039301.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039311--MICZR-ltid1/1207039311.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039321--NO879-ltid1/1207039321.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Escape</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>125017</id>
+    <title>2025 Ford Escape Active</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/new-2025-ford-escape-active%e2%84%a2-all-wheel-drive-sport-utility-1fmcu9gn0sua49312/"/>
+    <ns0:id>125017</ns0:id>
+    <ns0:price>24763.00 USD</ns0:price>
+    <ns0:vehicle_msrp>32880.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1FMCU9GN0SUA49312</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>Escape</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/new-2025-ford-escape-active%e2%84%a2-all-wheel-drive-sport-utility-1fmcu9gn0sua49312/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Active</ns0:trim>
+    <ns0:mileage>2116 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>OXFORD WHITE</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207045121--M9MLQ-ltid1/1207045121.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207045131--M9MLQ-ltid1/1207045131.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207045141--BELOB-ltid1/1207045141.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207045151--BELOB-ltid1/1207045151.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207045161--IM5KO-ltid1/1207045161.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207045171--IM5KO-ltid1/1207045171.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207045181--IM5KO-ltid1/1207045181.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207045191--IHZCP-ltid1/1207045191.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207045201--IHZCP-ltid1/1207045201.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207045211--ITRKJ-ltid1/1207045211.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Escape</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>125019</id>
+    <title>2025 Ford Escape PHEV</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/new-2025-ford-escape-plug-in-hybrid-front-wheel-drive-sport-utility-1fmcu0e18sua54771/"/>
+    <ns0:id>125019</ns0:id>
+    <ns0:price>27393.00 USD</ns0:price>
+    <ns0:vehicle_msrp>41050.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1FMCU0E18SUA54771</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>Escape</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/new-2025-ford-escape-plug-in-hybrid-front-wheel-drive-sport-utility-1fmcu0e18sua54771/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>PHEV</ns0:trim>
+    <ns0:mileage>1062 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Star White Metallic Tri-Coat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044261--ESJZX-ltid1/1207044261.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044271--ESJZX-ltid1/1207044271.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044281--J5LRF-ltid1/1207044281.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044291--J5LRF-ltid1/1207044291.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044301--J5LRF-ltid1/1207044301.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044311--KXU1W-ltid1/1207044311.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044321--KXU1W-ltid1/1207044321.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044331--DKLYQ-ltid1/1207044331.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044341--DKLYQ-ltid1/1207044341.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044351--MHDI0-ltid1/1207044351.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Escape</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>124036</id>
+    <title>2024 Ford Super Duty F-550 DRW XL</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/new-2024-ford-chassis-cab-f-550%c2%ae-xl-rear-wheel-drive-sd-regular-cab-1fduf5gtxrda09643/"/>
+    <ns0:id>124036</ns0:id>
+    <ns0:price>65474.00 USD</ns0:price>
+    <ns0:vehicle_msrp>67545.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1FDUF5GTXRDA09643</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2024</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>Super Duty F-550 DRW</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/new-2024-ford-chassis-cab-f-550%c2%ae-xl-rear-wheel-drive-sd-regular-cab-1fduf5gtxrda09643/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>XL</ns0:trim>
+    <ns0:mileage>77 miles</ns0:mileage>
+    <ns0:color>OXFORD WHITE</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043401--+XRF6-ltid1/1207043401.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043411--GSTZ5-ltid1/1207043411.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043421--GSTZ5-ltid1/1207043421.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043431--LQBYH-ltid1/1207043431.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043441--LQBYH-ltid1/1207043441.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043451--D3WTR-ltid1/1207043451.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043461--D3WTR-ltid1/1207043461.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043471--BMTTQ-ltid1/1207043471.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043481--BMTTQ-ltid1/1207043481.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043491--CTJN4-ltid1/1207043491.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Super Duty F-550 DRW</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>124158</id>
+    <title>2024 Ford Super Duty F-350 DRW XL</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/new-2024-ford-chassis-cab-f-350%c2%ae-xl-four-wheel-drive-sd-regular-cab-1fdrf3ht9rda28659/"/>
+    <ns0:id>124158</ns0:id>
+    <ns0:price>73911.00 USD</ns0:price>
+    <ns0:vehicle_msrp>67565.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1FDRF3HT9RDA28659</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2024</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>Super Duty F-350 DRW</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/new-2024-ford-chassis-cab-f-350%c2%ae-xl-four-wheel-drive-sd-regular-cab-1fdrf3ht9rda28659/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>XL</ns0:trim>
+    <ns0:mileage>10 miles</ns0:mileage>
+    <ns0:color>OXFORD WHITE</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556131--CAN9O-ltid1/1771556131.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556141--TK3W4-ltid1/1771556141.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556151--TK3W4-ltid1/1771556151.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556161--TK3W4-ltid1/1771556161.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771556171--9QWAO-ltid1/1771556171.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771557541--9QWAO-ltid1/1771557541.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771557551--9QWAO-ltid1/1771557551.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771557561--4IZ1+-ltid1/1771557561.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771557571--4IZ1+-ltid1/1771557571.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771557581--4IZ1+-ltid1/1771557581.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Super Duty F-350 DRW</ns0:custom_label_0>
   </entry>
   <entry>
     <id>126005</id>
@@ -4664,5 +4102,567 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1824551191--H5SLY-ltid1/1824551191.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1824551201--H5SLY-ltid1/1824551201.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Ranger</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>126017</id>
+    <title>2026 Ford F-150 STX</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/1FTEX2LP3TKD19911"/>
+    <ns0:id>126017</ns0:id>
+    <ns0:price>48955.00 USD</ns0:price>
+    <ns0:vehicle_msrp>48955.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1FTEX2LP3TKD19911</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>F-150</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/1FTEX2LP3TKD19911?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>STX</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>Agate Black Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808224021--AIXHK-ltid1/1808224021.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808224031--AIXHK-ltid1/1808224031.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808224041--JWCJK-ltid1/1808224041.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808224051--CWE-Y-ltid1/1808224051.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808224061--MFQLP-ltid1/1808224061.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808224071--WHEVW-ltid1/1808224071.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808224081--78FQN-ltid1/1808224081.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808224091--BMYML-ltid1/1808224091.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808224101--BMYML-ltid1/1808224101.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808224111--KLXOR-ltid1/1808224111.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>F-150</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>125180</id>
+    <title>2025 Ford Bronco Sport Outer Banks</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/3FMCR9CN5SRF79032"/>
+    <ns0:id>125180</ns0:id>
+    <ns0:price>36152.00 USD</ns0:price>
+    <ns0:vehicle_msrp>42475.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3FMCR9CN5SRF79032</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>Bronco Sport</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/3FMCR9CN5SRF79032?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Outer Banks</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Ruby Red Metallic Tinted Clearcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223651--L8SHT-ltid1/1808223651.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223661--I-1A4-ltid1/1808223661.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223671--I-1A4-ltid1/1808223671.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223681--PQMNW-ltid1/1808223681.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223691--PQMNW-ltid1/1808223691.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223701--DKJF7-ltid1/1808223701.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223711--WNTH6-ltid1/1808223711.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223721--WNTH6-ltid1/1808223721.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223731--Z8JG1-ltid1/1808223731.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223741--OV3WZ-ltid1/1808223741.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Bronco Sport</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>126016</id>
+    <title>2026 Ford Maverick LARIAT</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/3FTTW8S32TRA16805"/>
+    <ns0:id>126016</ns0:id>
+    <ns0:price>41375.00 USD</ns0:price>
+    <ns0:vehicle_msrp>41375.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3FTTW8S32TRA16805</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>Maverick</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/3FTTW8S32TRA16805?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>LARIAT</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>Azure Gray Metallic Tri-Coat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223781--DF2LH-ltid1/1808223781.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223791--TVNHP-ltid1/1808223791.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223801--TVNHP-ltid1/1808223801.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223811--9M7MW-ltid1/1808223811.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223821--LLP2W-ltid1/1808223821.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223831--4U6I4-ltid1/1808223831.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223841--WWZF7-ltid1/1808223841.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223851--IXA0J-ltid1/1808223851.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223861---YYDR-ltid1/1808223861.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1808223871--OWVAJ-ltid1/1808223871.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Maverick</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>PB0051</id>
+    <title>2018 Ford Taurus SHO</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/used-2018-ford-taurus-sho-all-wheel-drive-4-door-sedan-1fahp2kt0jg136368/"/>
+    <ns0:id>PB0051</ns0:id>
+    <ns0:price>23377.00 USD</ns0:price>
+    <ns0:vin>1FAHP2KT0JG136368</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2018</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>Taurus</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/used-2018-ford-taurus-sho-all-wheel-drive-4-door-sedan-1fahp2kt0jg136368/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SHO</ns0:trim>
+    <ns0:mileage>77891 miles</ns0:mileage>
+    <ns0:body_style>sedan</ns0:body_style>
+    <ns0:color>Magnetic Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1811504161--RORS--ltid2/1811504161.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1811504171--UXKUN-ltid2/1811504171.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1811504181--UXKUN-ltid2/1811504181.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1811504191--B7DAC-ltid2/1811504191.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1811504201--KWZIJ-ltid2/1811504201.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1811504211--KWZIJ-ltid2/1811504211.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1811504221--RBGQL-ltid2/1811504221.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1811504231--85PRD-ltid2/1811504231.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1811504241--FGUI6-ltid2/1811504241.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1811504251--UJIZ0-ltid2/1811504251.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Taurus</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>125181</id>
+    <title>2025 Ford Bronco Sport Outer Banks</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/3FMCR9CN7SRF75368"/>
+    <ns0:id>125181</ns0:id>
+    <ns0:price>35156.00 USD</ns0:price>
+    <ns0:vehicle_msrp>41380.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3FMCR9CN7SRF75368</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>Bronco Sport</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/3FMCR9CN7SRF75368?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Outer Banks</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Eruption Green Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1810520411--NOCWD-ltid1/1810520411.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1810520421--KFQGR-ltid1/1810520421.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1810520431--KFQGR-ltid1/1810520431.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1810520441--GVUMB-ltid1/1810520441.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1810520451--GVUMB-ltid1/1810520451.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1810520461--TQ59I-ltid1/1810520461.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1810520471--+YI-Y-ltid1/1810520471.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1810520481--+YI-Y-ltid1/1810520481.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1810520491--WQKWQ-ltid1/1810520491.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1810520501--RUPJR-ltid1/1810520501.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Bronco Sport</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>125098A</id>
+    <title>2019 Nissan Frontier PRO-4X</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/used-2019-nissan-frontier-pro-4x-four-wheel-drive-4-door-crew-cab-short-bed-truck-1n6ad0ev3kn767891/"/>
+    <ns0:id>125098A</ns0:id>
+    <ns0:price>24221.00 USD</ns0:price>
+    <ns0:vin>1N6AD0EV3KN767891</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Nissan</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2019</ns0:year>
+    <ns0:make>Nissan</ns0:make>
+    <ns0:model>Frontier</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/used-2019-nissan-frontier-pro-4x-four-wheel-drive-4-door-crew-cab-short-bed-truck-1n6ad0ev3kn767891/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>PRO-4X</ns0:trim>
+    <ns0:mileage>54899 miles</ns0:mileage>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>Gun Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1818685061--WRT6H-ltid2/1818685061.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1818685071--TABKO-ltid2/1818685071.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1818685081--S6PBL-ltid2/1818685081.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1818685091--REI2C-ltid2/1818685091.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1818685101--HJVK1-ltid2/1818685101.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1818685111--OEWA--ltid2/1818685111.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1818685121--OEWA--ltid2/1818685121.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1818685131--ZWUEK-ltid2/1818685131.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1818685141--WK+P1-ltid2/1818685141.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1818685151--KFQJC-ltid2/1818685151.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Frontier</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>125182</id>
+    <title>2025 Ford Maverick XLT</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/new-2025-ford-maverick-xlt-all-wheel-drive-supercrew-3fttw8j36srb75889/"/>
+    <ns0:id>125182</ns0:id>
+    <ns0:price>36105.00 USD</ns0:price>
+    <ns0:vehicle_msrp>38410.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3FTTW8J36SRB75889</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>Maverick</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/new-2025-ford-maverick-xlt-all-wheel-drive-supercrew-3fttw8j36srb75889/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>XLT</ns0:trim>
+    <ns0:mileage>200 miles</ns0:mileage>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>Velocity Blue</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1821194621--WMBSL-ltid1/1821194621.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1821194631--OTANL-ltid1/1821194631.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1821194641--QR6CI-ltid1/1821194641.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1821194651--JY0PD-ltid1/1821194651.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1821194661--YDAUW-ltid1/1821194661.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1821194671--YDAUW-ltid1/1821194671.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1821194681--8OY1W-ltid1/1821194681.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1821194691--V75DB-ltid1/1821194691.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1821194701--T7UJZ-ltid1/1821194701.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1821194711--T7UJZ-ltid1/1821194711.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Maverick</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>126020</id>
+    <title>2026 Ford Mustang EcoBoost</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/1FA6P8TH2T5110003"/>
+    <ns0:id>126020</ns0:id>
+    <ns0:price>32881.00 USD</ns0:price>
+    <ns0:vehicle_msrp>34980.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1FA6P8TH2T5110003</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>Mustang</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/1FA6P8TH2T5110003?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>EcoBoost</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:color>Shadow Black</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945461--SM8ZB-ltid1/1825945461.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945471--+P-QT-ltid1/1825945471.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945481--SLG0I-ltid1/1825945481.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945491--AKJEW-ltid1/1825945491.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945501--RFGPV-ltid1/1825945501.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945511--DEB+C-ltid1/1825945511.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945521--2QCHN-ltid1/1825945521.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945531--1DO1G-ltid1/1825945531.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945541--MIQ4C-ltid1/1825945541.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945551--FXN-T-ltid1/1825945551.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Mustang</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>126019</id>
+    <title>2026 Ford Escape ST-Line Select</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/1FMCU9NA5TUA26996"/>
+    <ns0:id>126019</ns0:id>
+    <ns0:price>35661.00 USD</ns0:price>
+    <ns0:vehicle_msrp>38345.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1FMCU9NA5TUA26996</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>Escape</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/1FMCU9NA5TUA26996?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>ST-Line Select</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>vapor blue metallic</ns0:color>
+    <ns0:custom_label_0>Escape</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>126023</id>
+    <title>2026 Ford Escape ST-Line Select</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/1FMCU9NA8TUA36860"/>
+    <ns0:id>126023</ns0:id>
+    <ns0:price>40120.00 USD</ns0:price>
+    <ns0:vehicle_msrp>43140.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1FMCU9NA8TUA36860</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>Escape</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/1FMCU9NA8TUA36860?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>ST-Line Select</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>rapid red metallic tinted clearcoat</ns0:color>
+    <ns0:custom_label_0>Escape</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>125184</id>
+    <title>2025 Ford Bronco Badlands</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/1FMEE9BP0SLB77280"/>
+    <ns0:id>125184</ns0:id>
+    <ns0:price>57436.00 USD</ns0:price>
+    <ns0:vehicle_msrp>62430.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1FMEE9BP0SLB77280</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>Bronco</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/1FMEE9BP0SLB77280?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Badlands</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Carbonized Gray Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945581--+RAQC-ltid1/1825945581.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945591--QHGPD-ltid1/1825945591.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945601--9MRNK-ltid1/1825945601.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945611--ZYWL5-ltid1/1825945611.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945621--ZOELD-ltid1/1825945621.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945631--KE-3X-ltid1/1825945631.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945641--967GO-ltid1/1825945641.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945651--T5OOM-ltid1/1825945651.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945661--ZGHNH-ltid1/1825945661.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945671--OOTUC-ltid1/1825945671.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Bronco</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>126021</id>
+    <title>2026 Ford F-150 STX</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/1FTEX2LP7TKD20575"/>
+    <ns0:id>126021</ns0:id>
+    <ns0:price>48955.00 USD</ns0:price>
+    <ns0:vehicle_msrp>48955.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1FTEX2LP7TKD20575</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>F-150</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/1FTEX2LP7TKD20575?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>STX</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>Carbonized Gray Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945711--EEVNE-ltid1/1825945711.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945721--UBGPK-ltid1/1825945721.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945731--KK8FI-ltid1/1825945731.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945741--HAVA5-ltid1/1825945741.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945751--0UOGE-ltid1/1825945751.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945761--ZXAJK-ltid1/1825945761.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945771--W+KGX-ltid1/1825945771.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945781--7AMSO-ltid1/1825945781.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945791--MBCQD-ltid1/1825945791.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945801--GKAA7-ltid1/1825945801.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>F-150</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>125183</id>
+    <title>2025 Ford Bronco Sport Big Bend</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/3FMCR9BN8SRF78460"/>
+    <ns0:id>125183</ns0:id>
+    <ns0:price>33060.00 USD</ns0:price>
+    <ns0:vehicle_msrp>36330.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3FMCR9BN8SRF78460</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>Bronco Sport</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/3FMCR9BN8SRF78460?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Big Bend</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Desert Sand</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945841--LPXAG-ltid1/1825945841.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945851--VQA3H-ltid1/1825945851.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945861--IQLLN-ltid1/1825945861.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945871--J5FT0-ltid1/1825945871.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945881--RLXWW-ltid1/1825945881.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945891--NAK-F-ltid1/1825945891.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945901--62FEY-ltid1/1825945901.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945911--E6-4K-ltid1/1825945911.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945921--IBUIK-ltid1/1825945921.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945931--ACG3K-ltid1/1825945931.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Bronco Sport</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>126022</id>
+    <title>2026 Ford Maverick XLT</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/3FTTW8JA0TRA24322"/>
+    <ns0:id>126022</ns0:id>
+    <ns0:price>36160.00 USD</ns0:price>
+    <ns0:vehicle_msrp>36160.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3FTTW8JA0TRA24322</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>Maverick</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/3FTTW8JA0TRA24322?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>XLT</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>Ruby Red Metallic Tinted Clearcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945961--SOLG1-ltid1/1825945961.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945971--LKFPW-ltid1/1825945971.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945981--1J73M-ltid1/1825945981.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945991--TLRKT-ltid1/1825945991.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946001--LUBE1-ltid1/1825946001.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946011--JTC0F-ltid1/1825946011.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946021--JTC0F-ltid1/1825946021.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946031--VHQW--ltid1/1825946031.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946041--BVVGW-ltid1/1825946041.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946051--KEYFW-ltid1/1825946051.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Maverick</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>126018</id>
+    <title>2026 Ford Maverick LARIAT</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/3FTTW8S35TRA22484"/>
+    <ns0:id>126018</ns0:id>
+    <ns0:price>41245.00 USD</ns0:price>
+    <ns0:vehicle_msrp>41245.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3FTTW8S35TRA22484</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>Maverick</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/3FTTW8S35TRA22484?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>LARIAT</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>Carbonized Gray Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946081--RNJS3-ltid1/1825946081.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946091--ERKXL-ltid1/1825946091.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946101--ERKXL-ltid1/1825946101.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946111--YNCWO-ltid1/1825946111.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946121--9JPX8-ltid1/1825946121.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946131--FCGKW-ltid1/1825946131.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946141--MQRP6-ltid1/1825946141.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946151--S8J-Q-ltid1/1825946151.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946161--MBNMX-ltid1/1825946161.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946171--MF0RU-ltid1/1825946171.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Maverick</ns0:custom_label_0>
   </entry>
 </feed>
