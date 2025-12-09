@@ -1,79 +1,6 @@
 <?xml version="1.0" ?>
 <listings>
   <listing>
-    <vehicle_id>T24038</vehicle_id>
-    <title>2024 GMC HUMMER EV SUV 3X</title>
-    <description>2024 GMC HUMMER EV SUV. Trim: 3X. Color: Moonshot Green Matte. Body Style: Sport Utility Vehicle.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2024</year>
-    <make>GMC</make>
-    <model>HUMMER EV SUV</model>
-    <vin>1gkb0rdc7ru102181</vin>
-    <content_ids>1gkb0rdc7ru102181</content_ids>
-    <availability>in stock</availability>
-    <price>96180.00 USD</price>
-    <url>https://www.downtownbuickgmc.com/inventory/new-2024-gmc-hummer-ev-suv-3x-four-wheel-drive-suv-1gkb0rdc7ru102181/</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>1788</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>3X</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Moonshot Green Matte</exterior_color>
-    <interior_color>Lunar Shadow (Jet Black/Taupe)</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771673961--S1TH8-ltid1/1771673961.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771673971--S1TH8-ltid1/1771673971.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771673981--LBDHL-ltid1/1771673981.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771673991--LBDHL-ltid1/1771673991.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674001--BOFDU-ltid1/1771674001.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674011--BOFDU-ltid1/1771674011.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674021--WJCBK-ltid1/1771674021.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674031--WJCBK-ltid1/1771674031.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674041--IGEWV-ltid1/1771674041.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674051--IGEWV-ltid1/1771674051.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674061--9QN0F-ltid1/1771674061.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674071--9QN0F-ltid1/1771674071.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674081--9QN0F-ltid1/1771674081.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674091--EZTG4-ltid1/1771674091.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>T25000</vehicle_id>
     <title>2025 GMC HUMMER EV Pickup 3X</title>
     <description>2025 GMC HUMMER EV Pickup. Trim: 3X. Color: Meteorite Metallic (Grey). Body Style: Crew Cab Pickup.</description>
@@ -579,79 +506,6 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771675491--HPP8K-ltid1/1771675491.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>B25216</vehicle_id>
-    <title>2025 Buick Envista Preferred</title>
-    <description>2025 Buick Envista. Trim: Preferred. Color: Ocean Blue Metallic. Body Style: Sport Utility Vehicle.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2025</year>
-    <make>Buick</make>
-    <model>Envista</model>
-    <vin>kl47laep7sb230055</vin>
-    <content_ids>kl47laep7sb230055</content_ids>
-    <availability>in stock</availability>
-    <price>23131.00 USD</price>
-    <url>https://www.downtownbuickgmc.com/inventory/new-2025-buick-envista-preferred-front-wheel-drive-suv-kl47laep7sb230055/</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>3</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Preferred</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Ocean Blue Metallic</exterior_color>
-    <interior_color>Ebony seats and interior</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677881--RS9L6-ltid1/1771677881.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677891--RX38C-ltid1/1771677891.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677901--RX38C-ltid1/1771677901.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677911--RX38C-ltid1/1771677911.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677921--DUBXO-ltid1/1771677921.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677931--DUBXO-ltid1/1771677931.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677941--DUBXO-ltid1/1771677941.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677951--4QGSO-ltid1/1771677951.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677961--4QGSO-ltid1/1771677961.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677971--4QGSO-ltid1/1771677971.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677981--I2M-3-ltid1/1771677981.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677991--I2M-3-ltid1/1771677991.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771678001--I2M-3-ltid1/1771678001.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771678011--NNPUN-ltid1/1771678011.jpg</url>
     </image>
   </listing>
   <listing>
@@ -2947,6 +2801,79 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1841347941--VDNXE-ltid1/1841347941.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>T24038</vehicle_id>
+    <title>2024 GMC HUMMER EV SUV 3X</title>
+    <description>2024 GMC HUMMER EV SUV. Trim: 3X. Color: Moonshot Green Matte. Body Style: Sport Utility Vehicle.</description>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2024</year>
+    <make>GMC</make>
+    <model>HUMMER EV SUV</model>
+    <vin>1gkb0rdc7ru102181</vin>
+    <content_ids>1gkb0rdc7ru102181</content_ids>
+    <availability>in stock</availability>
+    <price>96180.00 USD</price>
+    <url>https://www.downtownbuickgmc.com/inventory/new-2024-gmc-hummer-ev-suv-3x-four-wheel-drive-suv-1gkb0rdc7ru102181/</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>1788</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>3X</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Moonshot Green Matte</exterior_color>
+    <interior_color>Lunar Shadow (Jet Black/Taupe)</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771673961--S1TH8-ltid1/1771673961.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771673971--S1TH8-ltid1/1771673971.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771673981--LBDHL-ltid1/1771673981.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771673991--LBDHL-ltid1/1771673991.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674001--BOFDU-ltid1/1771674001.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674011--BOFDU-ltid1/1771674011.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674021--WJCBK-ltid1/1771674021.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674031--WJCBK-ltid1/1771674031.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674041--IGEWV-ltid1/1771674041.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674051--IGEWV-ltid1/1771674051.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674061--9QN0F-ltid1/1771674061.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674071--9QN0F-ltid1/1771674071.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674081--9QN0F-ltid1/1771674081.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674091--EZTG4-ltid1/1771674091.jpg</url>
     </image>
   </listing>
 </listings>
