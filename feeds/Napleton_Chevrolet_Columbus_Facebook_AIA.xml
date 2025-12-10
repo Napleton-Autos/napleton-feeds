@@ -232,7 +232,7 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
     <mileage>
-      <value>4</value>
+      <value>8</value>
       <unit>MI</unit>
     </mileage>
     <trim>RST</trim>
@@ -2806,97 +2806,6 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>PB1048</vehicle_id>
-    <title>2024 Mitsubishi Outlander SE</title>
-    <description>2024 Mitsubishi Outlander. Trim: SE. Color: Cosmic Blue Metallic. Body Style: S-AWC.</description>
-    <address format="simple">
-      <component name="addr1">800 Maple Avenue</component>
-      <component name="city">Columbus</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53925</component>
-    </address>
-    <year>2024</year>
-    <make>Mitsubishi</make>
-    <model>Outlander</model>
-    <vin>ja4j4va81rz059832</vin>
-    <content_ids>ja4j4va81rz059832</content_ids>
-    <availability>in stock</availability>
-    <price>23438.00 USD</price>
-    <url>https://www.napletonchevycolumbus.com/inventory/used-2024-mitsubishi-outlander-se-four-wheel-drive-suv-ja4j4va81rz059832/</url>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <condition>used</condition>
-    <mileage>
-      <value>28194</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>SE</trim>
-    <body_style>OTHER</body_style>
-    <exterior_color>Cosmic Blue Metallic</exterior_color>
-    <interior_color>Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416841--U-CFS-ltid2/1782416841.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416851--JSB6D-ltid2/1782416851.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416861--JSB6D-ltid2/1782416861.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416871--JT1VE-ltid2/1782416871.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416881--PWSEJ-ltid2/1782416881.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416891--DGLAT-ltid2/1782416891.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416901--DGLAT-ltid2/1782416901.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416911--GE2RW-ltid2/1782416911.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416921--GTFJ6-ltid2/1782416921.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416931--KWMQZ-ltid2/1782416931.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416581--M+XOB-ltid2/1782416581.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416591---07AN-ltid2/1782416591.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416601--PQUO4-ltid2/1782416601.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416611--Y+DI9-ltid2/1782416611.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416621--Y+DI9-ltid2/1782416621.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416631--AJY46-ltid2/1782416631.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416641--RNMUB-ltid2/1782416641.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416651--U8ZBD-ltid2/1782416651.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416661--U8ZBD-ltid2/1782416661.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416671--HKQOE-ltid2/1782416671.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>PB1049</vehicle_id>
     <title>2023 Hyundai Kona SEL</title>
     <description>2023 Hyundai Kona. Trim: SEL. Color: Lunar White. Body Style: Sport Utility.</description>
@@ -4183,6 +4092,97 @@
     </image>
   </listing>
   <listing>
+    <vehicle_id>P4131A</vehicle_id>
+    <title>2015 Ford Focus SE</title>
+    <description>2015 Ford Focus. Trim: SE. Color: Tuxedo Black. Body Style: Sedan.</description>
+    <address format="simple">
+      <component name="addr1">800 Maple Avenue</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
+    <year>2015</year>
+    <make>Ford</make>
+    <model>Focus</model>
+    <vin>1fadp3f2xfl264668</vin>
+    <content_ids>1fadp3f2xfl264668</content_ids>
+    <availability>in stock</availability>
+    <price>6984.00 USD</price>
+    <url>https://www.napletonchevycolumbus.com/inventory/used-2015-ford-focus-se-front-wheel-drive-sedan-4-dr-1fadp3f2xfl264668/</url>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <condition>used</condition>
+    <mileage>
+      <value>165057</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>SE</trim>
+    <body_style>SEDAN</body_style>
+    <exterior_color>Tuxedo Black</exterior_color>
+    <interior_color>Medium Light Stone</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824018141--QJDEO-ltid2/1824018141.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824018151--+TC15-ltid2/1824018151.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824018161--BMZ11-ltid2/1824018161.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824018171--BMZ11-ltid2/1824018171.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824018181--EGUKE-ltid2/1824018181.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824018191--BDGWW-ltid2/1824018191.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824018201--LLIJ8-ltid2/1824018201.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824018211--LLIJ8-ltid2/1824018211.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824018221--S3XAW-ltid2/1824018221.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824018231--4EGBX-ltid2/1824018231.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824018241--1+I0F-ltid2/1824018241.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824018251--1+I0F-ltid2/1824018251.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824018261--WM8OE-ltid2/1824018261.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824018271--WM8OE-ltid2/1824018271.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824017931---CXA4-ltid2/1824017931.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824017941--W9U+G-ltid2/1824017941.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824017951--QOMW0-ltid2/1824017951.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824017961--OUJ6V-ltid2/1824017961.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824017971--OUJ6V-ltid2/1824017971.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824017981--NMA88-ltid2/1824017981.jpg</url>
+    </image>
+  </listing>
+  <listing>
     <vehicle_id>126077</vehicle_id>
     <title>2026 Chevrolet Silverado 1500 LT Trail Boss</title>
     <description>2026 Chevrolet Silverado 1500. Trim: LT Trail Boss. Color: Cypress Gray. Body Style: Crew Cab Pickup.</description>
@@ -4204,7 +4204,7 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
     <mileage>
-      <value>5</value>
+      <value>3</value>
       <unit>MI</unit>
     </mileage>
     <trim>LT Trail Boss</trim>
@@ -4311,6 +4311,97 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840659061--QDYQW-ltid2/1840659061.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>126073A</vehicle_id>
+    <title>2022 Ford Escape SEL</title>
+    <description>2022 Ford Escape. Trim: SEL. Color: Agate Black Metallic. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">800 Maple Avenue</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
+    <year>2022</year>
+    <make>Ford</make>
+    <model>Escape</model>
+    <vin>1fmcu9h95nua28235</vin>
+    <content_ids>1fmcu9h95nua28235</content_ids>
+    <availability>in stock</availability>
+    <price>22476.00 USD</price>
+    <url>https://www.napletonchevycolumbus.com/inventory/used-2022-ford-escape-sel-all-wheel-drive-suv-1fmcu9h95nua28235/</url>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <condition>used</condition>
+    <mileage>
+      <value>34334</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>SEL</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Agate Black Metallic</exterior_color>
+    <interior_color>Ebony</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167481--BRKHE-ltid2/1840167481.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167491--8QY11-ltid2/1840167491.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167501--7VVRI-ltid2/1840167501.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167511--7VVRI-ltid2/1840167511.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167521--22X4Y-ltid2/1840167521.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167531--UMBGY-ltid2/1840167531.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167541--KE0W7-ltid2/1840167541.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167551--KE0W7-ltid2/1840167551.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167561--QU1OH-ltid2/1840167561.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167571--1ARCC-ltid2/1840167571.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167581--8GNWW-ltid2/1840167581.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167591--8GNWW-ltid2/1840167591.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167601--WVYJZ-ltid2/1840167601.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167611--W0SU2-ltid2/1840167611.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167621--5TDGO-ltid2/1840167621.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167631--OJSKE-ltid2/1840167631.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167641--OJSKE-ltid2/1840167641.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167311--YR2LU-ltid2/1840167311.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167321--CCZ7Q-ltid2/1840167321.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167331--CCZ7Q-ltid2/1840167331.jpg</url>
     </image>
   </listing>
   <listing>
@@ -4635,6 +4726,46 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840056251--J4J3K-ltid1/1840056251.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>126086</vehicle_id>
+    <title>2026 Chevrolet Trax LS</title>
+    <description>2026 Chevrolet Trax. Trim: LS. Color: Mosaic Black Metallic. Body Style: Sport Utility Vehicle.</description>
+    <address format="simple">
+      <component name="addr1">800 Maple Avenue</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
+    <year>2026</year>
+    <make>Chevrolet</make>
+    <model>Trax</model>
+    <vin>kl77lfep7tc025153</vin>
+    <content_ids>kl77lfep7tc025153</content_ids>
+    <availability>in stock</availability>
+    <price>24925.00 USD</price>
+    <url>https://www.napletonchevycolumbus.com/inventory/details/KL77LFEP7TC025153</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>200</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>LS</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Mosaic Black Metallic</exterior_color>
+    <interior_color>Jet Black/Gray with Blue accents</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1851522901--JPU6J-ltid1/1851522901.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1851522911--JPU6J-ltid1/1851522911.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1851522921--JPU6J-ltid1/1851522921.jpg</url>
     </image>
   </listing>
 </listings>

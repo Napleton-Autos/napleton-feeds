@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Chevrolet Columbus Inventory Feed</title>
   <link href="https://www.napletonchevycolumbus.com" rel="self"/>
-  <updated>2025-12-10T08:03:03.059998</updated>
+  <updated>2025-12-10T12:04:20.216066</updated>
   <entry>
     <id>125097</id>
     <title>2025 Chevrolet BrightDrop 400 EAWD 400</title>
@@ -144,7 +144,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/new-2025-chevrolet-silverado-ev-rst-max-range-four-wheel-drive-crew-cab-1gc402elxsu414012/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>RST</ns0:trim>
-    <ns0:mileage>4 miles</ns0:mileage>
+    <ns0:mileage>8 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Black</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771650901--1CELY-ltid1/1771650901.jpg</ns0:image_link>
@@ -1354,43 +1354,6 @@
     <ns0:custom_label_0>Silverado 2500HD</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>PB1048</id>
-    <title>2024 Mitsubishi Outlander SE</title>
-    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/used-2024-mitsubishi-outlander-se-four-wheel-drive-suv-ja4j4va81rz059832/"/>
-    <ns0:id>PB1048</ns0:id>
-    <ns0:price>23438.00 USD</ns0:price>
-    <ns0:vin>JA4J4VA81RZ059832</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Mitsubishi</ns0:brand>
-    <ns0:store_code>1647799517431806713</ns0:store_code>
-    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
-    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>1647799517431806713</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2024</ns0:year>
-    <ns0:make>Mitsubishi</ns0:make>
-    <ns0:model>Outlander</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/used-2024-mitsubishi-outlander-se-four-wheel-drive-suv-ja4j4va81rz059832/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>SE</ns0:trim>
-    <ns0:mileage>28194 miles</ns0:mileage>
-    <ns0:color>Cosmic Blue Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416841--U-CFS-ltid2/1782416841.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416851--JSB6D-ltid2/1782416851.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416861--JSB6D-ltid2/1782416861.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416871--JT1VE-ltid2/1782416871.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416881--PWSEJ-ltid2/1782416881.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416891--DGLAT-ltid2/1782416891.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416901--DGLAT-ltid2/1782416901.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416911--GE2RW-ltid2/1782416911.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416921--GTFJ6-ltid2/1782416921.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1782416931--KWMQZ-ltid2/1782416931.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Outlander</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>PB1049</id>
     <title>2023 Hyundai Kona SEL</title>
     <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/used-2023-hyundai-kona-sel-all-wheel-drive-utility-km8k6cab8pu054850/"/>
@@ -2036,6 +1999,44 @@
     <ns0:custom_label_0>Silverado 2500HD</ns0:custom_label_0>
   </entry>
   <entry>
+    <id>P4131A</id>
+    <title>2015 Ford Focus SE</title>
+    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/used-2015-ford-focus-se-front-wheel-drive-sedan-4-dr-1fadp3f2xfl264668/"/>
+    <ns0:id>P4131A</ns0:id>
+    <ns0:price>6984.00 USD</ns0:price>
+    <ns0:vin>1FADP3F2XFL264668</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>1647799517431806713</ns0:store_code>
+    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
+    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>1647799517431806713</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2015</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>Focus</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/used-2015-ford-focus-se-front-wheel-drive-sedan-4-dr-1fadp3f2xfl264668/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SE</ns0:trim>
+    <ns0:mileage>165057 miles</ns0:mileage>
+    <ns0:body_style>sedan</ns0:body_style>
+    <ns0:color>Tuxedo Black</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824018141--QJDEO-ltid2/1824018141.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824018151--+TC15-ltid2/1824018151.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824018161--BMZ11-ltid2/1824018161.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824018171--BMZ11-ltid2/1824018171.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824018181--EGUKE-ltid2/1824018181.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824018191--BDGWW-ltid2/1824018191.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824018201--LLIJ8-ltid2/1824018201.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824018211--LLIJ8-ltid2/1824018211.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824018221--S3XAW-ltid2/1824018221.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1824018231--4EGBX-ltid2/1824018231.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Focus</ns0:custom_label_0>
+  </entry>
+  <entry>
     <id>126077</id>
     <title>2026 Chevrolet Silverado 1500 LT Trail Boss</title>
     <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/new-2026-chevrolet-silverado-1500-lt-trail-boss-four-wheel-drive-crew-cab-3gcukfedxtg207201/"/>
@@ -2059,7 +2060,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/new-2026-chevrolet-silverado-1500-lt-trail-boss-four-wheel-drive-crew-cab-3gcukfedxtg207201/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LT Trail Boss</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:mileage>3 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Cypress Gray</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1818537221--3FITA-ltid1/1818537221.jpg</ns0:image_link>
@@ -2104,6 +2105,44 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840658951--LFHBV-ltid2/1840658951.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840658961--7VB-P-ltid2/1840658961.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Equinox</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>126073A</id>
+    <title>2022 Ford Escape SEL</title>
+    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/used-2022-ford-escape-sel-all-wheel-drive-suv-1fmcu9h95nua28235/"/>
+    <ns0:id>126073A</ns0:id>
+    <ns0:price>22476.00 USD</ns0:price>
+    <ns0:vin>1FMCU9H95NUA28235</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>1647799517431806713</ns0:store_code>
+    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
+    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>1647799517431806713</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2022</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>Escape</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/used-2022-ford-escape-sel-all-wheel-drive-suv-1fmcu9h95nua28235/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SEL</ns0:trim>
+    <ns0:mileage>34334 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Agate Black Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167481--BRKHE-ltid2/1840167481.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167491--8QY11-ltid2/1840167491.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167501--7VVRI-ltid2/1840167501.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167511--7VVRI-ltid2/1840167511.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167521--22X4Y-ltid2/1840167521.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167531--UMBGY-ltid2/1840167531.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167541--KE0W7-ltid2/1840167541.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167551--KE0W7-ltid2/1840167551.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167561--QU1OH-ltid2/1840167561.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840167571--1ARCC-ltid2/1840167571.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Escape</ns0:custom_label_0>
   </entry>
   <entry>
     <id>126082</id>
@@ -2319,6 +2358,34 @@
     <ns0:custom_label_0>Silverado 1500</ns0:custom_label_0>
   </entry>
   <entry>
+    <id>P4146</id>
+    <title>2018 Buick Regal TourX Essence</title>
+    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/used-2018-buick-regal-tourx-essence-all-wheel-drive-crossover-w04gv8sx6j1132744/"/>
+    <ns0:id>P4146</ns0:id>
+    <ns0:price>23985.00 USD</ns0:price>
+    <ns0:vin>W04GV8SX6J1132744</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Buick</ns0:brand>
+    <ns0:store_code>1647799517431806713</ns0:store_code>
+    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
+    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>1647799517431806713</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2018</ns0:year>
+    <ns0:make>Buick</ns0:make>
+    <ns0:model>Regal TourX</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/used-2018-buick-regal-tourx-essence-all-wheel-drive-crossover-w04gv8sx6j1132744/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Essence</ns0:trim>
+    <ns0:mileage>19014 miles</ns0:mileage>
+    <ns0:body_style>station wagon</ns0:body_style>
+    <ns0:color>Smoked Pearl Metallic</ns0:color>
+    <ns0:custom_label_0>Regal TourX</ns0:custom_label_0>
+  </entry>
+  <entry>
     <id>126086</id>
     <title>2026 Chevrolet Trax LS</title>
     <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/details/KL77LFEP7TC025153"/>
@@ -2345,6 +2412,9 @@
     <ns0:mileage>200 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Mosaic Black Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1851522901--JPU6J-ltid1/1851522901.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1851522911--JPU6J-ltid1/1851522911.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1851522921--JPU6J-ltid1/1851522921.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Trax</ns0:custom_label_0>
   </entry>
 </feed>
