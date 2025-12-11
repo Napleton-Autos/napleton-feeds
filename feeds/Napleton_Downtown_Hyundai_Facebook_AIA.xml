@@ -1,148 +1,6 @@
 <?xml version="1.0" ?>
 <listings>
   <listing>
-    <vehicle_id>H24402</vehicle_id>
-    <title>2025 Hyundai IONIQ 5 N</title>
-    <description>2025 Hyundai IONIQ 5 N. Color: Atlas White. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">2700 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2025</year>
-    <make>Hyundai</make>
-    <model>IONIQ 5 N</model>
-    <vin>km8knda81su004801</vin>
-    <content_ids>km8knda81su004801</content_ids>
-    <availability>in stock</availability>
-    <price>51686.00 USD</price>
-    <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8KNDA81SU004801</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>31</value>
-      <unit>MI</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <exterior_color>Atlas White</exterior_color>
-    <interior_color>Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639141--EWNQZ-ltid1/1771639141.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639151--EWNQZ-ltid1/1771639151.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639161--WPVGD-ltid1/1771639161.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639171--WPVGD-ltid1/1771639171.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639181--WPVGD-ltid1/1771639181.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639191--X6TR2-ltid1/1771639191.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639201--X6TR2-ltid1/1771639201.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639211--X6TR2-ltid1/1771639211.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639221--4+N1X-ltid1/1771639221.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639231--4+N1X-ltid1/1771639231.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639241--4+N1X-ltid1/1771639241.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639251--45ZQ4-ltid1/1771639251.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639261--45ZQ4-ltid1/1771639261.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639271--45ZQ4-ltid1/1771639271.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>H25090</vehicle_id>
-    <title>2025 Hyundai Santa Cruz SEL Activity</title>
-    <description>2025 Hyundai Santa Cruz. Trim: SEL Activity. Color: Hampton Gray. Body Style: Crew Cab.</description>
-    <address format="simple">
-      <component name="addr1">2700 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2025</year>
-    <make>Hyundai</make>
-    <model>Santa Cruz</model>
-    <vin>5ntjcddexsh144056</vin>
-    <content_ids>5ntjcddexsh144056</content_ids>
-    <availability>in stock</availability>
-    <price>30662.00 USD</price>
-    <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NTJCDDEXSH144056</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>12</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>SEL Activity</trim>
-    <body_style>OTHER</body_style>
-    <exterior_color>Hampton Gray</exterior_color>
-    <interior_color>Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640501--H4P7W-ltid1/1771640501.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640511--H4P7W-ltid1/1771640511.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640521--LPQO1-ltid1/1771640521.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640531--LPQO1-ltid1/1771640531.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640541--LPQO1-ltid1/1771640541.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640551--SNHAH-ltid1/1771640551.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640561--SNHAH-ltid1/1771640561.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640571--SNHAH-ltid1/1771640571.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640581--3PM5--ltid1/1771640581.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640591--3PM5--ltid1/1771640591.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640601--3PM5--ltid1/1771640601.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640611--+LI1O-ltid1/1771640611.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640621--+LI1O-ltid1/1771640621.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>H25095</vehicle_id>
     <title>2025 Hyundai Tucson Limited</title>
     <description>2025 Hyundai Tucson. Trim: Limited. Color: Ecotronic Gray Matte. Body Style: Sport Utility.</description>
@@ -302,7 +160,7 @@
     <vin>kmhlm4dg8su000724</vin>
     <content_ids>kmhlm4dg8su000724</content_ids>
     <availability>in stock</availability>
-    <price>22027.00 USD</price>
+    <price>21027.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLM4DG8SU000724</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -375,7 +233,7 @@
     <vin>kmhlm4dj1su154218</vin>
     <content_ids>kmhlm4dj1su154218</content_ids>
     <availability>in stock</availability>
-    <price>23235.00 USD</price>
+    <price>22235.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLM4DJ1SU154218</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -448,7 +306,7 @@
     <vin>kmhln4djxsu153372</vin>
     <content_ids>kmhln4djxsu153372</content_ids>
     <availability>in stock</availability>
-    <price>26826.00 USD</price>
+    <price>25826.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLN4DJXSU153372</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -721,514 +579,6 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>H25152</vehicle_id>
-    <title>2025 Hyundai Santa Fe Hybrid Calligraphy</title>
-    <description>2025 Hyundai Santa Fe Hybrid. Trim: Calligraphy. Color: Phantom Black. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">2700 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2025</year>
-    <make>Hyundai</make>
-    <model>Santa Fe Hybrid</model>
-    <vin>5nmp5dg15sh046450</vin>
-    <content_ids>5nmp5dg15sh046450</content_ids>
-    <availability>in stock</availability>
-    <price>43525.00 USD</price>
-    <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMP5DG15SH046450</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>15</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Calligraphy</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Phantom Black</exterior_color>
-    <interior_color>Forest Green/Beige</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642091--OUMOJ-ltid1/1771642091.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642101--EEHC8-ltid1/1771642101.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642111--EEHC8-ltid1/1771642111.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642121--EEHC8-ltid1/1771642121.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642131--XTUBM-ltid1/1771642131.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643791--XTUBM-ltid1/1771643791.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643801--XTUBM-ltid1/1771643801.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643811--AEZHE-ltid1/1771643811.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643821--AEZHE-ltid1/1771643821.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643831--LHLQ4-ltid1/1771643831.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643841--LHLQ4-ltid1/1771643841.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643851--LHLQ4-ltid1/1771643851.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643861--UGEZ+-ltid1/1771643861.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643871--UGEZ+-ltid1/1771643871.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>H25173</vehicle_id>
-    <title>2025 Hyundai Sonata Hybrid Limited</title>
-    <description>2025 Hyundai Sonata Hybrid. Trim: Limited. Color: Ultimate red. Body Style: Sedan.</description>
-    <address format="simple">
-      <component name="addr1">2700 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2025</year>
-    <make>Hyundai</make>
-    <model>Sonata Hybrid</model>
-    <vin>kmhl54jj1sa126289</vin>
-    <content_ids>kmhl54jj1sa126289</content_ids>
-    <availability>in stock</availability>
-    <price>37870.00 USD</price>
-    <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHL54JJ1SA126289</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>12</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Limited</trim>
-    <body_style>SEDAN</body_style>
-    <exterior_color>Ultimate red</exterior_color>
-    <interior_color>Dark Gray</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640401--FVBBI-ltid1/1771640401.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640411--FVBBI-ltid1/1771640411.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640421--OUMOJ-ltid1/1771640421.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640431--OUMOJ-ltid1/1771640431.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639641--Y2K11-ltid1/1771639641.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639651--+PYBP-ltid1/1771639651.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639661--+PYBP-ltid1/1771639661.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639671--8Q9WK-ltid1/1771639671.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639681--8Q9WK-ltid1/1771639681.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639691--8Q9WK-ltid1/1771639691.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639701--SYW5D-ltid1/1771639701.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639711--SYW5D-ltid1/1771639711.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639721--SYW5D-ltid1/1771639721.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639731--FVBBI-ltid1/1771639731.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>H25169</vehicle_id>
-    <title>2025 Hyundai Kona SEL</title>
-    <description>2025 Hyundai Kona. Trim: SEL. Color: Denim Blue. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">2700 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2025</year>
-    <make>Hyundai</make>
-    <model>Kona</model>
-    <vin>km8hbcabxsu317807</vin>
-    <content_ids>km8hbcabxsu317807</content_ids>
-    <availability>in stock</availability>
-    <price>24886.00 USD</price>
-    <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8HBCABXSU317807</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>9</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>SEL</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Denim Blue</exterior_color>
-    <interior_color>Gray</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639841--MFIL5-ltid1/1771639841.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639851--MFIL5-ltid1/1771639851.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639861--ELCBZ-ltid1/1771639861.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639871--ELCBZ-ltid1/1771639871.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639881--ZFLKA-ltid1/1771639881.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640191--ZFLKA-ltid1/1771640191.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640201--ZFLKA-ltid1/1771640201.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640211--WTCGX-ltid1/1771640211.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640221--WTCGX-ltid1/1771640221.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640231--WTCGX-ltid1/1771640231.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640241--PEI1L-ltid1/1771640241.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640251--PEI1L-ltid1/1771640251.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640261--PEI1L-ltid1/1771640261.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640271--Y2K11-ltid1/1771640271.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>H25158</vehicle_id>
-    <title>2025 Hyundai IONIQ 5 SE</title>
-    <description>2025 Hyundai IONIQ 5. Trim: SE. Color: Abyss Black. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">2700 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2025</year>
-    <make>Hyundai</make>
-    <model>IONIQ 5</model>
-    <vin>7yakmddc1sy019078</vin>
-    <content_ids>7yakmddc1sy019078</content_ids>
-    <availability>in stock</availability>
-    <price>38707.00 USD</price>
-    <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKMDDC1SY019078</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>1</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>SE</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Abyss Black</exterior_color>
-    <interior_color>Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643081--CRYVG-ltid1/1771643081.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643091--CRYVG-ltid1/1771643091.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643101--3NUH4-ltid1/1771643101.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643111--3NUH4-ltid1/1771643111.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643121--3NUH4-ltid1/1771643121.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643131--ZDR1N-ltid1/1771643131.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643141--ZDR1N-ltid1/1771643141.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643151--3+3GX-ltid1/1771643151.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643161--3+3GX-ltid1/1771643161.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643171--3+3GX-ltid1/1771643171.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643181--2YV1I-ltid1/1771643181.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643341--2YV1I-ltid1/1771643341.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643351--2YV1I-ltid1/1771643351.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643361--MFIL5-ltid1/1771643361.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>H25161</vehicle_id>
-    <title>2025 Hyundai IONIQ 5 SEL</title>
-    <description>2025 Hyundai IONIQ 5. Trim: SEL. Color: Cyber Gray. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">2700 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2025</year>
-    <make>Hyundai</make>
-    <model>IONIQ 5</model>
-    <vin>7yaknddc4sy019413</vin>
-    <content_ids>7yaknddc4sy019413</content_ids>
-    <availability>in stock</availability>
-    <price>42219.00 USD</price>
-    <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKNDDC4SY019413</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>18</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>SEL</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Cyber Gray</exterior_color>
-    <interior_color>Gray</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640041--MK7OJ-ltid1/1771640041.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640051--MK7OJ-ltid1/1771640051.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640061--GI04M-ltid1/1771640061.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640071--GI04M-ltid1/1771640071.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640081--GI04M-ltid1/1771640081.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640091--XGJFX-ltid1/1771640091.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640101--XGJFX-ltid1/1771640101.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640111--H7AOG-ltid1/1771640111.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640121--H7AOG-ltid1/1771640121.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640131--H7AOG-ltid1/1771640131.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640141--PXCF8-ltid1/1771640141.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640151--PXCF8-ltid1/1771640151.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640161--PXCF8-ltid1/1771640161.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>H25163</vehicle_id>
-    <title>2025 Hyundai IONIQ 5 SEL</title>
-    <description>2025 Hyundai IONIQ 5. Trim: SEL. Color: Cyber Gray. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">2700 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2025</year>
-    <make>Hyundai</make>
-    <model>IONIQ 5</model>
-    <vin>7yaknddc6sy021602</vin>
-    <content_ids>7yaknddc6sy021602</content_ids>
-    <availability>in stock</availability>
-    <price>42291.00 USD</price>
-    <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKNDDC6SY021602</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>8</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>SEL</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Cyber Gray</exterior_color>
-    <interior_color>Gray</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640171--M5DB3-ltid1/1771640171.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640181--M5DB3-ltid1/1771640181.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642141--KUOMF-ltid1/1771642141.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642151--VIPPD-ltid1/1771642151.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642161--VIPPD-ltid1/1771642161.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642171--VIPPD-ltid1/1771642171.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642181--HVIYK-ltid1/1771642181.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640441--9TAPK-ltid1/1771640441.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640451--9TAPK-ltid1/1771640451.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640461--0S4+S-ltid1/1771640461.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640471--0S4+S-ltid1/1771640471.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640481--0S4+S-ltid1/1771640481.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640491--KUOMF-ltid1/1771640491.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640801--KUOMF-ltid1/1771640801.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>H25185</vehicle_id>
-    <title>2025 Hyundai Sonata SEL</title>
-    <description>2025 Hyundai Sonata. Trim: SEL. Color: Serenity White. Body Style: Sedan.</description>
-    <address format="simple">
-      <component name="addr1">2700 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2025</year>
-    <make>Hyundai</make>
-    <model>Sonata</model>
-    <vin>kmhl64ja0sa508486</vin>
-    <content_ids>kmhl64ja0sa508486</content_ids>
-    <availability>in stock</availability>
-    <price>24031.00 USD</price>
-    <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHL64JA0SA508486</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>11</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>SEL</trim>
-    <body_style>SEDAN</body_style>
-    <exterior_color>Serenity White</exterior_color>
-    <interior_color>Dark Gray</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642191--JDA7Y-ltid1/1771642191.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642201--JDA7Y-ltid1/1771642201.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642211--VQU5C-ltid1/1771642211.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642221--VQU5C-ltid1/1771642221.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642231--VQU5C-ltid1/1771642231.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642241--QK4+V-ltid1/1771642241.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642251--QK4+V-ltid1/1771642251.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642261--QK4+V-ltid1/1771642261.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642271--VGVTH-ltid1/1771642271.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642281--VGVTH-ltid1/1771642281.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642591--Y2MWP-ltid1/1771642591.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642601--Y2MWP-ltid1/1771642601.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642611--Y2MWP-ltid1/1771642611.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642621--M5DB3-ltid1/1771642621.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>H25188</vehicle_id>
     <title>2025 Hyundai Kona SEL Convenience</title>
     <description>2025 Hyundai Kona. Trim: SEL Convenience. Color: Denim Blue. Body Style: Sport Utility.</description>
@@ -1391,7 +741,7 @@
     <vin>kmhlm4dj7su168768</vin>
     <content_ids>kmhlm4dj7su168768</content_ids>
     <availability>in stock</availability>
-    <price>22767.00 USD</price>
+    <price>21767.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLM4DJ7SU168768</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -2045,7 +1395,7 @@
     <vin>kmhlm4dg3su061818</vin>
     <content_ids>kmhlm4dg3su061818</content_ids>
     <availability>in stock</availability>
-    <price>22095.00 USD</price>
+    <price>21095.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLM4DG3SU061818</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -2118,7 +1468,7 @@
     <vin>kmhlm4dg4su060516</vin>
     <content_ids>kmhlm4dg4su060516</content_ids>
     <availability>in stock</availability>
-    <price>22095.00 USD</price>
+    <price>21095.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLM4DG4SU060516</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -2191,7 +1541,7 @@
     <vin>kmhlm4dg7su064186</vin>
     <content_ids>kmhlm4dg7su064186</content_ids>
     <availability>in stock</availability>
-    <price>22500.00 USD</price>
+    <price>21500.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLM4DG7SU064186</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -2264,7 +1614,7 @@
     <vin>kmhlm4dg8su064231</vin>
     <content_ids>kmhlm4dg8su064231</content_ids>
     <availability>in stock</availability>
-    <price>22144.00 USD</price>
+    <price>21144.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLM4DG8SU064231</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -3499,7 +2849,7 @@
     <vin>kmhlm4dgxsu062108</vin>
     <content_ids>kmhlm4dgxsu062108</content_ids>
     <availability>in stock</availability>
-    <price>22095.00 USD</price>
+    <price>21095.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLM4DGXSU062108</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -3572,7 +2922,7 @@
     <vin>kmhlm4dj7su177308</vin>
     <content_ids>kmhlm4dj7su177308</content_ids>
     <availability>in stock</availability>
-    <price>23023.00 USD</price>
+    <price>22023.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLM4DJ7SU177308</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -3718,7 +3068,7 @@
     <vin>kmhlm4dg3su077095</vin>
     <content_ids>kmhlm4dg3su077095</content_ids>
     <availability>in stock</availability>
-    <price>22081.00 USD</price>
+    <price>21081.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLM4DG3SU077095</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -3791,7 +3141,7 @@
     <vin>kmhlp4dg8su081585</vin>
     <content_ids>kmhlp4dg8su081585</content_ids>
     <availability>in stock</availability>
-    <price>25227.00 USD</price>
+    <price>24227.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLP4DG8SU081585</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -4010,7 +3360,7 @@
     <vin>km8hfcab5tu371571</vin>
     <content_ids>km8hfcab5tu371571</content_ids>
     <availability>in stock</availability>
-    <price>27818.00 USD</price>
+    <price>27068.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8HFCAB5TU371571</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -4229,7 +3579,7 @@
     <vin>kmhll4dg2su077401</vin>
     <content_ids>kmhll4dg2su077401</content_ids>
     <availability>in stock</availability>
-    <price>21105.00 USD</price>
+    <price>20105.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLL4DG2SU077401</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -4375,7 +3725,7 @@
     <vin>kmhll4dg3su090769</vin>
     <content_ids>kmhll4dg3su090769</content_ids>
     <availability>in stock</availability>
-    <price>21132.00 USD</price>
+    <price>20132.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLL4DG3SU090769</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -4448,7 +3798,7 @@
     <vin>kmhlp4dg4su080885</vin>
     <content_ids>kmhlp4dg4su080885</content_ids>
     <availability>in stock</availability>
-    <price>25267.00 USD</price>
+    <price>24267.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLP4DG4SU080885</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -6349,7 +5699,7 @@
     <vin>5ntjcdde6th164712</vin>
     <content_ids>5ntjcdde6th164712</content_ids>
     <availability>in stock</availability>
-    <price>35794.00 USD</price>
+    <price>35044.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NTJCDDE6TH164712</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -6814,79 +6164,6 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>H26068</vehicle_id>
-    <title>2026 Hyundai IONIQ 5 SEL</title>
-    <description>2026 Hyundai IONIQ 5. Trim: SEL. Color: Lucid Blue. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">2700 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2026</year>
-    <make>Hyundai</make>
-    <model>IONIQ 5</model>
-    <vin>7yaknddc1ty043623</vin>
-    <content_ids>7yaknddc1ty043623</content_ids>
-    <availability>in stock</availability>
-    <price>42751.00 USD</price>
-    <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKNDDC1TY043623</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>19</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>SEL</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Lucid Blue</exterior_color>
-    <interior_color>Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1803135961--PY0WA-ltid1/1803135961.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1803135971--OYG9Q-ltid1/1803135971.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1803135981--OYG9Q-ltid1/1803135981.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1803135991--HNI7Z-ltid1/1803135991.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1803136001--AFQER-ltid1/1803136001.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1803136011--O-EC8-ltid1/1803136011.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1803136021--GHWGS-ltid1/1803136021.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1803136031--6GDZC-ltid1/1803136031.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1803136041--6GDZC-ltid1/1803136041.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1803136051--RFIX6-ltid1/1803136051.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1803136061--AW2QU-ltid1/1803136061.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1803136071--ZFN7Y-ltid1/1803136071.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1803136081--OVKLT-ltid1/1803136081.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1803136091--TU-T7-ltid1/1803136091.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>H26070</vehicle_id>
     <title>2026 Hyundai IONIQ 5 SEL</title>
     <description>2026 Hyundai IONIQ 5. Trim: SEL. Color: Digital Teal. Body Style: Sport Utility.</description>
@@ -7122,7 +6399,7 @@
     <vin>km8hacab1tu392531</vin>
     <content_ids>km8hacab1tu392531</content_ids>
     <availability>in stock</availability>
-    <price>27315.00 USD</price>
+    <price>26565.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8HACAB1TU392531</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -7484,7 +6761,7 @@
     <vin>km8hdca38tu409941</vin>
     <content_ids>km8hdca38tu409941</content_ids>
     <availability>in stock</availability>
-    <price>28875.00 USD</price>
+    <price>28125.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8HDCA38TU409941</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -7801,7 +7078,7 @@
     <vin>kmhll4dg5su936819</vin>
     <content_ids>kmhll4dg5su936819</content_ids>
     <availability>in stock</availability>
-    <price>20701.00 USD</price>
+    <price>19701.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLL4DG5SU936819</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -7868,7 +7145,7 @@
     <vin>kmhlm4dg5su956663</vin>
     <content_ids>kmhlm4dg5su956663</content_ids>
     <availability>in stock</availability>
-    <price>21404.00 USD</price>
+    <price>20404.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLM4DG5SU956663</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -7935,7 +7212,7 @@
     <vin>kmhlm4dj5su144615</vin>
     <content_ids>kmhlm4dj5su144615</content_ids>
     <availability>in stock</availability>
-    <price>23284.00 USD</price>
+    <price>22284.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLM4DJ5SU144615</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -8008,7 +7285,7 @@
     <vin>kmhln4dj5su153571</vin>
     <content_ids>kmhln4dj5su153571</content_ids>
     <availability>in stock</availability>
-    <price>26244.00 USD</price>
+    <price>25244.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLN4DJ5SU153571</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -8833,7 +8110,7 @@
     <vin>5ntjcdde5sh143400</vin>
     <content_ids>5ntjcdde5sh143400</content_ids>
     <availability>in stock</availability>
-    <price>31458.00 USD</price>
+    <price>30458.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NTJCDDE5SH143400</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -8903,7 +8180,7 @@
     <vin>km8hacab0tu405088</vin>
     <content_ids>km8hacab0tu405088</content_ids>
     <availability>in stock</availability>
-    <price>28255.00 USD</price>
+    <price>27505.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8HACAB0TU405088</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -9113,7 +8390,7 @@
     <vin>5ntjbddexth167583</vin>
     <content_ids>5ntjbddexth167583</content_ids>
     <availability>in stock</availability>
-    <price>33314.00 USD</price>
+    <price>32564.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NTJBDDEXTH167583</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -9266,7 +8543,7 @@
     <vin>7yaknddc4ty045902</vin>
     <content_ids>7yaknddc4ty045902</content_ids>
     <availability>in stock</availability>
-    <price>43192.00 USD</price>
+    <price>43247.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKNDDC4TY045902</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -9306,7 +8583,7 @@
     <vin>7yaknddc4ty046368</vin>
     <content_ids>7yaknddc4ty046368</content_ids>
     <availability>in stock</availability>
-    <price>42810.00 USD</price>
+    <price>42865.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKNDDC4TY046368</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -9346,7 +8623,7 @@
     <vin>7yaknddc8ty045899</vin>
     <content_ids>7yaknddc8ty045899</content_ids>
     <availability>in stock</availability>
-    <price>42810.00 USD</price>
+    <price>42865.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKNDDC8TY045899</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -9386,7 +8663,7 @@
     <vin>7yaknddc9ty043675</vin>
     <content_ids>7yaknddc9ty043675</content_ids>
     <availability>in stock</availability>
-    <price>42595.00 USD</price>
+    <price>42650.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKNDDC9TY043675</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -9426,7 +8703,7 @@
     <vin>7yamtfs34ty009463</vin>
     <content_ids>7yamtfs34ty009463</content_ids>
     <availability>in stock</availability>
-    <price>58935.00 USD</price>
+    <price>58990.00 USD</price>
     <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAMTFS34TY009463</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -9447,6 +8724,584 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1851522831--JPU6J-ltid1/1851522831.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>H25090</vehicle_id>
+    <title>2025 Hyundai Santa Cruz SEL Activity</title>
+    <description>2025 Hyundai Santa Cruz. Trim: SEL Activity. Color: Hampton Gray. Body Style: Crew Cab.</description>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2025</year>
+    <make>Hyundai</make>
+    <model>Santa Cruz</model>
+    <vin>5ntjcddexsh144056</vin>
+    <content_ids>5ntjcddexsh144056</content_ids>
+    <availability>in stock</availability>
+    <price>29662.00 USD</price>
+    <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NTJCDDEXSH144056</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>12</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>SEL Activity</trim>
+    <body_style>OTHER</body_style>
+    <exterior_color>Hampton Gray</exterior_color>
+    <interior_color>Black</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640501--H4P7W-ltid1/1771640501.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640511--H4P7W-ltid1/1771640511.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640521--LPQO1-ltid1/1771640521.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640531--LPQO1-ltid1/1771640531.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640541--LPQO1-ltid1/1771640541.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640551--SNHAH-ltid1/1771640551.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640561--SNHAH-ltid1/1771640561.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640571--SNHAH-ltid1/1771640571.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640581--3PM5--ltid1/1771640581.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640591--3PM5--ltid1/1771640591.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640601--3PM5--ltid1/1771640601.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640611--+LI1O-ltid1/1771640611.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640621--+LI1O-ltid1/1771640621.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>H25152</vehicle_id>
+    <title>2025 Hyundai Santa Fe Hybrid Calligraphy</title>
+    <description>2025 Hyundai Santa Fe Hybrid. Trim: Calligraphy. Color: Phantom Black. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2025</year>
+    <make>Hyundai</make>
+    <model>Santa Fe Hybrid</model>
+    <vin>5nmp5dg15sh046450</vin>
+    <content_ids>5nmp5dg15sh046450</content_ids>
+    <availability>in stock</availability>
+    <price>43525.00 USD</price>
+    <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMP5DG15SH046450</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>15</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Calligraphy</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Phantom Black</exterior_color>
+    <interior_color>Forest Green/Beige</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642091--OUMOJ-ltid1/1771642091.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642101--EEHC8-ltid1/1771642101.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642111--EEHC8-ltid1/1771642111.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642121--EEHC8-ltid1/1771642121.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642131--XTUBM-ltid1/1771642131.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643791--XTUBM-ltid1/1771643791.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643801--XTUBM-ltid1/1771643801.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643811--AEZHE-ltid1/1771643811.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643821--AEZHE-ltid1/1771643821.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643831--LHLQ4-ltid1/1771643831.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643841--LHLQ4-ltid1/1771643841.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643851--LHLQ4-ltid1/1771643851.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643861--UGEZ+-ltid1/1771643861.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643871--UGEZ+-ltid1/1771643871.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>H25173</vehicle_id>
+    <title>2025 Hyundai Sonata Hybrid Limited</title>
+    <description>2025 Hyundai Sonata Hybrid. Trim: Limited. Color: Ultimate red. Body Style: Sedan.</description>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2025</year>
+    <make>Hyundai</make>
+    <model>Sonata Hybrid</model>
+    <vin>kmhl54jj1sa126289</vin>
+    <content_ids>kmhl54jj1sa126289</content_ids>
+    <availability>in stock</availability>
+    <price>37870.00 USD</price>
+    <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHL54JJ1SA126289</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>12</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Limited</trim>
+    <body_style>SEDAN</body_style>
+    <exterior_color>Ultimate red</exterior_color>
+    <interior_color>Dark Gray</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640401--FVBBI-ltid1/1771640401.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640411--FVBBI-ltid1/1771640411.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640421--OUMOJ-ltid1/1771640421.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640431--OUMOJ-ltid1/1771640431.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639641--Y2K11-ltid1/1771639641.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639651--+PYBP-ltid1/1771639651.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639661--+PYBP-ltid1/1771639661.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639671--8Q9WK-ltid1/1771639671.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639681--8Q9WK-ltid1/1771639681.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639691--8Q9WK-ltid1/1771639691.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639701--SYW5D-ltid1/1771639701.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639711--SYW5D-ltid1/1771639711.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639721--SYW5D-ltid1/1771639721.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639731--FVBBI-ltid1/1771639731.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>H25169</vehicle_id>
+    <title>2025 Hyundai Kona SEL</title>
+    <description>2025 Hyundai Kona. Trim: SEL. Color: Denim Blue. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2025</year>
+    <make>Hyundai</make>
+    <model>Kona</model>
+    <vin>km8hbcabxsu317807</vin>
+    <content_ids>km8hbcabxsu317807</content_ids>
+    <availability>in stock</availability>
+    <price>24886.00 USD</price>
+    <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8HBCABXSU317807</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>9</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>SEL</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Denim Blue</exterior_color>
+    <interior_color>Gray</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639841--MFIL5-ltid1/1771639841.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639851--MFIL5-ltid1/1771639851.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639861--ELCBZ-ltid1/1771639861.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639871--ELCBZ-ltid1/1771639871.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639881--ZFLKA-ltid1/1771639881.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640191--ZFLKA-ltid1/1771640191.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640201--ZFLKA-ltid1/1771640201.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640211--WTCGX-ltid1/1771640211.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640221--WTCGX-ltid1/1771640221.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640231--WTCGX-ltid1/1771640231.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640241--PEI1L-ltid1/1771640241.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640251--PEI1L-ltid1/1771640251.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640261--PEI1L-ltid1/1771640261.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640271--Y2K11-ltid1/1771640271.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>H25158</vehicle_id>
+    <title>2025 Hyundai IONIQ 5 SE</title>
+    <description>2025 Hyundai IONIQ 5. Trim: SE. Color: Abyss Black. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2025</year>
+    <make>Hyundai</make>
+    <model>IONIQ 5</model>
+    <vin>7yakmddc1sy019078</vin>
+    <content_ids>7yakmddc1sy019078</content_ids>
+    <availability>in stock</availability>
+    <price>38707.00 USD</price>
+    <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKMDDC1SY019078</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>1</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>SE</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Abyss Black</exterior_color>
+    <interior_color>Black</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643081--CRYVG-ltid1/1771643081.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643091--CRYVG-ltid1/1771643091.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643101--3NUH4-ltid1/1771643101.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643111--3NUH4-ltid1/1771643111.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643121--3NUH4-ltid1/1771643121.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643131--ZDR1N-ltid1/1771643131.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643141--ZDR1N-ltid1/1771643141.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643151--3+3GX-ltid1/1771643151.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643161--3+3GX-ltid1/1771643161.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643171--3+3GX-ltid1/1771643171.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643181--2YV1I-ltid1/1771643181.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643341--2YV1I-ltid1/1771643341.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643351--2YV1I-ltid1/1771643351.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643361--MFIL5-ltid1/1771643361.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>H25161</vehicle_id>
+    <title>2025 Hyundai IONIQ 5 SEL</title>
+    <description>2025 Hyundai IONIQ 5. Trim: SEL. Color: Cyber Gray. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2025</year>
+    <make>Hyundai</make>
+    <model>IONIQ 5</model>
+    <vin>7yaknddc4sy019413</vin>
+    <content_ids>7yaknddc4sy019413</content_ids>
+    <availability>in stock</availability>
+    <price>42219.00 USD</price>
+    <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKNDDC4SY019413</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>18</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>SEL</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Cyber Gray</exterior_color>
+    <interior_color>Gray</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640041--MK7OJ-ltid1/1771640041.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640051--MK7OJ-ltid1/1771640051.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640061--GI04M-ltid1/1771640061.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640071--GI04M-ltid1/1771640071.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640081--GI04M-ltid1/1771640081.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640091--XGJFX-ltid1/1771640091.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640101--XGJFX-ltid1/1771640101.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640111--H7AOG-ltid1/1771640111.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640121--H7AOG-ltid1/1771640121.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640131--H7AOG-ltid1/1771640131.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640141--PXCF8-ltid1/1771640141.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640151--PXCF8-ltid1/1771640151.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640161--PXCF8-ltid1/1771640161.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>H25163</vehicle_id>
+    <title>2025 Hyundai IONIQ 5 SEL</title>
+    <description>2025 Hyundai IONIQ 5. Trim: SEL. Color: Cyber Gray. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2025</year>
+    <make>Hyundai</make>
+    <model>IONIQ 5</model>
+    <vin>7yaknddc6sy021602</vin>
+    <content_ids>7yaknddc6sy021602</content_ids>
+    <availability>in stock</availability>
+    <price>42291.00 USD</price>
+    <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKNDDC6SY021602</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>8</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>SEL</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Cyber Gray</exterior_color>
+    <interior_color>Gray</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640171--M5DB3-ltid1/1771640171.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640181--M5DB3-ltid1/1771640181.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642141--KUOMF-ltid1/1771642141.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642151--VIPPD-ltid1/1771642151.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642161--VIPPD-ltid1/1771642161.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642171--VIPPD-ltid1/1771642171.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642181--HVIYK-ltid1/1771642181.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640441--9TAPK-ltid1/1771640441.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640451--9TAPK-ltid1/1771640451.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640461--0S4+S-ltid1/1771640461.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640471--0S4+S-ltid1/1771640471.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640481--0S4+S-ltid1/1771640481.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640491--KUOMF-ltid1/1771640491.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640801--KUOMF-ltid1/1771640801.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>H25185</vehicle_id>
+    <title>2025 Hyundai Sonata SEL</title>
+    <description>2025 Hyundai Sonata. Trim: SEL. Color: Serenity White. Body Style: Sedan.</description>
+    <address format="simple">
+      <component name="addr1">2700 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2025</year>
+    <make>Hyundai</make>
+    <model>Sonata</model>
+    <vin>kmhl64ja0sa508486</vin>
+    <content_ids>kmhl64ja0sa508486</content_ids>
+    <availability>in stock</availability>
+    <price>24031.00 USD</price>
+    <url>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHL64JA0SA508486</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>11</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>SEL</trim>
+    <body_style>SEDAN</body_style>
+    <exterior_color>Serenity White</exterior_color>
+    <interior_color>Dark Gray</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642191--JDA7Y-ltid1/1771642191.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642201--JDA7Y-ltid1/1771642201.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642211--VQU5C-ltid1/1771642211.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642221--VQU5C-ltid1/1771642221.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642231--VQU5C-ltid1/1771642231.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642241--QK4+V-ltid1/1771642241.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642251--QK4+V-ltid1/1771642251.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642261--QK4+V-ltid1/1771642261.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642271--VGVTH-ltid1/1771642271.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642281--VGVTH-ltid1/1771642281.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642591--Y2MWP-ltid1/1771642591.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642601--Y2MWP-ltid1/1771642601.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642611--Y2MWP-ltid1/1771642611.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642621--M5DB3-ltid1/1771642621.jpg</url>
     </image>
   </listing>
 </listings>

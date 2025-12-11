@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Buick GMC Inventory Feed</title>
   <link href="https://www.napletoncrystallake.com" rel="self"/>
-  <updated>2025-12-11T08:03:08.532495</updated>
+  <updated>2025-12-11T12:04:16.398499</updated>
   <entry>
     <id>225174</id>
     <title>2025 Buick Envista Preferred</title>
@@ -3930,6 +3930,44 @@
     <ns0:custom_label_0>Envision</ns0:custom_label_0>
   </entry>
   <entry>
+    <id>P01002A</id>
+    <title>2016 GMC Sierra 2500HD Denali</title>
+    <link rel="alternate" href="https://www.napletoncrystallake.com/inventory/details/1GT12UE81GF128646"/>
+    <ns0:id>P01002A</ns0:id>
+    <ns0:price>34999.00 USD</ns0:price>
+    <ns0:vin>1GT12UE81GF128646</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>GMC</ns0:brand>
+    <ns0:store_code>30389</ns0:store_code>
+    <ns0:dealership_name>Napleton Buick GMC</ns0:dealership_name>
+    <ns0:dealership_address>6305 Northwest Hwy., Crystal Lake, IL 60014</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>30389</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2016</ns0:year>
+    <ns0:make>GMC</ns0:make>
+    <ns0:model>Sierra 2500HD</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletoncrystallake.com/inventory/details/1GT12UE81GF128646?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Denali</ns0:trim>
+    <ns0:mileage>189943 miles</ns0:mileage>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>Deep Garnet Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1842919811--17AD8-ltid2/1842919811.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1842919821--AQJDY-ltid2/1842919821.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1842919831--AQJDY-ltid2/1842919831.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1842919841--NGTWD-ltid2/1842919841.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1842919851--89NNN-ltid2/1842919851.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1842919861--EWHED-ltid2/1842919861.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1842919871--MIV4Y-ltid2/1842919871.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1842919881--MIV4Y-ltid2/1842919881.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1842919891--+JPKK-ltid2/1842919891.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1842919901--CB4VD-ltid2/1842919901.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Sierra 2500HD</ns0:custom_label_0>
+  </entry>
+  <entry>
     <id>P01018</id>
     <title>2022 Chevrolet Malibu LT</title>
     <link rel="alternate" href="https://www.napletoncrystallake.com/inventory/used-2022-chevrolet-malibu-lt-front-wheel-drive-sedan-1g1zd5st1nf156156/"/>
@@ -4592,47 +4630,9 @@
     <ns0:custom_label_0>Sierra 1500</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>126099A</id>
-    <title>2019 GMC Sierra 1500 Denali</title>
-    <link rel="alternate" href="https://www.napletoncrystallake.com/inventory/used-2019-gmc-sierra-1500-denali-four-wheel-drive-crew-cab-1gtu9fel6kz295844/"/>
-    <ns0:id>126099A</ns0:id>
-    <ns0:price>39895.00 USD</ns0:price>
-    <ns0:vin>1GTU9FEL6KZ295844</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>GMC</ns0:brand>
-    <ns0:store_code>30389</ns0:store_code>
-    <ns0:dealership_name>Napleton Buick GMC</ns0:dealership_name>
-    <ns0:dealership_address>6305 Northwest Hwy., Crystal Lake, IL 60014</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>30389</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2019</ns0:year>
-    <ns0:make>GMC</ns0:make>
-    <ns0:model>Sierra 1500</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletoncrystallake.com/inventory/used-2019-gmc-sierra-1500-denali-four-wheel-drive-crew-cab-1gtu9fel6kz295844/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Denali</ns0:trim>
-    <ns0:mileage>47905 miles</ns0:mileage>
-    <ns0:body_style>truck</ns0:body_style>
-    <ns0:color>Satin Steel Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1852167561--+4YDC-ltid2/1852167561.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1852167571--+4YDC-ltid2/1852167571.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1852167581--+4YDC-ltid2/1852167581.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1852167591--+4YDC-ltid2/1852167591.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1852167601--+4YDC-ltid2/1852167601.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1852167611--+4YDC-ltid2/1852167611.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1852167621--+4YDC-ltid2/1852167621.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1852167631--+4YDC-ltid2/1852167631.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1852167641--+4YDC-ltid2/1852167641.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1852167651--+4YDC-ltid2/1852167651.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Sierra 1500</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>126098</id>
     <title>2026 GMC Terrain AWD Elevation</title>
-    <link rel="alternate" href="https://www.napletoncrystallake.com/inventory/details/3GKALUEG6TL343724"/>
+    <link rel="alternate" href="https://www.napletoncrystallake.com/inventory/new-2026-gmc-terrain-elevation-all-wheel-drive-suv-3gkalueg6tl343724/"/>
     <ns0:id>126098</ns0:id>
     <ns0:price>35754.00 USD</ns0:price>
     <ns0:vehicle_msrp>38445.00 USD</ns0:vehicle_msrp>
@@ -4651,7 +4651,7 @@
     <ns0:model>Terrain</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletoncrystallake.com/inventory/details/3GKALUEG6TL343724?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.napletoncrystallake.com/inventory/new-2026-gmc-terrain-elevation-all-wheel-drive-suv-3gkalueg6tl343724/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>AWD Elevation</ns0:trim>
     <ns0:mileage>10 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -4710,7 +4710,7 @@
   <entry>
     <id>126100</id>
     <title>2026 GMC Yukon XL Denali</title>
-    <link rel="alternate" href="https://www.napletoncrystallake.com/inventory/details/1GKS2JKLXTR199577"/>
+    <link rel="alternate" href="https://www.napletoncrystallake.com/inventory/new-2026-gmc-yukon-xl-denali-four-wheel-drive-suv-1gks2jklxtr199577/"/>
     <ns0:id>126100</ns0:id>
     <ns0:price>92100.00 USD</ns0:price>
     <ns0:vehicle_msrp>93100.00 USD</ns0:vehicle_msrp>
@@ -4729,7 +4729,7 @@
     <ns0:model>Yukon XL</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletoncrystallake.com/inventory/details/1GKS2JKLXTR199577?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.napletoncrystallake.com/inventory/new-2026-gmc-yukon-xl-denali-four-wheel-drive-suv-1gks2jklxtr199577/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Denali</ns0:trim>
     <ns0:mileage>10 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -4767,44 +4767,6 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1825946341--ERKXL-ltid1/1825946341.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1825946351--ERKXL-ltid1/1825946351.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Sierra 1500</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>225209A</id>
-    <title>2015 Jeep Wrangler Unlimited Sahara</title>
-    <link rel="alternate" href="https://www.napletoncrystallake.com/inventory/used-2015-jeep-wrangler-unlimited-sahara-four-wheel-drive-suv-1c4bjweg1fl537515/"/>
-    <ns0:id>225209A</ns0:id>
-    <ns0:price>14887.00 USD</ns0:price>
-    <ns0:vin>1C4BJWEG1FL537515</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Jeep</ns0:brand>
-    <ns0:store_code>30389</ns0:store_code>
-    <ns0:dealership_name>Napleton Buick GMC</ns0:dealership_name>
-    <ns0:dealership_address>6305 Northwest Hwy., Crystal Lake, IL 60014</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>30389</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2015</ns0:year>
-    <ns0:make>Jeep</ns0:make>
-    <ns0:model>Wrangler Unlimited</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletoncrystallake.com/inventory/used-2015-jeep-wrangler-unlimited-sahara-four-wheel-drive-suv-1c4bjweg1fl537515/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Sahara</ns0:trim>
-    <ns0:mileage>152050 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Bright White Clearcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1852168081--+4YDC-ltid2/1852168081.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1852168091--+4YDC-ltid2/1852168091.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1852168101--+4YDC-ltid2/1852168101.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1852168111--+4YDC-ltid2/1852168111.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1852168121--+4YDC-ltid2/1852168121.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1852168131--+4YDC-ltid2/1852168131.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1852168141--+4YDC-ltid2/1852168141.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1852168151--+4YDC-ltid2/1852168151.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1852168161--+4YDC-ltid2/1852168161.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1852168171--+4YDC-ltid2/1852168171.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Wrangler Unlimited</ns0:custom_label_0>
   </entry>
   <entry>
     <id>226043A</id>
@@ -4849,7 +4811,7 @@
     <title>2017 Chevrolet Suburban Premier</title>
     <link rel="alternate" href="https://www.napletoncrystallake.com/inventory/used-2017-chevrolet-suburban-premier-four-wheel-drive-suv-1gnskjkcxhr335037/"/>
     <ns0:id>126085A</ns0:id>
-    <ns0:price>23995.00 USD</ns0:price>
+    <ns0:price>21999.00 USD</ns0:price>
     <ns0:vin>1GNSKJKCXHR335037</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Chevrolet</ns0:brand>
@@ -5283,7 +5245,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletoncrystallake.com/inventory/details/3GTUUEEL4TG214172?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>AT4</ns0:trim>
-    <ns0:mileage>10 miles</ns0:mileage>
+    <ns0:mileage>3 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Onyx Black</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1842715441--GE+IS-ltid1/1842715441.jpg</ns0:image_link>
@@ -5316,7 +5278,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletoncrystallake.com/inventory/details/3GTUUGED7TG213070?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Denali</ns0:trim>
-    <ns0:mileage>10 miles</ns0:mileage>
+    <ns0:mileage>4 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Sterling Metallic</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1842170621--AYWQV-ltid1/1842170621.jpg</ns0:image_link>
@@ -5505,7 +5467,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletoncrystallake.com/inventory/used-2019-gmc-canyon-4wd-denali-four-wheel-drive-crew-cab-1gtg6een9k1297779/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>4WD Denali</ns0:trim>
-    <ns0:mileage>74063 miles</ns0:mileage>
+    <ns0:mileage>74064 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Onyx Black</ns0:color>
     <ns0:custom_label_0>Canyon</ns0:custom_label_0>
@@ -5543,40 +5505,11 @@
     <ns0:custom_label_0>Terrain</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>226058</id>
-    <title>2026 Buick Encore GX Preferred</title>
-    <link rel="alternate" href="https://www.napletoncrystallake.com/inventory/details/KL4AMCSL0TB011021"/>
-    <ns0:id>226058</ns0:id>
-    <ns0:price>30885.00 USD</ns0:price>
-    <ns0:vehicle_msrp>30885.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>KL4AMCSL0TB011021</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Buick</ns0:brand>
-    <ns0:store_code>30389</ns0:store_code>
-    <ns0:dealership_name>Napleton Buick GMC</ns0:dealership_name>
-    <ns0:dealership_address>6305 Northwest Hwy., Crystal Lake, IL 60014</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>30389</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Buick</ns0:make>
-    <ns0:model>Encore GX</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletoncrystallake.com/inventory/details/KL4AMCSL0TB011021?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Preferred</ns0:trim>
-    <ns0:mileage>50 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Summit White</ns0:color>
-    <ns0:custom_label_0>Encore GX</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>126110</id>
     <title>2026 GMC Canyon 4WD Denali</title>
-    <link rel="alternate" href="https://www.napletoncrystallake.com/inventory/details/1GTP2FEK8T1164861"/>
+    <link rel="alternate" href="https://www.napletoncrystallake.com/inventory/new-2026-gmc-canyon-denali-four-wheel-drive-crew-cab-1gtp2fek8t1164861/"/>
     <ns0:id>126110</ns0:id>
-    <ns0:price>60440.00 USD</ns0:price>
+    <ns0:price>57418.00 USD</ns0:price>
     <ns0:vehicle_msrp>60440.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1GTP2FEK8T1164861</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -5593,11 +5526,21 @@
     <ns0:model>Canyon</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletoncrystallake.com/inventory/details/1GTP2FEK8T1164861?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.napletoncrystallake.com/inventory/new-2026-gmc-canyon-denali-four-wheel-drive-crew-cab-1gtp2fek8t1164861/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>4WD Denali</ns0:trim>
     <ns0:mileage>10 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Onyx Black</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1853969351--2JBFE-ltid1/1853969351.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1853969361--2JBFE-ltid1/1853969361.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1853969371--2JBFE-ltid1/1853969371.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1853969381--2JBFE-ltid1/1853969381.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1853969391--2JBFE-ltid1/1853969391.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1853969401--2JBFE-ltid1/1853969401.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1853969411--2JBFE-ltid1/1853969411.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1853969421--2JBFE-ltid1/1853969421.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1853969431--2JBFE-ltid1/1853969431.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1853969441--2JBFE-ltid1/1853969441.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Canyon</ns0:custom_label_0>
   </entry>
 </feed>

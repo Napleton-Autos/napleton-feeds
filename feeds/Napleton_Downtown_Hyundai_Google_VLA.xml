@@ -2,84 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Downtown Hyundai Inventory Feed</title>
   <link href="https://www.napletondowntownhyundai.com/" rel="self"/>
-  <updated>2025-12-11T08:03:08.262878</updated>
-  <entry>
-    <id>H24402</id>
-    <title>2025 Hyundai IONIQ 5 N</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8KNDA81SU004801"/>
-    <ns0:id>H24402</ns0:id>
-    <ns0:price>51686.00 USD</ns0:price>
-    <ns0:vehicle_msrp>68240.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>KM8KNDA81SU004801</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Hyundai</ns0:brand>
-    <ns0:store_code>8954334598476874759</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
-    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>8954334598476874759</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Hyundai</ns0:make>
-    <ns0:model>IONIQ 5 N</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8KNDA81SU004801&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:mileage>31 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Atlas White</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639141--EWNQZ-ltid1/1771639141.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639151--EWNQZ-ltid1/1771639151.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639161--WPVGD-ltid1/1771639161.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639171--WPVGD-ltid1/1771639171.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639181--WPVGD-ltid1/1771639181.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639191--X6TR2-ltid1/1771639191.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639201--X6TR2-ltid1/1771639201.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639211--X6TR2-ltid1/1771639211.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639221--4+N1X-ltid1/1771639221.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639231--4+N1X-ltid1/1771639231.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>IONIQ 5 N</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>H25090</id>
-    <title>2025 Hyundai Santa Cruz SEL Activity</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NTJCDDEXSH144056"/>
-    <ns0:id>H25090</ns0:id>
-    <ns0:price>30662.00 USD</ns0:price>
-    <ns0:vehicle_msrp>36955.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>5NTJCDDEXSH144056</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Hyundai</ns0:brand>
-    <ns0:store_code>8954334598476874759</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
-    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>8954334598476874759</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Hyundai</ns0:make>
-    <ns0:model>Santa Cruz</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NTJCDDEXSH144056&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>SEL Activity</ns0:trim>
-    <ns0:mileage>12 miles</ns0:mileage>
-    <ns0:body_style>truck</ns0:body_style>
-    <ns0:color>Hampton Gray</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640501--H4P7W-ltid1/1771640501.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640511--H4P7W-ltid1/1771640511.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640521--LPQO1-ltid1/1771640521.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640531--LPQO1-ltid1/1771640531.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640541--LPQO1-ltid1/1771640541.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640551--SNHAH-ltid1/1771640551.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640561--SNHAH-ltid1/1771640561.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640571--SNHAH-ltid1/1771640571.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640581--3PM5--ltid1/1771640581.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640591--3PM5--ltid1/1771640591.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Santa Cruz</ns0:custom_label_0>
-  </entry>
+  <updated>2025-12-11T12:04:16.123384</updated>
   <entry>
     <id>H25095</id>
     <title>2025 Hyundai Tucson Limited</title>
@@ -163,7 +86,7 @@
     <title>2025 Hyundai Elantra SEL Sport</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLM4DG8SU000724"/>
     <ns0:id>H25132</ns0:id>
-    <ns0:price>22027.00 USD</ns0:price>
+    <ns0:price>21027.00 USD</ns0:price>
     <ns0:vehicle_msrp>25030.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KMHLM4DG8SU000724</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -202,7 +125,7 @@
     <title>2025 Hyundai Elantra Hybrid SEL Sport</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLM4DJ1SU154218"/>
     <ns0:id>H25111</ns0:id>
-    <ns0:price>23235.00 USD</ns0:price>
+    <ns0:price>22235.00 USD</ns0:price>
     <ns0:vehicle_msrp>29705.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KMHLM4DJ1SU154218</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -241,7 +164,7 @@
     <title>2025 Hyundai Elantra Hybrid Limited</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLN4DJXSU153372"/>
     <ns0:id>H25131</ns0:id>
-    <ns0:price>26826.00 USD</ns0:price>
+    <ns0:price>25826.00 USD</ns0:price>
     <ns0:vehicle_msrp>31560.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KMHLN4DJXSU153372</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -393,279 +316,6 @@
     <ns0:custom_label_0>Palisade</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>H25152</id>
-    <title>2025 Hyundai Santa Fe Hybrid Calligraphy</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMP5DG15SH046450"/>
-    <ns0:id>H25152</ns0:id>
-    <ns0:price>43525.00 USD</ns0:price>
-    <ns0:vehicle_msrp>51929.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>5NMP5DG15SH046450</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Hyundai</ns0:brand>
-    <ns0:store_code>8954334598476874759</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
-    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>8954334598476874759</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Hyundai</ns0:make>
-    <ns0:model>Santa Fe Hybrid</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMP5DG15SH046450&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Calligraphy</ns0:trim>
-    <ns0:mileage>15 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Phantom Black</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642091--OUMOJ-ltid1/1771642091.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642101--EEHC8-ltid1/1771642101.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642111--EEHC8-ltid1/1771642111.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642121--EEHC8-ltid1/1771642121.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642131--XTUBM-ltid1/1771642131.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643791--XTUBM-ltid1/1771643791.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643801--XTUBM-ltid1/1771643801.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643811--AEZHE-ltid1/1771643811.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643821--AEZHE-ltid1/1771643821.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643831--LHLQ4-ltid1/1771643831.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Santa Fe Hybrid</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>H25173</id>
-    <title>2025 Hyundai Sonata Hybrid Limited</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHL54JJ1SA126289"/>
-    <ns0:id>H25173</ns0:id>
-    <ns0:price>37870.00 USD</ns0:price>
-    <ns0:vehicle_msrp>39960.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>KMHL54JJ1SA126289</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Hyundai</ns0:brand>
-    <ns0:store_code>8954334598476874759</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
-    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>8954334598476874759</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Hyundai</ns0:make>
-    <ns0:model>Sonata Hybrid</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHL54JJ1SA126289&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Limited</ns0:trim>
-    <ns0:mileage>12 miles</ns0:mileage>
-    <ns0:body_style>sedan</ns0:body_style>
-    <ns0:color>Ultimate red</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640401--FVBBI-ltid1/1771640401.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640411--FVBBI-ltid1/1771640411.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640421--OUMOJ-ltid1/1771640421.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640431--OUMOJ-ltid1/1771640431.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639641--Y2K11-ltid1/1771639641.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639651--+PYBP-ltid1/1771639651.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639661--+PYBP-ltid1/1771639661.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639671--8Q9WK-ltid1/1771639671.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639681--8Q9WK-ltid1/1771639681.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639691--8Q9WK-ltid1/1771639691.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Sonata Hybrid</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>H25169</id>
-    <title>2025 Hyundai Kona SEL</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8HBCABXSU317807"/>
-    <ns0:id>H25169</ns0:id>
-    <ns0:price>24886.00 USD</ns0:price>
-    <ns0:vehicle_msrp>29595.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>KM8HBCABXSU317807</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Hyundai</ns0:brand>
-    <ns0:store_code>8954334598476874759</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
-    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>8954334598476874759</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Hyundai</ns0:make>
-    <ns0:model>Kona</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8HBCABXSU317807&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>SEL</ns0:trim>
-    <ns0:mileage>9 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Denim Blue</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639841--MFIL5-ltid1/1771639841.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639851--MFIL5-ltid1/1771639851.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639861--ELCBZ-ltid1/1771639861.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639871--ELCBZ-ltid1/1771639871.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639881--ZFLKA-ltid1/1771639881.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640191--ZFLKA-ltid1/1771640191.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640201--ZFLKA-ltid1/1771640201.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640211--WTCGX-ltid1/1771640211.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640221--WTCGX-ltid1/1771640221.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640231--WTCGX-ltid1/1771640231.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Kona</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>H25158</id>
-    <title>2025 Hyundai IONIQ 5 SE</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKMDDC1SY019078"/>
-    <ns0:id>H25158</ns0:id>
-    <ns0:price>38707.00 USD</ns0:price>
-    <ns0:vehicle_msrp>51945.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>7YAKMDDC1SY019078</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Hyundai</ns0:brand>
-    <ns0:store_code>8954334598476874759</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
-    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>8954334598476874759</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Hyundai</ns0:make>
-    <ns0:model>IONIQ 5</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKMDDC1SY019078&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>SE</ns0:trim>
-    <ns0:mileage>1 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Abyss Black</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643081--CRYVG-ltid1/1771643081.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643091--CRYVG-ltid1/1771643091.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643101--3NUH4-ltid1/1771643101.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643111--3NUH4-ltid1/1771643111.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643121--3NUH4-ltid1/1771643121.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643131--ZDR1N-ltid1/1771643131.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643141--ZDR1N-ltid1/1771643141.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643151--3+3GX-ltid1/1771643151.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643161--3+3GX-ltid1/1771643161.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643171--3+3GX-ltid1/1771643171.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>IONIQ 5</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>H25161</id>
-    <title>2025 Hyundai IONIQ 5 SEL</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKNDDC4SY019413"/>
-    <ns0:id>H25161</ns0:id>
-    <ns0:price>42219.00 USD</ns0:price>
-    <ns0:vehicle_msrp>55530.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>7YAKNDDC4SY019413</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Hyundai</ns0:brand>
-    <ns0:store_code>8954334598476874759</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
-    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>8954334598476874759</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Hyundai</ns0:make>
-    <ns0:model>IONIQ 5</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKNDDC4SY019413&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>SEL</ns0:trim>
-    <ns0:mileage>18 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Cyber Gray</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640041--MK7OJ-ltid1/1771640041.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640051--MK7OJ-ltid1/1771640051.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640061--GI04M-ltid1/1771640061.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640071--GI04M-ltid1/1771640071.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640081--GI04M-ltid1/1771640081.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640091--XGJFX-ltid1/1771640091.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640101--XGJFX-ltid1/1771640101.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640111--H7AOG-ltid1/1771640111.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640121--H7AOG-ltid1/1771640121.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640131--H7AOG-ltid1/1771640131.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>IONIQ 5</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>H25163</id>
-    <title>2025 Hyundai IONIQ 5 SEL</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKNDDC6SY021602"/>
-    <ns0:id>H25163</ns0:id>
-    <ns0:price>42291.00 USD</ns0:price>
-    <ns0:vehicle_msrp>55605.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>7YAKNDDC6SY021602</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Hyundai</ns0:brand>
-    <ns0:store_code>8954334598476874759</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
-    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>8954334598476874759</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Hyundai</ns0:make>
-    <ns0:model>IONIQ 5</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKNDDC6SY021602&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>SEL</ns0:trim>
-    <ns0:mileage>8 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Cyber Gray</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640171--M5DB3-ltid1/1771640171.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640181--M5DB3-ltid1/1771640181.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642141--KUOMF-ltid1/1771642141.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642151--VIPPD-ltid1/1771642151.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642161--VIPPD-ltid1/1771642161.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642171--VIPPD-ltid1/1771642171.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642181--HVIYK-ltid1/1771642181.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640441--9TAPK-ltid1/1771640441.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640451--9TAPK-ltid1/1771640451.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640461--0S4+S-ltid1/1771640461.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>IONIQ 5</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>H25185</id>
-    <title>2025 Hyundai Sonata SEL</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHL64JA0SA508486"/>
-    <ns0:id>H25185</ns0:id>
-    <ns0:price>24031.00 USD</ns0:price>
-    <ns0:vehicle_msrp>30330.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>KMHL64JA0SA508486</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Hyundai</ns0:brand>
-    <ns0:store_code>8954334598476874759</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
-    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>8954334598476874759</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Hyundai</ns0:make>
-    <ns0:model>Sonata</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHL64JA0SA508486&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>SEL</ns0:trim>
-    <ns0:mileage>11 miles</ns0:mileage>
-    <ns0:body_style>sedan</ns0:body_style>
-    <ns0:color>Serenity White</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642191--JDA7Y-ltid1/1771642191.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642201--JDA7Y-ltid1/1771642201.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642211--VQU5C-ltid1/1771642211.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642221--VQU5C-ltid1/1771642221.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642231--VQU5C-ltid1/1771642231.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642241--QK4+V-ltid1/1771642241.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642251--QK4+V-ltid1/1771642251.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642261--QK4+V-ltid1/1771642261.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642271--VGVTH-ltid1/1771642271.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642281--VGVTH-ltid1/1771642281.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Sonata</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>H25188</id>
     <title>2025 Hyundai Kona SEL Convenience</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8HCCAB4SU322577"/>
@@ -748,7 +398,7 @@
     <title>2025 Hyundai Elantra Hybrid SEL Sport</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLM4DJ7SU168768"/>
     <ns0:id>H25210</ns0:id>
-    <ns0:price>22767.00 USD</ns0:price>
+    <ns0:price>21767.00 USD</ns0:price>
     <ns0:vehicle_msrp>29185.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KMHLM4DJ7SU168768</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1096,7 +746,7 @@
     <title>2025 Hyundai Elantra SEL Sport</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLM4DG3SU061818"/>
     <ns0:id>H25237</ns0:id>
-    <ns0:price>22095.00 USD</ns0:price>
+    <ns0:price>21095.00 USD</ns0:price>
     <ns0:vehicle_msrp>25105.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KMHLM4DG3SU061818</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1135,7 +785,7 @@
     <title>2025 Hyundai Elantra SEL Sport</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLM4DG4SU060516"/>
     <ns0:id>H25236</ns0:id>
-    <ns0:price>22095.00 USD</ns0:price>
+    <ns0:price>21095.00 USD</ns0:price>
     <ns0:vehicle_msrp>25105.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KMHLM4DG4SU060516</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1174,7 +824,7 @@
     <title>2025 Hyundai Elantra SEL Sport</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLM4DG7SU064186"/>
     <ns0:id>H25240</ns0:id>
-    <ns0:price>22500.00 USD</ns0:price>
+    <ns0:price>21500.00 USD</ns0:price>
     <ns0:vehicle_msrp>25555.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KMHLM4DG7SU064186</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1213,7 +863,7 @@
     <title>2025 Hyundai Elantra SEL Sport</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLM4DG8SU064231"/>
     <ns0:id>H25239</ns0:id>
-    <ns0:price>22144.00 USD</ns0:price>
+    <ns0:price>21144.00 USD</ns0:price>
     <ns0:vehicle_msrp>25160.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KMHLM4DG8SU064231</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1873,7 +1523,7 @@
     <title>2025 Hyundai Elantra SEL Sport</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLM4DGXSU062108"/>
     <ns0:id>HD25135</ns0:id>
-    <ns0:price>22095.00 USD</ns0:price>
+    <ns0:price>21095.00 USD</ns0:price>
     <ns0:vehicle_msrp>25105.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KMHLM4DGXSU062108</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1912,7 +1562,7 @@
     <title>2025 Hyundai Elantra Hybrid SEL Sport</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLM4DJ7SU177308"/>
     <ns0:id>H25256</ns0:id>
-    <ns0:price>23023.00 USD</ns0:price>
+    <ns0:price>22023.00 USD</ns0:price>
     <ns0:vehicle_msrp>29470.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KMHLM4DJ7SU177308</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1990,7 +1640,7 @@
     <title>2025 Hyundai Elantra SEL Sport</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLM4DG3SU077095"/>
     <ns0:id>H25263</ns0:id>
-    <ns0:price>22081.00 USD</ns0:price>
+    <ns0:price>21081.00 USD</ns0:price>
     <ns0:vehicle_msrp>25090.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KMHLM4DG3SU077095</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -2029,7 +1679,7 @@
     <title>2025 Hyundai Elantra Limited</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLP4DG8SU081585"/>
     <ns0:id>H25259</ns0:id>
-    <ns0:price>25227.00 USD</ns0:price>
+    <ns0:price>24227.00 USD</ns0:price>
     <ns0:vehicle_msrp>28585.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KMHLP4DG8SU081585</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -2146,7 +1796,7 @@
     <title>2026 Hyundai Kona SEL Sport</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8HFCAB5TU371571"/>
     <ns0:id>H26032</ns0:id>
-    <ns0:price>27818.00 USD</ns0:price>
+    <ns0:price>27068.00 USD</ns0:price>
     <ns0:vehicle_msrp>30800.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KM8HFCAB5TU371571</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -2263,7 +1913,7 @@
     <title>2025 Hyundai Elantra SE</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLL4DG2SU077401"/>
     <ns0:id>HD25148</ns0:id>
-    <ns0:price>21105.00 USD</ns0:price>
+    <ns0:price>20105.00 USD</ns0:price>
     <ns0:vehicle_msrp>24005.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KMHLL4DG2SU077401</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -2341,7 +1991,7 @@
     <title>2025 Hyundai Elantra SE</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLL4DG3SU090769"/>
     <ns0:id>H25269</ns0:id>
-    <ns0:price>21132.00 USD</ns0:price>
+    <ns0:price>20132.00 USD</ns0:price>
     <ns0:vehicle_msrp>24035.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KMHLL4DG3SU090769</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -2380,7 +2030,7 @@
     <title>2025 Hyundai Elantra Limited</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLP4DG4SU080885"/>
     <ns0:id>H25270</ns0:id>
-    <ns0:price>25267.00 USD</ns0:price>
+    <ns0:price>24267.00 USD</ns0:price>
     <ns0:vehicle_msrp>28630.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KMHLP4DG4SU080885</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -3419,7 +3069,7 @@
     <title>2026 Hyundai Santa Cruz SEL Activity</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NTJCDDE6TH164712"/>
     <ns0:id>H26061</ns0:id>
-    <ns0:price>35794.00 USD</ns0:price>
+    <ns0:price>35044.00 USD</ns0:price>
     <ns0:vehicle_msrp>38345.00 USD</ns0:vehicle_msrp>
     <ns0:vin>5NTJCDDE6TH164712</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -3682,45 +3332,6 @@
     <ns0:custom_label_0>IONIQ 5</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>H26068</id>
-    <title>2026 Hyundai IONIQ 5 SEL</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKNDDC1TY043623"/>
-    <ns0:id>H26068</ns0:id>
-    <ns0:price>42751.00 USD</ns0:price>
-    <ns0:vehicle_msrp>45375.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>7YAKNDDC1TY043623</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Hyundai</ns0:brand>
-    <ns0:store_code>8954334598476874759</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
-    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>8954334598476874759</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Hyundai</ns0:make>
-    <ns0:model>IONIQ 5</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKNDDC1TY043623&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>SEL</ns0:trim>
-    <ns0:mileage>19 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Lucid Blue</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1803135961--PY0WA-ltid1/1803135961.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1803135971--OYG9Q-ltid1/1803135971.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1803135981--OYG9Q-ltid1/1803135981.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1803135991--HNI7Z-ltid1/1803135991.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1803136001--AFQER-ltid1/1803136001.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1803136011--O-EC8-ltid1/1803136011.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1803136021--GHWGS-ltid1/1803136021.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1803136031--6GDZC-ltid1/1803136031.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1803136041--6GDZC-ltid1/1803136041.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1803136051--RFIX6-ltid1/1803136051.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>IONIQ 5</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>H26070</id>
     <title>2026 Hyundai IONIQ 5 SEL</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKNDDC3TY044353"/>
@@ -3841,7 +3452,7 @@
     <title>2026 Hyundai Kona SE</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8HACAB1TU392531"/>
     <ns0:id>H26073</ns0:id>
-    <ns0:price>27315.00 USD</ns0:price>
+    <ns0:price>26565.00 USD</ns0:price>
     <ns0:vehicle_msrp>29815.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KM8HACAB1TU392531</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -4036,7 +3647,7 @@
     <title>2026 Hyundai Kona SEL Premium</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8HDCA38TU409941"/>
     <ns0:id>H26079</ns0:id>
-    <ns0:price>28875.00 USD</ns0:price>
+    <ns0:price>28125.00 USD</ns0:price>
     <ns0:vehicle_msrp>31375.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KM8HDCA38TU409941</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -4223,7 +3834,7 @@
     <title>2025 Hyundai Elantra SE</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLL4DG5SU936819"/>
     <ns0:id>H25050</ns0:id>
-    <ns0:price>20701.00 USD</ns0:price>
+    <ns0:price>19701.00 USD</ns0:price>
     <ns0:vehicle_msrp>23445.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KMHLL4DG5SU936819</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -4262,7 +3873,7 @@
     <title>2025 Hyundai Elantra SEL Sport</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLM4DG5SU956663"/>
     <ns0:id>H25069</ns0:id>
-    <ns0:price>21404.00 USD</ns0:price>
+    <ns0:price>20404.00 USD</ns0:price>
     <ns0:vehicle_msrp>24885.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KMHLM4DG5SU956663</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -4301,7 +3912,7 @@
     <title>2025 Hyundai Elantra Hybrid SEL Sport</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLM4DJ5SU144615"/>
     <ns0:id>H25110</ns0:id>
-    <ns0:price>23284.00 USD</ns0:price>
+    <ns0:price>22284.00 USD</ns0:price>
     <ns0:vehicle_msrp>29105.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KMHLM4DJ5SU144615</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -4340,7 +3951,7 @@
     <title>2025 Hyundai Elantra Hybrid Limited</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLN4DJ5SU153571"/>
     <ns0:id>H25113</ns0:id>
-    <ns0:price>26244.00 USD</ns0:price>
+    <ns0:price>25244.00 USD</ns0:price>
     <ns0:vehicle_msrp>31620.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KMHLN4DJ5SU153571</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -4802,7 +4413,7 @@
     <title>2025 Hyundai Santa Cruz SEL Activity</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NTJCDDE5SH143400"/>
     <ns0:id>H25089</ns0:id>
-    <ns0:price>31458.00 USD</ns0:price>
+    <ns0:price>30458.00 USD</ns0:price>
     <ns0:vehicle_msrp>37010.00 USD</ns0:vehicle_msrp>
     <ns0:vin>5NTJCDDE5SH143400</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -4841,7 +4452,7 @@
     <title>2026 Hyundai Kona SE</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8HACAB0TU405088"/>
     <ns0:id>H26086</ns0:id>
-    <ns0:price>28255.00 USD</ns0:price>
+    <ns0:price>27505.00 USD</ns0:price>
     <ns0:vehicle_msrp>29005.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KM8HACAB0TU405088</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -4958,7 +4569,7 @@
     <title>2026 Hyundai Santa Cruz SEL</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NTJBDDEXTH167583"/>
     <ns0:id>H26087</ns0:id>
-    <ns0:price>33314.00 USD</ns0:price>
+    <ns0:price>32564.00 USD</ns0:price>
     <ns0:vehicle_msrp>35440.00 USD</ns0:vehicle_msrp>
     <ns0:vin>5NTJBDDEXTH167583</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -5061,7 +4672,7 @@
     <title>2026 Hyundai IONIQ 5 SEL</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKNDDC4TY045902"/>
     <ns0:id>H26094</ns0:id>
-    <ns0:price>43192.00 USD</ns0:price>
+    <ns0:price>43247.00 USD</ns0:price>
     <ns0:vehicle_msrp>45885.00 USD</ns0:vehicle_msrp>
     <ns0:vin>7YAKNDDC4TY045902</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -5093,7 +4704,7 @@
     <title>2026 Hyundai IONIQ 5 SEL</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKNDDC4TY046368"/>
     <ns0:id>H26095</ns0:id>
-    <ns0:price>42810.00 USD</ns0:price>
+    <ns0:price>42865.00 USD</ns0:price>
     <ns0:vehicle_msrp>45495.00 USD</ns0:vehicle_msrp>
     <ns0:vin>7YAKNDDC4TY046368</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -5125,7 +4736,7 @@
     <title>2026 Hyundai IONIQ 5 SEL</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKNDDC8TY045899"/>
     <ns0:id>H26091</ns0:id>
-    <ns0:price>42810.00 USD</ns0:price>
+    <ns0:price>42865.00 USD</ns0:price>
     <ns0:vehicle_msrp>45495.00 USD</ns0:vehicle_msrp>
     <ns0:vin>7YAKNDDC8TY045899</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -5157,7 +4768,7 @@
     <title>2026 Hyundai IONIQ 5 SEL</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKNDDC9TY043675"/>
     <ns0:id>H26092</ns0:id>
-    <ns0:price>42595.00 USD</ns0:price>
+    <ns0:price>42650.00 USD</ns0:price>
     <ns0:vehicle_msrp>45275.00 USD</ns0:vehicle_msrp>
     <ns0:vin>7YAKNDDC9TY043675</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -5189,7 +4800,7 @@
     <title>2026 Hyundai IONIQ 9 SE</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAMTFS34TY009463"/>
     <ns0:id>H26093</ns0:id>
-    <ns0:price>58935.00 USD</ns0:price>
+    <ns0:price>58990.00 USD</ns0:price>
     <ns0:vehicle_msrp>66040.00 USD</ns0:vehicle_msrp>
     <ns0:vin>7YAMTFS34TY009463</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -5215,5 +4826,401 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1851522821--JPU6J-ltid1/1851522821.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1851522831--JPU6J-ltid1/1851522831.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>IONIQ 9</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>H26097</id>
+    <title>2026 HYUNDAI SONATA SEL SPORT AWD</title>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com//inventory/details/KMHL64JA3TA551561"/>
+    <ns0:id>H26097</ns0:id>
+    <ns0:price>30597.00 USD</ns0:price>
+    <ns0:vehicle_msrp>32550.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KMHL64JA3TA551561</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>HYUNDAI</ns0:brand>
+    <ns0:store_code>8954334598476874759</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
+    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8954334598476874759</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>HYUNDAI</ns0:make>
+    <ns0:model>SONATA</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletondowntownhyundai.com//inventory/details/KMHL64JA3TA551561?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SEL SPORT AWD</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:color>PORTOFINO GRAY</ns0:color>
+    <ns0:custom_label_0>SONATA</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>H26096</id>
+    <title>2026 HYUNDAI TUCSON SEL PREMIUM AWD</title>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com//inventory/details/5NMJCCDE8TH666501"/>
+    <ns0:id>H26096</ns0:id>
+    <ns0:price>36029.00 USD</ns0:price>
+    <ns0:vehicle_msrp>37530.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>5NMJCCDE8TH666501</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>HYUNDAI</ns0:brand>
+    <ns0:store_code>8954334598476874759</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
+    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8954334598476874759</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>HYUNDAI</ns0:make>
+    <ns0:model>TUCSON</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletondowntownhyundai.com//inventory/details/5NMJCCDE8TH666501?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SEL PREMIUM AWD</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:color>BLACK</ns0:color>
+    <ns0:custom_label_0>TUCSON</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>H26098</id>
+    <title>2026 HYUNDAI SANTA FE SEL AWD</title>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com//inventory/details/5NMP2DGL1TH184272"/>
+    <ns0:id>H26098</ns0:id>
+    <ns0:price>39582.00 USD</ns0:price>
+    <ns0:vehicle_msrp>41665.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>5NMP2DGL1TH184272</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>HYUNDAI</ns0:brand>
+    <ns0:store_code>8954334598476874759</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
+    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8954334598476874759</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>HYUNDAI</ns0:make>
+    <ns0:model>SANTA FE</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletondowntownhyundai.com//inventory/details/5NMP2DGL1TH184272?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SEL AWD</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:color>BLACK</ns0:color>
+    <ns0:custom_label_0>SANTA FE</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>H25090</id>
+    <title>2025 Hyundai Santa Cruz SEL Activity</title>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NTJCDDEXSH144056"/>
+    <ns0:id>H25090</ns0:id>
+    <ns0:price>29662.00 USD</ns0:price>
+    <ns0:vehicle_msrp>36955.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>5NTJCDDEXSH144056</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Hyundai</ns0:brand>
+    <ns0:store_code>8954334598476874759</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
+    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8954334598476874759</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Hyundai</ns0:make>
+    <ns0:model>Santa Cruz</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NTJCDDEXSH144056&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SEL Activity</ns0:trim>
+    <ns0:mileage>12 miles</ns0:mileage>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>Hampton Gray</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640501--H4P7W-ltid1/1771640501.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640511--H4P7W-ltid1/1771640511.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640521--LPQO1-ltid1/1771640521.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640531--LPQO1-ltid1/1771640531.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640541--LPQO1-ltid1/1771640541.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640551--SNHAH-ltid1/1771640551.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640561--SNHAH-ltid1/1771640561.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640571--SNHAH-ltid1/1771640571.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640581--3PM5--ltid1/1771640581.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640591--3PM5--ltid1/1771640591.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Santa Cruz</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>H25152</id>
+    <title>2025 Hyundai Santa Fe Hybrid Calligraphy</title>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMP5DG15SH046450"/>
+    <ns0:id>H25152</ns0:id>
+    <ns0:price>43525.00 USD</ns0:price>
+    <ns0:vehicle_msrp>51929.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>5NMP5DG15SH046450</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Hyundai</ns0:brand>
+    <ns0:store_code>8954334598476874759</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
+    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8954334598476874759</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Hyundai</ns0:make>
+    <ns0:model>Santa Fe Hybrid</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMP5DG15SH046450&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Calligraphy</ns0:trim>
+    <ns0:mileage>15 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Phantom Black</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642091--OUMOJ-ltid1/1771642091.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642101--EEHC8-ltid1/1771642101.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642111--EEHC8-ltid1/1771642111.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642121--EEHC8-ltid1/1771642121.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642131--XTUBM-ltid1/1771642131.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643791--XTUBM-ltid1/1771643791.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643801--XTUBM-ltid1/1771643801.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643811--AEZHE-ltid1/1771643811.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643821--AEZHE-ltid1/1771643821.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643831--LHLQ4-ltid1/1771643831.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Santa Fe Hybrid</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>H25173</id>
+    <title>2025 Hyundai Sonata Hybrid Limited</title>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHL54JJ1SA126289"/>
+    <ns0:id>H25173</ns0:id>
+    <ns0:price>37870.00 USD</ns0:price>
+    <ns0:vehicle_msrp>39960.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KMHL54JJ1SA126289</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Hyundai</ns0:brand>
+    <ns0:store_code>8954334598476874759</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
+    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8954334598476874759</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Hyundai</ns0:make>
+    <ns0:model>Sonata Hybrid</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHL54JJ1SA126289&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Limited</ns0:trim>
+    <ns0:mileage>12 miles</ns0:mileage>
+    <ns0:body_style>sedan</ns0:body_style>
+    <ns0:color>Ultimate red</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640401--FVBBI-ltid1/1771640401.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640411--FVBBI-ltid1/1771640411.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640421--OUMOJ-ltid1/1771640421.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640431--OUMOJ-ltid1/1771640431.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639641--Y2K11-ltid1/1771639641.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639651--+PYBP-ltid1/1771639651.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639661--+PYBP-ltid1/1771639661.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639671--8Q9WK-ltid1/1771639671.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639681--8Q9WK-ltid1/1771639681.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639691--8Q9WK-ltid1/1771639691.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Sonata Hybrid</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>H25169</id>
+    <title>2025 Hyundai Kona SEL</title>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8HBCABXSU317807"/>
+    <ns0:id>H25169</ns0:id>
+    <ns0:price>24886.00 USD</ns0:price>
+    <ns0:vehicle_msrp>29595.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KM8HBCABXSU317807</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Hyundai</ns0:brand>
+    <ns0:store_code>8954334598476874759</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
+    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8954334598476874759</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Hyundai</ns0:make>
+    <ns0:model>Kona</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8HBCABXSU317807&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SEL</ns0:trim>
+    <ns0:mileage>9 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Denim Blue</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639841--MFIL5-ltid1/1771639841.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639851--MFIL5-ltid1/1771639851.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639861--ELCBZ-ltid1/1771639861.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639871--ELCBZ-ltid1/1771639871.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639881--ZFLKA-ltid1/1771639881.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640191--ZFLKA-ltid1/1771640191.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640201--ZFLKA-ltid1/1771640201.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640211--WTCGX-ltid1/1771640211.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640221--WTCGX-ltid1/1771640221.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640231--WTCGX-ltid1/1771640231.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Kona</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>H25158</id>
+    <title>2025 Hyundai IONIQ 5 SE</title>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKMDDC1SY019078"/>
+    <ns0:id>H25158</ns0:id>
+    <ns0:price>38707.00 USD</ns0:price>
+    <ns0:vehicle_msrp>51945.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>7YAKMDDC1SY019078</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Hyundai</ns0:brand>
+    <ns0:store_code>8954334598476874759</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
+    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8954334598476874759</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Hyundai</ns0:make>
+    <ns0:model>IONIQ 5</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKMDDC1SY019078&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SE</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Abyss Black</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643081--CRYVG-ltid1/1771643081.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643091--CRYVG-ltid1/1771643091.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643101--3NUH4-ltid1/1771643101.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643111--3NUH4-ltid1/1771643111.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643121--3NUH4-ltid1/1771643121.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643131--ZDR1N-ltid1/1771643131.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643141--ZDR1N-ltid1/1771643141.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643151--3+3GX-ltid1/1771643151.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643161--3+3GX-ltid1/1771643161.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643171--3+3GX-ltid1/1771643171.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>IONIQ 5</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>H25161</id>
+    <title>2025 Hyundai IONIQ 5 SEL</title>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKNDDC4SY019413"/>
+    <ns0:id>H25161</ns0:id>
+    <ns0:price>42219.00 USD</ns0:price>
+    <ns0:vehicle_msrp>55530.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>7YAKNDDC4SY019413</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Hyundai</ns0:brand>
+    <ns0:store_code>8954334598476874759</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
+    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8954334598476874759</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Hyundai</ns0:make>
+    <ns0:model>IONIQ 5</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKNDDC4SY019413&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SEL</ns0:trim>
+    <ns0:mileage>18 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Cyber Gray</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640041--MK7OJ-ltid1/1771640041.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640051--MK7OJ-ltid1/1771640051.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640061--GI04M-ltid1/1771640061.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640071--GI04M-ltid1/1771640071.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640081--GI04M-ltid1/1771640081.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640091--XGJFX-ltid1/1771640091.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640101--XGJFX-ltid1/1771640101.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640111--H7AOG-ltid1/1771640111.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640121--H7AOG-ltid1/1771640121.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640131--H7AOG-ltid1/1771640131.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>IONIQ 5</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>H25163</id>
+    <title>2025 Hyundai IONIQ 5 SEL</title>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKNDDC6SY021602"/>
+    <ns0:id>H25163</ns0:id>
+    <ns0:price>42291.00 USD</ns0:price>
+    <ns0:vehicle_msrp>55605.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>7YAKNDDC6SY021602</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Hyundai</ns0:brand>
+    <ns0:store_code>8954334598476874759</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
+    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8954334598476874759</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Hyundai</ns0:make>
+    <ns0:model>IONIQ 5</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKNDDC6SY021602&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SEL</ns0:trim>
+    <ns0:mileage>8 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Cyber Gray</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640171--M5DB3-ltid1/1771640171.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640181--M5DB3-ltid1/1771640181.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642141--KUOMF-ltid1/1771642141.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642151--VIPPD-ltid1/1771642151.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642161--VIPPD-ltid1/1771642161.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642171--VIPPD-ltid1/1771642171.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642181--HVIYK-ltid1/1771642181.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640441--9TAPK-ltid1/1771640441.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640451--9TAPK-ltid1/1771640451.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640461--0S4+S-ltid1/1771640461.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>IONIQ 5</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>H25185</id>
+    <title>2025 Hyundai Sonata SEL</title>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHL64JA0SA508486"/>
+    <ns0:id>H25185</ns0:id>
+    <ns0:price>24031.00 USD</ns0:price>
+    <ns0:vehicle_msrp>30330.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KMHL64JA0SA508486</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Hyundai</ns0:brand>
+    <ns0:store_code>8954334598476874759</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
+    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8954334598476874759</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Hyundai</ns0:make>
+    <ns0:model>Sonata</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHL64JA0SA508486&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SEL</ns0:trim>
+    <ns0:mileage>11 miles</ns0:mileage>
+    <ns0:body_style>sedan</ns0:body_style>
+    <ns0:color>Serenity White</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642191--JDA7Y-ltid1/1771642191.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642201--JDA7Y-ltid1/1771642201.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642211--VQU5C-ltid1/1771642211.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642221--VQU5C-ltid1/1771642221.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642231--VQU5C-ltid1/1771642231.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642241--QK4+V-ltid1/1771642241.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642251--QK4+V-ltid1/1771642251.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642261--QK4+V-ltid1/1771642261.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642271--VGVTH-ltid1/1771642271.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771642281--VGVTH-ltid1/1771642281.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Sonata</ns0:custom_label_0>
   </entry>
 </feed>

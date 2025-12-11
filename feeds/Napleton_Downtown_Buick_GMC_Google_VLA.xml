@@ -2,17 +2,17 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Downtown Buick GMC Inventory Feed</title>
   <link href="https://www.downtownbuickgmc.com" rel="self"/>
-  <updated>2025-12-11T08:03:08.190025</updated>
+  <updated>2025-12-11T12:04:16.047394</updated>
   <entry>
-    <id>T24038</id>
-    <title>2024 GMC HUMMER EV SUV 3X</title>
-    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2024-gmc-hummer-ev-suv-3x-four-wheel-drive-suv-1gkb0rdc7ru102181/"/>
-    <ns0:id>T24038</ns0:id>
-    <ns0:price>96180.00 USD</ns0:price>
-    <ns0:vehicle_msrp>116180.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1GKB0RDC7RU102181</ns0:vin>
+    <id>B26001</id>
+    <title>2026 Buick Encore GX Preferred</title>
+    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-buick-encore-gx-preferred-front-wheel-drive-suv-kl4ambsl4tb045697/"/>
+    <ns0:id>B26001</ns0:id>
+    <ns0:price>27769.00 USD</ns0:price>
+    <ns0:vehicle_msrp>30515.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KL4AMBSL4TB045697</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>GMC</ns0:brand>
+    <ns0:brand>Buick</ns0:brand>
     <ns0:store_code>4088446453747783674</ns0:store_code>
     <ns0:dealership_name>Napleton Downtown Buick GMC</ns0:dealership_name>
     <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
@@ -20,34 +20,73 @@
       <ns0:option>in_store</ns0:option>
       <ns0:store_code>4088446453747783674</ns0:store_code>
     </ns0:vehicle_fulfillment>
-    <ns0:year>2024</ns0:year>
-    <ns0:make>GMC</ns0:make>
-    <ns0:model>HUMMER EV SUV</ns0:model>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Buick</ns0:make>
+    <ns0:model>Encore GX</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/new-2024-gmc-hummer-ev-suv-3x-four-wheel-drive-suv-1gkb0rdc7ru102181/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>3X</ns0:trim>
-    <ns0:mileage>1788 miles</ns0:mileage>
+    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/new-2026-buick-encore-gx-preferred-front-wheel-drive-suv-kl4ambsl4tb045697/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Preferred</ns0:trim>
+    <ns0:mileage>4 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Moonshot Green Matte</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771673961--S1TH8-ltid1/1771673961.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771673971--S1TH8-ltid1/1771673971.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771673981--LBDHL-ltid1/1771673981.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771673991--LBDHL-ltid1/1771673991.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674001--BOFDU-ltid1/1771674001.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674011--BOFDU-ltid1/1771674011.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674021--WJCBK-ltid1/1771674021.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674031--WJCBK-ltid1/1771674031.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674041--IGEWV-ltid1/1771674041.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674051--IGEWV-ltid1/1771674051.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>HUMMER EV SUV</ns0:custom_label_0>
+    <ns0:color>Ocean Blue Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771678861--Z7ZKP-ltid1/1771678861.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771678871--NYNJ2-ltid1/1771678871.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771678881--NYNJ2-ltid1/1771678881.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771678891--DIU-Q-ltid1/1771678891.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771678901--DIU-Q-ltid1/1771678901.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771678911--DIU-Q-ltid1/1771678911.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771678921--WNTUM-ltid1/1771678921.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771678931--WNTUM-ltid1/1771678931.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771678941--TFEEY-ltid1/1771678941.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771678951--TFEEY-ltid1/1771678951.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Encore GX</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>B25209</id>
+    <title>2025 Buick Envista Preferred</title>
+    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2025-buick-envista-preferred-front-wheel-drive-suv-kl47laep7sb225857/"/>
+    <ns0:id>B25209</ns0:id>
+    <ns0:price>23571.00 USD</ns0:price>
+    <ns0:vehicle_msrp>26785.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KL47LAEP7SB225857</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Buick</ns0:brand>
+    <ns0:store_code>4088446453747783674</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Buick GMC</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>4088446453747783674</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Buick</ns0:make>
+    <ns0:model>Envista</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/new-2025-buick-envista-preferred-front-wheel-drive-suv-kl47laep7sb225857/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Preferred</ns0:trim>
+    <ns0:mileage>3 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Summit White</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677741--HPP8K-ltid1/1771677741.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677751--HPP8K-ltid1/1771677751.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677761--Z49WV-ltid1/1771677761.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677771--Z49WV-ltid1/1771677771.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677781--UMKVN-ltid1/1771677781.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677791--UMKVN-ltid1/1771677791.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677801--UMKVN-ltid1/1771677801.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677811--DQTCD-ltid1/1771677811.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677821--DQTCD-ltid1/1771677821.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677831--CVSOA-ltid1/1771677831.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Envista</ns0:custom_label_0>
   </entry>
   <entry>
     <id>T25000</id>
     <title>2025 GMC HUMMER EV Pickup 3X</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2025-gmc-hummer-ev-pickup-3x-four-wheel-drive-crew-cab-1gt10ddb7su101085/"/>
     <ns0:id>T25000</ns0:id>
-    <ns0:price>90570.00 USD</ns0:price>
+    <ns0:price>87570.00 USD</ns0:price>
     <ns0:vehicle_msrp>107570.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1GT10DDB7SU101085</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -125,7 +164,7 @@
     <title>2025 GMC Sierra EV Extended Range Denali</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2025-gmc-sierra-ev-extended-range-denali-four-wheel-drive-crew-cab-1gt10med0su412714/"/>
     <ns0:id>T25007</ns0:id>
-    <ns0:price>83507.00 USD</ns0:price>
+    <ns0:price>74229.00 USD</ns0:price>
     <ns0:vehicle_msrp>92785.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1GT10MED0SU412714</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -237,50 +276,11 @@
     <ns0:custom_label_0>Envista</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>B25209</id>
-    <title>2025 Buick Envista Preferred</title>
-    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2025-buick-envista-preferred-front-wheel-drive-suv-kl47laep7sb225857/"/>
-    <ns0:id>B25209</ns0:id>
-    <ns0:price>23571.00 USD</ns0:price>
-    <ns0:vehicle_msrp>26785.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>KL47LAEP7SB225857</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Buick</ns0:brand>
-    <ns0:store_code>4088446453747783674</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Buick GMC</ns0:dealership_name>
-    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>4088446453747783674</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Buick</ns0:make>
-    <ns0:model>Envista</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/new-2025-buick-envista-preferred-front-wheel-drive-suv-kl47laep7sb225857/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Preferred</ns0:trim>
-    <ns0:mileage>3 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Summit White</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677741--HPP8K-ltid1/1771677741.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677751--HPP8K-ltid1/1771677751.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677761--Z49WV-ltid1/1771677761.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677771--Z49WV-ltid1/1771677771.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677781--UMKVN-ltid1/1771677781.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677791--UMKVN-ltid1/1771677791.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677801--UMKVN-ltid1/1771677801.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677811--DQTCD-ltid1/1771677811.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677821--DQTCD-ltid1/1771677821.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677831--CVSOA-ltid1/1771677831.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Envista</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>T25009</id>
     <title>2025 GMC Canyon 4WD AT4</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2025-gmc-canyon-at4-four-wheel-drive-crew-cab-1gtp2dek0s1238809/"/>
     <ns0:id>T25009</ns0:id>
-    <ns0:price>48835.00 USD</ns0:price>
+    <ns0:price>46725.00 USD</ns0:price>
     <ns0:vehicle_msrp>52750.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1GTP2DEK0S1238809</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -319,7 +319,7 @@
     <title>2025 GMC Sierra 2500HD SLT</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2025-gmc-sierra-2500-hd-slt-four-wheel-drive-crew-cab-1gt4une76sf346028/"/>
     <ns0:id>T25011</ns0:id>
-    <ns0:price>70027.00 USD</ns0:price>
+    <ns0:price>66289.00 USD</ns0:price>
     <ns0:vehicle_msrp>74765.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1GT4UNE76SF346028</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -358,7 +358,7 @@
     <title>2026 GMC Terrain AWD Denali</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-gmc-terrain-denali-all-wheel-drive-suv-3gkalzeg0tl204847/"/>
     <ns0:id>T26005</ns0:id>
-    <ns0:price>42043.00 USD</ns0:price>
+    <ns0:price>41158.00 USD</ns0:price>
     <ns0:vehicle_msrp>44255.00 USD</ns0:vehicle_msrp>
     <ns0:vin>3GKALZEG0TL204847</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -397,7 +397,7 @@
     <title>2026 GMC Terrain AWD Elevation</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-gmc-terrain-elevation-all-wheel-drive-suv-3gkaluegxtl198655/"/>
     <ns0:id>TD25005</ns0:id>
-    <ns0:price>36039.00 USD</ns0:price>
+    <ns0:price>35280.00 USD</ns0:price>
     <ns0:vehicle_msrp>37935.00 USD</ns0:vehicle_msrp>
     <ns0:vin>3GKALUEGXTL198655</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -436,7 +436,7 @@
     <title>2025 GMC Sierra 2500HD AT4</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2025-gmc-sierra-2500-hd-at4-four-wheel-drive-crew-cab-1gt4upey5sf357669/"/>
     <ns0:id>T25013</ns0:id>
-    <ns0:price>83816.00 USD</ns0:price>
+    <ns0:price>79352.00 USD</ns0:price>
     <ns0:vehicle_msrp>89280.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1GT4UPEY5SF357669</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -475,7 +475,7 @@
     <title>2026 GMC Terrain AWD Denali</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-gmc-terrain-denali-all-wheel-drive-suv-3gkalzeg6tl209423/"/>
     <ns0:id>T26008</ns0:id>
-    <ns0:price>42655.00 USD</ns0:price>
+    <ns0:price>41757.00 USD</ns0:price>
     <ns0:vehicle_msrp>44900.00 USD</ns0:vehicle_msrp>
     <ns0:vin>3GKALZEG6TL209423</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -514,7 +514,7 @@
     <title>2025 GMC Sierra 2500HD Denali Ultimate</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2025-gmc-sierra-2500-hd-denali-ultimate-four-wheel-drive-crew-cab-1gt4uxey3sf363549/"/>
     <ns0:id>T25015</ns0:id>
-    <ns0:price>91174.00 USD</ns0:price>
+    <ns0:price>86323.00 USD</ns0:price>
     <ns0:vehicle_msrp>97025.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1GT4UXEY3SF363549</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -553,7 +553,7 @@
     <title>2026 GMC Acadia AWD Elevation</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-gmc-acadia-elevation-all-wheel-drive-suv-1gkennks8tj144238/"/>
     <ns0:id>T26011</ns0:id>
-    <ns0:price>53870.00 USD</ns0:price>
+    <ns0:price>51177.00 USD</ns0:price>
     <ns0:vehicle_msrp>53870.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1GKENNKS8TJ144238</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -591,7 +591,7 @@
     <title>2026 Buick Encore GX Preferred</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-buick-encore-gx-preferred-front-wheel-drive-suv-kl4ambsl1tb047357/"/>
     <ns0:id>B26000</ns0:id>
-    <ns0:price>28379.00 USD</ns0:price>
+    <ns0:price>27769.00 USD</ns0:price>
     <ns0:vehicle_msrp>30515.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KL4AMBSL1TB047357</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -626,50 +626,11 @@
     <ns0:custom_label_0>Encore GX</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>B26001</id>
-    <title>2026 Buick Encore GX Preferred</title>
-    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-buick-encore-gx-preferred-front-wheel-drive-suv-kl4ambsl4tb045697/"/>
-    <ns0:id>B26001</ns0:id>
-    <ns0:price>28379.00 USD</ns0:price>
-    <ns0:vehicle_msrp>30515.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>KL4AMBSL4TB045697</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Buick</ns0:brand>
-    <ns0:store_code>4088446453747783674</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Buick GMC</ns0:dealership_name>
-    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>4088446453747783674</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Buick</ns0:make>
-    <ns0:model>Encore GX</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/new-2026-buick-encore-gx-preferred-front-wheel-drive-suv-kl4ambsl4tb045697/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Preferred</ns0:trim>
-    <ns0:mileage>4 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Ocean Blue Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771678861--Z7ZKP-ltid1/1771678861.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771678871--NYNJ2-ltid1/1771678871.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771678881--NYNJ2-ltid1/1771678881.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771678891--DIU-Q-ltid1/1771678891.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771678901--DIU-Q-ltid1/1771678901.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771678911--DIU-Q-ltid1/1771678911.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771678921--WNTUM-ltid1/1771678921.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771678931--WNTUM-ltid1/1771678931.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771678941--TFEEY-ltid1/1771678941.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771678951--TFEEY-ltid1/1771678951.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Encore GX</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>B26002</id>
     <title>2026 Buick Encore GX Preferred</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-buick-encore-gx-preferred-front-wheel-drive-suv-kl4ambsl9tb045386/"/>
     <ns0:id>B26002</ns0:id>
-    <ns0:price>27919.00 USD</ns0:price>
+    <ns0:price>27319.00 USD</ns0:price>
     <ns0:vehicle_msrp>30020.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KL4AMBSL9TB045386</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -708,7 +669,7 @@
     <title>2026 Buick Enclave Sport Touring</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-buick-enclave-sport-touring-all-wheel-drive-suv-5gaevbks1tj160809/"/>
     <ns0:id>B26005</ns0:id>
-    <ns0:price>52136.00 USD</ns0:price>
+    <ns0:price>48704.00 USD</ns0:price>
     <ns0:vehicle_msrp>56060.00 USD</ns0:vehicle_msrp>
     <ns0:vin>5GAEVBKS1TJ160809</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -747,7 +708,7 @@
     <title>2026 Buick Enclave Avenir</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-buick-enclave-avenir-all-wheel-drive-suv-5gaevcks0tj164307/"/>
     <ns0:id>B26006</ns0:id>
-    <ns0:price>62087.00 USD</ns0:price>
+    <ns0:price>60084.00 USD</ns0:price>
     <ns0:vehicle_msrp>66760.00 USD</ns0:vehicle_msrp>
     <ns0:vin>5GAEVCKS0TJ164307</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -786,7 +747,7 @@
     <title>2026 Buick Enclave Sport Touring</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-buick-enclave-sport-touring-all-wheel-drive-suv-5gaevbks2tj167669/"/>
     <ns0:id>B26007</ns0:id>
-    <ns0:price>53759.00 USD</ns0:price>
+    <ns0:price>50275.00 USD</ns0:price>
     <ns0:vehicle_msrp>57805.00 USD</ns0:vehicle_msrp>
     <ns0:vin>5GAEVBKS2TJ167669</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -825,7 +786,7 @@
     <title>2026 Buick Enclave Sport Touring</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-buick-enclave-sport-touring-all-wheel-drive-suv-5gaevbks7tj170020/"/>
     <ns0:id>B26008</ns0:id>
-    <ns0:price>50304.00 USD</ns0:price>
+    <ns0:price>46931.00 USD</ns0:price>
     <ns0:vehicle_msrp>54090.00 USD</ns0:vehicle_msrp>
     <ns0:vin>5GAEVBKS7TJ170020</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -864,7 +825,7 @@
     <title>2026 Buick Enclave Preferred</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-buick-enclave-preferred-all-wheel-drive-suv-5gaevaks5tj173654/"/>
     <ns0:id>B26009</ns0:id>
-    <ns0:price>47049.00 USD</ns0:price>
+    <ns0:price>43781.00 USD</ns0:price>
     <ns0:vehicle_msrp>50590.00 USD</ns0:vehicle_msrp>
     <ns0:vin>5GAEVAKS5TJ173654</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -903,7 +864,7 @@
     <title>2026 Buick Encore GX Preferred</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-buick-encore-gx-preferred-front-wheel-drive-suv-kl4ambsl0tb069673/"/>
     <ns0:id>B26011</ns0:id>
-    <ns0:price>28379.00 USD</ns0:price>
+    <ns0:price>27769.00 USD</ns0:price>
     <ns0:vehicle_msrp>30515.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KL4AMBSL0TB069673</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -942,7 +903,7 @@
     <title>2026 Buick Encore GX Preferred</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-buick-encore-gx-preferred-front-wheel-drive-suv-kl4ambsl2tb068282/"/>
     <ns0:id>B26014</ns0:id>
-    <ns0:price>28379.00 USD</ns0:price>
+    <ns0:price>27769.00 USD</ns0:price>
     <ns0:vehicle_msrp>30515.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KL4AMBSL2TB068282</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -981,7 +942,7 @@
     <title>2026 Buick Encore GX Preferred</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-buick-encore-gx-preferred-front-wheel-drive-suv-kl4ambsl2tb068962/"/>
     <ns0:id>B26012</ns0:id>
-    <ns0:price>27919.00 USD</ns0:price>
+    <ns0:price>27319.00 USD</ns0:price>
     <ns0:vehicle_msrp>30020.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KL4AMBSL2TB068962</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1020,7 +981,7 @@
     <title>2026 Buick Enclave Preferred</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-buick-enclave-preferred-all-wheel-drive-suv-5gaevaks6tj186946/"/>
     <ns0:id>B26010</ns0:id>
-    <ns0:price>47049.00 USD</ns0:price>
+    <ns0:price>43781.00 USD</ns0:price>
     <ns0:vehicle_msrp>50590.00 USD</ns0:vehicle_msrp>
     <ns0:vin>5GAEVAKS6TJ186946</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1059,7 +1020,7 @@
     <title>2026 GMC Terrain AWD Elevation</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-gmc-terrain-elevation-all-wheel-drive-suv-3gkalueg2tl294294/"/>
     <ns0:id>T26015</ns0:id>
-    <ns0:price>32923.00 USD</ns0:price>
+    <ns0:price>32230.00 USD</ns0:price>
     <ns0:vehicle_msrp>34655.00 USD</ns0:vehicle_msrp>
     <ns0:vin>3GKALUEG2TL294294</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1098,7 +1059,7 @@
     <title>2026 GMC Terrain AWD Elevation</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-gmc-terrain-elevation-all-wheel-drive-suv-3gkalueg3tl310602/"/>
     <ns0:id>T26016</ns0:id>
-    <ns0:price>32923.00 USD</ns0:price>
+    <ns0:price>32230.00 USD</ns0:price>
     <ns0:vehicle_msrp>34655.00 USD</ns0:vehicle_msrp>
     <ns0:vin>3GKALUEG3TL310602</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1137,7 +1098,7 @@
     <title>2026 Buick Enclave Preferred</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-buick-enclave-preferred-all-wheel-drive-suv-5gaevaks3tj179811/"/>
     <ns0:id>B26015</ns0:id>
-    <ns0:price>46589.00 USD</ns0:price>
+    <ns0:price>43336.00 USD</ns0:price>
     <ns0:vehicle_msrp>50095.00 USD</ns0:vehicle_msrp>
     <ns0:vin>5GAEVAKS3TJ179811</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1176,7 +1137,7 @@
     <title>2026 Buick Encore GX Preferred</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-buick-encore-gx-preferred-front-wheel-drive-suv-kl4ambsl6tb070178/"/>
     <ns0:id>B26016</ns0:id>
-    <ns0:price>28379.00 USD</ns0:price>
+    <ns0:price>27769.00 USD</ns0:price>
     <ns0:vehicle_msrp>30515.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KL4AMBSL6TB070178</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1215,7 +1176,7 @@
     <title>2026 GMC Terrain AWD Elevation</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-gmc-terrain-elevation-all-wheel-drive-suv-3gkalueg2tl321610/"/>
     <ns0:id>T26017</ns0:id>
-    <ns0:price>34139.00 USD</ns0:price>
+    <ns0:price>33420.00 USD</ns0:price>
     <ns0:vehicle_msrp>35935.00 USD</ns0:vehicle_msrp>
     <ns0:vin>3GKALUEG2TL321610</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1254,7 +1215,7 @@
     <title>2026 GMC Acadia AWD Elevation</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-gmc-acadia-elevation-all-wheel-drive-suv-1gkennksxtj202933/"/>
     <ns0:id>T26019</ns0:id>
-    <ns0:price>52135.00 USD</ns0:price>
+    <ns0:price>49529.00 USD</ns0:price>
     <ns0:vehicle_msrp>52135.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1GKENNKSXTJ202933</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1292,7 +1253,7 @@
     <title>2026 GMC Acadia AWD Elevation</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-gmc-acadia-elevation-all-wheel-drive-suv-1gkennks4tj203947/"/>
     <ns0:id>T26020</ns0:id>
-    <ns0:price>47595.00 USD</ns0:price>
+    <ns0:price>45216.00 USD</ns0:price>
     <ns0:vehicle_msrp>47595.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1GKENNKS4TJ203947</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1330,7 +1291,7 @@
     <title>2026 GMC Terrain AWD Elevation</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-gmc-terrain-elevation-all-wheel-drive-suv-3gkalueg6tl320914/"/>
     <ns0:id>T26022</ns0:id>
-    <ns0:price>33996.00 USD</ns0:price>
+    <ns0:price>33281.00 USD</ns0:price>
     <ns0:vehicle_msrp>35785.00 USD</ns0:vehicle_msrp>
     <ns0:vin>3GKALUEG6TL320914</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1484,7 +1445,7 @@
     <title>2026 GMC Terrain AWD Elevation</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-gmc-terrain-elevation-all-wheel-drive-suv-3gkalueg3tl347939/"/>
     <ns0:id>T26024</ns0:id>
-    <ns0:price>33996.00 USD</ns0:price>
+    <ns0:price>33281.00 USD</ns0:price>
     <ns0:vehicle_msrp>35785.00 USD</ns0:vehicle_msrp>
     <ns0:vin>3GKALUEG3TL347939</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1523,7 +1484,7 @@
     <title>2026 GMC Terrain AWD Elevation</title>
     <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2026-gmc-terrain-elevation-all-wheel-drive-suv-3gkalueg9tl349520/"/>
     <ns0:id>T26025</ns0:id>
-    <ns0:price>33996.00 USD</ns0:price>
+    <ns0:price>33281.00 USD</ns0:price>
     <ns0:vehicle_msrp>35785.00 USD</ns0:vehicle_msrp>
     <ns0:vin>3GKALUEG9TL349520</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1556,5 +1517,44 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1841347721--M34I9-ltid1/1841347721.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1841347831--NWSPC-ltid1/1841347831.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Terrain</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>T24038</id>
+    <title>2024 GMC HUMMER EV SUV 3X</title>
+    <link rel="alternate" href="https://www.downtownbuickgmc.com/inventory/new-2024-gmc-hummer-ev-suv-3x-four-wheel-drive-suv-1gkb0rdc7ru102181/"/>
+    <ns0:id>T24038</ns0:id>
+    <ns0:price>76180.00 USD</ns0:price>
+    <ns0:vehicle_msrp>116180.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1GKB0RDC7RU102181</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>GMC</ns0:brand>
+    <ns0:store_code>4088446453747783674</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Buick GMC</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>4088446453747783674</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2024</ns0:year>
+    <ns0:make>GMC</ns0:make>
+    <ns0:model>HUMMER EV SUV</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.downtownbuickgmc.com/inventory/new-2024-gmc-hummer-ev-suv-3x-four-wheel-drive-suv-1gkb0rdc7ru102181/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>3X</ns0:trim>
+    <ns0:mileage>1788 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Moonshot Green Matte</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771673961--S1TH8-ltid1/1771673961.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771673971--S1TH8-ltid1/1771673971.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771673981--LBDHL-ltid1/1771673981.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771673991--LBDHL-ltid1/1771673991.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674001--BOFDU-ltid1/1771674001.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674011--BOFDU-ltid1/1771674011.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674021--WJCBK-ltid1/1771674021.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674031--WJCBK-ltid1/1771674031.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674041--IGEWV-ltid1/1771674041.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674051--IGEWV-ltid1/1771674051.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>HUMMER EV SUV</ns0:custom_label_0>
   </entry>
 </feed>
