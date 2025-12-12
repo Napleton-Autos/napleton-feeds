@@ -2,46 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Chevrolet Columbus Inventory Feed</title>
   <link href="https://www.napletonchevycolumbus.com" rel="self"/>
-  <updated>2025-12-12T08:03:14.132344</updated>
-  <entry>
-    <id>125097</id>
-    <title>2025 Chevrolet BrightDrop 400 EAWD 400</title>
-    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/new-2025-chevrolet-brightdrop-400-awd-400-all-wheel-drive-cargo-van-2g5zj2ty8s9106052/"/>
-    <ns0:id>125097</ns0:id>
-    <ns0:price>40554.00 USD</ns0:price>
-    <ns0:vehicle_msrp>82855.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>2G5ZJ2TY8S9106052</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Chevrolet</ns0:brand>
-    <ns0:store_code>1647799517431806713</ns0:store_code>
-    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
-    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>1647799517431806713</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Chevrolet</ns0:make>
-    <ns0:model>BrightDrop 400</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/new-2025-chevrolet-brightdrop-400-awd-400-all-wheel-drive-cargo-van-2g5zj2ty8s9106052/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>EAWD 400</ns0:trim>
-    <ns0:mileage>3 miles</ns0:mileage>
-    <ns0:body_style>full size van</ns0:body_style>
-    <ns0:color>Oyster White</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771651351--L4HVD-ltid1/1771651351.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771651361--EN6AR-ltid1/1771651361.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771651371--EN6AR-ltid1/1771651371.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771651381--EN6AR-ltid1/1771651381.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771651391--DFCCR-ltid1/1771651391.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771651401--DFCCR-ltid1/1771651401.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771651411--DFCCR-ltid1/1771651411.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771651421--4ERN5-ltid1/1771651421.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771651431--4ERN5-ltid1/1771651431.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771651441--4ERN5-ltid1/1771651441.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>BrightDrop 400</ns0:custom_label_0>
-  </entry>
+  <updated>2025-12-12T12:03:13.445604</updated>
   <entry>
     <id>125098</id>
     <title>2025 Chevrolet BrightDrop 600 EAWD 600</title>
@@ -84,7 +45,7 @@
   <entry>
     <id>125346</id>
     <title>2025 Chevrolet Blazer EV AWD RS</title>
-    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/new-2025-chevrolet-blazer-ev-rs-all-wheel-drive-suv-3gnkdjrj9ss227589/"/>
+    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/details/3GNKDJRJ9SS227589"/>
     <ns0:id>125346</ns0:id>
     <ns0:price>44628.00 USD</ns0:price>
     <ns0:vehicle_msrp>54690.00 USD</ns0:vehicle_msrp>
@@ -103,7 +64,7 @@
     <ns0:model>Blazer EV</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/new-2025-chevrolet-blazer-ev-rs-all-wheel-drive-suv-3gnkdjrj9ss227589/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/details/3GNKDJRJ9SS227589?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>AWD RS</ns0:trim>
     <ns0:mileage>2 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -164,7 +125,7 @@
     <title>2026 Chevrolet Trailblazer LT</title>
     <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/new-2026-chevrolet-trailblazer-lt-all-wheel-drive-suv-kl79mrsl3tb010115/"/>
     <ns0:id>126002</ns0:id>
-    <ns0:price>26998.00 USD</ns0:price>
+    <ns0:price>26563.00 USD</ns0:price>
     <ns0:vehicle_msrp>29030.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KL79MRSL3TB010115</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -203,7 +164,7 @@
     <title>2026 Chevrolet Trailblazer RS</title>
     <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/new-2026-chevrolet-trailblazer-rs-all-wheel-drive-suv-kl79musl1tb018362/"/>
     <ns0:id>126005</ns0:id>
-    <ns0:price>30616.00 USD</ns0:price>
+    <ns0:price>30122.00 USD</ns0:price>
     <ns0:vehicle_msrp>32920.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KL79MUSL1TB018362</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -280,7 +241,7 @@
     <title>2026 Chevrolet Traverse AWD LT</title>
     <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/new-2026-chevrolet-traverse-lt-all-wheel-drive-suv-1gnevgks8tj123551/"/>
     <ns0:id>126017</ns0:id>
-    <ns0:price>39632.00 USD</ns0:price>
+    <ns0:price>42903.00 USD</ns0:price>
     <ns0:vehicle_msrp>46740.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1GNEVGKS8TJ123551</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -466,84 +427,6 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771656441--TU87E-ltid1/1771656441.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771656451--TU87E-ltid1/1771656451.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771656461--UHGNU-ltid1/1771656461.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Trax</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>126036</id>
-    <title>2026 Chevrolet Trax LS</title>
-    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/new-2026-chevrolet-trax-ls-front-wheel-drive-suv-kl77lfep1tc012155/"/>
-    <ns0:id>126036</ns0:id>
-    <ns0:price>23679.00 USD</ns0:price>
-    <ns0:vehicle_msrp>24925.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>KL77LFEP1TC012155</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Chevrolet</ns0:brand>
-    <ns0:store_code>1647799517431806713</ns0:store_code>
-    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
-    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>1647799517431806713</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Chevrolet</ns0:make>
-    <ns0:model>Trax</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/new-2026-chevrolet-trax-ls-front-wheel-drive-suv-kl77lfep1tc012155/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>LS</ns0:trim>
-    <ns0:mileage>6 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Sterling Gray Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771655381--BFNWR-ltid1/1771655381.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771655391--ALAHS-ltid1/1771655391.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771655401--ALAHS-ltid1/1771655401.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771655411--ALAHS-ltid1/1771655411.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771658241--IOGFV-ltid1/1771658241.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771658251--IOGFV-ltid1/1771658251.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771658261--IOGFV-ltid1/1771658261.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771658271--XY84E-ltid1/1771658271.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771658281--XY84E-ltid1/1771658281.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771658291--XY84E-ltid1/1771658291.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Trax</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>126034</id>
-    <title>2026 Chevrolet Trax LS</title>
-    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/details/KL77LFEP7TC012046"/>
-    <ns0:id>126034</ns0:id>
-    <ns0:price>24178.00 USD</ns0:price>
-    <ns0:vehicle_msrp>24925.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>KL77LFEP7TC012046</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Chevrolet</ns0:brand>
-    <ns0:store_code>1647799517431806713</ns0:store_code>
-    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
-    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>1647799517431806713</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Chevrolet</ns0:make>
-    <ns0:model>Trax</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/details/KL77LFEP7TC012046?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>LS</ns0:trim>
-    <ns0:mileage>6 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Summit White</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771658341--G7YMD-ltid1/1771658341.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771658351--M4IED-ltid1/1771658351.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771658361--TDXU4-ltid1/1771658361.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771658371--WOBYV-ltid1/1771658371.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771658381--SU3XM-ltid1/1771658381.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771658391--NYDYW-ltid1/1771658391.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771659011--NYDYW-ltid1/1771659011.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771659021--5EMFJ-ltid1/1771659021.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771659031--9GRMC-ltid1/1771659031.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771664111--FGS1+-ltid1/1771664111.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Trax</ns0:custom_label_0>
   </entry>
   <entry>
@@ -1473,7 +1356,7 @@
     <title>2026 Chevrolet Trailblazer LS</title>
     <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/details/KL79MNSL4TB076486"/>
     <ns0:id>126063</ns0:id>
-    <ns0:price>26617.00 USD</ns0:price>
+    <ns0:price>26188.00 USD</ns0:price>
     <ns0:vehicle_msrp>28620.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KL79MNSL4TB076486</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1512,7 +1395,7 @@
     <title>2026 Chevrolet Trailblazer RS</title>
     <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/details/KL79MUSL0TB075894"/>
     <ns0:id>126060</ns0:id>
-    <ns0:price>31174.00 USD</ns0:price>
+    <ns0:price>30671.00 USD</ns0:price>
     <ns0:vehicle_msrp>33520.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KL79MUSL0TB075894</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1661,7 +1544,7 @@
     <title>2026 Chevrolet Trailblazer RS</title>
     <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/details/KL79MUSL1TB078352"/>
     <ns0:id>126066</ns0:id>
-    <ns0:price>31174.00 USD</ns0:price>
+    <ns0:price>30671.00 USD</ns0:price>
     <ns0:vehicle_msrp>33520.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KL79MUSL1TB078352</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -2112,7 +1995,7 @@
     <title>2026 Chevrolet Trailblazer RS</title>
     <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/new-2026-chevrolet-trailblazer-rs-all-wheel-drive-suv-kl79musl5tb087796/"/>
     <ns0:id>126083</ns0:id>
-    <ns0:price>31174.00 USD</ns0:price>
+    <ns0:price>30671.00 USD</ns0:price>
     <ns0:vehicle_msrp>33520.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KL79MUSL5TB087796</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -2241,7 +2124,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/new-2026-chevrolet-silverado-1500-lt-trail-boss-four-wheel-drive-crew-cab-3gcukfe82tg210046/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LT Trail Boss</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:mileage>4 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Cypress Gray</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840056201--Q77WQ-ltid1/1840056201.jpg</ns0:image_link>
@@ -2340,5 +2223,63 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1851522911--JPU6J-ltid1/1851522911.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1851522921--JPU6J-ltid1/1851522921.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Trax</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>126087</id>
+    <title>2026 Chevrolet Colorado 4WD Z71</title>
+    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/details/1GCPTDEK1T1114367"/>
+    <ns0:id>126087</ns0:id>
+    <ns0:price>50910.00 USD</ns0:price>
+    <ns0:vehicle_msrp>50910.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1GCPTDEK1T1114367</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Chevrolet</ns0:brand>
+    <ns0:store_code>1647799517431806713</ns0:store_code>
+    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
+    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>1647799517431806713</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Chevrolet</ns0:make>
+    <ns0:model>Colorado</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/details/1GCPTDEK1T1114367?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>4WD Z71</ns0:trim>
+    <ns0:mileage>150 miles</ns0:mileage>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>Radiant Red Tintcoat</ns0:color>
+    <ns0:custom_label_0>Colorado</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>126088</id>
+    <title>2026 Chevrolet Equinox FWD RS</title>
+    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/details/3GNAXLEG5TL339939"/>
+    <ns0:id>126088</ns0:id>
+    <ns0:price>35720.00 USD</ns0:price>
+    <ns0:vehicle_msrp>35720.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3GNAXLEG5TL339939</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Chevrolet</ns0:brand>
+    <ns0:store_code>1647799517431806713</ns0:store_code>
+    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
+    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>1647799517431806713</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Chevrolet</ns0:make>
+    <ns0:model>Equinox</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/details/3GNAXLEG5TL339939?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>FWD RS</ns0:trim>
+    <ns0:mileage>100 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Sterling Gray Metallic</ns0:color>
+    <ns0:custom_label_0>Equinox</ns0:custom_label_0>
   </entry>
 </feed>
