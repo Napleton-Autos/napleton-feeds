@@ -2,85 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Chevrolet Columbus Inventory Feed</title>
   <link href="https://www.napletonchevycolumbus.com" rel="self"/>
-  <updated>2025-12-13T08:02:37.635630</updated>
-  <entry>
-    <id>125098</id>
-    <title>2025 Chevrolet BrightDrop 600 EAWD 600</title>
-    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/new-2025-chevrolet-brightdrop-600-ejy-all-wheel-drive-cargo-van-2g5zj3ty7s9106145/"/>
-    <ns0:id>125098</ns0:id>
-    <ns0:price>41844.00 USD</ns0:price>
-    <ns0:vehicle_msrp>84355.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>2G5ZJ3TY7S9106145</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Chevrolet</ns0:brand>
-    <ns0:store_code>1647799517431806713</ns0:store_code>
-    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
-    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>1647799517431806713</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Chevrolet</ns0:make>
-    <ns0:model>BrightDrop 600</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/new-2025-chevrolet-brightdrop-600-ejy-all-wheel-drive-cargo-van-2g5zj3ty7s9106145/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>EAWD 600</ns0:trim>
-    <ns0:mileage>2 miles</ns0:mileage>
-    <ns0:body_style>full size van</ns0:body_style>
-    <ns0:color>Oyster White</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771651471--TSW0M-ltid1/1771651471.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771651481--KX+WU-ltid1/1771651481.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771651491--KX+WU-ltid1/1771651491.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771651651--KX+WU-ltid1/1771651651.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771651661--NHLXB-ltid1/1771651661.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771651671--NHLXB-ltid1/1771651671.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771651681--NHLXB-ltid1/1771651681.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771651691--QKMQQ-ltid1/1771651691.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771651701--QKMQQ-ltid1/1771651701.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771651711--QKMQQ-ltid1/1771651711.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>BrightDrop 600</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>125346</id>
-    <title>2025 Chevrolet Blazer EV AWD RS</title>
-    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/details/3GNKDJRJ9SS227589"/>
-    <ns0:id>125346</ns0:id>
-    <ns0:price>44628.00 USD</ns0:price>
-    <ns0:vehicle_msrp>54690.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>3GNKDJRJ9SS227589</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Chevrolet</ns0:brand>
-    <ns0:store_code>1647799517431806713</ns0:store_code>
-    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
-    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>1647799517431806713</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Chevrolet</ns0:make>
-    <ns0:model>Blazer EV</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/details/3GNKDJRJ9SS227589?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>AWD RS</ns0:trim>
-    <ns0:mileage>2 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Black</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771663081--2D8-K-ltid1/1771663081.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771663091--JHZED-ltid1/1771663091.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771663101--JHZED-ltid1/1771663101.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771663111--JHZED-ltid1/1771663111.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771663121--L4HVD-ltid1/1771663121.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771663131--L4HVD-ltid1/1771663131.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771652561--Q1A-S-ltid1/1771652561.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771652571--Q1A-S-ltid1/1771652571.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771652581--Q1A-S-ltid1/1771652581.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771652591--23-PR-ltid1/1771652591.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Blazer EV</ns0:custom_label_0>
-  </entry>
+  <updated>2025-12-13T12:03:05.748621</updated>
   <entry>
     <id>125348</id>
     <title>2025 Chevrolet Silverado EV RST</title>
@@ -1007,44 +929,6 @@
     <ns0:custom_label_0>Trailblazer</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>P4142</id>
-    <title>2023 Jeep Gladiator Rubicon</title>
-    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/used-2023-jeep-gladiator-rubicon-four-wheel-drive-pickup-1c6jjtbg9pl567434/"/>
-    <ns0:id>P4142</ns0:id>
-    <ns0:price>37977.00 USD</ns0:price>
-    <ns0:vin>1C6JJTBG9PL567434</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Jeep</ns0:brand>
-    <ns0:store_code>1647799517431806713</ns0:store_code>
-    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
-    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>1647799517431806713</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2023</ns0:year>
-    <ns0:make>Jeep</ns0:make>
-    <ns0:model>Gladiator</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/used-2023-jeep-gladiator-rubicon-four-wheel-drive-pickup-1c6jjtbg9pl567434/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Rubicon</ns0:trim>
-    <ns0:mileage>15413 miles</ns0:mileage>
-    <ns0:body_style>truck</ns0:body_style>
-    <ns0:color>Sarge Green Clearcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771663941--AXVH7-ltid2/1771663941.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771663951--EGXSG-ltid2/1771663951.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771663961--EGXSG-ltid2/1771663961.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771663971--UFPMJ-ltid2/1771663971.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771663981--DVAX8-ltid2/1771663981.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771663991--ZBRNF-ltid2/1771663991.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771664001--FYZJ4-ltid2/1771664001.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771664011--YA3Q5-ltid2/1771664011.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771664021--YA3Q5-ltid2/1771664021.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771664031--LIH7D-ltid2/1771664031.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Gladiator</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>126058</id>
     <title>2026 Chevrolet Colorado 4WD Z71</title>
     <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/new-2026-chevrolet-colorado-z71-four-wheel-drive-crew-cab-1gcptdek4t1148982/"/>
@@ -1082,44 +966,6 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1813121221--GSGL6-ltid1/1813121221.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1813121231--4EKAW-ltid1/1813121231.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Colorado</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>PB1046</id>
-    <title>2023 Nissan Altima 2.5 SV</title>
-    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/used-2023-nissan-altima-2-5-sv-front-wheel-drive-sedan-4-dr-1n4bl4dv4pn356158/"/>
-    <ns0:id>PB1046</ns0:id>
-    <ns0:price>17083.00 USD</ns0:price>
-    <ns0:vin>1N4BL4DV4PN356158</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Nissan</ns0:brand>
-    <ns0:store_code>1647799517431806713</ns0:store_code>
-    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
-    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>1647799517431806713</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2023</ns0:year>
-    <ns0:make>Nissan</ns0:make>
-    <ns0:model>Altima</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/used-2023-nissan-altima-2-5-sv-front-wheel-drive-sedan-4-dr-1n4bl4dv4pn356158/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>2.5 SV</ns0:trim>
-    <ns0:mileage>60420 miles</ns0:mileage>
-    <ns0:body_style>sedan</ns0:body_style>
-    <ns0:color>Gun Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1786650971--8PAIO-ltid2/1786650971.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1786650981--V3QD2-ltid2/1786650981.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1786650991--V3QD2-ltid2/1786650991.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1786651001--V3QD2-ltid2/1786651001.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1786651011--X1GRA-ltid2/1786651011.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1786651021--X1GRA-ltid2/1786651021.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1786651031--X1GRA-ltid2/1786651031.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1786651041---5KGC-ltid2/1786651041.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1786651051---5KGC-ltid2/1786651051.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1786651061---5KGC-ltid2/1786651061.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Altima</ns0:custom_label_0>
   </entry>
   <entry>
     <id>126057</id>
@@ -1273,44 +1119,6 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1813646321--OYSJC-ltid2/1813646321.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1813646331--XZVHH-ltid2/1813646331.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Santa Fe</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>125326B</id>
-    <title>2019 Jeep Wrangler Sport S</title>
-    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/used-2019-jeep-wrangler-sport-s-four-wheel-drive-suv-1c4gjxag7kw684545/"/>
-    <ns0:id>125326B</ns0:id>
-    <ns0:price>21267.00 USD</ns0:price>
-    <ns0:vin>1C4GJXAG7KW684545</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Jeep</ns0:brand>
-    <ns0:store_code>1647799517431806713</ns0:store_code>
-    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
-    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>1647799517431806713</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2019</ns0:year>
-    <ns0:make>Jeep</ns0:make>
-    <ns0:model>Wrangler</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/used-2019-jeep-wrangler-sport-s-four-wheel-drive-suv-1c4gjxag7kw684545/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Sport S</ns0:trim>
-    <ns0:mileage>66754 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Punkn Metallic Clearcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1774796811--NHIYT-ltid2/1774796811.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1774796821--NHIYT-ltid2/1774796821.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1774796831--NHIYT-ltid2/1774796831.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1774796841--NHIYT-ltid2/1774796841.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1774796661--NHIYT-ltid2/1774796661.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1774796671--NHIYT-ltid2/1774796671.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1774796681--NHIYT-ltid2/1774796681.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1774796691--NHIYT-ltid2/1774796691.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1774796701--NHIYT-ltid2/1774796701.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1774796711--NHIYT-ltid2/1774796711.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Wrangler</ns0:custom_label_0>
   </entry>
   <entry>
     <id>126062</id>
@@ -1524,7 +1332,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/used-2022-jeep-compass-latitude-lux-four-wheel-drive-suv-3c4njdfb0nt211535/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Latitude Lux</ns0:trim>
-    <ns0:mileage>59280 miles</ns0:mileage>
+    <ns0:mileage>59543 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Granite Crystal Metallic Clearcoat</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1808250991--IJAQ--ltid2/1808250991.jpg</ns0:image_link>
@@ -1790,7 +1598,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/new-2026-chevrolet-silverado-2500-hd-lt-four-wheel-drive-crew-cab-2gc4kney6t1140246/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LT</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:mileage>8 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Lakeshore Blue Metallic</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1817123641--H+YKT-ltid1/1817123641.jpg</ns0:image_link>
@@ -2071,7 +1879,7 @@
   <entry>
     <id>126085</id>
     <title>2026 Chevrolet Silverado 1500 LT Trail Boss</title>
-    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/details/3GCUKFED7TG218558"/>
+    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/new-2026-chevrolet-silverado-1500-lt-trail-boss-four-wheel-drive-crew-cab-3gcukfed7tg218558/"/>
     <ns0:id>126085</ns0:id>
     <ns0:price>59335.00 USD</ns0:price>
     <ns0:vehicle_msrp>68175.00 USD</ns0:vehicle_msrp>
@@ -2090,7 +1898,7 @@
     <ns0:model>Silverado 1500</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/details/3GCUKFED7TG218558?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/new-2026-chevrolet-silverado-1500-lt-trail-boss-four-wheel-drive-crew-cab-3gcukfed7tg218558/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LT Trail Boss</ns0:trim>
     <ns0:mileage>5 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
@@ -2156,7 +1964,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/details/3GCUKFE84TG209481?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LT Trail Boss</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:mileage>4 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Black</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1840056231--XZOYS-ltid1/1840056231.jpg</ns0:image_link>
@@ -2225,38 +2033,9 @@
     <ns0:custom_label_0>Trax</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>126087</id>
-    <title>2026 Chevrolet Colorado 4WD Z71</title>
-    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/details/1GCPTDEK1T1114367"/>
-    <ns0:id>126087</ns0:id>
-    <ns0:price>50910.00 USD</ns0:price>
-    <ns0:vehicle_msrp>50910.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1GCPTDEK1T1114367</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Chevrolet</ns0:brand>
-    <ns0:store_code>1647799517431806713</ns0:store_code>
-    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
-    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>1647799517431806713</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Chevrolet</ns0:make>
-    <ns0:model>Colorado</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/details/1GCPTDEK1T1114367?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>4WD Z71</ns0:trim>
-    <ns0:mileage>150 miles</ns0:mileage>
-    <ns0:body_style>truck</ns0:body_style>
-    <ns0:color>Radiant Red Tintcoat</ns0:color>
-    <ns0:custom_label_0>Colorado</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>126088</id>
     <title>2026 Chevrolet Equinox FWD RS</title>
-    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/details/3GNAXLEG5TL339939"/>
+    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/new-2026-chevrolet-equinox-rs-front-wheel-drive-suv-3gnaxleg5tl339939/"/>
     <ns0:id>126088</ns0:id>
     <ns0:price>35720.00 USD</ns0:price>
     <ns0:vehicle_msrp>35720.00 USD</ns0:vehicle_msrp>
@@ -2275,11 +2054,136 @@
     <ns0:model>Equinox</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/details/3GNAXLEG5TL339939?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/new-2026-chevrolet-equinox-rs-front-wheel-drive-suv-3gnaxleg5tl339939/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>FWD RS</ns0:trim>
     <ns0:mileage>100 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Sterling Gray Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1858843601--L5TSD-ltid1/1858843601.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1858843611--L5TSD-ltid1/1858843611.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1858843621--L5TSD-ltid1/1858843621.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1858843631--L5TSD-ltid1/1858843631.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1858843641--L5TSD-ltid1/1858843641.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1858843651--L5TSD-ltid1/1858843651.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1858843661--L5TSD-ltid1/1858843661.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1858843671--L5TSD-ltid1/1858843671.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1858843681--L5TSD-ltid1/1858843681.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1858843691--L5TSD-ltid1/1858843691.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Equinox</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>126087A</id>
+    <title>2018 Chevrolet Colorado 4WD Z71</title>
+    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/details/1GCGTDEN2J1155310"/>
+    <ns0:id>126087A</ns0:id>
+    <ns0:price>38155.00 USD</ns0:price>
+    <ns0:vin>1GCGTDEN2J1155310</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Chevrolet</ns0:brand>
+    <ns0:store_code>1647799517431806713</ns0:store_code>
+    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
+    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>1647799517431806713</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2018</ns0:year>
+    <ns0:make>Chevrolet</ns0:make>
+    <ns0:model>Colorado</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/details/1GCGTDEN2J1155310?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>4WD Z71</ns0:trim>
+    <ns0:mileage>105777 miles</ns0:mileage>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>Cajun Red Tintcoat</ns0:color>
+    <ns0:custom_label_0>Colorado</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>126089</id>
+    <title>2026 Chevrolet Colorado 4WD Trail Boss</title>
+    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/details/1GCPTEEK8T1165693"/>
+    <ns0:id>126089</ns0:id>
+    <ns0:price>42760.00 USD</ns0:price>
+    <ns0:vehicle_msrp>42760.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1GCPTEEK8T1165693</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Chevrolet</ns0:brand>
+    <ns0:store_code>1647799517431806713</ns0:store_code>
+    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
+    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>1647799517431806713</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Chevrolet</ns0:make>
+    <ns0:model>Colorado</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/details/1GCPTEEK8T1165693?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>4WD Trail Boss</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>Summit White</ns0:color>
+    <ns0:custom_label_0>Colorado</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>126093</id>
+    <title>2026 Chevrolet Silverado 2500HD LT</title>
+    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/details/1GC4KNE70TF183898"/>
+    <ns0:id>126093</ns0:id>
+    <ns0:price>68045.00 USD</ns0:price>
+    <ns0:vehicle_msrp>68045.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1GC4KNE70TF183898</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Chevrolet</ns0:brand>
+    <ns0:store_code>1647799517431806713</ns0:store_code>
+    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
+    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>1647799517431806713</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Chevrolet</ns0:make>
+    <ns0:model>Silverado 2500HD</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/details/1GC4KNE70TF183898?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>LT</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>Summit White</ns0:color>
+    <ns0:custom_label_0>Silverado 2500HD</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>126094</id>
+    <title>2026 Chevrolet Silverado 2500HD LTZ</title>
+    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/details/2GC4KPEY1T1149156"/>
+    <ns0:id>126094</ns0:id>
+    <ns0:price>83335.00 USD</ns0:price>
+    <ns0:vehicle_msrp>83335.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>2GC4KPEY1T1149156</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Chevrolet</ns0:brand>
+    <ns0:store_code>1647799517431806713</ns0:store_code>
+    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
+    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>1647799517431806713</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Chevrolet</ns0:make>
+    <ns0:model>Silverado 2500HD</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/details/2GC4KPEY1T1149156?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>LTZ</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>Lakeshore Blue Metallic</ns0:color>
+    <ns0:custom_label_0>Silverado 2500HD</ns0:custom_label_0>
   </entry>
 </feed>

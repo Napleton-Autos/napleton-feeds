@@ -238,7 +238,7 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>HL25031</vehicle_id>
+    <vehicle_id>H25031</vehicle_id>
     <title>2025 Hyundai Sonata SE</title>
     <description>2025 Hyundai Sonata. Trim: SE. Color: Abyss Black. Body Style: Sedan.</description>
     <address format="simple">
@@ -621,75 +621,6 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>C25291</vehicle_id>
-    <title>2025 Chevrolet Trailblazer LT</title>
-    <description>2025 Chevrolet Trailblazer. Trim: LT. Color: CACTI GREEN. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2025</year>
-    <make>Chevrolet</make>
-    <model>Trailblazer</model>
-    <vin>kl79mpsl8sb191084</vin>
-    <content_ids>kl79mpsl8sb191084</content_ids>
-    <availability>in stock</availability>
-    <price>22872.00 USD</price>
-    <url>https://www.downtownchevy.com/inventory/new-2025-chevrolet-trailblazer-lt-front-wheel-drive-suv-kl79mpsl8sb191084/</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>4778</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>LT</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>CACTI GREEN</exterior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1811690281--98RSU-ltid1/1811690281.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1811690291--3QDTG-ltid1/1811690291.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1811690301--5VJDC-ltid1/1811690301.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1811690311--5VJDC-ltid1/1811690311.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1811690321--E5J2R-ltid1/1811690321.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1811690331--GAUJJ-ltid1/1811690331.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1811690341--XS0Q6-ltid1/1811690341.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1811690351--XS0Q6-ltid1/1811690351.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1811690361--GFX9C-ltid1/1811690361.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1811690371--COITM-ltid1/1811690371.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1811690381--ZTB-P-ltid1/1811690381.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1811690391--ZTB-P-ltid1/1811690391.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1811690401--G+QBN-ltid1/1811690401.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>C25312</vehicle_id>
     <title>2025 Chevrolet Colorado 4WD LT</title>
     <description>2025 Chevrolet Colorado. Trim: 4WD LT. Color: Radiant Red Tintcoat. Body Style: Crew Cab Pickup.</description>
@@ -929,7 +860,7 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
     <mileage>
-      <value>331</value>
+      <value>834</value>
       <unit>MI</unit>
     </mileage>
     <trim>RST</trim>
@@ -8131,97 +8062,6 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>GD26075A</vehicle_id>
-    <title>2018 Land Rover Discovery Sport HSE</title>
-    <description>2018 Land Rover Discovery Sport. Trim: HSE. Color: Yulong White Metallic. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2018</year>
-    <make>Land Rover</make>
-    <model>Discovery Sport</model>
-    <vin>salcr2rx9jh746862</vin>
-    <content_ids>salcr2rx9jh746862</content_ids>
-    <availability>in stock</availability>
-    <price>14995.00 USD</price>
-    <url>https://www.downtownchevy.com/inventory/used-2018-land-rover-discovery-sport-hse-all-wheel-drive-utility-salcr2rx9jh746862/</url>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <condition>used</condition>
-    <mileage>
-      <value>48454</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>HSE</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Yulong White Metallic</exterior_color>
-    <interior_color>Cirrus/Lunar</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1851852241--CDCIN-ltid2/1851852241.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1851852251--CDCIN-ltid2/1851852251.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1851852261--CDCIN-ltid2/1851852261.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1851852271--CDCIN-ltid2/1851852271.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1851852281--CDCIN-ltid2/1851852281.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1851852291--CDCIN-ltid2/1851852291.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1851852301--CDCIN-ltid2/1851852301.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1851852311--CDCIN-ltid2/1851852311.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1851852321--CDCIN-ltid2/1851852321.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1851852331--CDCIN-ltid2/1851852331.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1851852341--CDCIN-ltid2/1851852341.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1851852351--CDCIN-ltid2/1851852351.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1851852361--CDCIN-ltid2/1851852361.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1851852371--CDCIN-ltid2/1851852371.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1851852381--CDCIN-ltid2/1851852381.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1851852391--CDCIN-ltid2/1851852391.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1851852401--CDCIN-ltid2/1851852401.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1851852411--CDCIN-ltid2/1851852411.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1851852421--CDCIN-ltid2/1851852421.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1851852431--CDCIN-ltid2/1851852431.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>C25336A</vehicle_id>
     <title>2024 Ford F-150 LARIAT</title>
     <description>2024 Ford F-150. Trim: LARIAT. Color: Agate Black. Body Style: SuperCrew Cab.</description>
@@ -8310,97 +8150,6 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1854674501--O+WL+-ltid2/1854674501.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>P0785</vehicle_id>
-    <title>2023 Chevrolet Suburban Premier</title>
-    <description>2023 Chevrolet Suburban. Trim: Premier. Color: Iridescent Pearl Tricoat. Body Style: Sport Utility Vehicle.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2023</year>
-    <make>Chevrolet</make>
-    <model>Suburban</model>
-    <vin>1gnskfkd8pr132569</vin>
-    <content_ids>1gnskfkd8pr132569</content_ids>
-    <availability>in stock</availability>
-    <price>53991.00 USD</price>
-    <url>https://www.downtownchevy.com/inventory/used-2023-chevrolet-suburban-premier-four-wheel-drive-suv-1gnskfkd8pr132569/</url>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <condition>used</condition>
-    <mileage>
-      <value>29057</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Premier</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Iridescent Pearl Tricoat</exterior_color>
-    <interior_color>Jet Black/Maple Sugar</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1854121721--XBTHK-ltid2/1854121721.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1854121731--XBTHK-ltid2/1854121731.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1854121741--XBTHK-ltid2/1854121741.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1854121751--XBTHK-ltid2/1854121751.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1854121761--XBTHK-ltid2/1854121761.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1854121771--XBTHK-ltid2/1854121771.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1854121781--XBTHK-ltid2/1854121781.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1854121791--XBTHK-ltid2/1854121791.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1854121801--XBTHK-ltid2/1854121801.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1854121811--XBTHK-ltid2/1854121811.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1854121821--XBTHK-ltid2/1854121821.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1854121831--XBTHK-ltid2/1854121831.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1854121841--XBTHK-ltid2/1854121841.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1854121851--XBTHK-ltid2/1854121851.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1854121861--XBTHK-ltid2/1854121861.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1854121871--XBTHK-ltid2/1854121871.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1854121881--XBTHK-ltid2/1854121881.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1854121891--XBTHK-ltid2/1854121891.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1854121901--XBTHK-ltid2/1854121901.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1854121911--XBTHK-ltid2/1854121911.jpg</url>
     </image>
   </listing>
   <listing>
