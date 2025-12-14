@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Downtown Hyundai Inventory Feed</title>
   <link href="https://www.napletondowntownhyundai.com/" rel="self"/>
-  <updated>2025-12-14T08:02:43.378158</updated>
+  <updated>2025-12-14T12:03:02.447895</updated>
   <entry>
     <id>H25090</id>
     <title>2025 Hyundai Santa Cruz SEL Activity</title>
@@ -2760,45 +2760,6 @@
     <ns0:custom_label_0>Sonata</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>H25273</id>
-    <title>2025 Hyundai IONIQ 6 SE</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHM24AC6SA115125"/>
-    <ns0:id>H25273</ns0:id>
-    <ns0:price>39386.00 USD</ns0:price>
-    <ns0:vehicle_msrp>48585.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>KMHM24AC6SA115125</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Hyundai</ns0:brand>
-    <ns0:store_code>8954334598476874759</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
-    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>8954334598476874759</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Hyundai</ns0:make>
-    <ns0:model>IONIQ 6</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHM24AC6SA115125&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>SE</ns0:trim>
-    <ns0:mileage>1 miles</ns0:mileage>
-    <ns0:body_style>sedan</ns0:body_style>
-    <ns0:color>Onyx Black</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771649161--V3PRA-ltid1/1771649161.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771649171---KHLJ-ltid1/1771649171.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771649181--BXZ2R-ltid1/1771649181.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771649191--XT0P4-ltid1/1771649191.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771649201--XT0P4-ltid1/1771649201.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771649011--SEI+D-ltid1/1771649011.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771649021--BE+7H-ltid1/1771649021.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771649031--8LX6U-ltid1/1771649031.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771649041--AYSJU-ltid1/1771649041.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771649051--AYSJU-ltid1/1771649051.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>IONIQ 6</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>H26045</id>
     <title>2026 Hyundai Palisade Calligraphy</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8RMES20TU061199"/>
@@ -5194,7 +5155,7 @@
   <entry>
     <id>H26099</id>
     <title>2026 Hyundai Santa Fe XRT</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com//inventory/details/5NMP3DGL3TH188501"/>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMP3DGL3TH188501"/>
     <ns0:id>H26099</ns0:id>
     <ns0:price>41943.00 USD</ns0:price>
     <ns0:vehicle_msrp>44150.00 USD</ns0:vehicle_msrp>
@@ -5213,7 +5174,7 @@
     <ns0:model>Santa Fe</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com//inventory/details/5NMP3DGL3TH188501?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMP3DGL3TH188501&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>XRT</ns0:trim>
     <ns0:mileage>1 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
