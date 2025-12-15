@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Buick GMC Inventory Feed</title>
   <link href="https://www.napletoncrystallake.com" rel="self"/>
-  <updated>2025-12-15T08:03:26.554170</updated>
+  <updated>2025-12-15T12:04:20.743192</updated>
   <entry>
     <id>225174</id>
     <title>2025 Buick Envista Preferred</title>
@@ -5393,7 +5393,7 @@
   </entry>
   <entry>
     <id>126112</id>
-    <title>2026 GMC SIERRA 1500 4WD CREW CAB 147  DENALI</title>
+    <title>2026 GMC Sierra 1500 Denali</title>
     <link rel="alternate" href="https://www.napletoncrystallake.com/inventory/details/1GTUUGEL7TZ256783"/>
     <ns0:id>126112</ns0:id>
     <ns0:price>73035.00 USD</ns0:price>
@@ -5410,21 +5410,22 @@
     </ns0:vehicle_fulfillment>
     <ns0:year>2026</ns0:year>
     <ns0:make>GMC</ns0:make>
-    <ns0:model>SIERRA 1500</ns0:model>
+    <ns0:model>Sierra 1500</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletoncrystallake.com/inventory/details/1GTUUGEL7TZ256783?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>4WD CREW CAB 147  DENALI</ns0:trim>
+    <ns0:trim>Denali</ns0:trim>
     <ns0:mileage>10 miles</ns0:mileage>
-    <ns0:color>DOWNPOUR METALLIC</ns0:color>
-    <ns0:custom_label_0>SIERRA 1500</ns0:custom_label_0>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>Downpour Metallic</ns0:color>
+    <ns0:custom_label_0>Sierra 1500</ns0:custom_label_0>
   </entry>
   <entry>
     <id>226059</id>
     <title>2026 Buick Envista Sport Touring</title>
     <link rel="alternate" href="https://www.napletoncrystallake.com/inventory/new-2026-buick-envista-sport-touring-front-wheel-drive-suv-kl47lbep2tb088298/"/>
     <ns0:id>226059</ns0:id>
-    <ns0:price>29480.00 USD</ns0:price>
+    <ns0:price>28006.00 USD</ns0:price>
     <ns0:vehicle_msrp>29480.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KL47LBEP2TB088298</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -5446,6 +5447,16 @@
     <ns0:mileage>60 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Ocean Blue Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1862698671--FYWPV-ltid1/1862698671.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1862698681--FYWPV-ltid1/1862698681.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1862698691--FYWPV-ltid1/1862698691.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1862698701--FYWPV-ltid1/1862698701.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1862698711--FYWPV-ltid1/1862698711.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1862698721--FYWPV-ltid1/1862698721.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1862698731--FYWPV-ltid1/1862698731.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1862698741--FYWPV-ltid1/1862698741.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1862698751--FYWPV-ltid1/1862698751.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1862698761--FYWPV-ltid1/1862698761.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Envista</ns0:custom_label_0>
   </entry>
   <entry>
@@ -5453,7 +5464,7 @@
     <title>2026 GMC Sierra 1500 Denali Ultimate</title>
     <link rel="alternate" href="https://www.napletoncrystallake.com/inventory/details/1GTUUHE87TZ256008"/>
     <ns0:id>126113</ns0:id>
-    <ns0:price>86115.00 USD</ns0:price>
+    <ns0:price>78699.00 USD</ns0:price>
     <ns0:vehicle_msrp>86115.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1GTUUHE87TZ256008</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -5475,12 +5486,14 @@
     <ns0:mileage>10 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Downpour Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1862698651--FYWPV-ltid1/1862698651.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1862698661--FYWPV-ltid1/1862698661.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Sierra 1500</ns0:custom_label_0>
   </entry>
   <entry>
     <id>226039A</id>
     <title>2021 GMC Acadia Denali</title>
-    <link rel="alternate" href="https://www.napletoncrystallake.com/inventory/details/1GKKNXLS3MZ169080"/>
+    <link rel="alternate" href="https://www.napletoncrystallake.com/inventory/used-2021-gmc-acadia-denali-all-wheel-drive-suv-1gkknxls3mz169080/"/>
     <ns0:id>226039A</ns0:id>
     <ns0:price>29999.00 USD</ns0:price>
     <ns0:vin>1GKKNXLS3MZ169080</ns0:vin>
@@ -5498,7 +5511,7 @@
     <ns0:model>Acadia</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletoncrystallake.com/inventory/details/1GKKNXLS3MZ169080?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.napletoncrystallake.com/inventory/used-2021-gmc-acadia-denali-all-wheel-drive-suv-1gkknxls3mz169080/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Denali</ns0:trim>
     <ns0:mileage>67682 miles</ns0:mileage>
     <ns0:color>Ebony Twilight Metallic</ns0:color>
