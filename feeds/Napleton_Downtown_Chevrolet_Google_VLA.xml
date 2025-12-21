@@ -2,46 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Downtown Chevrolet Inventory Feed</title>
   <link href="https://www.downtownchevy.com" rel="self"/>
-  <updated>2025-12-21T08:02:48.557787</updated>
-  <entry>
-    <id>C24244</id>
-    <title>2024 Chevrolet Silverado 1500 Custom</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2024-chevrolet-silverado-1500-custom-four-wheel-drive-double-cab-1gcrdbekxrz243552/"/>
-    <ns0:id>C24244</ns0:id>
-    <ns0:price>38221.00 USD</ns0:price>
-    <ns0:vehicle_msrp>49965.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1GCRDBEKXRZ243552</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Chevrolet</ns0:brand>
-    <ns0:store_code>7227908043401009324</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
-    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>7227908043401009324</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2024</ns0:year>
-    <ns0:make>Chevrolet</ns0:make>
-    <ns0:model>Silverado 1500</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2024-chevrolet-silverado-1500-custom-four-wheel-drive-double-cab-1gcrdbekxrz243552/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Custom</ns0:trim>
-    <ns0:mileage>100 miles</ns0:mileage>
-    <ns0:body_style>truck</ns0:body_style>
-    <ns0:color>Sterling Gray Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145891--W9HHY-ltid1/1207145891.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145901--RKVTW-ltid1/1207145901.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145911--1HH08-ltid1/1207145911.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145921--R-WDE-ltid1/1207145921.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145931--R-WDE-ltid1/1207145931.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145941--VFEJS-ltid1/1207145941.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145951--7EJCW-ltid1/1207145951.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145961--GNYFM-ltid1/1207145961.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145971--KN27+-ltid1/1207145971.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1207145981--KN27+-ltid1/1207145981.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Silverado 1500</ns0:custom_label_0>
-  </entry>
+  <updated>2025-12-21T12:03:16.426397</updated>
   <entry>
     <id>C25116</id>
     <title>2025 Chevrolet Trax LT</title>
@@ -394,6 +355,44 @@
     <ns0:custom_label_0>Trailblazer</ns0:custom_label_0>
   </entry>
   <entry>
+    <id>HL25145</id>
+    <title>2025 Hyundai Sonata Hybrid Limited</title>
+    <link rel="alternate" href="https://www.downtownchevy.com/inventory/details/KMHL54JJ3SA126424"/>
+    <ns0:id>HL25145</ns0:id>
+    <ns0:price>35618.00 USD</ns0:price>
+    <ns0:vin>KMHL54JJ3SA126424</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Hyundai</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Hyundai</ns0:make>
+    <ns0:model>Sonata Hybrid</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.downtownchevy.com/inventory/details/KMHL54JJ3SA126424?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Limited</ns0:trim>
+    <ns0:mileage>3300 miles</ns0:mileage>
+    <ns0:body_style>sedan</ns0:body_style>
+    <ns0:color>Serenity White</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1829564561--XNZAV-ltid2/1829564561.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1829564571--XNZAV-ltid2/1829564571.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1829564581--XNZAV-ltid2/1829564581.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1829564591--XNZAV-ltid2/1829564591.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1829564601--XNZAV-ltid2/1829564601.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1829564611--XNZAV-ltid2/1829564611.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1829564621--XNZAV-ltid2/1829564621.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1829564631--XNZAV-ltid2/1829564631.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1829564641--XNZAV-ltid2/1829564641.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1829564651--XNZAV-ltid2/1829564651.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Sonata Hybrid</ns0:custom_label_0>
+  </entry>
+  <entry>
     <id>C25321</id>
     <title>2025 Chevrolet Silverado EV RST</title>
     <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2025-chevrolet-silverado-ev-rst-max-range-four-wheel-drive-crew-cab-1gc402el5su414015/"/>
@@ -470,6 +469,34 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609171--FD8X1-ltid1/1771609171.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771609181--K9ZUN-ltid1/1771609181.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Silverado 1500</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>HL25050</id>
+    <title>2025 Hyundai Elantra SE</title>
+    <link rel="alternate" href="https://www.downtownchevy.com/inventory/details/KMHLL4DG5SU936819"/>
+    <ns0:id>HL25050</ns0:id>
+    <ns0:price>20888.00 USD</ns0:price>
+    <ns0:vin>KMHLL4DG5SU936819</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Hyundai</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Hyundai</ns0:make>
+    <ns0:model>Elantra</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.downtownchevy.com/inventory/details/KMHLL4DG5SU936819?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SE</ns0:trim>
+    <ns0:mileage>2568 miles</ns0:mileage>
+    <ns0:body_style>sedan</ns0:body_style>
+    <ns0:color>Intense Blue</ns0:color>
+    <ns0:custom_label_0>Elantra</ns0:custom_label_0>
   </entry>
   <entry>
     <id>HL25069</id>
@@ -1467,43 +1494,6 @@
     <ns0:custom_label_0>Traverse</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>P0736</id>
-    <title>2024 Audi Q3 S line Premium</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2024-audi-q3-s-line-premium-all-wheel-drive-utility-wa1decf38r1108826/"/>
-    <ns0:id>P0736</ns0:id>
-    <ns0:price>24400.00 USD</ns0:price>
-    <ns0:vin>WA1DECF38R1108826</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Audi</ns0:brand>
-    <ns0:store_code>7227908043401009324</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
-    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>7227908043401009324</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2024</ns0:year>
-    <ns0:make>Audi</ns0:make>
-    <ns0:model>Q3</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2024-audi-q3-s-line-premium-all-wheel-drive-utility-wa1decf38r1108826/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>S line Premium</ns0:trim>
-    <ns0:mileage>45526 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610891--8SY6M-ltid2/1771610891.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610901--OXQNE-ltid2/1771610901.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610911--OXQNE-ltid2/1771610911.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610921--T4GMD-ltid2/1771610921.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610931--E4V3H-ltid2/1771610931.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771610941--UTPDS-ltid2/1771610941.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611641--UTPDS-ltid2/1771611641.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611651--0XQMK-ltid2/1771611651.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611661--PEP2S-ltid2/1771611661.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771611671--8JWYZ-ltid2/1771611671.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Q3</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>C26068</id>
     <title>2026 Chevrolet Trax 1RS</title>
     <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2026-chevrolet-trax-1rs-front-wheel-drive-suv-kl77lgep2tc024935/"/>
@@ -2270,44 +2260,6 @@
     <ns0:custom_label_0>Trailblazer</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>P0762</id>
-    <title>2024 Chevrolet Equinox LS</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2024-chevrolet-equinox-ls-front-wheel-drive-suv-3gnaxheg3rl166654/"/>
-    <ns0:id>P0762</ns0:id>
-    <ns0:price>20735.00 USD</ns0:price>
-    <ns0:vin>3GNAXHEG3RL166654</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Chevrolet</ns0:brand>
-    <ns0:store_code>7227908043401009324</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
-    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>7227908043401009324</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2024</ns0:year>
-    <ns0:make>Chevrolet</ns0:make>
-    <ns0:model>Equinox</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2024-chevrolet-equinox-ls-front-wheel-drive-suv-3gnaxheg3rl166654/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>LS</ns0:trim>
-    <ns0:mileage>11475 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Summit White</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1788548111--OKRST-ltid2/1788548111.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1788548121--URFAC-ltid2/1788548121.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1788548131--J4CL2-ltid2/1788548131.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1788548141--V14TK-ltid2/1788548141.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1788547811--2QG+I-ltid2/1788547811.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1788547821--2QG+I-ltid2/1788547821.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1788547831--6KYH4-ltid2/1788547831.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1788547841--3KPNV-ltid2/1788547841.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1788547851--3KPNV-ltid2/1788547851.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1788547861--Z5HCQ-ltid2/1788547861.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Equinox</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>P0761</id>
     <title>2025 Buick Enclave Preferred</title>
     <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2025-buick-enclave-preferred-all-wheel-drive-suv-5gaevars7sj226374/"/>
@@ -2350,7 +2302,7 @@
     <title>2024 Genesis GV80 3.5T AWD</title>
     <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2024-genesis-gv80-all-wheel-drive-sport-utility-kmuhcesc1ru193244/"/>
     <ns0:id>P0766</ns0:id>
-    <ns0:price>41795.00 USD</ns0:price>
+    <ns0:price>41295.00 USD</ns0:price>
     <ns0:vin>KMUHCESC1RU193244</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Genesis</ns0:brand>
@@ -3609,7 +3561,7 @@
     <title>2024 Chevrolet Camaro 2LT</title>
     <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2024-chevrolet-camaro-2lt-rear-wheel-drive-convertible-1g1fd3ds1r0112355/"/>
     <ns0:id>CD26061A</ns0:id>
-    <ns0:price>38552.00 USD</ns0:price>
+    <ns0:price>38500.00 USD</ns0:price>
     <ns0:vin>1G1FD3DS1R0112355</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Chevrolet</ns0:brand>
@@ -3641,33 +3593,6 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1865783021--GJFG1-ltid2/1865783021.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1865783031--GJFG1-ltid2/1865783031.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Camaro</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>C24409A</id>
-    <title>2018 Ford F-150 XLT</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2018-ford-f-150-xl-four-wheel-drive-crew-pickup-1ftew1eg4jfb14209/"/>
-    <ns0:id>C24409A</ns0:id>
-    <ns0:price>23691.00 USD</ns0:price>
-    <ns0:vin>1FTEW1EG4JFB14209</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>7227908043401009324</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
-    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>7227908043401009324</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2018</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>F-150</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2018-ford-f-150-xl-four-wheel-drive-crew-pickup-1ftew1eg4jfb14209/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>XLT</ns0:trim>
-    <ns0:mileage>79192 miles</ns0:mileage>
-    <ns0:color>Shadow Black</ns0:color>
-    <ns0:custom_label_0>F-150</ns0:custom_label_0>
   </entry>
   <entry>
     <id>B26008A</id>
@@ -3812,5 +3737,33 @@
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Gun Metallic</ns0:color>
     <ns0:custom_label_0>Pathfinder</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>H25245A</id>
+    <title>2023 Hyundai Sonata SEL</title>
+    <link rel="alternate" href="https://www.downtownchevy.com/inventory/details/KMHL64JA2PA253217"/>
+    <ns0:id>H25245A</ns0:id>
+    <ns0:price>18791.00 USD</ns0:price>
+    <ns0:vin>KMHL64JA2PA253217</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Hyundai</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2023</ns0:year>
+    <ns0:make>Hyundai</ns0:make>
+    <ns0:model>Sonata</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.downtownchevy.com/inventory/details/KMHL64JA2PA253217?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SEL</ns0:trim>
+    <ns0:mileage>41787 miles</ns0:mileage>
+    <ns0:body_style>sedan</ns0:body_style>
+    <ns0:color>Onyx Black</ns0:color>
+    <ns0:custom_label_0>Sonata</ns0:custom_label_0>
   </entry>
 </feed>
