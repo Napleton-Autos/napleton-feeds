@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Beaver Dam Chrysler Dodge Jeep Ram Inventory Feed</title>
   <link href="https://www.beaverdamcdjr.com/" rel="self"/>
-  <updated>2025-12-22T08:03:22.915204</updated>
+  <updated>2025-12-22T12:04:00.887007</updated>
   <entry>
     <id>340050</id>
     <title>2025 Jeep Wrangler Sahara</title>
@@ -2690,5 +2690,33 @@
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Bright Silver Metallic Clearcoat</ns0:color>
     <ns0:custom_label_0>2500</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>440064B</id>
+    <title>2022 MINI Countryman Cooper</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=WMZ23BR05N3N59225"/>
+    <ns0:id>440064B</ns0:id>
+    <ns0:price>18995.00 USD</ns0:price>
+    <ns0:vin>WMZ23BR05N3N59225</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>MINI</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2022</ns0:year>
+    <ns0:make>MINI</ns0:make>
+    <ns0:model>Countryman</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=WMZ23BR05N3N59225&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Cooper</ns0:trim>
+    <ns0:mileage>79913 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Moonwalk Grey Metallic</ns0:color>
+    <ns0:custom_label_0>Countryman</ns0:custom_label_0>
   </entry>
 </feed>
