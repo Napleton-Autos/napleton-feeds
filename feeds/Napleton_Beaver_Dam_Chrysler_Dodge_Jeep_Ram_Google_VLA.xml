@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Beaver Dam Chrysler Dodge Jeep Ram Inventory Feed</title>
   <link href="https://www.beaverdamcdjr.com/" rel="self"/>
-  <updated>2025-12-27T08:02:37.726258</updated>
+  <updated>2025-12-27T12:03:05.414046</updated>
   <entry>
     <id>340050</id>
     <title>2025 Jeep Wrangler Sahara</title>
@@ -1797,7 +1797,7 @@
     <title>2026 Jeep Compass Limited</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDCN2TT193194"/>
     <ns0:id>340122</ns0:id>
-    <ns0:price>36909.00 USD</ns0:price>
+    <ns0:price>35409.00 USD</ns0:price>
     <ns0:vehicle_msrp>39470.00 USD</ns0:vehicle_msrp>
     <ns0:vin>3C4NJDCN2TT193194</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -2029,7 +2029,7 @@
     <title>2024 Honda Civic Sedan EX</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2HGFE1F77RH310694"/>
     <ns0:id>340089C</ns0:id>
-    <ns0:price>21894.00 USD</ns0:price>
+    <ns0:price>21858.00 USD</ns0:price>
     <ns0:vin>2HGFE1F77RH310694</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Honda</ns0:brand>
@@ -2589,7 +2589,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4PJXDG2TW203596&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Willys</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:mileage>13 miles</ns0:mileage>
     <ns0:color>Mojito Clearcoat</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1887264221--CL6DQ-ltid1/1887264221.jpg</ns0:image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1887264231--CL6DQ-ltid1/1887264231.jpg</ns0:additional_image_link>
@@ -2684,9 +2684,9 @@
   <entry>
     <id>440074A</id>
     <title>2025 Ram 1500 Big Horn</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com//inventory/details/1C6SRFBP1SN518174"/>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFBP1SN518174"/>
     <ns0:id>440074A</ns0:id>
-    <ns0:price>60245.00 USD</ns0:price>
+    <ns0:price>40638.00 USD</ns0:price>
     <ns0:vin>1C6SRFBP1SN518174</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Ram</ns0:brand>
@@ -2702,11 +2702,39 @@
     <ns0:model>1500</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com//inventory/details/1C6SRFBP1SN518174?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFBP1SN518174&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Big Horn</ns0:trim>
     <ns0:mileage>20400 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Billet Silver Metallic Clearcoat</ns0:color>
     <ns0:custom_label_0>1500</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>340120A</id>
+    <title>2022 Nissan Frontier SV</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1N6ED1EK3NN639202"/>
+    <ns0:id>340120A</ns0:id>
+    <ns0:price>26272.00 USD</ns0:price>
+    <ns0:vin>1N6ED1EK3NN639202</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Nissan</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2022</ns0:year>
+    <ns0:make>Nissan</ns0:make>
+    <ns0:model>Frontier</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1N6ED1EK3NN639202&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SV</ns0:trim>
+    <ns0:mileage>66172 miles</ns0:mileage>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>Deep Blue Pearl</ns0:color>
+    <ns0:custom_label_0>Frontier</ns0:custom_label_0>
   </entry>
 </feed>
