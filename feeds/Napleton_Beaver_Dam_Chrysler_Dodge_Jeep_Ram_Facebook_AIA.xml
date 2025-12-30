@@ -1,97 +1,6 @@
 <?xml version="1.0" ?>
 <listings>
   <listing>
-    <vehicle_id>1c4pjxen2sw508544</vehicle_id>
-    <title>2025 Jeep Wrangler Sahara</title>
-    <description>2025 Jeep Wrangler. Trim: Sahara. Color: Hydro Blue Pearlcoat. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">1724 N Spring St.</component>
-      <component name="city">Beaver Dam</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53916</component>
-    </address>
-    <year>2025</year>
-    <make>Jeep</make>
-    <model>Wrangler</model>
-    <vin>1c4pjxen2sw508544</vin>
-    <content_ids>1c4pjxen2sw508544</content_ids>
-    <availability>in stock</availability>
-    <price>49850.00 USD</price>
-    <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4PJXEN2SW508544</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>1480</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Sahara</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Hydro Blue Pearlcoat</exterior_color>
-    <interior_color>Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172791--CYBWR-ltid1/1207172791.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172801--W0KSK-ltid1/1207172801.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172811--W0KSK-ltid1/1207172811.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172821--JIM73-ltid1/1207172821.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172831--JIM73-ltid1/1207172831.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172841--JIM73-ltid1/1207172841.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172851--05EKD-ltid1/1207172851.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172861--05EKD-ltid1/1207172861.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172871--O43ZF-ltid1/1207172871.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172881--O43ZF-ltid1/1207172881.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172891--3SMV4-ltid1/1207172891.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172901--3SMV4-ltid1/1207172901.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172911--5XGY2-ltid1/1207172911.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172921--5XGY2-ltid1/1207172921.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172931--2MZIQ-ltid1/1207172931.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172941--2MZIQ-ltid1/1207172941.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172951--BTHKS-ltid1/1207172951.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172961--BTHKS-ltid1/1207172961.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172971--ZW-IX-ltid1/1207172971.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207172981--ZW-IX-ltid1/1207172981.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>2c4rc3bg2sr507968</vehicle_id>
     <title>2025 Chrysler Pacifica Select</title>
     <description>2025 Chrysler Pacifica. Trim: Select. Color: Diamond Black Crystal Pearlcoat. Body Style: Passenger Van.</description>
@@ -417,252 +326,6 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771624871--ZFSDB-ltid1/1771624871.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>3c6lrvng7te150292</vehicle_id>
-    <title>2026 Ram Promaster 1500 Tradesman</title>
-    <description>2026 Ram Promaster 1500. Trim: Tradesman. Color: Bright White Clearcoat. Body Style: Cargo Van.</description>
-    <address format="simple">
-      <component name="addr1">1724 N Spring St.</component>
-      <component name="city">Beaver Dam</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53916</component>
-    </address>
-    <year>2026</year>
-    <make>Ram</make>
-    <model>Promaster 1500</model>
-    <vin>3c6lrvng7te150292</vin>
-    <content_ids>3c6lrvng7te150292</content_ids>
-    <availability>in stock</availability>
-    <price>49615.00 USD</price>
-    <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C6LRVNG7TE150292</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>28</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Tradesman</trim>
-    <body_style>VAN</body_style>
-    <exterior_color>Bright White Clearcoat</exterior_color>
-    <interior_color>Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846881--MBAIR-ltid1/1692846881.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846891--NMBCX-ltid1/1692846891.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846901--2BEWI-ltid1/1692846901.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846911--2BEWI-ltid1/1692846911.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846921--LI0UF-ltid1/1692846921.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846931--YCFA+-ltid1/1692846931.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846941--YCFA+-ltid1/1692846941.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846951--D4YYG-ltid1/1692846951.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846961--4NTO9-ltid1/1692846961.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846971--LLWAV-ltid1/1692846971.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846981--JM1RY-ltid1/1692846981.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>1c4rjfbg7lc374657</vehicle_id>
-    <title>2020 Jeep Grand Cherokee Limited</title>
-    <description>2020 Jeep Grand Cherokee. Trim: Limited. Color: Bright White Clearcoat. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">1724 N Spring St.</component>
-      <component name="city">Beaver Dam</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53916</component>
-    </address>
-    <year>2020</year>
-    <make>Jeep</make>
-    <model>Grand Cherokee</model>
-    <vin>1c4rjfbg7lc374657</vin>
-    <content_ids>1c4rjfbg7lc374657</content_ids>
-    <availability>in stock</availability>
-    <price>22111.00 USD</price>
-    <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJFBG7LC374657</url>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <condition>used</condition>
-    <mileage>
-      <value>62515</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Limited</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Bright White Clearcoat</exterior_color>
-    <interior_color>Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977811--RSSPW-ltid2/1772977811.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977821--RSSPW-ltid2/1772977821.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977831--RSSPW-ltid2/1772977831.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977841--I7ALB-ltid2/1772977841.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977851--0QOTY-ltid2/1772977851.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977861--0QOTY-ltid2/1772977861.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977871--0QOTY-ltid2/1772977871.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977881--0QOTY-ltid2/1772977881.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977891--LYZSK-ltid2/1772977891.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977901--LYZSK-ltid2/1772977901.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977661--+TNOW-ltid2/1772977661.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977671--+TNOW-ltid2/1772977671.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977681--+TNOW-ltid2/1772977681.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977691--JWAGG-ltid2/1772977691.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977701--JWAGG-ltid2/1772977701.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977711--ZZGMB-ltid2/1772977711.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977721--ZZGMB-ltid2/1772977721.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977731--MDZ0H-ltid2/1772977731.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977741--MDZ0H-ltid2/1772977741.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977751--MDZ0H-ltid2/1772977751.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>2c3ccasg8ph561271</vehicle_id>
-    <title>2023 Chrysler 300 300 Touring L</title>
-    <description>2023 Chrysler 300. Trim: 300 Touring L. Color: Bright White. Body Style: Sedan.</description>
-    <address format="simple">
-      <component name="addr1">1724 N Spring St.</component>
-      <component name="city">Beaver Dam</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53916</component>
-    </address>
-    <year>2023</year>
-    <make>Chrysler</make>
-    <model>300</model>
-    <vin>2c3ccasg8ph561271</vin>
-    <content_ids>2c3ccasg8ph561271</content_ids>
-    <availability>in stock</availability>
-    <price>27711.00 USD</price>
-    <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C3CCASG8PH561271</url>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <condition>used</condition>
-    <mileage>
-      <value>46288</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>300 Touring L</trim>
-    <body_style>SEDAN</body_style>
-    <exterior_color>Bright White</exterior_color>
-    <interior_color>Linen/Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402411---CMBM-ltid2/1786402411.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402421--VYSNJ-ltid2/1786402421.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402431--IDHHO-ltid2/1786402431.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402441--WS14F-ltid2/1786402441.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402451--ZCDMB-ltid2/1786402451.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402461--ZCDMB-ltid2/1786402461.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402471--DOGP8-ltid2/1786402471.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402481--7TFEY-ltid2/1786402481.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402491--LYVT+-ltid2/1786402491.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402501--LYVT+-ltid2/1786402501.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402511--Y8U4O-ltid2/1786402511.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402521--BCGDF-ltid2/1786402521.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402531--Z6YAM-ltid2/1786402531.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402541--Z6YAM-ltid2/1786402541.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402551--WF-BQ-ltid2/1786402551.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402561--KDS+M-ltid2/1786402561.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402571--ED4NP-ltid2/1786402571.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402581--ED4NP-ltid2/1786402581.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402591--MBQIJ-ltid2/1786402591.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402601--GGHK2-ltid2/1786402601.jpg</url>
     </image>
   </listing>
   <listing>
@@ -1246,6 +909,70 @@
     </image>
   </listing>
   <listing>
+    <vehicle_id>3c6lrvng7te150292</vehicle_id>
+    <title>2026 Ram Promaster 1500 Tradesman</title>
+    <description>2026 Ram Promaster 1500. Trim: Tradesman. Color: Bright White Clearcoat. Body Style: Cargo Van.</description>
+    <address format="simple">
+      <component name="addr1">1724 N Spring St.</component>
+      <component name="city">Beaver Dam</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53916</component>
+    </address>
+    <year>2026</year>
+    <make>Ram</make>
+    <model>Promaster 1500</model>
+    <vin>3c6lrvng7te150292</vin>
+    <content_ids>3c6lrvng7te150292</content_ids>
+    <availability>in stock</availability>
+    <price>49615.00 USD</price>
+    <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C6LRVNG7TE150292</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>28</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Tradesman</trim>
+    <body_style>VAN</body_style>
+    <exterior_color>Bright White Clearcoat</exterior_color>
+    <interior_color>Black</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846881--MBAIR-ltid1/1692846881.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846891--NMBCX-ltid1/1692846891.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846901--2BEWI-ltid1/1692846901.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846911--2BEWI-ltid1/1692846911.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846921--LI0UF-ltid1/1692846921.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846931--YCFA+-ltid1/1692846931.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846941--YCFA+-ltid1/1692846941.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846951--D4YYG-ltid1/1692846951.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846961--4NTO9-ltid1/1692846961.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846971--LLWAV-ltid1/1692846971.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846981--JM1RY-ltid1/1692846981.jpg</url>
+    </image>
+  </listing>
+  <listing>
     <vehicle_id>1c4rjhag0sc349935</vehicle_id>
     <title>2025 Jeep Grand Cherokee Laredo X</title>
     <description>2025 Jeep Grand Cherokee. Trim: Laredo X. Color: Bright White Clearcoat. Body Style: Sport Utility.</description>
@@ -1767,7 +1494,7 @@
     <vin>2c3cdzgg5lh110703</vin>
     <content_ids>2c3cdzgg5lh110703</content_ids>
     <availability>in stock</availability>
-    <price>21211.00 USD</price>
+    <price>21568.00 USD</price>
     <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C3CDZGG5LH110703</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -1839,6 +1566,97 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771625531--7UX6Z-ltid2/1771625531.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>1c4rjfbg7lc374657</vehicle_id>
+    <title>2020 Jeep Grand Cherokee Limited</title>
+    <description>2020 Jeep Grand Cherokee. Trim: Limited. Color: Bright White Clearcoat. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">1724 N Spring St.</component>
+      <component name="city">Beaver Dam</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53916</component>
+    </address>
+    <year>2020</year>
+    <make>Jeep</make>
+    <model>Grand Cherokee</model>
+    <vin>1c4rjfbg7lc374657</vin>
+    <content_ids>1c4rjfbg7lc374657</content_ids>
+    <availability>in stock</availability>
+    <price>22236.00 USD</price>
+    <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJFBG7LC374657</url>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <condition>used</condition>
+    <mileage>
+      <value>62515</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Limited</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Bright White Clearcoat</exterior_color>
+    <interior_color>Black</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977811--RSSPW-ltid2/1772977811.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977821--RSSPW-ltid2/1772977821.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977831--RSSPW-ltid2/1772977831.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977841--I7ALB-ltid2/1772977841.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977851--0QOTY-ltid2/1772977851.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977861--0QOTY-ltid2/1772977861.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977871--0QOTY-ltid2/1772977871.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977881--0QOTY-ltid2/1772977881.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977891--LYZSK-ltid2/1772977891.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977901--LYZSK-ltid2/1772977901.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977661--+TNOW-ltid2/1772977661.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977671--+TNOW-ltid2/1772977671.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977681--+TNOW-ltid2/1772977681.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977691--JWAGG-ltid2/1772977691.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977701--JWAGG-ltid2/1772977701.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977711--ZZGMB-ltid2/1772977711.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977721--ZZGMB-ltid2/1772977721.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977731--MDZ0H-ltid2/1772977731.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977741--MDZ0H-ltid2/1772977741.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977751--MDZ0H-ltid2/1772977751.jpg</url>
     </image>
   </listing>
   <listing>
@@ -1931,7 +1749,7 @@
     <vin>1c4gjxan1pw678326</vin>
     <content_ids>1c4gjxan1pw678326</content_ids>
     <availability>in stock</availability>
-    <price>26000.00 USD</price>
+    <price>26324.00 USD</price>
     <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4GJXAN1PW678326</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -2441,6 +2259,97 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1796357111--URSFP-ltid1/1796357111.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>2c3ccasg8ph561271</vehicle_id>
+    <title>2023 Chrysler 300 300 Touring L</title>
+    <description>2023 Chrysler 300. Trim: 300 Touring L. Color: Bright White. Body Style: Sedan.</description>
+    <address format="simple">
+      <component name="addr1">1724 N Spring St.</component>
+      <component name="city">Beaver Dam</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53916</component>
+    </address>
+    <year>2023</year>
+    <make>Chrysler</make>
+    <model>300</model>
+    <vin>2c3ccasg8ph561271</vin>
+    <content_ids>2c3ccasg8ph561271</content_ids>
+    <availability>in stock</availability>
+    <price>27572.00 USD</price>
+    <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C3CCASG8PH561271</url>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <condition>used</condition>
+    <mileage>
+      <value>46288</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>300 Touring L</trim>
+    <body_style>SEDAN</body_style>
+    <exterior_color>Bright White</exterior_color>
+    <interior_color>Linen/Black</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402411---CMBM-ltid2/1786402411.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402421--VYSNJ-ltid2/1786402421.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402431--IDHHO-ltid2/1786402431.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402441--WS14F-ltid2/1786402441.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402451--ZCDMB-ltid2/1786402451.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402461--ZCDMB-ltid2/1786402461.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402471--DOGP8-ltid2/1786402471.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402481--7TFEY-ltid2/1786402481.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402491--LYVT+-ltid2/1786402491.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402501--LYVT+-ltid2/1786402501.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402511--Y8U4O-ltid2/1786402511.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402521--BCGDF-ltid2/1786402521.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402531--Z6YAM-ltid2/1786402531.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402541--Z6YAM-ltid2/1786402541.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402551--WF-BQ-ltid2/1786402551.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402561--KDS+M-ltid2/1786402561.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402571--ED4NP-ltid2/1786402571.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402581--ED4NP-ltid2/1786402581.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402591--MBQIJ-ltid2/1786402591.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402601--GGHK2-ltid2/1786402601.jpg</url>
     </image>
   </listing>
   <listing>
@@ -3024,6 +2933,73 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1824452681--W44F7-ltid1/1824452681.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>2c4rc1gg7tr207082</vehicle_id>
+    <title>2026 Chrysler Pacifica Limited</title>
+    <description>2026 Chrysler Pacifica. Trim: Limited. Color: Bright White Clearcoat. Body Style: Passenger Van.</description>
+    <address format="simple">
+      <component name="addr1">1724 N Spring St.</component>
+      <component name="city">Beaver Dam</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53916</component>
+    </address>
+    <year>2026</year>
+    <make>Chrysler</make>
+    <model>Pacifica</model>
+    <vin>2c4rc1gg7tr207082</vin>
+    <content_ids>2c4rc1gg7tr207082</content_ids>
+    <availability>in stock</availability>
+    <price>48031.00 USD</price>
+    <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC1GG7TR207082</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>16</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Limited</trim>
+    <body_style>VAN</body_style>
+    <exterior_color>Bright White Clearcoat</exterior_color>
+    <interior_color>Black</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1796252931--QMFYW-ltid1/1796252931.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1796252941--YKVAM-ltid1/1796252941.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1796252951--YKVAM-ltid1/1796252951.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1796252961--LVFLT-ltid1/1796252961.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1796252971--PBKHE-ltid1/1796252971.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1796252981--DM84V-ltid1/1796252981.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1796252991--MHMPQ-ltid1/1796252991.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1796253001--JVECM-ltid1/1796253001.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1796253011--RWVST-ltid1/1796253011.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1796253021--T7VCT-ltid1/1796253021.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1796253031--0NHAJ-ltid1/1796253031.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1796253041--PAVGU-ltid1/1796253041.jpg</url>
     </image>
   </listing>
   <listing>
@@ -3617,140 +3593,6 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>2c4rc3pg8tr203036</vehicle_id>
-    <title>2026 Chrysler Pacifica Pinnacle</title>
-    <description>2026 Chrysler Pacifica. Trim: Pinnacle. Color: Silver Mist Clearcoat. Body Style: Passenger Van.</description>
-    <address format="simple">
-      <component name="addr1">1724 N Spring St.</component>
-      <component name="city">Beaver Dam</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53916</component>
-    </address>
-    <year>2026</year>
-    <make>Chrysler</make>
-    <model>Pacifica</model>
-    <vin>2c4rc3pg8tr203036</vin>
-    <content_ids>2c4rc3pg8tr203036</content_ids>
-    <availability>in stock</availability>
-    <price>55284.00 USD</price>
-    <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC3PG8TR203036</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>5</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Pinnacle</trim>
-    <body_style>VAN</body_style>
-    <exterior_color>Silver Mist Clearcoat</exterior_color>
-    <interior_color>Sepia/Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968321--DQJTR-ltid1/1853968321.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968331--DQJTR-ltid1/1853968331.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968341--DQJTR-ltid1/1853968341.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968351--DQJTR-ltid1/1853968351.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968361--DQJTR-ltid1/1853968361.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968371--DQJTR-ltid1/1853968371.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968381--DQJTR-ltid1/1853968381.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968391--DQJTR-ltid1/1853968391.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968401--DQJTR-ltid1/1853968401.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968411--DQJTR-ltid1/1853968411.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968421--DQJTR-ltid1/1853968421.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968431--DQJTR-ltid1/1853968431.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>3c4njdbn7tt200108</vehicle_id>
-    <title>2026 Jeep Compass Latitude Altitude</title>
-    <description>2026 Jeep Compass. Trim: Latitude Altitude. Color: Red Hot Pearlcoat. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">1724 N Spring St.</component>
-      <component name="city">Beaver Dam</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53916</component>
-    </address>
-    <year>2026</year>
-    <make>Jeep</make>
-    <model>Compass</model>
-    <vin>3c4njdbn7tt200108</vin>
-    <content_ids>3c4njdbn7tt200108</content_ids>
-    <availability>in stock</availability>
-    <price>33080.00 USD</price>
-    <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDBN7TT200108</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>330</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Latitude Altitude</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Red Hot Pearlcoat</exterior_color>
-    <interior_color>Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290531--PFCYE-ltid1/1884290531.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290541--PFCYE-ltid1/1884290541.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290551--PFCYE-ltid1/1884290551.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290561--PFCYE-ltid1/1884290561.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290571--PFCYE-ltid1/1884290571.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290581--PFCYE-ltid1/1884290581.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290591--PFCYE-ltid1/1884290591.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290601--PFCYE-ltid1/1884290601.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290611--PFCYE-ltid1/1884290611.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290621--PFCYE-ltid1/1884290621.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290631--PFCYE-ltid1/1884290631.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290641--PFCYE-ltid1/1884290641.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>2c4rc3bgxtr218774</vehicle_id>
     <title>2026 Chrysler Pacifica Select</title>
     <description>2026 Chrysler Pacifica. Trim: Select. Color: Red Hot Pearlcoat. Body Style: Passenger Van.</description>
@@ -3907,7 +3749,7 @@
     <vin>2hgfe1f77rh310694</vin>
     <content_ids>2hgfe1f77rh310694</content_ids>
     <availability>in stock</availability>
-    <price>21858.00 USD</price>
+    <price>21823.00 USD</price>
     <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2HGFE1F77RH310694</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -4244,7 +4086,7 @@
     <vin>1c6rrffg2nn260003</vin>
     <content_ids>1c6rrffg2nn260003</content_ids>
     <availability>in stock</availability>
-    <price>30411.00 USD</price>
+    <price>30747.00 USD</price>
     <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6RRFFG2NN260003</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -4359,6 +4201,73 @@
     </image>
   </listing>
   <listing>
+    <vehicle_id>2c4rc3pg8tr203036</vehicle_id>
+    <title>2026 Chrysler Pacifica Pinnacle</title>
+    <description>2026 Chrysler Pacifica. Trim: Pinnacle. Color: Silver Mist Clearcoat. Body Style: Passenger Van.</description>
+    <address format="simple">
+      <component name="addr1">1724 N Spring St.</component>
+      <component name="city">Beaver Dam</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53916</component>
+    </address>
+    <year>2026</year>
+    <make>Chrysler</make>
+    <model>Pacifica</model>
+    <vin>2c4rc3pg8tr203036</vin>
+    <content_ids>2c4rc3pg8tr203036</content_ids>
+    <availability>in stock</availability>
+    <price>55284.00 USD</price>
+    <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC3PG8TR203036</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>5</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Pinnacle</trim>
+    <body_style>VAN</body_style>
+    <exterior_color>Silver Mist Clearcoat</exterior_color>
+    <interior_color>Sepia/Black</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968321--DQJTR-ltid1/1853968321.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968331--DQJTR-ltid1/1853968331.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968341--DQJTR-ltid1/1853968341.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968351--DQJTR-ltid1/1853968351.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968361--DQJTR-ltid1/1853968361.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968371--DQJTR-ltid1/1853968371.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968381--DQJTR-ltid1/1853968381.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968391--DQJTR-ltid1/1853968391.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968401--DQJTR-ltid1/1853968401.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968411--DQJTR-ltid1/1853968411.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968421--DQJTR-ltid1/1853968421.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968431--DQJTR-ltid1/1853968431.jpg</url>
+    </image>
+  </listing>
+  <listing>
     <vehicle_id>2c4rc3gg4tr218777</vehicle_id>
     <title>2026 Chrysler Pacifica Limited</title>
     <description>2026 Chrysler Pacifica. Trim: Limited. Color: Diamond Black Crystal Pearlcoat. Body Style: Passenger Van.</description>
@@ -4442,7 +4351,7 @@
     <vin>kl79musl5sb201696</vin>
     <content_ids>kl79musl5sb201696</content_ids>
     <availability>in stock</availability>
-    <price>27965.00 USD</price>
+    <price>27968.00 USD</price>
     <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=KL79MUSL5SB201696</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -4533,7 +4442,7 @@
     <vin>1c4rjhbg1pc522416</vin>
     <content_ids>1c4rjhbg1pc522416</content_ids>
     <availability>in stock</availability>
-    <price>27842.00 USD</price>
+    <price>28317.00 USD</price>
     <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHBG1PC522416</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -4741,6 +4650,97 @@
     </image>
   </listing>
   <listing>
+    <vehicle_id>3c6ur5fj1hg653181</vehicle_id>
+    <title>2017 Ram 2500 Laramie</title>
+    <description>2017 Ram 2500. Trim: Laramie. Color: Bright Silver Metallic Clearcoat. Body Style: Crew Cab.</description>
+    <address format="simple">
+      <component name="addr1">1724 N Spring St.</component>
+      <component name="city">Beaver Dam</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53916</component>
+    </address>
+    <year>2017</year>
+    <make>Ram</make>
+    <model>2500</model>
+    <vin>3c6ur5fj1hg653181</vin>
+    <content_ids>3c6ur5fj1hg653181</content_ids>
+    <availability>in stock</availability>
+    <price>30000.00 USD</price>
+    <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C6UR5FJ1HG653181</url>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <condition>used</condition>
+    <mileage>
+      <value>101613</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Laramie</trim>
+    <body_style>OTHER</body_style>
+    <exterior_color>Bright Silver Metallic Clearcoat</exterior_color>
+    <interior_color>Black</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899683451--VBHBE-ltid2/1899683451.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899683251--VBHBE-ltid2/1899683251.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899683411--VBHBE-ltid2/1899683411.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899683501--VBHBE-ltid2/1899683501.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899683331--VBHBE-ltid2/1899683331.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899683371--VBHBE-ltid2/1899683371.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899683211--VBHBE-ltid2/1899683211.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899683291--VBHBE-ltid2/1899683291.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899683461--VBHBE-ltid2/1899683461.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899683381--VBHBE-ltid2/1899683381.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899683221--VBHBE-ltid2/1899683221.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899683301--VBHBE-ltid2/1899683301.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899683471--VBHBE-ltid2/1899683471.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899683261--VBHBE-ltid2/1899683261.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899683421--VBHBE-ltid2/1899683421.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899683511--VBHBE-ltid2/1899683511.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899683341--VBHBE-ltid2/1899683341.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899683391--VBHBE-ltid2/1899683391.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899683231--VBHBE-ltid2/1899683231.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899683311--VBHBE-ltid2/1899683311.jpg</url>
+    </image>
+  </listing>
+  <listing>
     <vehicle_id>1c4pjxdg2tw203596</vehicle_id>
     <title>2026 Jeep Wrangler Willys</title>
     <description>2026 Jeep Wrangler. Trim: Willys. Color: Mojito Clearcoat. Body Style: 4-door.</description>
@@ -4805,6 +4805,91 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1887264131--CL6DQ-ltid1/1887264131.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>3c4njdbn7tt200108</vehicle_id>
+    <title>2026 Jeep Compass Latitude Altitude</title>
+    <description>2026 Jeep Compass. Trim: Latitude Altitude. Color: Red Hot Pearlcoat. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">1724 N Spring St.</component>
+      <component name="city">Beaver Dam</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53916</component>
+    </address>
+    <year>2026</year>
+    <make>Jeep</make>
+    <model>Compass</model>
+    <vin>3c4njdbn7tt200108</vin>
+    <content_ids>3c4njdbn7tt200108</content_ids>
+    <availability>in stock</availability>
+    <price>33080.00 USD</price>
+    <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDBN7TT200108</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>330</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Latitude Altitude</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Red Hot Pearlcoat</exterior_color>
+    <interior_color>Black</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899642971--IQ3HE-ltid1/1899642971.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899642921--IQ3HE-ltid1/1899642921.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899642821--IQ3HE-ltid1/1899642821.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899642891--IQ3HE-ltid1/1899642891.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899642851--IQ3HE-ltid1/1899642851.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899642951--IQ3HE-ltid1/1899642951.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899642901--IQ3HE-ltid1/1899642901.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899642801--IQ3HE-ltid1/1899642801.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899642871--IQ3HE-ltid1/1899642871.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899642831--IQ3HE-ltid1/1899642831.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899642941--IQ3HE-ltid1/1899642941.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899642931--IQ3HE-ltid1/1899642931.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899642861--IQ3HE-ltid1/1899642861.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899642961--IQ3HE-ltid1/1899642961.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899642911--IQ3HE-ltid1/1899642911.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899642811--IQ3HE-ltid1/1899642811.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899642881--IQ3HE-ltid1/1899642881.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1899642841--IQ3HE-ltid1/1899642841.jpg</url>
     </image>
   </listing>
   <listing>
@@ -4875,73 +4960,6 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290521--PFCYE-ltid1/1884290521.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>2c4rc1gg7tr207082</vehicle_id>
-    <title>2026 Chrysler Pacifica Limited</title>
-    <description>2026 Chrysler Pacifica. Trim: Limited. Color: Bright White Clearcoat. Body Style: Passenger Van.</description>
-    <address format="simple">
-      <component name="addr1">1724 N Spring St.</component>
-      <component name="city">Beaver Dam</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53916</component>
-    </address>
-    <year>2026</year>
-    <make>Chrysler</make>
-    <model>Pacifica</model>
-    <vin>2c4rc1gg7tr207082</vin>
-    <content_ids>2c4rc1gg7tr207082</content_ids>
-    <availability>in stock</availability>
-    <price>48031.00 USD</price>
-    <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC1GG7TR207082</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>16</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Limited</trim>
-    <body_style>VAN</body_style>
-    <exterior_color>Bright White Clearcoat</exterior_color>
-    <interior_color>Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1796252931--QMFYW-ltid1/1796252931.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1796252941--YKVAM-ltid1/1796252941.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1796252951--YKVAM-ltid1/1796252951.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1796252961--LVFLT-ltid1/1796252961.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1796252971--PBKHE-ltid1/1796252971.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1796252981--DM84V-ltid1/1796252981.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1796252991--MHMPQ-ltid1/1796252991.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1796253001--JVECM-ltid1/1796253001.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1796253011--RWVST-ltid1/1796253011.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1796253021--T7VCT-ltid1/1796253021.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1796253031--0NHAJ-ltid1/1796253031.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1796253041--PAVGU-ltid1/1796253041.jpg</url>
     </image>
   </listing>
 </listings>
