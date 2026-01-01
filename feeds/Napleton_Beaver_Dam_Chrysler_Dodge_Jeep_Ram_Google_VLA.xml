@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Beaver Dam Chrysler Dodge Jeep Ram Inventory Feed</title>
   <link href="https://www.beaverdamcdjr.com/" rel="self"/>
-  <updated>2026-01-01T08:02:55.365922</updated>
+  <updated>2026-01-01T12:04:00.517212</updated>
   <entry>
     <id>140015</id>
     <title>2025 Chrysler Pacifica Select</title>
@@ -784,44 +784,6 @@
     <ns0:custom_label_0>Grand Cherokee</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>PB0082</id>
-    <title>2020 Dodge Challenger SXT</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C3CDZGG5LH110703"/>
-    <ns0:id>PB0082</ns0:id>
-    <ns0:price>21568.00 USD</ns0:price>
-    <ns0:vin>2C3CDZGG5LH110703</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Dodge</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2020</ns0:year>
-    <ns0:make>Dodge</ns0:make>
-    <ns0:model>Challenger</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C3CDZGG5LH110703&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>SXT</ns0:trim>
-    <ns0:mileage>41310 miles</ns0:mileage>
-    <ns0:body_style>coupe</ns0:body_style>
-    <ns0:color>Indigo Blue</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771624111--OXVKB-ltid2/1771624111.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771624121--OXVKB-ltid2/1771624121.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771624131--OXVKB-ltid2/1771624131.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771624141--2OHTL-ltid2/1771624141.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771624151--2OHTL-ltid2/1771624151.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771624161--2OHTL-ltid2/1771624161.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771624171--BXZWG-ltid2/1771624171.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771624181--BXZWG-ltid2/1771624181.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771624191--BXZWG-ltid2/1771624191.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771624201--NR3EY-ltid2/1771624201.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Challenger</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>PB0085</id>
     <title>2020 Jeep Grand Cherokee Limited</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJFBG7LC374657"/>
@@ -903,7 +865,7 @@
     <title>2023 Jeep Wrangler Sport S</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4GJXAN1PW678326"/>
     <ns0:id>340112A</ns0:id>
-    <ns0:price>26324.00 USD</ns0:price>
+    <ns0:price>26288.00 USD</ns0:price>
     <ns0:vin>1C4GJXAN1PW678326</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Jeep</ns0:brand>
@@ -2326,6 +2288,34 @@
     <ns0:custom_label_0>Grand Cherokee</ns0:custom_label_0>
   </entry>
   <entry>
+    <id>440063A</id>
+    <title>2021 Jeep Grand Cherokee L Limited</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com//inventory/details/1C4RJKBG3M8149875"/>
+    <ns0:id>440063A</ns0:id>
+    <ns0:price>26179.00 USD</ns0:price>
+    <ns0:vin>1C4RJKBG3M8149875</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Jeep</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2021</ns0:year>
+    <ns0:make>Jeep</ns0:make>
+    <ns0:model>Grand Cherokee L</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com//inventory/details/1C4RJKBG3M8149875?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Limited</ns0:trim>
+    <ns0:mileage>80325 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Baltic Gray Metallic Clearcoat</ns0:color>
+    <ns0:custom_label_0>Grand Cherokee L</ns0:custom_label_0>
+  </entry>
+  <entry>
     <id>440075</id>
     <title>2026 Ram 1500 Big Horn</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFFP6TN282245"/>
@@ -2598,45 +2588,17 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1N6ED1EK3NN639202&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>SV</ns0:trim>
-    <ns0:mileage>66172 miles</ns0:mileage>
+    <ns0:mileage>66183 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Deep Blue Pearl</ns0:color>
     <ns0:custom_label_0>Frontier</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>440068B</id>
-    <title>2021 Jeep Grand Cherokee Limited</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJFBG0MC754764"/>
-    <ns0:id>440068B</ns0:id>
-    <ns0:price>23493.00 USD</ns0:price>
-    <ns0:vin>1C4RJFBG0MC754764</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Jeep</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2021</ns0:year>
-    <ns0:make>Jeep</ns0:make>
-    <ns0:model>Grand Cherokee</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJFBG0MC754764&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Limited</ns0:trim>
-    <ns0:mileage>60059 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Bright White Clearcoat</ns0:color>
-    <ns0:custom_label_0>Grand Cherokee</ns0:custom_label_0>
   </entry>
   <entry>
     <id>340078A</id>
     <title>2023 Jeep Grand Cherokee L Altitude</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJKAG3P8853600"/>
     <ns0:id>340078A</ns0:id>
-    <ns0:price>30852.00 USD</ns0:price>
+    <ns0:price>30567.00 USD</ns0:price>
     <ns0:vin>1C4RJKAG3P8853600</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Jeep</ns0:brand>
@@ -2664,7 +2626,7 @@
     <title>2021 Jeep Wrangler 80th Anniversary</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4GJXAN5MW691477"/>
     <ns0:id>340050A</ns0:id>
-    <ns0:price>19104.00 USD</ns0:price>
+    <ns0:price>18727.00 USD</ns0:price>
     <ns0:vin>1C4GJXAN5MW691477</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Jeep</ns0:brand>
@@ -2690,7 +2652,7 @@
   <entry>
     <id>340131</id>
     <title>2026 Jeep Cherokee Limited</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com//inventory/details/3C4PJMB25TT154602"/>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4PJMB25TT154602"/>
     <ns0:id>340131</ns0:id>
     <ns0:price>45875.00 USD</ns0:price>
     <ns0:vehicle_msrp>45875.00 USD</ns0:vehicle_msrp>
@@ -2709,11 +2671,13 @@
     <ns0:model>Cherokee</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com//inventory/details/3C4PJMB25TT154602?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4PJMB25TT154602&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Limited</ns0:trim>
     <ns0:mileage>5 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Hydro Blue Pearlcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1905305681--9GL9T-ltid1/1905305681.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1905305691--9GL9T-ltid1/1905305691.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Cherokee</ns0:custom_label_0>
   </entry>
 </feed>
