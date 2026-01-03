@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Genesis of Downtown Chicago Inventory Feed</title>
   <link href="https://www.genesisofdowntownchicago.com/" rel="self"/>
-  <updated>2026-01-03T08:02:51.740230</updated>
+  <updated>2026-01-03T12:03:36.782988</updated>
   <entry>
     <id>G25098</id>
     <title>2025 Genesis GV80 Prestige</title>
@@ -1366,6 +1366,64 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid215614-photoid1846796471--R13YE-ltid1/1846796471.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid215614-photoid1846796571--6039N-ltid1/1846796571.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid215614-photoid1846796461--66W6R-ltid1/1846796461.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>GV70</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>G26082</id>
+    <title>2026 Genesis GV70 2.5T Advanced</title>
+    <link rel="alternate" href="https://www.genesisofdowntownchicago.com//inventory/details/5NMMBDTB4TH054776"/>
+    <ns0:id>G26082</ns0:id>
+    <ns0:price>56573.00 USD</ns0:price>
+    <ns0:vehicle_msrp>59550.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>5NMMBDTB4TH054776</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Genesis</ns0:brand>
+    <ns0:store_code>3078858109013009292</ns0:store_code>
+    <ns0:dealership_name>Genesis of Downtown Chicago</ns0:dealership_name>
+    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>3078858109013009292</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Genesis</ns0:make>
+    <ns0:model>GV70</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.genesisofdowntownchicago.com//inventory/details/5NMMBDTB4TH054776?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>2.5T Advanced</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Uyuni White</ns0:color>
+    <ns0:custom_label_0>GV70</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>G26081</id>
+    <title>2026 Genesis GV70 2.5T Sport Prestige</title>
+    <link rel="alternate" href="https://www.genesisofdowntownchicago.com//inventory/details/5NMMFDTB4TH054474"/>
+    <ns0:id>G26081</ns0:id>
+    <ns0:price>59793.00 USD</ns0:price>
+    <ns0:vehicle_msrp>62940.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>5NMMFDTB4TH054474</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Genesis</ns0:brand>
+    <ns0:store_code>3078858109013009292</ns0:store_code>
+    <ns0:dealership_name>Genesis of Downtown Chicago</ns0:dealership_name>
+    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>3078858109013009292</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Genesis</ns0:make>
+    <ns0:model>GV70</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.genesisofdowntownchicago.com//inventory/details/5NMMFDTB4TH054474?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>2.5T Sport Prestige</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Uyuni White</ns0:color>
     <ns0:custom_label_0>GV70</ns0:custom_label_0>
   </entry>
 </feed>

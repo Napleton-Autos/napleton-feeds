@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Ford Columbus Inventory Feed</title>
   <link href="https://www.napletonfordcolumbus.com" rel="self"/>
-  <updated>2026-01-03T08:02:51.414830</updated>
+  <updated>2026-01-03T12:03:36.446326</updated>
   <entry>
     <id>124036</id>
     <title>2024 Ford Super Duty F-550 DRW XL</title>
@@ -1124,44 +1124,6 @@
     <ns0:custom_label_0>Escape</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>P0372</id>
-    <title>2023 Ford Escape ST-Line</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9MNXPUA44405"/>
-    <ns0:id>P0372</ns0:id>
-    <ns0:price>19335.00 USD</ns0:price>
-    <ns0:vin>1FMCU9MNXPUA44405</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2023</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>Escape</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9MNXPUA44405&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>ST-Line</ns0:trim>
-    <ns0:mileage>57965 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Oxford White</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771561781--Y6P+R-ltid2/1771561781.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771561791--Y6P+R-ltid2/1771561791.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771561801--Y6P+R-ltid2/1771561801.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771561811--VSR7H-ltid2/1771561811.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771561821--VSR7H-ltid2/1771561821.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771561831--XRGIG-ltid2/1771561831.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771561841--XRGIG-ltid2/1771561841.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771561851--XRGIG-ltid2/1771561851.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771561861--VY6X8-ltid2/1771561861.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771561871--VY6X8-ltid2/1771561871.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Escape</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>126003</id>
     <title>2026 Ford Escape ST-Line</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9MN6TUA04977"/>
@@ -1321,7 +1283,7 @@
     <title>2024 Buick Encore GX Sport Touring</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=KL4AMESL9RB073747"/>
     <ns0:id>RT0016</ns0:id>
-    <ns0:price>19679.00 USD</ns0:price>
+    <ns0:price>19648.00 USD</ns0:price>
     <ns0:vin>KL4AMESL9RB073747</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Buick</ns0:brand>
@@ -1472,44 +1434,6 @@
     <ns0:custom_label_0>Bronco Sport</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>PB0024</id>
-    <title>2021 Kia Sportage LX</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=KNDPMCAC8M7922039"/>
-    <ns0:id>PB0024</ns0:id>
-    <ns0:price>17370.00 USD</ns0:price>
-    <ns0:vin>KNDPMCAC8M7922039</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Kia</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2021</ns0:year>
-    <ns0:make>Kia</ns0:make>
-    <ns0:model>Sportage</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=KNDPMCAC8M7922039&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>LX</ns0:trim>
-    <ns0:mileage>24628 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Pacific Blue</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771571631--ANEEH-ltid2/1771571631.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771571641--R84AZ-ltid2/1771571641.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771571651--MCE28-ltid2/1771571651.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771571661--QRGQU-ltid2/1771571661.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771571671--NGAPJ-ltid2/1771571671.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771571681--G25E1-ltid2/1771571681.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771571691--G25E1-ltid2/1771571691.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771571701--ACTFF-ltid2/1771571701.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771571711--QNZHS-ltid2/1771571711.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771571721--G-EAF-ltid2/1771571721.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Sportage</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>126009</id>
     <title>2026 Ford Escape Active</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9GN4TUA14046"/>
@@ -1592,7 +1516,7 @@
     <title>2018 Ford F-150 XL</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTEW1EPXJKE28759"/>
     <ns0:id>125095A</ns0:id>
-    <ns0:price>19178.00 USD</ns0:price>
+    <ns0:price>19984.00 USD</ns0:price>
     <ns0:vin>1FTEW1EPXJKE28759</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Ford</ns0:brand>
@@ -1706,7 +1630,7 @@
     <title>2023 Ford Edge Titanium</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=2FMPK4K90PBA22631"/>
     <ns0:id>PB0033</ns0:id>
-    <ns0:price>21186.00 USD</ns0:price>
+    <ns0:price>21064.00 USD</ns0:price>
     <ns0:vin>2FMPK4K90PBA22631</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Ford</ns0:brand>
@@ -1744,7 +1668,7 @@
     <title>2018 Ford EcoSport SE</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=MAJ3P1TE6JC235448"/>
     <ns0:id>PB0032</ns0:id>
-    <ns0:price>14275.00 USD</ns0:price>
+    <ns0:price>14140.00 USD</ns0:price>
     <ns0:vin>MAJ3P1TE6JC235448</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Ford</ns0:brand>
@@ -1782,7 +1706,7 @@
     <title>2024 Dodge Durango GT Plus</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1C4RDJDG5RC192035"/>
     <ns0:id>PB0035</ns0:id>
-    <ns0:price>31006.00 USD</ns0:price>
+    <ns0:price>30965.00 USD</ns0:price>
     <ns0:vin>1C4RDJDG5RC192035</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Dodge</ns0:brand>
@@ -1820,7 +1744,7 @@
     <title>2024 Toyota Corolla Cross LE</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=7MUCAAAG7RV093983"/>
     <ns0:id>PB0036</ns0:id>
-    <ns0:price>22309.00 USD</ns0:price>
+    <ns0:price>22181.00 USD</ns0:price>
     <ns0:vin>7MUCAAAG7RV093983</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Toyota</ns0:brand>
@@ -1858,7 +1782,7 @@
     <title>2022 Ford Escape S</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9F66NUB18695"/>
     <ns0:id>PB0037</ns0:id>
-    <ns0:price>15977.00 USD</ns0:price>
+    <ns0:price>16032.00 USD</ns0:price>
     <ns0:vin>1FMCU9F66NUB18695</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Ford</ns0:brand>
@@ -1896,7 +1820,7 @@
     <title>2023 Nissan Rogue SV</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=5N1BT3BB3PC751131"/>
     <ns0:id>PB0038</ns0:id>
-    <ns0:price>18511.00 USD</ns0:price>
+    <ns0:price>18483.00 USD</ns0:price>
     <ns0:vin>5N1BT3BB3PC751131</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Nissan</ns0:brand>
@@ -2051,7 +1975,7 @@
     <title>2023 Jeep Renegade Upland</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=ZACNJDB12PPP72145"/>
     <ns0:id>PB0040</ns0:id>
-    <ns0:price>19309.00 USD</ns0:price>
+    <ns0:price>19120.00 USD</ns0:price>
     <ns0:vin>ZACNJDB12PPP72145</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Jeep</ns0:brand>
@@ -2204,7 +2128,7 @@
     <title>2023 Ford Escape Active</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9GN2PUB24437"/>
     <ns0:id>PB0044</ns0:id>
-    <ns0:price>21957.00 USD</ns0:price>
+    <ns0:price>21817.00 USD</ns0:price>
     <ns0:vin>1FMCU9GN2PUB24437</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Ford</ns0:brand>
@@ -2281,7 +2205,7 @@
     <title>2023 Ford Explorer XLT</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMSK8DH8PGA00181"/>
     <ns0:id>PB0046</ns0:id>
-    <ns0:price>29147.00 USD</ns0:price>
+    <ns0:price>29139.00 USD</ns0:price>
     <ns0:vin>1FMSK8DH8PGA00181</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Ford</ns0:brand>
@@ -2299,7 +2223,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMSK8DH8PGA00181&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>XLT</ns0:trim>
-    <ns0:mileage>38997 miles</ns0:mileage>
+    <ns0:mileage>39014 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Iconic Silver Metallic</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1780502691--NWQAZ-ltid2/1780502691.jpg</ns0:image_link>
@@ -2319,7 +2243,7 @@
     <title>2023 Ford Explorer XLT</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMSK8DH9PGB36593"/>
     <ns0:id>PB0045</ns0:id>
-    <ns0:price>28333.00 USD</ns0:price>
+    <ns0:price>28323.00 USD</ns0:price>
     <ns0:vin>1FMSK8DH9PGB36593</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Ford</ns0:brand>
@@ -2389,44 +2313,6 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1785862091--FEIPT-ltid1/1785862091.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1785862101--G9P4T-ltid1/1785862101.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>F-150</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>PB0047</id>
-    <title>2024 Ford Edge Titanium</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=2FMPK4K94RBA68983"/>
-    <ns0:id>PB0047</ns0:id>
-    <ns0:price>26137.00 USD</ns0:price>
-    <ns0:vin>2FMPK4K94RBA68983</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2024</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>Edge</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=2FMPK4K94RBA68983&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Titanium</ns0:trim>
-    <ns0:mileage>34804 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Iconic Silver Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1775821031--9XBFH-ltid2/1775821031.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1775821041--RQOKW-ltid2/1775821041.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1775821051--RQOKW-ltid2/1775821051.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1775821061--RQOKW-ltid2/1775821061.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1775821071--VQFIU-ltid2/1775821071.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1775821081--VQFIU-ltid2/1775821081.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1775821091--VQFIU-ltid2/1775821091.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1775821101--UWBZF-ltid2/1775821101.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1775821111--UWBZF-ltid2/1775821111.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1775821121--F2IMM-ltid2/1775821121.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Edge</ns0:custom_label_0>
   </entry>
   <entry>
     <id>125100A</id>
@@ -2508,7 +2394,7 @@
     <title>2023 Jeep Grand Cherokee Altitude</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHAG3PC641005"/>
     <ns0:id>PB0049</ns0:id>
-    <ns0:price>27230.00 USD</ns0:price>
+    <ns0:price>27218.00 USD</ns0:price>
     <ns0:vin>1C4RJHAG3PC641005</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Jeep</ns0:brand>
@@ -2702,7 +2588,7 @@
     <title>2018 Honda Civic Coupe LX-P</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=2HGFC4B04JH301939"/>
     <ns0:id>PB0029A</ns0:id>
-    <ns0:price>17170.00 USD</ns0:price>
+    <ns0:price>17041.00 USD</ns0:price>
     <ns0:vin>2HGFC4B04JH301939</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Honda</ns0:brand>
@@ -2816,7 +2702,7 @@
     <title>2023 GMC Acadia SLT</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1GKKNUL43PZ140473"/>
     <ns0:id>P0378</ns0:id>
-    <ns0:price>22789.00 USD</ns0:price>
+    <ns0:price>22784.00 USD</ns0:price>
     <ns0:vin>1GKKNUL43PZ140473</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>GMC</ns0:brand>
@@ -2853,7 +2739,7 @@
     <title>2023 Nissan Murano SV</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=5N1AZ2BS9PC132361"/>
     <ns0:id>P0379</ns0:id>
-    <ns0:price>20645.00 USD</ns0:price>
+    <ns0:price>20517.00 USD</ns0:price>
     <ns0:vin>5N1AZ2BS9PC132361</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Nissan</ns0:brand>
@@ -3008,7 +2894,7 @@
     <title>2019 Nissan Frontier PRO-4X</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1N6AD0EV3KN767891"/>
     <ns0:id>125098A</ns0:id>
-    <ns0:price>24360.00 USD</ns0:price>
+    <ns0:price>24247.00 USD</ns0:price>
     <ns0:vin>1N6AD0EV3KN767891</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Nissan</ns0:brand>
@@ -3474,7 +3360,7 @@
     <title>2017 Ford F-150 XLT</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTEW1EG2HFA32070"/>
     <ns0:id>125158A</ns0:id>
-    <ns0:price>22603.00 USD</ns0:price>
+    <ns0:price>22527.00 USD</ns0:price>
     <ns0:vin>1FTEW1EG2HFA32070</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Ford</ns0:brand>
@@ -3748,45 +3634,6 @@
     <ns0:custom_label_0>Transit Cargo Van</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>125189</id>
-    <title>2025 Ford Ranger LARIAT</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTER4KP1SLE75428"/>
-    <ns0:id>125189</ns0:id>
-    <ns0:price>48791.00 USD</ns0:price>
-    <ns0:vehicle_msrp>55445.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1FTER4KP1SLE75428</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>Ranger</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTER4KP1SLE75428&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>LARIAT</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
-    <ns0:body_style>truck</ns0:body_style>
-    <ns0:color>Velocity Blue Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1894876581--LO8TF-ltid1/1894876581.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1894876591--LOZU5-ltid1/1894876591.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1894876601--LJ2GG-ltid1/1894876601.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1894876611--3PITL-ltid1/1894876611.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1894876621--HNY4S-ltid1/1894876621.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1894876631--HNY4S-ltid1/1894876631.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1894876641--R6ZTF-ltid1/1894876641.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1894876651--MBYV--ltid1/1894876651.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1894876661--NBAHQ-ltid1/1894876661.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1894876671--NBAHQ-ltid1/1894876671.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Ranger</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>125188</id>
     <title>2025 Ford F-150 Raptor</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW1RG8SFC63612"/>
@@ -3850,8 +3697,16 @@
     <ns0:trim>Tremor</ns0:trim>
     <ns0:mileage>5 miles</ns0:mileage>
     <ns0:color>Antimatter Blue Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1853969201--PE8QQ-ltid1/1853969201.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1853969211--POIH2-ltid1/1853969211.jpg</ns0:additional_image_link>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1914965881--UMLBE-ltid1/1914965881.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1914965891--GY9JS-ltid1/1914965891.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1914965901--WQEZF-ltid1/1914965901.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1914965911--01JGB-ltid1/1914965911.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1914965921--XMMNY-ltid1/1914965921.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1914965931--1NDAO-ltid1/1914965931.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1914965941--1NDAO-ltid1/1914965941.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1914965951--XN0KP-ltid1/1914965951.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1914965961--7UP+L-ltid1/1914965961.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1914965791--FBIWU-ltid1/1914965791.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>F-150</ns0:custom_label_0>
   </entry>
   <entry>
@@ -3898,7 +3753,7 @@
     <title>2021 Honda Odyssey EX-L</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=5FNRL6H72MB021152"/>
     <ns0:id>125093A</ns0:id>
-    <ns0:price>24844.00 USD</ns0:price>
+    <ns0:price>24802.00 USD</ns0:price>
     <ns0:vin>5FNRL6H72MB021152</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Honda</ns0:brand>
@@ -3936,7 +3791,7 @@
     <title>2025 Ram 1500 Big Horn</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1C6RRFFG8SN540312"/>
     <ns0:id>125179A</ns0:id>
-    <ns0:price>41862.00 USD</ns0:price>
+    <ns0:price>41585.00 USD</ns0:price>
     <ns0:vin>1C6RRFFG8SN540312</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Ram</ns0:brand>
@@ -4013,7 +3868,7 @@
     <title>2023 Chevrolet Equinox RS</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3GNAXWEG5PS163617"/>
     <ns0:id>125179B</ns0:id>
-    <ns0:price>24468.00 USD</ns0:price>
+    <ns0:price>24412.00 USD</ns0:price>
     <ns0:vin>3GNAXWEG5PS163617</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Chevrolet</ns0:brand>
@@ -4051,7 +3906,7 @@
     <title>2024 Ford Bronco Outer Banks</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMEE8BP9RLA56817"/>
     <ns0:id>125122A</ns0:id>
-    <ns0:price>45419.00 USD</ns0:price>
+    <ns0:price>45416.00 USD</ns0:price>
     <ns0:vin>1FMEE8BP9RLA56817</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Ford</ns0:brand>
@@ -4083,43 +3938,6 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1872571541--C3MWN-ltid2/1872571541.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1872571551--KFBNQ-ltid2/1872571551.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Bronco</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>125076A</id>
-    <title>2023 Ford F-150 XL</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTEW1EP0PKD57743"/>
-    <ns0:id>125076A</ns0:id>
-    <ns0:price>21866.00 USD</ns0:price>
-    <ns0:vin>1FTEW1EP0PKD57743</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2023</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>F-150</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTEW1EP0PKD57743&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>XL</ns0:trim>
-    <ns0:mileage>141377 miles</ns0:mileage>
-    <ns0:color>Hot Pepper Red Metallic Tinted Clearcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1892532861--FSYXB-ltid2/1892532861.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1892532871--FSOO9-ltid2/1892532871.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1892532881--Y7AXP-ltid2/1892532881.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1892532891--IDDDB-ltid2/1892532891.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1892532901--BECSF-ltid2/1892532901.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1892532911--JBUVN-ltid2/1892532911.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1892532921--JBUVN-ltid2/1892532921.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1892532931--HK8DJ-ltid2/1892532931.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1892532941--U4TEI-ltid2/1892532941.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1892532951--BHSAV-ltid2/1892532951.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>F-150</ns0:custom_label_0>
   </entry>
   <entry>
     <id>126032</id>
@@ -4198,34 +4016,6 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1868642701--UKBDD-ltid1/1868642701.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1868642711--FQUNM-ltid1/1868642711.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Bronco Sport</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>126013B</id>
-    <title>2011 Ford F-150 XLT</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFX1EF8BFA35832"/>
-    <ns0:id>126013B</ns0:id>
-    <ns0:price>9874.00 USD</ns0:price>
-    <ns0:vin>1FTFX1EF8BFA35832</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2011</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>F-150</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFX1EF8BFA35832&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>XLT</ns0:trim>
-    <ns0:mileage>136673 miles</ns0:mileage>
-    <ns0:body_style>truck</ns0:body_style>
-    <ns0:color>Sterling Gray Metallic</ns0:color>
-    <ns0:custom_label_0>F-150</ns0:custom_label_0>
   </entry>
   <entry>
     <id>125195</id>
@@ -4419,5 +4209,33 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1902423211--BVNM5-ltid2/1902423211.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1902423221--R+OD2-ltid2/1902423221.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Countryman</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>125169A</id>
+    <title>2021 Ford Bronco Badlands</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMEE5DP2MLA80980"/>
+    <ns0:id>125169A</ns0:id>
+    <ns0:price>29576.00 USD</ns0:price>
+    <ns0:vin>1FMEE5DP2MLA80980</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2021</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>Bronco</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMEE5DP2MLA80980&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Badlands</ns0:trim>
+    <ns0:mileage>99830 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Carbonized Gray Metallic</ns0:color>
+    <ns0:custom_label_0>Bronco</ns0:custom_label_0>
   </entry>
 </feed>
