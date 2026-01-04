@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Chevrolet Columbus Inventory Feed</title>
   <link href="https://www.napletonchevycolumbus.com" rel="self"/>
-  <updated>2026-01-04T08:02:50.472660</updated>
+  <updated>2026-01-04T12:03:11.489961</updated>
   <entry>
     <id>125348</id>
     <title>2025 Chevrolet Silverado EV RST</title>
@@ -163,7 +163,7 @@
     <title>2026 Chevrolet Traverse AWD LT</title>
     <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/new-2026-chevrolet-traverse-lt-all-wheel-drive-suv-1gnevgks8tj123551/"/>
     <ns0:id>126017</ns0:id>
-    <ns0:price>42903.00 USD</ns0:price>
+    <ns0:price>44403.00 USD</ns0:price>
     <ns0:vehicle_msrp>46740.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1GNEVGKS8TJ123551</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -777,7 +777,7 @@
     <title>2023 Hyundai Santa Fe SE</title>
     <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/used-2023-hyundai-santa-fe-se-all-wheel-drive-suv-5nms1daj0ph641986/"/>
     <ns0:id>PB1050</ns0:id>
-    <ns0:price>19942.00 USD</ns0:price>
+    <ns0:price>19483.00 USD</ns0:price>
     <ns0:vin>5NMS1DAJ0PH641986</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Hyundai</ns0:brand>
@@ -1393,44 +1393,6 @@
     <ns0:custom_label_0>Silverado 1500</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>P4146</id>
-    <title>2018 Buick Regal TourX Essence</title>
-    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/used-2018-buick-regal-tourx-essence-all-wheel-drive-crossover-w04gv8sx6j1132744/"/>
-    <ns0:id>P4146</ns0:id>
-    <ns0:price>23032.00 USD</ns0:price>
-    <ns0:vin>W04GV8SX6J1132744</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Buick</ns0:brand>
-    <ns0:store_code>1647799517431806713</ns0:store_code>
-    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
-    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>1647799517431806713</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2018</ns0:year>
-    <ns0:make>Buick</ns0:make>
-    <ns0:model>Regal TourX</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/used-2018-buick-regal-tourx-essence-all-wheel-drive-crossover-w04gv8sx6j1132744/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Essence</ns0:trim>
-    <ns0:mileage>19038 miles</ns0:mileage>
-    <ns0:body_style>station wagon</ns0:body_style>
-    <ns0:color>Smoked Pearl Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1894955891--8CSRK-ltid2/1894955891.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1894955901--8CSRK-ltid2/1894955901.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1894955911--JPEYO-ltid2/1894955911.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1894955921--XDX5D-ltid2/1894955921.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1894955931--9GA2A-ltid2/1894955931.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1894955941--P9O4--ltid2/1894955941.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1894955951--P9O4--ltid2/1894955951.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1894955961--9SE++-ltid2/1894955961.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1894955971--9SE++-ltid2/1894955971.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1894955981---F3HT-ltid2/1894955981.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Regal TourX</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>126086</id>
     <title>2026 Chevrolet Trax LS</title>
     <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/new-2026-chevrolet-trax-ls-front-wheel-drive-suv-kl77lfep7tc025153/"/>
@@ -1651,7 +1613,7 @@
     <title>2026 Chevrolet Traverse AWD Z71</title>
     <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/new-2026-chevrolet-traverse-z71-all-wheel-drive-suv-1gnevjks6tj234211/"/>
     <ns0:id>126095</ns0:id>
-    <ns0:price>50123.00 USD</ns0:price>
+    <ns0:price>51623.00 USD</ns0:price>
     <ns0:vehicle_msrp>54340.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1GNEVJKS6TJ234211</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1684,44 +1646,6 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1871090101--Y0H3Z-ltid1/1871090101.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1871090111--Y0H3Z-ltid1/1871090111.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Traverse</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>126073B</id>
-    <title>2018 Chevrolet Malibu LS</title>
-    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/used-2018-chevrolet-malibu-ls-front-wheel-drive-sedan-1g1zc5st5jf199931/"/>
-    <ns0:id>126073B</ns0:id>
-    <ns0:price>9005.00 USD</ns0:price>
-    <ns0:vin>1G1ZC5ST5JF199931</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Chevrolet</ns0:brand>
-    <ns0:store_code>1647799517431806713</ns0:store_code>
-    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
-    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>1647799517431806713</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2018</ns0:year>
-    <ns0:make>Chevrolet</ns0:make>
-    <ns0:model>Malibu</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/used-2018-chevrolet-malibu-ls-front-wheel-drive-sedan-1g1zc5st5jf199931/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>LS</ns0:trim>
-    <ns0:mileage>116456 miles</ns0:mileage>
-    <ns0:body_style>sedan</ns0:body_style>
-    <ns0:color>Nightfall Gray Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1895119871--ABFUX-ltid2/1895119871.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1895119881--FNOHP-ltid2/1895119881.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1895119891--FNOHP-ltid2/1895119891.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1895119901--UTUNX-ltid2/1895119901.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1895119911--JBY9W-ltid2/1895119911.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1895119921--RCGQT-ltid2/1895119921.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1895119931--1SHCK-ltid2/1895119931.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1895119941--KGNGY-ltid2/1895119941.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1895119951--KGNGY-ltid2/1895119951.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1895119961--UZ80T-ltid2/1895119961.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Malibu</ns0:custom_label_0>
   </entry>
   <entry>
     <id>126098</id>
@@ -1806,7 +1730,7 @@
     <title>2024 Chevrolet Equinox LT</title>
     <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/used-2024-chevrolet-equinox-lt-all-wheel-drive-suv-3gnaxueg2rl256838/"/>
     <ns0:id>126099A</ns0:id>
-    <ns0:price>22871.00 USD</ns0:price>
+    <ns0:price>23985.00 USD</ns0:price>
     <ns0:vin>3GNAXUEG2RL256838</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Chevrolet</ns0:brand>
@@ -1844,7 +1768,7 @@
     <title>2021 GMC Sierra 1500 AT4</title>
     <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/used-2021-gmc-sierra-1500-at4-four-wheel-drive-crew-cab-3gtp9eed8mg338910/"/>
     <ns0:id>126079A</ns0:id>
-    <ns0:price>32347.00 USD</ns0:price>
+    <ns0:price>32985.00 USD</ns0:price>
     <ns0:vin>3GTP9EED8MG338910</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>GMC</ns0:brand>
@@ -1921,7 +1845,7 @@
     <title>2024 Chevrolet Silverado 1500 Work Truck</title>
     <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/used-2024-chevrolet-silverado-1500-wt-four-wheel-drive-crew-cab-1gcpdaek1rz257051/"/>
     <ns0:id>126058A</ns0:id>
-    <ns0:price>34143.00 USD</ns0:price>
+    <ns0:price>36985.00 USD</ns0:price>
     <ns0:vin>1GCPDAEK1RZ257051</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Chevrolet</ns0:brand>
@@ -1945,39 +1869,11 @@
     <ns0:custom_label_0>Silverado 1500</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>126103A</id>
-    <title>2015 Chevrolet Equinox LTZ</title>
-    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/used-2015-chevrolet-equinox-ltz-front-wheel-drive-suv-2gnaldek1f1111089/"/>
-    <ns0:id>126103A</ns0:id>
-    <ns0:price>9548.00 USD</ns0:price>
-    <ns0:vin>2GNALDEK1F1111089</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Chevrolet</ns0:brand>
-    <ns0:store_code>1647799517431806713</ns0:store_code>
-    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
-    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>1647799517431806713</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2015</ns0:year>
-    <ns0:make>Chevrolet</ns0:make>
-    <ns0:model>Equinox</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/used-2015-chevrolet-equinox-ltz-front-wheel-drive-suv-2gnaldek1f1111089/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>LTZ</ns0:trim>
-    <ns0:mileage>89294 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Champagne Silver Metallic</ns0:color>
-    <ns0:custom_label_0>Equinox</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>126044A</id>
     <title>2020 Ram 1500 Limited</title>
     <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/used-2020-ram-1500-limited-four-wheel-drive-crew-pickup-1c6srfht3ln249732/"/>
     <ns0:id>126044A</ns0:id>
-    <ns0:price>26659.00 USD</ns0:price>
+    <ns0:price>27985.00 USD</ns0:price>
     <ns0:vin>1C6SRFHT3LN249732</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Ram</ns0:brand>
@@ -2033,7 +1929,7 @@
     <title>2017 Chevrolet Silverado 1500 LT</title>
     <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/used-2017-chevrolet-silverado-1500-lt-four-wheel-drive-crew-cab-3gcukrec7hg264598/"/>
     <ns0:id>P4129B</ns0:id>
-    <ns0:price>13510.00 USD</ns0:price>
+    <ns0:price>15889.00 USD</ns0:price>
     <ns0:vin>3GCUKREC7HG264598</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Chevrolet</ns0:brand>
@@ -2135,14 +2031,14 @@
     <ns0:custom_label_0>Equinox</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>124234A</id>
-    <title>2021 Toyota Highlander XLE</title>
-    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/used-2021-toyota-highlander-xle-all-wheel-drive-utility-5tdhzrbh5ms131461/"/>
-    <ns0:id>124234A</ns0:id>
-    <ns0:price>33939.00 USD</ns0:price>
-    <ns0:vin>5TDHZRBH5MS131461</ns0:vin>
+    <id>126105A</id>
+    <title>2020 Chevrolet Silverado 1500 LT</title>
+    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/used-2020-chevrolet-silverado-1500-lt-four-wheel-drive-crew-cab-3gcuyded5lg388680/"/>
+    <ns0:id>126105A</ns0:id>
+    <ns0:price>26985.00 USD</ns0:price>
+    <ns0:vin>3GCUYDED5LG388680</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Toyota</ns0:brand>
+    <ns0:brand>Chevrolet</ns0:brand>
     <ns0:store_code>1647799517431806713</ns0:store_code>
     <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
     <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
@@ -2150,16 +2046,16 @@
       <ns0:option>in_store</ns0:option>
       <ns0:store_code>1647799517431806713</ns0:store_code>
     </ns0:vehicle_fulfillment>
-    <ns0:year>2021</ns0:year>
-    <ns0:make>Toyota</ns0:make>
-    <ns0:model>Highlander</ns0:model>
+    <ns0:year>2020</ns0:year>
+    <ns0:make>Chevrolet</ns0:make>
+    <ns0:model>Silverado 1500</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/used-2021-toyota-highlander-xle-all-wheel-drive-utility-5tdhzrbh5ms131461/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>XLE</ns0:trim>
-    <ns0:mileage>46555 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Midnight Black Metallic</ns0:color>
-    <ns0:custom_label_0>Highlander</ns0:custom_label_0>
+    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/used-2020-chevrolet-silverado-1500-lt-four-wheel-drive-crew-cab-3gcuyded5lg388680/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>LT</ns0:trim>
+    <ns0:mileage>109157 miles</ns0:mileage>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>Red Hot</ns0:color>
+    <ns0:custom_label_0>Silverado 1500</ns0:custom_label_0>
   </entry>
 </feed>
