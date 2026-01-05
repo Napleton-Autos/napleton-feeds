@@ -2,163 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Beaver Dam Chrysler Dodge Jeep Ram Inventory Feed</title>
   <link href="https://www.beaverdamcdjr.com/" rel="self"/>
-  <updated>2026-01-05T08:03:12.286393</updated>
-  <entry>
-    <id>140049</id>
-    <title>2026 Chrysler Pacifica Select</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC3BG7TR203035"/>
-    <ns0:id>140049</ns0:id>
-    <ns0:price>45030.00 USD</ns0:price>
-    <ns0:vehicle_msrp>51860.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>2C4RC3BG7TR203035</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Chrysler</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Chrysler</ns0:make>
-    <ns0:model>Pacifica</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC3BG7TR203035&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Select</ns0:trim>
-    <ns0:mileage>15 miles</ns0:mileage>
-    <ns0:body_style>full size van</ns0:body_style>
-    <ns0:color>Bright White Clearcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1811072501--W0MWI-ltid1/1811072501.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1811072511--FQ-37-ltid1/1811072511.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1811072521--TUP19-ltid1/1811072521.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1811072531--ACNDB-ltid1/1811072531.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1811072541--ACNDB-ltid1/1811072541.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1811072551--5-QOO-ltid1/1811072551.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1811072561--SXQ+G-ltid1/1811072561.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1811072571--VO2MO-ltid1/1811072571.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1811072581--VO2MO-ltid1/1811072581.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1811072591--C5VUI-ltid1/1811072591.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Pacifica</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>440075</id>
-    <title>2026 Ram 1500 Big Horn</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFFP6TN282245"/>
-    <ns0:id>440075</ns0:id>
-    <ns0:price>55846.00 USD</ns0:price>
-    <ns0:vehicle_msrp>64710.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1C6SRFFP6TN282245</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ram</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Ram</ns0:make>
-    <ns0:model>1500</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFFP6TN282245&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Big Horn</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
-    <ns0:body_style>truck</ns0:body_style>
-    <ns0:color>Forged Blue Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280631--TGOI0-ltid1/1877280631.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280641--TGOI0-ltid1/1877280641.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280651--VBKZL-ltid1/1877280651.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280661--E81FA-ltid1/1877280661.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280671--3A2YD-ltid1/1877280671.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280681--W2O41-ltid1/1877280681.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280691--W2O41-ltid1/1877280691.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280701--KUCK6-ltid1/1877280701.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280711--BRJTU-ltid1/1877280711.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280721--QPWGK-ltid1/1877280721.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>1500</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>140015</id>
-    <title>2025 Chrysler Pacifica Select</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC3BG2SR507968"/>
-    <ns0:id>140015</ns0:id>
-    <ns0:price>38659.00 USD</ns0:price>
-    <ns0:vehicle_msrp>48420.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>2C4RC3BG2SR507968</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Chrysler</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Chrysler</ns0:make>
-    <ns0:model>Pacifica</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC3BG2SR507968&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Select</ns0:trim>
-    <ns0:mileage>2155 miles</ns0:mileage>
-    <ns0:body_style>full size van</ns0:body_style>
-    <ns0:color>Diamond Black Crystal Pearlcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207177481--CYBWR-ltid1/1207177481.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207177501--Q3MF8-ltid1/1207177501.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207177511--CYHYD-ltid1/1207177511.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207177531---+S9T-ltid1/1207177531.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207177541---+S9T-ltid1/1207177541.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207177551--O3DXP-ltid1/1207177551.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207177561--O3DXP-ltid1/1207177561.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207177571--TRL5T-ltid1/1207177571.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207177581--SCIW0-ltid1/1207177581.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207177591--SCIW0-ltid1/1207177591.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Pacifica</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>440032</id>
-    <title>2025 Ram ProMaster 2500 Tradesman</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C6LRVDG2SE529829"/>
-    <ns0:id>440032</ns0:id>
-    <ns0:price>49825.00 USD</ns0:price>
-    <ns0:vehicle_msrp>55185.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>3C6LRVDG2SE529829</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ram</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Ram</ns0:make>
-    <ns0:model>ProMaster 2500</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C6LRVDG2SE529829&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Tradesman</ns0:trim>
-    <ns0:mileage>24 miles</ns0:mileage>
-    <ns0:body_style>full size van</ns0:body_style>
-    <ns0:color>Bright White Clearcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207180411--CYBWR-ltid1/1207180411.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207180421--FE1GC-ltid1/1207180421.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207180431--ECSVS-ltid1/1207180431.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207180441--GVWTV-ltid1/1207180441.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207180451--GVWTV-ltid1/1207180451.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207180461--GVWTV-ltid1/1207180461.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207180471--ODBLN-ltid1/1207180471.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207180481--ODBLN-ltid1/1207180481.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207180491--Y0ZUC-ltid1/1207180491.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207180501--Y0ZUC-ltid1/1207180501.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>ProMaster 2500</ns0:custom_label_0>
-  </entry>
+  <updated>2026-01-05T12:04:21.382955</updated>
   <entry>
     <id>230007</id>
     <title>2025 Ram HD 3500 Laramie</title>
@@ -197,6 +41,162 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626091--DCD6E-ltid1/1771626091.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626101--ML3QU-ltid1/1771626101.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>HD 3500</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>340105</id>
+    <title>2025 Jeep Grand Cherokee Limited</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHBG7SC341796"/>
+    <ns0:id>340105</ns0:id>
+    <ns0:price>41127.00 USD</ns0:price>
+    <ns0:vehicle_msrp>50410.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1C4RJHBG7SC341796</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Jeep</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Jeep</ns0:make>
+    <ns0:model>Grand Cherokee</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHBG7SC341796&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Limited</ns0:trim>
+    <ns0:mileage>16 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>BRIGHT WHITE CLEAR COAT</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626651--ZNCLC-ltid1/1771626651.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626661---ZHV6-ltid1/1771626661.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626671---ZHV6-ltid1/1771626671.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626681---ZHV6-ltid1/1771626681.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626691--VXZIN-ltid1/1771626691.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626701--VXZIN-ltid1/1771626701.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626711--AG6H2-ltid1/1771626711.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626721--AG6H2-ltid1/1771626721.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626731--AG6H2-ltid1/1771626731.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626741--2AN70-ltid1/1771626741.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Grand Cherokee</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>140041</id>
+    <title>2026 Chrysler Pacifica Select</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC3BG7TR165466"/>
+    <ns0:id>140041</ns0:id>
+    <ns0:price>42515.00 USD</ns0:price>
+    <ns0:vehicle_msrp>51310.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>2C4RC3BG7TR165466</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Chrysler</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Chrysler</ns0:make>
+    <ns0:model>Pacifica</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC3BG7TR165466&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Select</ns0:trim>
+    <ns0:mileage>13 miles</ns0:mileage>
+    <ns0:body_style>full size van</ns0:body_style>
+    <ns0:color>Diamond Black Crystal Pearlcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1869339881--XJTVO-ltid1/1869339881.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1869339801--3FZLE-ltid1/1869339801.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1869339761--LMW7+-ltid1/1869339761.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1869339831--+75XJ-ltid1/1869339831.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1869339861--WVMXL-ltid1/1869339861.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1869339781--AIRVO-ltid1/1869339781.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1869339821--WAX5B-ltid1/1869339821.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1869339851--NC5EB-ltid1/1869339851.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1869339891--XJTVO-ltid1/1869339891.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1869339811--3FZLE-ltid1/1869339811.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Pacifica</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>340113</id>
+    <title>2025 Jeep Grand Cherokee L Limited</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJKBG1S8791878"/>
+    <ns0:id>340113</ns0:id>
+    <ns0:price>52211.00 USD</ns0:price>
+    <ns0:vehicle_msrp>58655.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1C4RJKBG1S8791878</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Jeep</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Jeep</ns0:make>
+    <ns0:model>Grand Cherokee L</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJKBG1S8791878&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Limited</ns0:trim>
+    <ns0:mileage>16 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Diamond Black Crystal Pearlcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1774794951--KWLZ0-ltid1/1774794951.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1774794961--4QY9H-ltid1/1774794961.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1774794971--4QY9H-ltid1/1774794971.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1774794981--A+668-ltid1/1774794981.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1774794991--M1NQZ-ltid1/1774794991.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1774795001--M1NQZ-ltid1/1774795001.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1774795011--SIULH-ltid1/1774795011.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1774795021--6CKZC-ltid1/1774795021.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1774795031--OTK6W-ltid1/1774795031.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1774795041--OTK6W-ltid1/1774795041.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Grand Cherokee L</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>140049</id>
+    <title>2026 Chrysler Pacifica Select</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC3BG7TR203035"/>
+    <ns0:id>140049</ns0:id>
+    <ns0:price>45030.00 USD</ns0:price>
+    <ns0:vehicle_msrp>51860.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>2C4RC3BG7TR203035</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Chrysler</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Chrysler</ns0:make>
+    <ns0:model>Pacifica</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC3BG7TR203035&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Select</ns0:trim>
+    <ns0:mileage>15 miles</ns0:mileage>
+    <ns0:body_style>full size van</ns0:body_style>
+    <ns0:color>Bright White Clearcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1811072501--W0MWI-ltid1/1811072501.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1811072511--FQ-37-ltid1/1811072511.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1811072521--TUP19-ltid1/1811072521.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1811072531--ACNDB-ltid1/1811072531.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1811072541--ACNDB-ltid1/1811072541.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1811072551--5-QOO-ltid1/1811072551.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1811072561--SXQ+G-ltid1/1811072561.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1811072571--VO2MO-ltid1/1811072571.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1811072581--VO2MO-ltid1/1811072581.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1811072591--C5VUI-ltid1/1811072591.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Pacifica</ns0:custom_label_0>
   </entry>
   <entry>
     <id>340084</id>
@@ -469,473 +469,6 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771625791--1JMHL-ltid1/1771625791.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771625801--1JMHL-ltid1/1771625801.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771625811--CF95O-ltid1/1771625811.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Grand Cherokee L</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>340105</id>
-    <title>2025 Jeep Grand Cherokee Limited</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHBG7SC341796"/>
-    <ns0:id>340105</ns0:id>
-    <ns0:price>41127.00 USD</ns0:price>
-    <ns0:vehicle_msrp>50410.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1C4RJHBG7SC341796</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Jeep</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Jeep</ns0:make>
-    <ns0:model>Grand Cherokee</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHBG7SC341796&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Limited</ns0:trim>
-    <ns0:mileage>16 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>BRIGHT WHITE CLEAR COAT</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626651--ZNCLC-ltid1/1771626651.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626661---ZHV6-ltid1/1771626661.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626671---ZHV6-ltid1/1771626671.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626681---ZHV6-ltid1/1771626681.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626691--VXZIN-ltid1/1771626691.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626701--VXZIN-ltid1/1771626701.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626711--AG6H2-ltid1/1771626711.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626721--AG6H2-ltid1/1771626721.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626731--AG6H2-ltid1/1771626731.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626741--2AN70-ltid1/1771626741.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Grand Cherokee</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>440057</id>
-    <title>2026 Ram 1500 Big Horn</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFFP1TN176849"/>
-    <ns0:id>440057</ns0:id>
-    <ns0:price>49629.00 USD</ns0:price>
-    <ns0:vehicle_msrp>60065.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1C6SRFFP1TN176849</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ram</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Ram</ns0:make>
-    <ns0:model>1500</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFFP1TN176849&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Big Horn</ns0:trim>
-    <ns0:mileage>19 miles</ns0:mileage>
-    <ns0:body_style>truck</ns0:body_style>
-    <ns0:color>BRIGHT WHITE CLEAR COAT</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626291--YRBKG-ltid1/1771626291.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626301--N5EKU-ltid1/1771626301.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626311--N5EKU-ltid1/1771626311.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626321--N5EKU-ltid1/1771626321.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626491--OA6QN-ltid1/1771626491.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626501--OA6QN-ltid1/1771626501.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626511--OA6QN-ltid1/1771626511.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626521--F-7WY-ltid1/1771626521.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626531--F-7WY-ltid1/1771626531.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626541--F-7WY-ltid1/1771626541.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>1500</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>440059</id>
-    <title>2026 Ram Promaster 1500 Tradesman</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C6LRVNG7TE150292"/>
-    <ns0:id>440059</ns0:id>
-    <ns0:price>49615.00 USD</ns0:price>
-    <ns0:vehicle_msrp>53615.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>3C6LRVNG7TE150292</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ram</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Ram</ns0:make>
-    <ns0:model>Promaster 1500</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C6LRVNG7TE150292&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Tradesman</ns0:trim>
-    <ns0:mileage>28 miles</ns0:mileage>
-    <ns0:body_style>full size van</ns0:body_style>
-    <ns0:color>Bright White Clearcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846881--MBAIR-ltid1/1692846881.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846891--NMBCX-ltid1/1692846891.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846901--2BEWI-ltid1/1692846901.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846911--2BEWI-ltid1/1692846911.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846921--LI0UF-ltid1/1692846921.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846931--YCFA+-ltid1/1692846931.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846941--YCFA+-ltid1/1692846941.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846951--D4YYG-ltid1/1692846951.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846961--4NTO9-ltid1/1692846961.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846971--LLWAV-ltid1/1692846971.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Promaster 1500</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>340107</id>
-    <title>2025 Jeep Grand Cherokee Laredo X</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHAG0SC349935"/>
-    <ns0:id>340107</ns0:id>
-    <ns0:price>39577.00 USD</ns0:price>
-    <ns0:vehicle_msrp>44570.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1C4RJHAG0SC349935</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Jeep</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Jeep</ns0:make>
-    <ns0:model>Grand Cherokee</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHAG0SC349935&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Laredo X</ns0:trim>
-    <ns0:mileage>12 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Bright White Clearcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627451--CGIO7-ltid1/1771627451.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627461--CGIO7-ltid1/1771627461.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627471--CGIO7-ltid1/1771627471.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627481--IN4LO-ltid1/1771627481.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627491--IN4LO-ltid1/1771627491.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627501--IN4LO-ltid1/1771627501.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627511--1YRGT-ltid1/1771627511.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627521--1YRGT-ltid1/1771627521.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627531--WT1WB-ltid1/1771627531.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627541--WT1WB-ltid1/1771627541.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Grand Cherokee</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>340108</id>
-    <title>2025 Jeep Grand Cherokee Laredo X</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHAG9SC349707"/>
-    <ns0:id>340108</ns0:id>
-    <ns0:price>40095.00 USD</ns0:price>
-    <ns0:vehicle_msrp>45165.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1C4RJHAG9SC349707</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Jeep</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Jeep</ns0:make>
-    <ns0:model>Grand Cherokee</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHAG9SC349707&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Laredo X</ns0:trim>
-    <ns0:mileage>16 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Baltic Gray Metallic Clearcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1814099551--9-W1E-ltid1/1814099551.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1814099561--OUTQF-ltid1/1814099561.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1814099571--BQTZ+-ltid1/1814099571.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1814099581--BQTZ+-ltid1/1814099581.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1814099591--PV+9R-ltid1/1814099591.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1814099601--WDT89-ltid1/1814099601.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1814099611--TKXIZ-ltid1/1814099611.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1814099621--G0IQV-ltid1/1814099621.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1814099351--A8ZOP-ltid1/1814099351.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1814099361--XVZ7Q-ltid1/1814099361.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Grand Cherokee</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>440061</id>
-    <title>2026 Ram 1500 Laramie</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFJP6TN198661"/>
-    <ns0:id>440061</ns0:id>
-    <ns0:price>73059.00 USD</ns0:price>
-    <ns0:vehicle_msrp>84105.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1C6SRFJP6TN198661</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ram</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Ram</ns0:make>
-    <ns0:model>1500</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFJP6TN198661&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Laramie</ns0:trim>
-    <ns0:mileage>46 miles</ns0:mileage>
-    <ns0:body_style>truck</ns0:body_style>
-    <ns0:color>Canyon Lake</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626591--52ARM-ltid1/1771626591.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626601--HZHQH-ltid1/1771626601.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626611--HZHQH-ltid1/1771626611.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626621--HZHQH-ltid1/1771626621.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626631--NDFR1-ltid1/1771626631.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626641--NDFR1-ltid1/1771626641.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627111--NDFR1-ltid1/1771627111.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627121--PZH3L-ltid1/1771627121.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627131--PZH3L-ltid1/1771627131.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627141--PZH3L-ltid1/1771627141.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>1500</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>140040</id>
-    <title>2026 Chrysler Pacifica Select</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC3BG2TR165522"/>
-    <ns0:id>140040</ns0:id>
-    <ns0:price>42515.00 USD</ns0:price>
-    <ns0:vehicle_msrp>51310.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>2C4RC3BG2TR165522</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Chrysler</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Chrysler</ns0:make>
-    <ns0:model>Pacifica</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC3BG2TR165522&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Select</ns0:trim>
-    <ns0:mileage>15 miles</ns0:mileage>
-    <ns0:body_style>full size van</ns0:body_style>
-    <ns0:color>Diamond Black Crystal Pearlcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1617005951--CYBWR-ltid1/1617005951.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1617005961--R3Z-T-ltid1/1617005961.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1617005971--O+JKA-ltid1/1617005971.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1617005981--RM-UH-ltid1/1617005981.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1617005991--ETMKU-ltid1/1617005991.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1617006001--IJ5DC-ltid1/1617006001.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1617006011--2RRRU-ltid1/1617006011.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1617006021--YNLID-ltid1/1617006021.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1617006031--1ODS0-ltid1/1617006031.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1617006041--VMCGN-ltid1/1617006041.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Pacifica</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>140041</id>
-    <title>2026 Chrysler Pacifica Select</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC3BG7TR165466"/>
-    <ns0:id>140041</ns0:id>
-    <ns0:price>42515.00 USD</ns0:price>
-    <ns0:vehicle_msrp>51310.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>2C4RC3BG7TR165466</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Chrysler</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Chrysler</ns0:make>
-    <ns0:model>Pacifica</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC3BG7TR165466&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Select</ns0:trim>
-    <ns0:mileage>13 miles</ns0:mileage>
-    <ns0:body_style>full size van</ns0:body_style>
-    <ns0:color>Diamond Black Crystal Pearlcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1869339881--XJTVO-ltid1/1869339881.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1869339801--3FZLE-ltid1/1869339801.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1869339761--LMW7+-ltid1/1869339761.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1869339831--+75XJ-ltid1/1869339831.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1869339861--WVMXL-ltid1/1869339861.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1869339781--AIRVO-ltid1/1869339781.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1869339821--WAX5B-ltid1/1869339821.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1869339851--NC5EB-ltid1/1869339851.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1869339891--XJTVO-ltid1/1869339891.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1869339811--3FZLE-ltid1/1869339811.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Pacifica</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>340110</id>
-    <title>2025 Jeep Grand Cherokee Limited</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHBG6SC358766"/>
-    <ns0:id>340110</ns0:id>
-    <ns0:price>48016.00 USD</ns0:price>
-    <ns0:vehicle_msrp>53730.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1C4RJHBG6SC358766</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Jeep</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Jeep</ns0:make>
-    <ns0:model>Grand Cherokee</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHBG6SC358766&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Limited</ns0:trim>
-    <ns0:mileage>15 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Diamond Black Crystal Pearlcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627361--MSUIS-ltid1/1771627361.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627371--WIEYA-ltid1/1771627371.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627381--WIEYA-ltid1/1771627381.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627391--WIEYA-ltid1/1771627391.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627401--EZ0ME-ltid1/1771627401.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771628431--EZ0ME-ltid1/1771628431.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771628441--EZ0ME-ltid1/1771628441.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771628451--FIRB4-ltid1/1771628451.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771628461--FIRB4-ltid1/1771628461.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771628471--FIRB4-ltid1/1771628471.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Grand Cherokee</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>340111</id>
-    <title>2025 Jeep Grand Cherokee Summit Reserve</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHEG2S8776496"/>
-    <ns0:id>340111</ns0:id>
-    <ns0:price>64504.00 USD</ns0:price>
-    <ns0:vehicle_msrp>71425.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1C4RJHEG2S8776496</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Jeep</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Jeep</ns0:make>
-    <ns0:model>Grand Cherokee</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHEG2S8776496&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Summit Reserve</ns0:trim>
-    <ns0:mileage>17 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Velvet Red Pearlcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1775237531--SNCHR-ltid1/1775237531.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1775237541--SNCHR-ltid1/1775237541.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1775237551--QPTC7-ltid1/1775237551.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1775237561--LABJE-ltid1/1775237561.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1775237571--84QCK-ltid1/1775237571.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1775237581--0ITEB-ltid1/1775237581.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1775237591--I-YVU-ltid1/1775237591.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1775237601--I-YVU-ltid1/1775237601.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1775237611--TCJCP-ltid1/1775237611.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1775237621--QOHMI-ltid1/1775237621.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Grand Cherokee</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>PB0085</id>
-    <title>2020 Jeep Grand Cherokee Limited</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJFBG7LC374657"/>
-    <ns0:id>PB0085</ns0:id>
-    <ns0:price>22177.00 USD</ns0:price>
-    <ns0:vin>1C4RJFBG7LC374657</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Jeep</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2020</ns0:year>
-    <ns0:make>Jeep</ns0:make>
-    <ns0:model>Grand Cherokee</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJFBG7LC374657&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Limited</ns0:trim>
-    <ns0:mileage>62515 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Bright White Clearcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977811--RSSPW-ltid2/1772977811.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977821--RSSPW-ltid2/1772977821.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977831--RSSPW-ltid2/1772977831.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977841--I7ALB-ltid2/1772977841.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977851--0QOTY-ltid2/1772977851.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977861--0QOTY-ltid2/1772977861.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977871--0QOTY-ltid2/1772977871.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977881--0QOTY-ltid2/1772977881.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977891--LYZSK-ltid2/1772977891.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977901--LYZSK-ltid2/1772977901.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Grand Cherokee</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>340113</id>
-    <title>2025 Jeep Grand Cherokee L Limited</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJKBG1S8791878"/>
-    <ns0:id>340113</ns0:id>
-    <ns0:price>52211.00 USD</ns0:price>
-    <ns0:vehicle_msrp>58655.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1C4RJKBG1S8791878</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Jeep</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Jeep</ns0:make>
-    <ns0:model>Grand Cherokee L</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJKBG1S8791878&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Limited</ns0:trim>
-    <ns0:mileage>16 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Diamond Black Crystal Pearlcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1774794951--KWLZ0-ltid1/1774794951.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1774794961--4QY9H-ltid1/1774794961.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1774794971--4QY9H-ltid1/1774794971.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1774794981--A+668-ltid1/1774794981.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1774794991--M1NQZ-ltid1/1774794991.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1774795001--M1NQZ-ltid1/1774795001.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1774795011--SIULH-ltid1/1774795011.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1774795021--6CKZC-ltid1/1774795021.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1774795031--OTK6W-ltid1/1774795031.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1774795041--OTK6W-ltid1/1774795041.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Grand Cherokee L</ns0:custom_label_0>
   </entry>
   <entry>
@@ -1716,6 +1249,45 @@
     <ns0:custom_label_0>Wrangler</ns0:custom_label_0>
   </entry>
   <entry>
+    <id>340122</id>
+    <title>2026 Jeep Compass Limited</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDCN2TT193194"/>
+    <ns0:id>340122</ns0:id>
+    <ns0:price>35409.00 USD</ns0:price>
+    <ns0:vehicle_msrp>39470.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3C4NJDCN2TT193194</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Jeep</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Jeep</ns0:make>
+    <ns0:model>Compass</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDCN2TT193194&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Limited</ns0:trim>
+    <ns0:mileage>14 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Joose</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1864417271--BFYBP-ltid1/1864417271.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1864417281--BFYBP-ltid1/1864417281.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1864417291--Z-6C9-ltid1/1864417291.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1864417301--Z-6C9-ltid1/1864417301.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1864417311--VTD4Z-ltid1/1864417311.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1864417321--4BDGZ-ltid1/1864417321.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1864417331--92AQX-ltid1/1864417331.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1864417341--AYU+N-ltid1/1864417341.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1864417351--AYU+N-ltid1/1864417351.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1864417361--VP1GD-ltid1/1864417361.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Compass</ns0:custom_label_0>
+  </entry>
+  <entry>
     <id>340127</id>
     <title>2026 Jeep Wrangler Willys</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJXDG2TW202411"/>
@@ -1752,6 +1324,115 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1893130751--KH9IP-ltid1/1893130751.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1893130761--BEUYL-ltid1/1893130761.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Wrangler</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>140058</id>
+    <title>2026 Chrysler Pacifica Limited</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC3GG3TR214963"/>
+    <ns0:id>140058</ns0:id>
+    <ns0:price>51514.00 USD</ns0:price>
+    <ns0:vehicle_msrp>58930.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>2C4RC3GG3TR214963</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Chrysler</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Chrysler</ns0:make>
+    <ns0:model>Pacifica</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC3GG3TR214963&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Limited</ns0:trim>
+    <ns0:mileage>15 miles</ns0:mileage>
+    <ns0:body_style>full size van</ns0:body_style>
+    <ns0:color>Bright White Clearcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884753681--CQEC5-ltid1/1884753681.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884753691--APL-J-ltid1/1884753691.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884753701--APL-J-ltid1/1884753701.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884753711--XKEZS-ltid1/1884753711.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884753721--SR4IH-ltid1/1884753721.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884753731--YYMNG-ltid1/1884753731.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884753741--S4JXS-ltid1/1884753741.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884753751--9MY18-ltid1/1884753751.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884753761--G1NC8-ltid1/1884753761.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884753771--G1NC8-ltid1/1884753771.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Pacifica</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>440075</id>
+    <title>2026 Ram 1500 Big Horn</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFFP6TN282245"/>
+    <ns0:id>440075</ns0:id>
+    <ns0:price>55846.00 USD</ns0:price>
+    <ns0:vehicle_msrp>64710.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1C6SRFFP6TN282245</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ram</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Ram</ns0:make>
+    <ns0:model>1500</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFFP6TN282245&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Big Horn</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>Forged Blue Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280631--TGOI0-ltid1/1877280631.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280641--TGOI0-ltid1/1877280641.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280651--VBKZL-ltid1/1877280651.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280661--E81FA-ltid1/1877280661.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280671--3A2YD-ltid1/1877280671.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280681--W2O41-ltid1/1877280681.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280691--W2O41-ltid1/1877280691.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280701--KUCK6-ltid1/1877280701.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280711--BRJTU-ltid1/1877280711.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280721--QPWGK-ltid1/1877280721.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>1500</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>340131</id>
+    <title>2026 Jeep Cherokee Limited</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4PJMB25TT154602"/>
+    <ns0:id>340131</ns0:id>
+    <ns0:price>45875.00 USD</ns0:price>
+    <ns0:vehicle_msrp>45875.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3C4PJMB25TT154602</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Jeep</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Jeep</ns0:make>
+    <ns0:model>Cherokee</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4PJMB25TT154602&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Limited</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Hydro Blue Pearlcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1905305681--V2-UX-ltid1/1905305681.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1905305691--V2-UX-ltid1/1905305691.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Cherokee</ns0:custom_label_0>
   </entry>
   <entry>
     <id>140056</id>
@@ -1830,45 +1511,6 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1857052441--SNEJQ-ltid1/1857052441.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1857052451--SNEJQ-ltid1/1857052451.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Pacifica</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>340126</id>
-    <title>2026 Jeep Compass Latitude Altitude</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDBNXTT199634"/>
-    <ns0:id>340126</ns0:id>
-    <ns0:price>32980.00 USD</ns0:price>
-    <ns0:vehicle_msrp>35280.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>3C4NJDBNXTT199634</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Jeep</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Jeep</ns0:make>
-    <ns0:model>Compass</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDBNXTT199634&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Latitude Altitude</ns0:trim>
-    <ns0:mileage>16 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Bright White Clearcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290771--6ZXR+-ltid1/1884290771.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290781--KBZDH-ltid1/1884290781.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290791--KBZDH-ltid1/1884290791.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290801--VKLTO-ltid1/1884290801.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290811--VKLTO-ltid1/1884290811.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290821--VKLTO-ltid1/1884290821.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290831--SELIE-ltid1/1884290831.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290841--4KSH3-ltid1/1884290841.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290851--4KSH3-ltid1/1884290851.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290861--7N+CP-ltid1/1884290861.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Compass</ns0:custom_label_0>
   </entry>
   <entry>
     <id>340089C</id>
@@ -1987,45 +1629,6 @@
     <ns0:custom_label_0>Pacifica</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>140058</id>
-    <title>2026 Chrysler Pacifica Limited</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC3GG3TR214963"/>
-    <ns0:id>140058</ns0:id>
-    <ns0:price>51514.00 USD</ns0:price>
-    <ns0:vehicle_msrp>58930.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>2C4RC3GG3TR214963</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Chrysler</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Chrysler</ns0:make>
-    <ns0:model>Pacifica</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC3GG3TR214963&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Limited</ns0:trim>
-    <ns0:mileage>15 miles</ns0:mileage>
-    <ns0:body_style>full size van</ns0:body_style>
-    <ns0:color>Bright White Clearcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884753681--CQEC5-ltid1/1884753681.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884753691--APL-J-ltid1/1884753691.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884753701--APL-J-ltid1/1884753701.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884753711--XKEZS-ltid1/1884753711.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884753721--SR4IH-ltid1/1884753721.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884753731--YYMNG-ltid1/1884753731.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884753741--S4JXS-ltid1/1884753741.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884753751--9MY18-ltid1/1884753751.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884753761--G1NC8-ltid1/1884753761.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884753771--G1NC8-ltid1/1884753771.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Pacifica</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>P0179</id>
     <title>2022 Ram 1500 Big Horn</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6RRFFG2NN260003"/>
@@ -2062,38 +1665,6 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1852345891--FMYUK-ltid2/1852345891.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1852345901--0PHQQ-ltid2/1852345901.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>1500</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>440073</id>
-    <title>2026 Ram 2500 Big Horn</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C6UR5DJ5TG227599"/>
-    <ns0:id>440073</ns0:id>
-    <ns0:price>62114.00 USD</ns0:price>
-    <ns0:vehicle_msrp>68530.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>3C6UR5DJ5TG227599</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ram</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Ram</ns0:make>
-    <ns0:model>2500</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C6UR5DJ5TG227599&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Big Horn</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
-    <ns0:body_style>truck</ns0:body_style>
-    <ns0:color>Bright White Clearcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1851522721--OQB3A-ltid1/1851522721.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1851522731--OQB3A-ltid1/1851522731.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1851522741--TLPDI-ltid1/1851522741.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>2500</ns0:custom_label_0>
   </entry>
   <entry>
     <id>140060</id>
@@ -2288,45 +1859,6 @@
     <ns0:custom_label_0>Grand Cherokee L</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>340128</id>
-    <title>2026 Jeep Compass Latitude Altitude</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDBNXTT193199"/>
-    <ns0:id>340128</ns0:id>
-    <ns0:price>34307.00 USD</ns0:price>
-    <ns0:vehicle_msrp>36770.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>3C4NJDBNXTT193199</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Jeep</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Jeep</ns0:make>
-    <ns0:model>Compass</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDBNXTT193199&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Latitude Altitude</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Silver Zynith Metallic Clearcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290651--VXHRA-ltid1/1884290651.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290661--W2ZJG-ltid1/1884290661.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290671--JVI+K-ltid1/1884290671.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290681--JVI+K-ltid1/1884290681.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290691--YIHWY-ltid1/1884290691.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290701--YIHWY-ltid1/1884290701.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290711--X321D-ltid1/1884290711.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290721--Z1KTN-ltid1/1884290721.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290731--ZE6PC-ltid1/1884290731.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290741--XL2GI-ltid1/1884290741.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Compass</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>440064AA</id>
     <title>2022 MINI Countryman Cooper</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=WMZ23BR05N3N59225"/>
@@ -2442,45 +1974,6 @@
     <ns0:custom_label_0>Compass</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>440076</id>
-    <title>2026 Ram 2500 Warlock</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C6UR5CJ6TG226284"/>
-    <ns0:id>440076</ns0:id>
-    <ns0:price>55908.00 USD</ns0:price>
-    <ns0:vehicle_msrp>6660.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>3C6UR5CJ6TG226284</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ram</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Ram</ns0:make>
-    <ns0:model>2500</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C6UR5CJ6TG226284&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Warlock</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
-    <ns0:body_style>truck</ns0:body_style>
-    <ns0:color>Molten Red Pearlcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290401--SQ9JG-ltid1/1884290401.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290411--L9LRH-ltid1/1884290411.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290421--L9LRH-ltid1/1884290421.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290431--QYZMI-ltid1/1884290431.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290441--QYZMI-ltid1/1884290441.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290451--QYZMI-ltid1/1884290451.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290461--U5EYF-ltid1/1884290461.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290471--2X0O9-ltid1/1884290471.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290481--2WNO8-ltid1/1884290481.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290491--BAVJC-ltid1/1884290491.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>2500</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>440074A</id>
     <title>2025 Ram 1500 Big Horn</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFBP1SN518174"/>
@@ -2565,13 +2058,12 @@
     <ns0:custom_label_0>Grand Cherokee L</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>340131</id>
-    <title>2026 Jeep Cherokee Limited</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4PJMB25TT154602"/>
-    <ns0:id>340131</ns0:id>
-    <ns0:price>45875.00 USD</ns0:price>
-    <ns0:vehicle_msrp>45875.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>3C4PJMB25TT154602</ns0:vin>
+    <id>340050A</id>
+    <title>2021 Jeep Wrangler 80th Anniversary</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4GJXAN5MW691477"/>
+    <ns0:id>340050A</ns0:id>
+    <ns0:price>17833.00 USD</ns0:price>
+    <ns0:vin>1C4GJXAN5MW691477</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Jeep</ns0:brand>
     <ns0:store_code>252221242249419797</ns0:store_code>
@@ -2581,47 +2073,17 @@
       <ns0:option>in_store</ns0:option>
       <ns0:store_code>252221242249419797</ns0:store_code>
     </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
+    <ns0:year>2021</ns0:year>
     <ns0:make>Jeep</ns0:make>
-    <ns0:model>Cherokee</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4PJMB25TT154602&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Limited</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Hydro Blue Pearlcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1905305681--V2-UX-ltid1/1905305681.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1905305691--V2-UX-ltid1/1905305691.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Cherokee</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>PB0082A</id>
-    <title>2013 Nissan Sentra SV</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3N1AB7AP5DL672991"/>
-    <ns0:id>PB0082A</ns0:id>
-    <ns0:price>6214.00 USD</ns0:price>
-    <ns0:vin>3N1AB7AP5DL672991</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Nissan</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2013</ns0:year>
-    <ns0:make>Nissan</ns0:make>
-    <ns0:model>Sentra</ns0:model>
+    <ns0:model>Wrangler</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3N1AB7AP5DL672991&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>SV</ns0:trim>
-    <ns0:mileage>91875 miles</ns0:mileage>
-    <ns0:body_style>sedan</ns0:body_style>
-    <ns0:color>Super Black</ns0:color>
-    <ns0:custom_label_0>Sentra</ns0:custom_label_0>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4GJXAN5MW691477&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>80th Anniversary</ns0:trim>
+    <ns0:mileage>132093 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Sarge Green Clearcoat</ns0:color>
+    <ns0:custom_label_0>Wrangler</ns0:custom_label_0>
   </entry>
   <entry>
     <id>340132</id>
@@ -2653,13 +2115,41 @@
     <ns0:custom_label_0>Grand Cherokee</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>340122</id>
-    <title>2026 Jeep Compass Limited</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDCN2TT193194"/>
-    <ns0:id>340122</ns0:id>
-    <ns0:price>35409.00 USD</ns0:price>
-    <ns0:vehicle_msrp>39470.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>3C4NJDCN2TT193194</ns0:vin>
+    <id>PB0082A</id>
+    <title>2013 Nissan Sentra SV</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3N1AB7AP5DL672991"/>
+    <ns0:id>PB0082A</ns0:id>
+    <ns0:price>6214.00 USD</ns0:price>
+    <ns0:vin>3N1AB7AP5DL672991</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Nissan</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2013</ns0:year>
+    <ns0:make>Nissan</ns0:make>
+    <ns0:model>Sentra</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3N1AB7AP5DL672991&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SV</ns0:trim>
+    <ns0:mileage>91875 miles</ns0:mileage>
+    <ns0:body_style>sedan</ns0:body_style>
+    <ns0:color>Super Black</ns0:color>
+    <ns0:custom_label_0>Sentra</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>340126</id>
+    <title>2026 Jeep Compass Latitude Altitude</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDBNXTT199634"/>
+    <ns0:id>340126</ns0:id>
+    <ns0:price>32980.00 USD</ns0:price>
+    <ns0:vehicle_msrp>35280.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3C4NJDBNXTT199634</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Jeep</ns0:brand>
     <ns0:store_code>252221242249419797</ns0:store_code>
@@ -2674,30 +2164,258 @@
     <ns0:model>Compass</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDCN2TT193194&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Limited</ns0:trim>
-    <ns0:mileage>14 miles</ns0:mileage>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDBNXTT199634&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Latitude Altitude</ns0:trim>
+    <ns0:mileage>16 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Joose</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1864417271--BFYBP-ltid1/1864417271.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1864417281--BFYBP-ltid1/1864417281.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1864417291--Z-6C9-ltid1/1864417291.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1864417301--Z-6C9-ltid1/1864417301.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1864417311--VTD4Z-ltid1/1864417311.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1864417321--4BDGZ-ltid1/1864417321.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1864417331--92AQX-ltid1/1864417331.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1864417341--AYU+N-ltid1/1864417341.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1864417351--AYU+N-ltid1/1864417351.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1864417361--VP1GD-ltid1/1864417361.jpg</ns0:additional_image_link>
+    <ns0:color>Bright White Clearcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290771--6ZXR+-ltid1/1884290771.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290781--KBZDH-ltid1/1884290781.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290791--KBZDH-ltid1/1884290791.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290801--VKLTO-ltid1/1884290801.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290811--VKLTO-ltid1/1884290811.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290821--VKLTO-ltid1/1884290821.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290831--SELIE-ltid1/1884290831.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290841--4KSH3-ltid1/1884290841.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290851--4KSH3-ltid1/1884290851.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290861--7N+CP-ltid1/1884290861.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Compass</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>340050A</id>
-    <title>2021 Jeep Wrangler 80th Anniversary</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4GJXAN5MW691477"/>
-    <ns0:id>340050A</ns0:id>
-    <ns0:price>17833.00 USD</ns0:price>
-    <ns0:vin>1C4GJXAN5MW691477</ns0:vin>
+    <id>440073</id>
+    <title>2026 Ram 2500 Big Horn</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C6UR5DJ5TG227599"/>
+    <ns0:id>440073</ns0:id>
+    <ns0:price>62114.00 USD</ns0:price>
+    <ns0:vehicle_msrp>68530.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3C6UR5DJ5TG227599</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ram</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Ram</ns0:make>
+    <ns0:model>2500</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C6UR5DJ5TG227599&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Big Horn</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>Bright White Clearcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1851522721--OQB3A-ltid1/1851522721.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1851522731--OQB3A-ltid1/1851522731.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1851522741--TLPDI-ltid1/1851522741.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>2500</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>440076</id>
+    <title>2026 Ram 2500 Warlock</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C6UR5CJ6TG226284"/>
+    <ns0:id>440076</ns0:id>
+    <ns0:price>55908.00 USD</ns0:price>
+    <ns0:vehicle_msrp>6660.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3C6UR5CJ6TG226284</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ram</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Ram</ns0:make>
+    <ns0:model>2500</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C6UR5CJ6TG226284&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Warlock</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>Molten Red Pearlcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290401--SQ9JG-ltid1/1884290401.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290411--L9LRH-ltid1/1884290411.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290421--L9LRH-ltid1/1884290421.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290431--QYZMI-ltid1/1884290431.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290441--QYZMI-ltid1/1884290441.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290451--QYZMI-ltid1/1884290451.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290461--U5EYF-ltid1/1884290461.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290471--2X0O9-ltid1/1884290471.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290481--2WNO8-ltid1/1884290481.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290491--BAVJC-ltid1/1884290491.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>2500</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>140015</id>
+    <title>2025 Chrysler Pacifica Select</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC3BG2SR507968"/>
+    <ns0:id>140015</ns0:id>
+    <ns0:price>38659.00 USD</ns0:price>
+    <ns0:vehicle_msrp>48420.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>2C4RC3BG2SR507968</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Chrysler</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Chrysler</ns0:make>
+    <ns0:model>Pacifica</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC3BG2SR507968&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Select</ns0:trim>
+    <ns0:mileage>2155 miles</ns0:mileage>
+    <ns0:body_style>full size van</ns0:body_style>
+    <ns0:color>Diamond Black Crystal Pearlcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207177481--CYBWR-ltid1/1207177481.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207177501--Q3MF8-ltid1/1207177501.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207177511--CYHYD-ltid1/1207177511.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207177531---+S9T-ltid1/1207177531.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207177541---+S9T-ltid1/1207177541.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207177551--O3DXP-ltid1/1207177551.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207177561--O3DXP-ltid1/1207177561.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207177571--TRL5T-ltid1/1207177571.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207177581--SCIW0-ltid1/1207177581.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207177591--SCIW0-ltid1/1207177591.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Pacifica</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>440032</id>
+    <title>2025 Ram ProMaster 2500 Tradesman</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C6LRVDG2SE529829"/>
+    <ns0:id>440032</ns0:id>
+    <ns0:price>49825.00 USD</ns0:price>
+    <ns0:vehicle_msrp>55185.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3C6LRVDG2SE529829</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ram</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Ram</ns0:make>
+    <ns0:model>ProMaster 2500</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C6LRVDG2SE529829&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Tradesman</ns0:trim>
+    <ns0:mileage>24 miles</ns0:mileage>
+    <ns0:body_style>full size van</ns0:body_style>
+    <ns0:color>Bright White Clearcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207180411--CYBWR-ltid1/1207180411.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207180421--FE1GC-ltid1/1207180421.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207180431--ECSVS-ltid1/1207180431.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207180441--GVWTV-ltid1/1207180441.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207180451--GVWTV-ltid1/1207180451.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207180461--GVWTV-ltid1/1207180461.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207180471--ODBLN-ltid1/1207180471.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207180481--ODBLN-ltid1/1207180481.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207180491--Y0ZUC-ltid1/1207180491.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1207180501--Y0ZUC-ltid1/1207180501.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>ProMaster 2500</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>440057</id>
+    <title>2026 Ram 1500 Big Horn</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFFP1TN176849"/>
+    <ns0:id>440057</ns0:id>
+    <ns0:price>49629.00 USD</ns0:price>
+    <ns0:vehicle_msrp>60065.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1C6SRFFP1TN176849</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ram</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Ram</ns0:make>
+    <ns0:model>1500</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFFP1TN176849&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Big Horn</ns0:trim>
+    <ns0:mileage>19 miles</ns0:mileage>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>BRIGHT WHITE CLEAR COAT</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626291--YRBKG-ltid1/1771626291.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626301--N5EKU-ltid1/1771626301.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626311--N5EKU-ltid1/1771626311.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626321--N5EKU-ltid1/1771626321.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626491--OA6QN-ltid1/1771626491.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626501--OA6QN-ltid1/1771626501.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626511--OA6QN-ltid1/1771626511.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626521--F-7WY-ltid1/1771626521.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626531--F-7WY-ltid1/1771626531.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626541--F-7WY-ltid1/1771626541.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>1500</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>440059</id>
+    <title>2026 Ram Promaster 1500 Tradesman</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C6LRVNG7TE150292"/>
+    <ns0:id>440059</ns0:id>
+    <ns0:price>49615.00 USD</ns0:price>
+    <ns0:vehicle_msrp>53615.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3C6LRVNG7TE150292</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ram</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Ram</ns0:make>
+    <ns0:model>Promaster 1500</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C6LRVNG7TE150292&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Tradesman</ns0:trim>
+    <ns0:mileage>28 miles</ns0:mileage>
+    <ns0:body_style>full size van</ns0:body_style>
+    <ns0:color>Bright White Clearcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846881--MBAIR-ltid1/1692846881.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846891--NMBCX-ltid1/1692846891.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846901--2BEWI-ltid1/1692846901.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846911--2BEWI-ltid1/1692846911.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846921--LI0UF-ltid1/1692846921.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846931--YCFA+-ltid1/1692846931.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846941--YCFA+-ltid1/1692846941.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846951--D4YYG-ltid1/1692846951.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846961--4NTO9-ltid1/1692846961.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1692846971--LLWAV-ltid1/1692846971.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Promaster 1500</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>340107</id>
+    <title>2025 Jeep Grand Cherokee Laredo X</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHAG0SC349935"/>
+    <ns0:id>340107</ns0:id>
+    <ns0:price>39577.00 USD</ns0:price>
+    <ns0:vehicle_msrp>44570.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1C4RJHAG0SC349935</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Jeep</ns0:brand>
     <ns0:store_code>252221242249419797</ns0:store_code>
@@ -2707,16 +2425,298 @@
       <ns0:option>in_store</ns0:option>
       <ns0:store_code>252221242249419797</ns0:store_code>
     </ns0:vehicle_fulfillment>
-    <ns0:year>2021</ns0:year>
+    <ns0:year>2025</ns0:year>
     <ns0:make>Jeep</ns0:make>
-    <ns0:model>Wrangler</ns0:model>
+    <ns0:model>Grand Cherokee</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHAG0SC349935&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Laredo X</ns0:trim>
+    <ns0:mileage>12 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Bright White Clearcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627451--CGIO7-ltid1/1771627451.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627461--CGIO7-ltid1/1771627461.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627471--CGIO7-ltid1/1771627471.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627481--IN4LO-ltid1/1771627481.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627491--IN4LO-ltid1/1771627491.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627501--IN4LO-ltid1/1771627501.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627511--1YRGT-ltid1/1771627511.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627521--1YRGT-ltid1/1771627521.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627531--WT1WB-ltid1/1771627531.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627541--WT1WB-ltid1/1771627541.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Grand Cherokee</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>340108</id>
+    <title>2025 Jeep Grand Cherokee Laredo X</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHAG9SC349707"/>
+    <ns0:id>340108</ns0:id>
+    <ns0:price>40095.00 USD</ns0:price>
+    <ns0:vehicle_msrp>45165.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1C4RJHAG9SC349707</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Jeep</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Jeep</ns0:make>
+    <ns0:model>Grand Cherokee</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHAG9SC349707&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Laredo X</ns0:trim>
+    <ns0:mileage>16 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Baltic Gray Metallic Clearcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1814099551--9-W1E-ltid1/1814099551.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1814099561--OUTQF-ltid1/1814099561.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1814099571--BQTZ+-ltid1/1814099571.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1814099581--BQTZ+-ltid1/1814099581.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1814099591--PV+9R-ltid1/1814099591.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1814099601--WDT89-ltid1/1814099601.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1814099611--TKXIZ-ltid1/1814099611.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1814099621--G0IQV-ltid1/1814099621.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1814099351--A8ZOP-ltid1/1814099351.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1814099361--XVZ7Q-ltid1/1814099361.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Grand Cherokee</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>440061</id>
+    <title>2026 Ram 1500 Laramie</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFJP6TN198661"/>
+    <ns0:id>440061</ns0:id>
+    <ns0:price>73059.00 USD</ns0:price>
+    <ns0:vehicle_msrp>84105.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1C6SRFJP6TN198661</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ram</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Ram</ns0:make>
+    <ns0:model>1500</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFJP6TN198661&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Laramie</ns0:trim>
+    <ns0:mileage>46 miles</ns0:mileage>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>Canyon Lake</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626591--52ARM-ltid1/1771626591.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626601--HZHQH-ltid1/1771626601.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626611--HZHQH-ltid1/1771626611.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626621--HZHQH-ltid1/1771626621.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626631--NDFR1-ltid1/1771626631.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771626641--NDFR1-ltid1/1771626641.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627111--NDFR1-ltid1/1771627111.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627121--PZH3L-ltid1/1771627121.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627131--PZH3L-ltid1/1771627131.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627141--PZH3L-ltid1/1771627141.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>1500</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>140040</id>
+    <title>2026 Chrysler Pacifica Select</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC3BG2TR165522"/>
+    <ns0:id>140040</ns0:id>
+    <ns0:price>42515.00 USD</ns0:price>
+    <ns0:vehicle_msrp>51310.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>2C4RC3BG2TR165522</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Chrysler</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Chrysler</ns0:make>
+    <ns0:model>Pacifica</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC3BG2TR165522&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Select</ns0:trim>
+    <ns0:mileage>15 miles</ns0:mileage>
+    <ns0:body_style>full size van</ns0:body_style>
+    <ns0:color>Diamond Black Crystal Pearlcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1617005951--CYBWR-ltid1/1617005951.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1617005961--R3Z-T-ltid1/1617005961.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1617005971--O+JKA-ltid1/1617005971.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1617005981--RM-UH-ltid1/1617005981.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1617005991--ETMKU-ltid1/1617005991.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1617006001--IJ5DC-ltid1/1617006001.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1617006011--2RRRU-ltid1/1617006011.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1617006021--YNLID-ltid1/1617006021.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1617006031--1ODS0-ltid1/1617006031.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1617006041--VMCGN-ltid1/1617006041.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Pacifica</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>340110</id>
+    <title>2025 Jeep Grand Cherokee Limited</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHBG6SC358766"/>
+    <ns0:id>340110</ns0:id>
+    <ns0:price>48016.00 USD</ns0:price>
+    <ns0:vehicle_msrp>53730.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1C4RJHBG6SC358766</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Jeep</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Jeep</ns0:make>
+    <ns0:model>Grand Cherokee</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHBG6SC358766&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Limited</ns0:trim>
+    <ns0:mileage>15 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Diamond Black Crystal Pearlcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627361--MSUIS-ltid1/1771627361.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627371--WIEYA-ltid1/1771627371.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627381--WIEYA-ltid1/1771627381.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627391--WIEYA-ltid1/1771627391.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771627401--EZ0ME-ltid1/1771627401.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771628431--EZ0ME-ltid1/1771628431.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771628441--EZ0ME-ltid1/1771628441.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771628451--FIRB4-ltid1/1771628451.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771628461--FIRB4-ltid1/1771628461.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771628471--FIRB4-ltid1/1771628471.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Grand Cherokee</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>340111</id>
+    <title>2025 Jeep Grand Cherokee Summit Reserve</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHEG2S8776496"/>
+    <ns0:id>340111</ns0:id>
+    <ns0:price>64504.00 USD</ns0:price>
+    <ns0:vehicle_msrp>71425.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1C4RJHEG2S8776496</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Jeep</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Jeep</ns0:make>
+    <ns0:model>Grand Cherokee</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHEG2S8776496&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Summit Reserve</ns0:trim>
+    <ns0:mileage>17 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Velvet Red Pearlcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1775237531--SNCHR-ltid1/1775237531.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1775237541--SNCHR-ltid1/1775237541.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1775237551--QPTC7-ltid1/1775237551.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1775237561--LABJE-ltid1/1775237561.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1775237571--84QCK-ltid1/1775237571.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1775237581--0ITEB-ltid1/1775237581.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1775237591--I-YVU-ltid1/1775237591.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1775237601--I-YVU-ltid1/1775237601.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1775237611--TCJCP-ltid1/1775237611.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1775237621--QOHMI-ltid1/1775237621.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Grand Cherokee</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>PB0085</id>
+    <title>2020 Jeep Grand Cherokee Limited</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJFBG7LC374657"/>
+    <ns0:id>PB0085</ns0:id>
+    <ns0:price>22177.00 USD</ns0:price>
+    <ns0:vin>1C4RJFBG7LC374657</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Jeep</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2020</ns0:year>
+    <ns0:make>Jeep</ns0:make>
+    <ns0:model>Grand Cherokee</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4GJXAN5MW691477&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>80th Anniversary</ns0:trim>
-    <ns0:mileage>132093 miles</ns0:mileage>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJFBG7LC374657&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Limited</ns0:trim>
+    <ns0:mileage>62515 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Sarge Green Clearcoat</ns0:color>
-    <ns0:custom_label_0>Wrangler</ns0:custom_label_0>
+    <ns0:color>Bright White Clearcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977811--RSSPW-ltid2/1772977811.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977821--RSSPW-ltid2/1772977821.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977831--RSSPW-ltid2/1772977831.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977841--I7ALB-ltid2/1772977841.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977851--0QOTY-ltid2/1772977851.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977861--0QOTY-ltid2/1772977861.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977871--0QOTY-ltid2/1772977871.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977881--0QOTY-ltid2/1772977881.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977891--LYZSK-ltid2/1772977891.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1772977901--LYZSK-ltid2/1772977901.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Grand Cherokee</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>340128</id>
+    <title>2026 Jeep Compass Latitude Altitude</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDBNXTT193199"/>
+    <ns0:id>340128</ns0:id>
+    <ns0:price>34307.00 USD</ns0:price>
+    <ns0:vehicle_msrp>36770.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3C4NJDBNXTT193199</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Jeep</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Jeep</ns0:make>
+    <ns0:model>Compass</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDBNXTT193199&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Latitude Altitude</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Silver Zynith Metallic Clearcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290651--VXHRA-ltid1/1884290651.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290661--W2ZJG-ltid1/1884290661.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290671--JVI+K-ltid1/1884290671.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290681--JVI+K-ltid1/1884290681.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290691--YIHWY-ltid1/1884290691.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290701--YIHWY-ltid1/1884290701.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290711--X321D-ltid1/1884290711.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290721--Z1KTN-ltid1/1884290721.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290731--ZE6PC-ltid1/1884290731.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290741--XL2GI-ltid1/1884290741.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Compass</ns0:custom_label_0>
   </entry>
 </feed>
