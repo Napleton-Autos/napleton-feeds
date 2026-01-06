@@ -1,6 +1,79 @@
 <?xml version="1.0" ?>
 <listings>
   <listing>
+    <vehicle_id>1gkb0rdc7ru102181</vehicle_id>
+    <title>2024 GMC HUMMER EV SUV 3X</title>
+    <description>2024 GMC HUMMER EV SUV. Trim: 3X. Color: Moonshot Green Matte. Body Style: Sport Utility Vehicle.</description>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2024</year>
+    <make>GMC</make>
+    <model>HUMMER EV SUV</model>
+    <vin>1gkb0rdc7ru102181</vin>
+    <content_ids>1gkb0rdc7ru102181</content_ids>
+    <availability>in stock</availability>
+    <price>96180.00 USD</price>
+    <url>https://www.downtownbuickgmc.com/inventory/new-2024-gmc-hummer-ev-suv-3x-four-wheel-drive-suv-1gkb0rdc7ru102181/</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>1788</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>3X</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Moonshot Green Matte</exterior_color>
+    <interior_color>Lunar Shadow (Jet Black/Taupe)</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771673961--S1TH8-ltid1/1771673961.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771673971--S1TH8-ltid1/1771673971.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771673981--LBDHL-ltid1/1771673981.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771673991--LBDHL-ltid1/1771673991.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674001--BOFDU-ltid1/1771674001.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674011--BOFDU-ltid1/1771674011.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674021--WJCBK-ltid1/1771674021.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674031--WJCBK-ltid1/1771674031.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674041--IGEWV-ltid1/1771674041.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674051--IGEWV-ltid1/1771674051.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674061--9QN0F-ltid1/1771674061.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674071--9QN0F-ltid1/1771674071.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674081--9QN0F-ltid1/1771674081.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674091--EZTG4-ltid1/1771674091.jpg</url>
+    </image>
+  </listing>
+  <listing>
     <vehicle_id>kl47laep6sb191801</vehicle_id>
     <title>2025 Buick Envista Preferred</title>
     <description>2025 Buick Envista. Trim: Preferred. Color: Ocean Blue Metallic. Body Style: Sport Utility Vehicle.</description>
@@ -214,79 +287,6 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1341651101--UWKZ2-ltid1/1341651101.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>kl47laep7sb223414</vehicle_id>
-    <title>2025 Buick Envista Preferred</title>
-    <description>2025 Buick Envista. Trim: Preferred. Color: Ebony Twilight Metallic. Body Style: Sport Utility Vehicle.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2025</year>
-    <make>Buick</make>
-    <model>Envista</model>
-    <vin>kl47laep7sb223414</vin>
-    <content_ids>kl47laep7sb223414</content_ids>
-    <availability>in stock</availability>
-    <price>24750.00 USD</price>
-    <url>https://www.downtownbuickgmc.com/inventory/new-2025-buick-envista-preferred-front-wheel-drive-suv-kl47laep7sb223414/</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>4378</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Preferred</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Ebony Twilight Metallic</exterior_color>
-    <interior_color>Ebony seats and interior</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677601--2NTU+-ltid1/1771677601.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677611--2NTU+-ltid1/1771677611.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677621--2NTU+-ltid1/1771677621.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677631--ZCCRZ-ltid1/1771677631.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677641--ZCCRZ-ltid1/1771677641.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677651--QP6ZT-ltid1/1771677651.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677661--QP6ZT-ltid1/1771677661.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677671--QP6ZT-ltid1/1771677671.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677681--XIBSO-ltid1/1771677681.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677691--XIBSO-ltid1/1771677691.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677701--XIBSO-ltid1/1771677701.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677711--OX-LE-ltid1/1771677711.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677721--OX-LE-ltid1/1771677721.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677731--DXRPV-ltid1/1771677731.jpg</url>
     </image>
   </listing>
   <listing>
@@ -582,6 +582,79 @@
     </image>
   </listing>
   <listing>
+    <vehicle_id>3gkalzeg6tl209423</vehicle_id>
+    <title>2026 GMC Terrain AWD Denali</title>
+    <description>2026 GMC Terrain. Trim: AWD Denali. Color: Volcanic Red Tintcoat. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2026</year>
+    <make>GMC</make>
+    <model>Terrain</model>
+    <vin>3gkalzeg6tl209423</vin>
+    <content_ids>3gkalzeg6tl209423</content_ids>
+    <availability>in stock</availability>
+    <price>41757.00 USD</price>
+    <url>https://www.downtownbuickgmc.com/inventory/new-2026-gmc-terrain-denali-all-wheel-drive-suv-3gkalzeg6tl209423/</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>2</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>AWD Denali</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Volcanic Red Tintcoat</exterior_color>
+    <interior_color>After Dark</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676201--LG9BW-ltid1/1771676201.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676211--LG9BW-ltid1/1771676211.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676221--GZWRR-ltid1/1771676221.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676231--GZWRR-ltid1/1771676231.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676241--W2B31-ltid1/1771676241.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676251--W2B31-ltid1/1771676251.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676261--W2B31-ltid1/1771676261.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676271--OALGI-ltid1/1771676271.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676281--OALGI-ltid1/1771676281.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676291--GCUJI-ltid1/1771676291.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676301--GCUJI-ltid1/1771676301.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676311--SAKVC-ltid1/1771676311.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676321--SAKVC-ltid1/1771676321.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676331--SAKVC-ltid1/1771676331.jpg</url>
+    </image>
+  </listing>
+  <listing>
     <vehicle_id>1gkennks8tj144238</vehicle_id>
     <title>2026 GMC Acadia AWD Elevation</title>
     <description>2026 GMC Acadia. Trim: AWD Elevation. Color: Sterling Metallic. Body Style: 4 Door.</description>
@@ -871,79 +944,6 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676611--H1I5U-ltid1/1771676611.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>5gaevcks0tj164307</vehicle_id>
-    <title>2026 Buick Enclave Avenir</title>
-    <description>2026 Buick Enclave. Trim: Avenir. Color: Ebony Twilight Metallic. Body Style: Sport Utility Vehicle.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2026</year>
-    <make>Buick</make>
-    <model>Enclave</model>
-    <vin>5gaevcks0tj164307</vin>
-    <content_ids>5gaevcks0tj164307</content_ids>
-    <availability>in stock</availability>
-    <price>60084.00 USD</price>
-    <url>https://www.downtownbuickgmc.com/inventory/new-2026-buick-enclave-avenir-all-wheel-drive-suv-5gaevcks0tj164307/</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>4</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Avenir</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Ebony Twilight Metallic</exterior_color>
-    <interior_color>Ebony with Sky Cool Gray and Ebony interior accents</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676901--UQRRC-ltid1/1771676901.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676911--UQRRC-ltid1/1771676911.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676921--AZSGS-ltid1/1771676921.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676931--AZSGS-ltid1/1771676931.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676941--AZSGS-ltid1/1771676941.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676951--VVILU-ltid1/1771676951.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676961--VVILU-ltid1/1771676961.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676971--VVILU-ltid1/1771676971.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676981--B4NVK-ltid1/1771676981.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676991--B4NVK-ltid1/1771676991.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677001--B4NVK-ltid1/1771677001.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677011--3NZZH-ltid1/1771677011.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677021--3NZZH-ltid1/1771677021.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771677031--3NZZH-ltid1/1771677031.jpg</url>
     </image>
   </listing>
   <listing>
@@ -1768,6 +1768,79 @@
     </image>
   </listing>
   <listing>
+    <vehicle_id>3gkalueg6tl320914</vehicle_id>
+    <title>2026 GMC Terrain AWD Elevation</title>
+    <description>2026 GMC Terrain. Trim: AWD Elevation. Color: Sterling Metallic. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">2720 S. Michigan Ave.</component>
+      <component name="city">Chicago</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60616</component>
+    </address>
+    <year>2026</year>
+    <make>GMC</make>
+    <model>Terrain</model>
+    <vin>3gkalueg6tl320914</vin>
+    <content_ids>3gkalueg6tl320914</content_ids>
+    <availability>in stock</availability>
+    <price>33281.00 USD</price>
+    <url>https://www.downtownbuickgmc.com/inventory/new-2026-gmc-terrain-elevation-all-wheel-drive-suv-3gkalueg6tl320914/</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>3</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>AWD Elevation</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Sterling Metallic</exterior_color>
+    <interior_color>After Dark</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1842753551--IHO1U-ltid1/1842753551.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1842753561--YSALW-ltid1/1842753561.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1842753571--OGIML-ltid1/1842753571.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1842753581--KWUHO-ltid1/1842753581.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1842753591--KWUHO-ltid1/1842753591.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1842753601--NVZ77-ltid1/1842753601.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1842753611--6YLMD-ltid1/1842753611.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1842753621--ITCG--ltid1/1842753621.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1842753631--ITCG--ltid1/1842753631.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1842753641--1NYOM-ltid1/1842753641.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1842753651--Q10Y6-ltid1/1842753651.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1842753661--KDHRA-ltid1/1842753661.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1842753671--KDHRA-ltid1/1842753671.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1842753681--O61YJ-ltid1/1842753681.jpg</url>
+    </image>
+  </listing>
+  <listing>
     <vehicle_id>3gkalueg3tl347939</vehicle_id>
     <title>2026 GMC Terrain AWD Elevation</title>
     <description>2026 GMC Terrain. Trim: AWD Elevation. Color: Ebony Twilight Metallic. Body Style: Sport Utility.</description>
@@ -1911,225 +1984,6 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1841347941--VDNXE-ltid1/1841347941.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>1gkb0rdc7ru102181</vehicle_id>
-    <title>2024 GMC HUMMER EV SUV 3X</title>
-    <description>2024 GMC HUMMER EV SUV. Trim: 3X. Color: Moonshot Green Matte. Body Style: Sport Utility Vehicle.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2024</year>
-    <make>GMC</make>
-    <model>HUMMER EV SUV</model>
-    <vin>1gkb0rdc7ru102181</vin>
-    <content_ids>1gkb0rdc7ru102181</content_ids>
-    <availability>in stock</availability>
-    <price>96180.00 USD</price>
-    <url>https://www.downtownbuickgmc.com/inventory/new-2024-gmc-hummer-ev-suv-3x-four-wheel-drive-suv-1gkb0rdc7ru102181/</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>1788</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>3X</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Moonshot Green Matte</exterior_color>
-    <interior_color>Lunar Shadow (Jet Black/Taupe)</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771673961--S1TH8-ltid1/1771673961.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771673971--S1TH8-ltid1/1771673971.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771673981--LBDHL-ltid1/1771673981.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771673991--LBDHL-ltid1/1771673991.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674001--BOFDU-ltid1/1771674001.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674011--BOFDU-ltid1/1771674011.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674021--WJCBK-ltid1/1771674021.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674031--WJCBK-ltid1/1771674031.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674041--IGEWV-ltid1/1771674041.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674051--IGEWV-ltid1/1771674051.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674061--9QN0F-ltid1/1771674061.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674071--9QN0F-ltid1/1771674071.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674081--9QN0F-ltid1/1771674081.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771674091--EZTG4-ltid1/1771674091.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>3gkalzeg6tl209423</vehicle_id>
-    <title>2026 GMC Terrain AWD Denali</title>
-    <description>2026 GMC Terrain. Trim: AWD Denali. Color: Volcanic Red Tintcoat. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2026</year>
-    <make>GMC</make>
-    <model>Terrain</model>
-    <vin>3gkalzeg6tl209423</vin>
-    <content_ids>3gkalzeg6tl209423</content_ids>
-    <availability>in stock</availability>
-    <price>41757.00 USD</price>
-    <url>https://www.downtownbuickgmc.com/inventory/new-2026-gmc-terrain-denali-all-wheel-drive-suv-3gkalzeg6tl209423/</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>2</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>AWD Denali</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Volcanic Red Tintcoat</exterior_color>
-    <interior_color>After Dark</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676201--LG9BW-ltid1/1771676201.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676211--LG9BW-ltid1/1771676211.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676221--GZWRR-ltid1/1771676221.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676231--GZWRR-ltid1/1771676231.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676241--W2B31-ltid1/1771676241.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676251--W2B31-ltid1/1771676251.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676261--W2B31-ltid1/1771676261.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676271--OALGI-ltid1/1771676271.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676281--OALGI-ltid1/1771676281.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676291--GCUJI-ltid1/1771676291.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676301--GCUJI-ltid1/1771676301.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676311--SAKVC-ltid1/1771676311.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676321--SAKVC-ltid1/1771676321.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1771676331--SAKVC-ltid1/1771676331.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>3gkalueg6tl320914</vehicle_id>
-    <title>2026 GMC Terrain AWD Elevation</title>
-    <description>2026 GMC Terrain. Trim: AWD Elevation. Color: Sterling Metallic. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">2720 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2026</year>
-    <make>GMC</make>
-    <model>Terrain</model>
-    <vin>3gkalueg6tl320914</vin>
-    <content_ids>3gkalueg6tl320914</content_ids>
-    <availability>in stock</availability>
-    <price>33281.00 USD</price>
-    <url>https://www.downtownbuickgmc.com/inventory/new-2026-gmc-terrain-elevation-all-wheel-drive-suv-3gkalueg6tl320914/</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>3</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>AWD Elevation</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Sterling Metallic</exterior_color>
-    <interior_color>After Dark</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1842753551--IHO1U-ltid1/1842753551.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1842753561--YSALW-ltid1/1842753561.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1842753571--OGIML-ltid1/1842753571.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1842753581--KWUHO-ltid1/1842753581.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1842753591--KWUHO-ltid1/1842753591.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1842753601--NVZ77-ltid1/1842753601.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1842753611--6YLMD-ltid1/1842753611.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1842753621--ITCG--ltid1/1842753621.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1842753631--ITCG--ltid1/1842753631.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1842753641--1NYOM-ltid1/1842753641.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1842753651--Q10Y6-ltid1/1842753651.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1842753661--KDHRA-ltid1/1842753661.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1842753671--KDHRA-ltid1/1842753671.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid216163-photoid1842753681--O61YJ-ltid1/1842753681.jpg</url>
     </image>
   </listing>
 </listings>
