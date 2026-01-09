@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Ford Columbus Inventory Feed</title>
   <link href="https://www.napletonfordcolumbus.com" rel="self"/>
-  <updated>2026-01-09T08:02:59.886483</updated>
+  <updated>2026-01-09T12:04:03.065361</updated>
   <entry>
     <id>124036</id>
     <title>2024 Ford Super Duty F-550 DRW XL</title>
@@ -1816,6 +1816,44 @@
     <ns0:custom_label_0>Escape</ns0:custom_label_0>
   </entry>
   <entry>
+    <id>PB0038</id>
+    <title>2023 Nissan Rogue SV</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/5N1BT3BB3PC751131"/>
+    <ns0:id>PB0038</ns0:id>
+    <ns0:price>16699.00 USD</ns0:price>
+    <ns0:vin>5N1BT3BB3PC751131</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Nissan</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2023</ns0:year>
+    <ns0:make>Nissan</ns0:make>
+    <ns0:model>Rogue</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/5N1BT3BB3PC751131?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SV</ns0:trim>
+    <ns0:mileage>70748 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Super Black</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1772298071--3-218-ltid2/1772298071.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1772298081--V1SOE-ltid2/1772298081.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1772298091--2WJVK-ltid2/1772298091.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1772298101--2WJVK-ltid2/1772298101.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1772298111--F0OAT-ltid2/1772298111.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1772298121--LLP2C-ltid2/1772298121.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1772298131--WWEE0-ltid2/1772298131.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1772298141--WWEE0-ltid2/1772298141.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1772298151--L99E3-ltid2/1772298151.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1772298161--NZFS3-ltid2/1772298161.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Rogue</ns0:custom_label_0>
+  </entry>
+  <entry>
     <id>125170</id>
     <title>2025 Ford Bronco Big Bend</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMDE7BH1SLB58813"/>
@@ -2852,44 +2890,6 @@
     <ns0:custom_label_0>Bronco Sport</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>125098A</id>
-    <title>2019 Nissan Frontier PRO-4X</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1N6AD0EV3KN767891"/>
-    <ns0:id>125098A</ns0:id>
-    <ns0:price>23914.00 USD</ns0:price>
-    <ns0:vin>1N6AD0EV3KN767891</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Nissan</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2019</ns0:year>
-    <ns0:make>Nissan</ns0:make>
-    <ns0:model>Frontier</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1N6AD0EV3KN767891&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>PRO-4X</ns0:trim>
-    <ns0:mileage>54899 miles</ns0:mileage>
-    <ns0:body_style>truck</ns0:body_style>
-    <ns0:color>Gun Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934961271--YGUNE-ltid2/1934961271.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934961281--N+HIU-ltid2/1934961281.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934961291--N+HIU-ltid2/1934961291.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934961301--RTXET-ltid2/1934961301.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934961311--7HDSJ-ltid2/1934961311.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934961321--FXMFK-ltid2/1934961321.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934961331--IMZOT-ltid2/1934961331.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934961341--ISJZX-ltid2/1934961341.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934961351--FDRDA-ltid2/1934961351.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934961361--JVFUO-ltid2/1934961361.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Frontier</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>126020</id>
     <title>2026 Ford Mustang EcoBoost</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FA6P8TH2T5110003"/>
@@ -3032,16 +3032,16 @@
     <ns0:mileage>22 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Carbonized Gray Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945581--+RAQC-ltid1/1825945581.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945591--QHGPD-ltid1/1825945591.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945601--9MRNK-ltid1/1825945601.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945611--ZYWL5-ltid1/1825945611.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945621--ZOELD-ltid1/1825945621.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945631--KE-3X-ltid1/1825945631.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945641--967GO-ltid1/1825945641.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945651--T5OOM-ltid1/1825945651.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945661--ZGHNH-ltid1/1825945661.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945671--OOTUC-ltid1/1825945671.jpg</ns0:additional_image_link>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1943636491--H8ASR-ltid1/1943636491.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1943636501--H8ASR-ltid1/1943636501.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1943636511--HKGSV-ltid1/1943636511.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1943636521--HKGSV-ltid1/1943636521.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1943636531--HKGSV-ltid1/1943636531.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1943636541--ISBHD-ltid1/1943636541.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1943636551--ISBHD-ltid1/1943636551.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1943636561--UM9IP-ltid1/1943636561.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1943636571--UM9IP-ltid1/1943636571.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1943636581--UM9IP-ltid1/1943636581.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Bronco</ns0:custom_label_0>
   </entry>
   <entry>
@@ -3110,16 +3110,16 @@
     <ns0:mileage>5 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Desert Sand</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945841--LPXAG-ltid1/1825945841.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945851--VQA3H-ltid1/1825945851.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945861--IQLLN-ltid1/1825945861.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945871--J5FT0-ltid1/1825945871.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945881--RLXWW-ltid1/1825945881.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945891--NAK-F-ltid1/1825945891.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945901--62FEY-ltid1/1825945901.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945911--E6-4K-ltid1/1825945911.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945921--IBUIK-ltid1/1825945921.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945931--ACG3K-ltid1/1825945931.jpg</ns0:additional_image_link>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1943636321--AQQI2-ltid1/1943636321.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1943636331--AQQI2-ltid1/1943636331.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1943636341--AQQI2-ltid1/1943636341.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1943636351--WPUTE-ltid1/1943636351.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1943636361--WPUTE-ltid1/1943636361.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1943636371--LP4+S-ltid1/1943636371.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1943636381--UUIVL-ltid1/1943636381.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1943636391--UUIVL-ltid1/1943636391.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1943636401--UUIVL-ltid1/1943636401.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1943636411--ASKPI-ltid1/1943636411.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Bronco Sport</ns0:custom_label_0>
   </entry>
   <entry>
@@ -3146,7 +3146,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FTTW8JA0TRA24322&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>XLT</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:mileage>7 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Ruby Red Metallic Tinted Clearcoat</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945961--SOLG1-ltid1/1825945961.jpg</ns0:image_link>
@@ -3301,7 +3301,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTEW1EG2HFA32070&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>XLT</ns0:trim>
-    <ns0:mileage>93743 miles</ns0:mileage>
+    <ns0:mileage>93753 miles</ns0:mileage>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934958511--Q9KBU-ltid2/1934958511.jpg</ns0:image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934958521--7DAFL-ltid2/1934958521.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934958531--7LZWS-ltid2/1934958531.jpg</ns0:additional_image_link>
@@ -3541,7 +3541,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW1RG8SFC63612&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Raptor</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:mileage>17 miles</ns0:mileage>
     <ns0:color>Shelter Green</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1853969071--SKAW9-ltid1/1853969071.jpg</ns0:image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1853969081--BTSKI-ltid1/1853969081.jpg</ns0:additional_image_link>
@@ -4079,7 +4079,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=WMZYV9C58K3F02887&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>John Cooper Works</ns0:trim>
-    <ns0:mileage>40931 miles</ns0:mileage>
+    <ns0:mileage>40941 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Midnight Black Metallic</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1902423131--2JPMW-ltid2/1902423131.jpg</ns0:image_link>

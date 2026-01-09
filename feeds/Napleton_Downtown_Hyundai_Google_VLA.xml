@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Downtown Hyundai Inventory Feed</title>
   <link href="https://www.napletondowntownhyundai.com/" rel="self"/>
-  <updated>2026-01-09T08:03:00.175299</updated>
+  <updated>2026-01-09T12:04:03.351316</updated>
   <entry>
     <id>H24402</id>
     <title>2025 Hyundai IONIQ 5 N</title>
@@ -26,7 +26,7 @@
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8KNDA81SU004801&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:mileage>31 miles</ns0:mileage>
+    <ns0:mileage>32 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Atlas White</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639141--EWNQZ-ltid1/1771639141.jpg</ns0:image_link>
@@ -572,7 +572,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMJECDE8SH574054&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Limited</ns0:trim>
-    <ns0:mileage>2101 miles</ns0:mileage>
+    <ns0:mileage>2148 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Ecotronic Gray Matte</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640711--UO9-Q-ltid1/1771640711.jpg</ns0:image_link>
@@ -2356,7 +2356,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMJACDE1TH640070&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>SE</ns0:trim>
-    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:mileage>12 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Phantom Black</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771649211--IZA3P-ltid1/1771649211.jpg</ns0:image_link>
@@ -3227,37 +3227,6 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1864918471--UFAJ3-ltid1/1864918471.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1864918481--UFAJ3-ltid1/1864918481.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Tucson Hybrid</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>H26080</id>
-    <title>2026 Hyundai Palisade Hybrid Calligraphy</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8RMESA2TU049904"/>
-    <ns0:id>H26080</ns0:id>
-    <ns0:price>58895.00 USD</ns0:price>
-    <ns0:vehicle_msrp>61870.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>KM8RMESA2TU049904</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Hyundai</ns0:brand>
-    <ns0:store_code>8954334598476874759</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
-    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>8954334598476874759</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Hyundai</ns0:make>
-    <ns0:model>Palisade Hybrid</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8RMESA2TU049904&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Calligraphy</ns0:trim>
-    <ns0:mileage>1 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Robust Emerald Pearl</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1815677381--WJOJ8-ltid1/1815677381.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1815677391--EZXKR-ltid1/1815677391.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Palisade Hybrid</ns0:custom_label_0>
   </entry>
   <entry>
     <id>H26081</id>
@@ -4258,7 +4227,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMP3DGL3TH188501&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>XRT</ns0:trim>
-    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:mileage>11 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Shimmering Silver</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1932494911--OWYKZ-ltid1/1932494911.jpg</ns0:image_link>
@@ -4456,16 +4425,16 @@
     <ns0:mileage>1 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Phantom Black</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1877280751--0JK5C-ltid1/1877280751.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1877280761--Z7XI1-ltid1/1877280761.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1877280771--KMUN3-ltid1/1877280771.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1877280781--KMUN3-ltid1/1877280781.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1877280791--UMZNC-ltid1/1877280791.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1877280801--UMZNC-ltid1/1877280801.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1877280811--FEOA6-ltid1/1877280811.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1877280821--FEOA6-ltid1/1877280821.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1877280831--XWVXZ-ltid1/1877280831.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1877280841--XWVXZ-ltid1/1877280841.jpg</ns0:additional_image_link>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944884191--OEALU-ltid1/1944884191.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944884201--OEALU-ltid1/1944884201.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944884211--OEALU-ltid1/1944884211.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944884221--OQE2P-ltid1/1944884221.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944884231--OQE2P-ltid1/1944884231.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944884241--OQE2P-ltid1/1944884241.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944884251--4CZMK-ltid1/1944884251.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944884261--4CZMK-ltid1/1944884261.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944884271--4YPWU-ltid1/1944884271.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944884281--4YPWU-ltid1/1944884281.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Santa Fe</ns0:custom_label_0>
   </entry>
   <entry>
@@ -4643,24 +4612,24 @@
     <ns0:mileage>1 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Ash Black</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1939482631--LI3FM-ltid1/1939482631.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1939482641--LI3FM-ltid1/1939482641.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1939482651--PHQQH-ltid1/1939482651.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1939482661--PHQQH-ltid1/1939482661.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1939482671--PHQQH-ltid1/1939482671.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1939482681--PNF+B-ltid1/1939482681.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1939482691--PNF+B-ltid1/1939482691.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1939482701--PNF+B-ltid1/1939482701.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1939482711--5NAWQ-ltid1/1939482711.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1939482721--5NAWQ-ltid1/1939482721.jpg</ns0:additional_image_link>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1943510771--RNRKK-ltid1/1943510771.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1943510781--W1KS0-ltid1/1943510781.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1943510791--IB40J-ltid1/1943510791.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1943510801--0QHI6-ltid1/1943510801.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1943510811--0QHI6-ltid1/1943510811.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1943510821--5YTTO-ltid1/1943510821.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1943510831--7WO-C-ltid1/1943510831.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1943510841--F+CP9-ltid1/1943510841.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1943510851--SDTFL-ltid1/1943510851.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1943510861--SDTFL-ltid1/1943510861.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Tucson Hybrid</ns0:custom_label_0>
   </entry>
   <entry>
     <id>H26113</id>
     <title>2026 Hyundai Tucson Hybrid Limited</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com//inventory/details/KM8JEDD1XTU429607"/>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8JEDD1XTU429607"/>
     <ns0:id>H26113</ns0:id>
-    <ns0:price>43640.00 USD</ns0:price>
+    <ns0:price>42390.00 USD</ns0:price>
     <ns0:vehicle_msrp>44990.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KM8JEDD1XTU429607</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -4677,19 +4646,29 @@
     <ns0:model>Tucson Hybrid</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com//inventory/details/KM8JEDD1XTU429607?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8JEDD1XTU429607&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Limited</ns0:trim>
     <ns0:mileage>1 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Creamy White Pearl</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1945037241--1KBL3-ltid1/1945037241.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1945037251--IROGD-ltid1/1945037251.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1945037261--EIZGZ-ltid1/1945037261.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1945037271--Q7GLJ-ltid1/1945037271.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1945037281--Q7GLJ-ltid1/1945037281.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1945037291--YF0WR-ltid1/1945037291.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1945037301--BXGY+-ltid1/1945037301.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1945037311--OFNMZ-ltid1/1945037311.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1945037321--OFNMZ-ltid1/1945037321.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1945037331--JAZQQ-ltid1/1945037331.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Tucson Hybrid</ns0:custom_label_0>
   </entry>
   <entry>
     <id>H26110</id>
     <title>2026 Hyundai Tucson Hybrid Limited</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com//inventory/details/KM8JEDD12TU429696"/>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8JEDD12TU429696"/>
     <ns0:id>H26110</ns0:id>
-    <ns0:price>43189.00 USD</ns0:price>
+    <ns0:price>41939.00 USD</ns0:price>
     <ns0:vehicle_msrp>44525.00 USD</ns0:vehicle_msrp>
     <ns0:vin>KM8JEDD12TU429696</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -4706,17 +4685,27 @@
     <ns0:model>Tucson Hybrid</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com//inventory/details/KM8JEDD12TU429696?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8JEDD12TU429696&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Limited</ns0:trim>
     <ns0:mileage>1 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Shimmering Silver</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944016391--NQ4HI-ltid1/1944016391.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944016401--XNC7J-ltid1/1944016401.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944016411--F9OSO-ltid1/1944016411.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944016421--TPS0P-ltid1/1944016421.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944016431--TPS0P-ltid1/1944016431.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944016441--JIV8J-ltid1/1944016441.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944016451--NG1XA-ltid1/1944016451.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944016461--NG1XA-ltid1/1944016461.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944016471--MOIKG-ltid1/1944016471.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944016481--LLSPM-ltid1/1944016481.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Tucson Hybrid</ns0:custom_label_0>
   </entry>
   <entry>
     <id>H26111</id>
     <title>2026 Hyundai Palisade SE</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com//inventory/details/KM8RFES25TU083967"/>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8RFES25TU083967"/>
     <ns0:id>H26111</ns0:id>
     <ns0:price>39668.00 USD</ns0:price>
     <ns0:vehicle_msrp>44075.00 USD</ns0:vehicle_msrp>
@@ -4735,17 +4724,27 @@
     <ns0:model>Palisade</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com//inventory/details/KM8RFES25TU083967?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8RFES25TU083967&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>SE</ns0:trim>
     <ns0:mileage>1 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Ecotronic Gray Pearl</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1943637571--D-036-ltid1/1943637571.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1943637581--D-036-ltid1/1943637581.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1943637591--D-036-ltid1/1943637591.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1943637601--4YPDB-ltid1/1943637601.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1943637611--4YPDB-ltid1/1943637611.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1943637621--4YPDB-ltid1/1943637621.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1943637631--B+FXW-ltid1/1943637631.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1943637641--B+FXW-ltid1/1943637641.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1943637651--B+FXW-ltid1/1943637651.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1943637661--RBJBY-ltid1/1943637661.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Palisade</ns0:custom_label_0>
   </entry>
   <entry>
     <id>H26112</id>
     <title>2026 Hyundai Santa Fe SE</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com//inventory/details/5NMP14GL4TH187007"/>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMP14GL4TH187007"/>
     <ns0:id>H26112</ns0:id>
     <ns0:price>35226.00 USD</ns0:price>
     <ns0:vehicle_msrp>37080.00 USD</ns0:vehicle_msrp>
@@ -4764,11 +4763,21 @@
     <ns0:model>Santa Fe</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com//inventory/details/5NMP14GL4TH187007?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMP14GL4TH187007&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>SE</ns0:trim>
     <ns0:mileage>1 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Phantom Black</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944016591--AU3UJ-ltid1/1944016591.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944016601--HMBAP-ltid1/1944016601.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944016611--HMBAP-ltid1/1944016611.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944016621--GKGGF-ltid1/1944016621.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944016631--KWR0U-ltid1/1944016631.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944016641--SPSQU-ltid1/1944016641.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944016651--SWFVI-ltid1/1944016651.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944016661--SWFVI-ltid1/1944016661.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944016671--4VB2Q-ltid1/1944016671.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1944016681--0B62U-ltid1/1944016681.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Santa Fe</ns0:custom_label_0>
   </entry>
 </feed>
