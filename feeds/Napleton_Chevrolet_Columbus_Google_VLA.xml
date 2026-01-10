@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Chevrolet Columbus Inventory Feed</title>
   <link href="https://www.napletonchevycolumbus.com" rel="self"/>
-  <updated>2026-01-10T08:02:39.979634</updated>
+  <updated>2026-01-10T12:03:22.218064</updated>
   <entry>
     <id>125348</id>
     <title>2025 Chevrolet Silverado EV RST</title>
@@ -298,7 +298,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/new-2026-chevrolet-equinox-ev-lt-front-wheel-drive-suv-3gn7dmrp3ts112791/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LT1 w/PCY</ns0:trim>
-    <ns0:mileage>4 miles</ns0:mileage>
+    <ns0:mileage>5 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Black</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771654581--XUICD-ltid1/1771654581.jpg</ns0:image_link>
@@ -1739,7 +1739,7 @@
     <title>2020 Ram 1500 Limited</title>
     <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/used-2020-ram-1500-limited-four-wheel-drive-crew-pickup-1c6srfht3ln249732/"/>
     <ns0:id>126044A</ns0:id>
-    <ns0:price>28985.00 USD</ns0:price>
+    <ns0:price>28487.00 USD</ns0:price>
     <ns0:vin>1C6SRFHT3LN249732</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Ram</ns0:brand>
@@ -1757,7 +1757,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/used-2020-ram-1500-limited-four-wheel-drive-crew-pickup-1c6srfht3ln249732/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Limited</ns0:trim>
-    <ns0:mileage>127389 miles</ns0:mileage>
+    <ns0:mileage>127410 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Diamond Black Crystal Pearlcoat</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1939637411--TXQT8-ltid2/1939637411.jpg</ns0:image_link>
@@ -1877,5 +1877,60 @@
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Red Hot</ns0:color>
     <ns0:custom_label_0>Silverado 1500</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>RT0026</id>
+    <title>2022 Volkswagen Atlas 3.6L V6 SE w/Technology</title>
+    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/used-2022-volkswagen-atlas-3-6l-v6-se-wtechnology-all-wheel-drive-sport-utility-1v2hr2ca6nc516988/"/>
+    <ns0:id>RT0026</ns0:id>
+    <ns0:price>25985.00 USD</ns0:price>
+    <ns0:vin>1V2HR2CA6NC516988</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Volkswagen</ns0:brand>
+    <ns0:store_code>1647799517431806713</ns0:store_code>
+    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
+    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>1647799517431806713</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2022</ns0:year>
+    <ns0:make>Volkswagen</ns0:make>
+    <ns0:model>Atlas</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/used-2022-volkswagen-atlas-3-6l-v6-se-wtechnology-all-wheel-drive-sport-utility-1v2hr2ca6nc516988/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>3.6L V6 SE w/Technology</ns0:trim>
+    <ns0:mileage>65190 miles</ns0:mileage>
+    <ns0:color>Platinum Gray Metallic</ns0:color>
+    <ns0:custom_label_0>Atlas</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>RT0027</id>
+    <title>2023 Toyota Corolla LE</title>
+    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/used-2023-toyota-corolla-le-front-wheel-drive-sedan-4-dr-5yfb4mde0pp063268/"/>
+    <ns0:id>RT0027</ns0:id>
+    <ns0:price>18685.00 USD</ns0:price>
+    <ns0:vin>5YFB4MDE0PP063268</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Toyota</ns0:brand>
+    <ns0:store_code>1647799517431806713</ns0:store_code>
+    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
+    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>1647799517431806713</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2023</ns0:year>
+    <ns0:make>Toyota</ns0:make>
+    <ns0:model>Corolla</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/used-2023-toyota-corolla-le-front-wheel-drive-sedan-4-dr-5yfb4mde0pp063268/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>LE</ns0:trim>
+    <ns0:mileage>53934 miles</ns0:mileage>
+    <ns0:body_style>sedan</ns0:body_style>
+    <ns0:color>Midnight Black Metallic</ns0:color>
+    <ns0:custom_label_0>Corolla</ns0:custom_label_0>
   </entry>
 </feed>

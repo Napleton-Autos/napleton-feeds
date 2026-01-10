@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Ford Columbus Inventory Feed</title>
   <link href="https://www.napletonfordcolumbus.com" rel="self"/>
-  <updated>2026-01-10T08:02:39.926142</updated>
+  <updated>2026-01-10T12:03:22.163656</updated>
   <entry>
     <id>124036</id>
     <title>2024 Ford Super Duty F-550 DRW XL</title>
@@ -1818,7 +1818,7 @@
   <entry>
     <id>PB0038</id>
     <title>2023 Nissan Rogue SV</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/5N1BT3BB3PC751131"/>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=5N1BT3BB3PC751131"/>
     <ns0:id>PB0038</ns0:id>
     <ns0:price>16699.00 USD</ns0:price>
     <ns0:vin>5N1BT3BB3PC751131</ns0:vin>
@@ -1836,7 +1836,7 @@
     <ns0:model>Rogue</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/5N1BT3BB3PC751131?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=5N1BT3BB3PC751131&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>SV</ns0:trim>
     <ns0:mileage>70748 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2698,43 +2698,6 @@
     <ns0:custom_label_0>Q5</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>P0378</id>
-    <title>2023 GMC Acadia SLT</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1GKKNUL43PZ140473"/>
-    <ns0:id>P0378</ns0:id>
-    <ns0:price>22777.00 USD</ns0:price>
-    <ns0:vin>1GKKNUL43PZ140473</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>GMC</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2023</ns0:year>
-    <ns0:make>GMC</ns0:make>
-    <ns0:model>Acadia</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1GKKNUL43PZ140473&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>SLT</ns0:trim>
-    <ns0:mileage>86824 miles</ns0:mileage>
-    <ns0:color>Ebony Twilight Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1804182591--EWPGN-ltid2/1804182591.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1804182601--YGXSK-ltid2/1804182601.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1804182611--YGXSK-ltid2/1804182611.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1804182621--TXNQQ-ltid2/1804182621.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1804182631--II2X2-ltid2/1804182631.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1804182641--OCJZL-ltid2/1804182641.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1804182651--YSDMO-ltid2/1804182651.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1804182661--YSDMO-ltid2/1804182661.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1804182671--C+KIK-ltid2/1804182671.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1804182681--APZLB-ltid2/1804182681.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Acadia</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>P0379</id>
     <title>2023 Nissan Murano SV</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=5N1AZ2BS9PC132361"/>
@@ -3149,16 +3112,16 @@
     <ns0:mileage>7 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Ruby Red Metallic Tinted Clearcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945961--SOLG1-ltid1/1825945961.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945971--LKFPW-ltid1/1825945971.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945981--1J73M-ltid1/1825945981.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825945991--TLRKT-ltid1/1825945991.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946001--LUBE1-ltid1/1825946001.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946011--JTC0F-ltid1/1825946011.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946021--JTC0F-ltid1/1825946021.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946031--VHQW--ltid1/1825946031.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946041--BVVGW-ltid1/1825946041.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1825946051--KEYFW-ltid1/1825946051.jpg</ns0:additional_image_link>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1949693851--22Z-O-ltid1/1949693851.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1949693861--XRFBI-ltid1/1949693861.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1949693871--XRFBI-ltid1/1949693871.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1949693881--MM8RV-ltid1/1949693881.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1949693891--MM8RV-ltid1/1949693891.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1949693901--0UT0K-ltid1/1949693901.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1949693911--0UT0K-ltid1/1949693911.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1949693921--0UT0K-ltid1/1949693921.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1949693931--+W8UZ-ltid1/1949693931.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1949693941--+W8UZ-ltid1/1949693941.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Maverick</ns0:custom_label_0>
   </entry>
   <entry>
@@ -3338,7 +3301,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMJU1RG0TEA02297&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Tremor</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:mileage>16 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Dark Matter Gray Metallic</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1851523021--KMCQY-ltid1/1851523021.jpg</ns0:image_link>
@@ -4133,13 +4096,13 @@
     <ns0:custom_label_0>Bronco</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>125198</id>
+    <id>126037</id>
     <title>2026 Ford Maverick LARIAT</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FTTW8SA2TRA38835"/>
-    <ns0:id>125198</ns0:id>
-    <ns0:price>36250.00 USD</ns0:price>
-    <ns0:vehicle_msrp>39835.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>3FTTW8SA2TRA38835</ns0:vin>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/3FTTW8S34TRA20919"/>
+    <ns0:id>126037</ns0:id>
+    <ns0:price>38211.00 USD</ns0:price>
+    <ns0:vehicle_msrp>41990.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3FTTW8S34TRA20919</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Ford</ns0:brand>
     <ns0:store_code>5445979293761982858</ns0:store_code>
@@ -4154,21 +4117,11 @@
     <ns0:model>Maverick</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FTTW8SA2TRA38835&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/3FTTW8S34TRA20919?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LARIAT</ns0:trim>
-    <ns0:mileage>200 miles</ns0:mileage>
+    <ns0:mileage>60 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Space White Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1937202151--AIS1M-ltid1/1937202151.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1937202161--TRUY--ltid1/1937202161.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1937202171--CT4GE-ltid1/1937202171.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1937202181--6ZHMV-ltid1/1937202181.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1937202191--KV2RN-ltid1/1937202191.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1937202201--KV2RN-ltid1/1937202201.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1937202211--WJSSW-ltid1/1937202211.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1937202221--34PJK-ltid1/1937202221.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1937202231--PAPM5-ltid1/1937202231.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1937202241--PAPM5-ltid1/1937202241.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Maverick</ns0:custom_label_0>
   </entry>
 </feed>
