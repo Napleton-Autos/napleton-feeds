@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Ford Columbus Inventory Feed</title>
   <link href="https://www.napletonfordcolumbus.com" rel="self"/>
-  <updated>2026-01-11T08:03:05.312856</updated>
+  <updated>2026-01-11T12:03:50.370981</updated>
   <entry>
     <id>124036</id>
     <title>2024 Ford Super Duty F-550 DRW XL</title>
@@ -1510,43 +1510,6 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771570111--RQAUZ-ltid1/1771570111.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771570121--9WDRD-ltid1/1771570121.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Explorer</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>125095A</id>
-    <title>2018 Ford F-150 XL</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTEW1EPXJKE28759"/>
-    <ns0:id>125095A</ns0:id>
-    <ns0:price>18984.00 USD</ns0:price>
-    <ns0:vin>1FTEW1EPXJKE28759</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2018</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>F-150</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTEW1EPXJKE28759&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>XL</ns0:trim>
-    <ns0:mileage>119404 miles</ns0:mileage>
-    <ns0:color>Shadow Black</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934957341--NRM2M-ltid2/1934957341.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934957351--NRM2M-ltid2/1934957351.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934957361--NRM2M-ltid2/1934957361.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934957371--WPM0R-ltid2/1934957371.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934957381--WPM0R-ltid2/1934957381.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934957391--CSRV5-ltid2/1934957391.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934957401--CSRV5-ltid2/1934957401.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934957411--CSRV5-ltid2/1934957411.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934957421--7ADFP-ltid2/1934957421.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934957431--7ADFP-ltid2/1934957431.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>F-150</ns0:custom_label_0>
   </entry>
   <entry>
     <id>126010</id>
@@ -4098,7 +4061,7 @@
   <entry>
     <id>126037</id>
     <title>2026 Ford Maverick LARIAT</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/3FTTW8S34TRA20919"/>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FTTW8S34TRA20919"/>
     <ns0:id>126037</ns0:id>
     <ns0:price>38211.00 USD</ns0:price>
     <ns0:vehicle_msrp>41990.00 USD</ns0:vehicle_msrp>
@@ -4117,9 +4080,163 @@
     <ns0:model>Maverick</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/3FTTW8S34TRA20919?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FTTW8S34TRA20919&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LARIAT</ns0:trim>
     <ns0:mileage>60 miles</ns0:mileage>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>Space White Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1954860391--G41QY-ltid1/1954860391.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1954860401--SDI6O-ltid1/1954860401.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1954860411--QTLTY-ltid1/1954860411.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1954860421--JUJZC-ltid1/1954860421.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1954860431--JUJZC-ltid1/1954860431.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1954860441--QKRRH-ltid1/1954860441.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1954860451--5LMZA-ltid1/1954860451.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1954860461--PP1QJ-ltid1/1954860461.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1954860471--AD8JC-ltid1/1954860471.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1954860481--+W1CE-ltid1/1954860481.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Maverick</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>126042</id>
+    <title>2026 Ford Bronco Raptor</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/1FMEE0RR8TLA41497"/>
+    <ns0:id>126042</ns0:id>
+    <ns0:price>85735.00 USD</ns0:price>
+    <ns0:vehicle_msrp>85735.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1FMEE0RR8TLA41497</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>Bronco</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/1FMEE0RR8TLA41497?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Raptor</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Shadow Black</ns0:color>
+    <ns0:custom_label_0>Bronco</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>126041</id>
+    <title>2026 Ford Explorer ST</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/1FMWK8GC9TGA90047"/>
+    <ns0:id>126041</ns0:id>
+    <ns0:price>57722.00 USD</ns0:price>
+    <ns0:vehicle_msrp>63135.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1FMWK8GC9TGA90047</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>Explorer</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/1FMWK8GC9TGA90047?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>ST</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Star White Metallic Tri-Coat</ns0:color>
+    <ns0:custom_label_0>Explorer</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>126040</id>
+    <title>2026 FORD F-150 XLT 4WD SUPERCREW 5.5' BO</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/1FTFW3L59TFA07385"/>
+    <ns0:id>126040</ns0:id>
+    <ns0:price>61318.00 USD</ns0:price>
+    <ns0:vehicle_msrp>66675.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1FTFW3L59TFA07385</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>FORD</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>FORD</ns0:make>
+    <ns0:model>F-150</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/1FTFW3L59TFA07385?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>XLT 4WD SUPERCREW 5.5' BO</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:color>CARBONIZED GRAY METALLIC</ns0:color>
+    <ns0:custom_label_0>F-150</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>126039</id>
+    <title>2026 Ford Maverick XLT</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/3FTTW8J36TRA33463"/>
+    <ns0:id>126039</ns0:id>
+    <ns0:price>34571.00 USD</ns0:price>
+    <ns0:vehicle_msrp>37990.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3FTTW8J36TRA33463</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>Maverick</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/3FTTW8J36TRA33463?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>XLT</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>Carbonized Gray Metallic</ns0:color>
+    <ns0:custom_label_0>Maverick</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>126038</id>
+    <title>2026 Ford Maverick LARIAT</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/3FTTW8S30TRA32596"/>
+    <ns0:id>126038</ns0:id>
+    <ns0:price>38379.00 USD</ns0:price>
+    <ns0:vehicle_msrp>42175.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3FTTW8S30TRA32596</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>Maverick</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/3FTTW8S30TRA32596?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>LARIAT</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Space White Metallic</ns0:color>
     <ns0:custom_label_0>Maverick</ns0:custom_label_0>

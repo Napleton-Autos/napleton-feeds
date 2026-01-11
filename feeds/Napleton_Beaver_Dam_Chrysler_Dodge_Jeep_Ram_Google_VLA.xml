@@ -2,13 +2,13 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Beaver Dam Chrysler Dodge Jeep Ram Inventory Feed</title>
   <link href="https://www.beaverdamcdjr.com/" rel="self"/>
-  <updated>2026-01-11T08:03:05.426882</updated>
+  <updated>2026-01-11T12:03:50.488085</updated>
   <entry>
     <id>140015</id>
     <title>2025 Chrysler Pacifica Select</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC3BG2SR507968"/>
     <ns0:id>140015</ns0:id>
-    <ns0:price>38659.00 USD</ns0:price>
+    <ns0:price>39088.00 USD</ns0:price>
     <ns0:vehicle_msrp>48420.00 USD</ns0:vehicle_msrp>
     <ns0:vin>2C4RC3BG2SR507968</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -86,7 +86,7 @@
     <title>2025 Ram HD 3500 Laramie</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C63R3EL7SG546792"/>
     <ns0:id>230007</ns0:id>
-    <ns0:price>80552.00 USD</ns0:price>
+    <ns0:price>80000.00 USD</ns0:price>
     <ns0:vehicle_msrp>91825.00 USD</ns0:vehicle_msrp>
     <ns0:vin>3C63R3EL7SG546792</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -125,7 +125,7 @@
     <title>2025 Jeep Compass Latitude</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDBN4ST610170"/>
     <ns0:id>340084</ns0:id>
-    <ns0:price>30877.00 USD</ns0:price>
+    <ns0:price>30500.00 USD</ns0:price>
     <ns0:vehicle_msrp>35430.00 USD</ns0:vehicle_msrp>
     <ns0:vin>3C4NJDBN4ST610170</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -160,50 +160,11 @@
     <ns0:custom_label_0>Compass</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>340086</id>
-    <title>2025 Jeep Compass Latitude</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDBN0ST610487"/>
-    <ns0:id>340086</ns0:id>
-    <ns0:price>26651.00 USD</ns0:price>
-    <ns0:vehicle_msrp>30760.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>3C4NJDBN0ST610487</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Jeep</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Jeep</ns0:make>
-    <ns0:model>Compass</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDBN0ST610487&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Latitude</ns0:trim>
-    <ns0:mileage>15 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Diamond Black Crystal Pearlcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771624881--VGXRK-ltid1/1771624881.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771625191--VGXRK-ltid1/1771625191.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771625201--5TGWV-ltid1/1771625201.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771625211--5TGWV-ltid1/1771625211.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771625221--5TGWV-ltid1/1771625221.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771625231--JFNUY-ltid1/1771625231.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771625241--JFNUY-ltid1/1771625241.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771625251--JFNUY-ltid1/1771625251.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771625261--TC7ET-ltid1/1771625261.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1771625271--TC7ET-ltid1/1771625271.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Compass</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>340094</id>
     <title>2025 Jeep Grand Cherokee L Overland</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJKDG4S8724978"/>
     <ns0:id>340094</ns0:id>
-    <ns0:price>61508.00 USD</ns0:price>
+    <ns0:price>61250.00 USD</ns0:price>
     <ns0:vehicle_msrp>68230.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1C4RJKDG4S8724978</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -242,7 +203,7 @@
     <title>2025 Jeep Compass Latitude</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDBN4ST627602"/>
     <ns0:id>340098</ns0:id>
-    <ns0:price>33723.00 USD</ns0:price>
+    <ns0:price>32950.00 USD</ns0:price>
     <ns0:vehicle_msrp>38705.00 USD</ns0:vehicle_msrp>
     <ns0:vin>3C4NJDBN4ST627602</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -281,7 +242,7 @@
     <title>2025 Jeep Grand Cherokee L Limited</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJKBG4S8728046"/>
     <ns0:id>340099</ns0:id>
-    <ns0:price>47166.00 USD</ns0:price>
+    <ns0:price>46500.00 USD</ns0:price>
     <ns0:vehicle_msrp>55730.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1C4RJKBG4S8728046</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -320,7 +281,7 @@
     <title>2025 Jeep Grand Cherokee Limited</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHBG2SC344184"/>
     <ns0:id>340101</ns0:id>
-    <ns0:price>45429.00 USD</ns0:price>
+    <ns0:price>44750.00 USD</ns0:price>
     <ns0:vehicle_msrp>53630.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1C4RJHBG2SC344184</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -359,7 +320,7 @@
     <title>2025 Jeep Grand Cherokee L Limited</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJKBGXS8728049"/>
     <ns0:id>340103</ns0:id>
-    <ns0:price>51211.00 USD</ns0:price>
+    <ns0:price>50600.00 USD</ns0:price>
     <ns0:vehicle_msrp>58655.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1C4RJKBGXS8728049</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -398,7 +359,7 @@
     <title>2025 Jeep Grand Cherokee Limited</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHBG7SC341796"/>
     <ns0:id>340105</ns0:id>
-    <ns0:price>44127.00 USD</ns0:price>
+    <ns0:price>43600.00 USD</ns0:price>
     <ns0:vehicle_msrp>50410.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1C4RJHBG7SC341796</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -437,7 +398,7 @@
     <title>2026 Ram 1500 Big Horn</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFFP1TN176849"/>
     <ns0:id>440057</ns0:id>
-    <ns0:price>48629.00 USD</ns0:price>
+    <ns0:price>48500.00 USD</ns0:price>
     <ns0:vehicle_msrp>60065.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1C6SRFFP1TN176849</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -515,7 +476,7 @@
     <title>2025 Jeep Grand Cherokee Laredo X</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHAG0SC349935"/>
     <ns0:id>340107</ns0:id>
-    <ns0:price>39577.00 USD</ns0:price>
+    <ns0:price>39115.00 USD</ns0:price>
     <ns0:vehicle_msrp>44570.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1C4RJHAG0SC349935</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -554,7 +515,7 @@
     <title>2025 Jeep Grand Cherokee Laredo X</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHAG9SC349707"/>
     <ns0:id>340108</ns0:id>
-    <ns0:price>40095.00 USD</ns0:price>
+    <ns0:price>39750.00 USD</ns0:price>
     <ns0:vehicle_msrp>45165.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1C4RJHAG9SC349707</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -593,7 +554,7 @@
     <title>2026 Ram 1500 Laramie</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFJP6TN198661"/>
     <ns0:id>440061</ns0:id>
-    <ns0:price>74559.00 USD</ns0:price>
+    <ns0:price>74000.00 USD</ns0:price>
     <ns0:vehicle_msrp>84105.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1C6SRFJP6TN198661</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -632,7 +593,7 @@
     <title>2026 Chrysler Pacifica Select</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC3BG2TR165522"/>
     <ns0:id>140040</ns0:id>
-    <ns0:price>44515.00 USD</ns0:price>
+    <ns0:price>44135.00 USD</ns0:price>
     <ns0:vehicle_msrp>51310.00 USD</ns0:vehicle_msrp>
     <ns0:vin>2C4RC3BG2TR165522</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -671,7 +632,7 @@
     <title>2026 Chrysler Pacifica Select</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC3BG7TR165466"/>
     <ns0:id>140041</ns0:id>
-    <ns0:price>44515.00 USD</ns0:price>
+    <ns0:price>44150.00 USD</ns0:price>
     <ns0:vehicle_msrp>51310.00 USD</ns0:vehicle_msrp>
     <ns0:vin>2C4RC3BG7TR165466</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -710,7 +671,7 @@
     <title>2025 Jeep Grand Cherokee Limited</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHBG6SC358766"/>
     <ns0:id>340110</ns0:id>
-    <ns0:price>47016.00 USD</ns0:price>
+    <ns0:price>46270.00 USD</ns0:price>
     <ns0:vehicle_msrp>53730.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1C4RJHBG6SC358766</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -749,7 +710,7 @@
     <title>2025 Jeep Grand Cherokee Summit Reserve</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHEG2S8776496"/>
     <ns0:id>340111</ns0:id>
-    <ns0:price>64504.00 USD</ns0:price>
+    <ns0:price>63750.00 USD</ns0:price>
     <ns0:vehicle_msrp>71425.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1C4RJHEG2S8776496</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -826,7 +787,7 @@
     <title>2025 Jeep Grand Cherokee L Limited</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJKBG1S8791878"/>
     <ns0:id>340113</ns0:id>
-    <ns0:price>51211.00 USD</ns0:price>
+    <ns0:price>50500.00 USD</ns0:price>
     <ns0:vehicle_msrp>58655.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1C4RJKBG1S8791878</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -865,7 +826,7 @@
     <title>2025 Jeep Grand Cherokee Laredo X</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHAG6S8791850"/>
     <ns0:id>340114</ns0:id>
-    <ns0:price>40095.00 USD</ns0:price>
+    <ns0:price>39750.00 USD</ns0:price>
     <ns0:vehicle_msrp>45165.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1C4RJHAG6S8791850</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -904,7 +865,7 @@
     <title>2026 Chrysler Pacifica Select</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC1BGXTR195145"/>
     <ns0:id>140045</ns0:id>
-    <ns0:price>42461.00 USD</ns0:price>
+    <ns0:price>42255.00 USD</ns0:price>
     <ns0:vehicle_msrp>49165.00 USD</ns0:vehicle_msrp>
     <ns0:vin>2C4RC1BGXTR195145</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -943,7 +904,7 @@
     <title>2025 Jeep Grand Cherokee Summit Reserve</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHEG0S8778781"/>
     <ns0:id>340115</ns0:id>
-    <ns0:price>64629.00 USD</ns0:price>
+    <ns0:price>63750.00 USD</ns0:price>
     <ns0:vehicle_msrp>71425.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1C4RJHEG0S8778781</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -982,7 +943,7 @@
     <title>2025 Jeep Grand Cherokee L Laredo X</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJKAG0S8791856"/>
     <ns0:id>340116</ns0:id>
-    <ns0:price>41527.00 USD</ns0:price>
+    <ns0:price>41250.00 USD</ns0:price>
     <ns0:vehicle_msrp>46915.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1C4RJKAG0S8791856</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1021,7 +982,7 @@
     <title>2026 Chrysler Pacifica Select</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC1BG5TR198633"/>
     <ns0:id>140046</ns0:id>
-    <ns0:price>39939.00 USD</ns0:price>
+    <ns0:price>39500.00 USD</ns0:price>
     <ns0:vehicle_msrp>47415.00 USD</ns0:vehicle_msrp>
     <ns0:vin>2C4RC1BG5TR198633</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1060,7 +1021,7 @@
     <title>2025 Jeep Grand Cherokee L Limited</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJKBG0S8796747"/>
     <ns0:id>340117</ns0:id>
-    <ns0:price>45960.00 USD</ns0:price>
+    <ns0:price>45400.00 USD</ns0:price>
     <ns0:vehicle_msrp>52620.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1C4RJKBG0S8796747</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1176,7 +1137,7 @@
     <title>2026 Ram 2500 Laramie</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C63R5FL0TG227598"/>
     <ns0:id>440067</ns0:id>
-    <ns0:price>83318.00 USD</ns0:price>
+    <ns0:price>82750.00 USD</ns0:price>
     <ns0:vehicle_msrp>92125.00 USD</ns0:vehicle_msrp>
     <ns0:vin>3C63R5FL0TG227598</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1215,7 +1176,7 @@
     <title>2025 Jeep Grand Cherokee Limited</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHBG7SC374748"/>
     <ns0:id>340118</ns0:id>
-    <ns0:price>51106.00 USD</ns0:price>
+    <ns0:price>50750.00 USD</ns0:price>
     <ns0:vehicle_msrp>58430.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1C4RJHBG7SC374748</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1293,7 +1254,7 @@
     <title>2026 Chrysler Pacifica Select</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC3BG7TR203035"/>
     <ns0:id>140049</ns0:id>
-    <ns0:price>45030.00 USD</ns0:price>
+    <ns0:price>44850.00 USD</ns0:price>
     <ns0:vehicle_msrp>51860.00 USD</ns0:vehicle_msrp>
     <ns0:vin>2C4RC3BG7TR203035</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1332,7 +1293,7 @@
     <title>2026 Ram 1500 Laramie</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFJT5TN259351"/>
     <ns0:id>440069</ns0:id>
-    <ns0:price>70959.00 USD</ns0:price>
+    <ns0:price>70250.00 USD</ns0:price>
     <ns0:vehicle_msrp>80155.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1C6SRFJT5TN259351</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1410,7 +1371,7 @@
     <title>2026 Ram 1500 Tungsten</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFKP1TN172564"/>
     <ns0:id>440070</ns0:id>
-    <ns0:price>87287.00 USD</ns0:price>
+    <ns0:price>86995.00 USD</ns0:price>
     <ns0:vehicle_msrp>96060.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1C6SRFKP1TN172564</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1488,7 +1449,7 @@
     <title>2026 Jeep Wrangler Sahara</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4PJXEG3TW202584"/>
     <ns0:id>340123</ns0:id>
-    <ns0:price>53746.00 USD</ns0:price>
+    <ns0:price>53250.00 USD</ns0:price>
     <ns0:vehicle_msrp>57140.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1C4PJXEG3TW202584</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1565,7 +1526,7 @@
     <title>2026 Jeep Compass Limited</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDCNXTT193198"/>
     <ns0:id>340124</ns0:id>
-    <ns0:price>35379.00 USD</ns0:price>
+    <ns0:price>35000.00 USD</ns0:price>
     <ns0:vehicle_msrp>38875.00 USD</ns0:vehicle_msrp>
     <ns0:vin>3C4NJDCNXTT193198</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1604,7 +1565,7 @@
     <title>2026 Jeep Compass Limited</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDCN2TT193194"/>
     <ns0:id>340122</ns0:id>
-    <ns0:price>34409.00 USD</ns0:price>
+    <ns0:price>34000.00 USD</ns0:price>
     <ns0:vehicle_msrp>39470.00 USD</ns0:vehicle_msrp>
     <ns0:vin>3C4NJDCN2TT193194</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1643,7 +1604,7 @@
     <title>2026 Jeep Wrangler Sport S</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4PJXDGXTW205550"/>
     <ns0:id>340125</ns0:id>
-    <ns0:price>46253.00 USD</ns0:price>
+    <ns0:price>45997.00 USD</ns0:price>
     <ns0:vehicle_msrp>50080.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1C4PJXDGXTW205550</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1681,7 +1642,7 @@
     <title>2026 Jeep Wrangler Willys</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJXDG2TW202411"/>
     <ns0:id>340127</ns0:id>
-    <ns0:price>52904.00 USD</ns0:price>
+    <ns0:price>52450.00 USD</ns0:price>
     <ns0:vehicle_msrp>56575.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1C4RJXDG2TW202411</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1797,7 +1758,7 @@
     <title>2026 Jeep Compass Latitude Altitude</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDBNXTT199634"/>
     <ns0:id>340126</ns0:id>
-    <ns0:price>32980.00 USD</ns0:price>
+    <ns0:price>32700.00 USD</ns0:price>
     <ns0:vehicle_msrp>35280.00 USD</ns0:vehicle_msrp>
     <ns0:vin>3C4NJDBNXTT199634</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1874,7 +1835,7 @@
     <title>2026 Ram 1500 Laramie</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFJT4TN275718"/>
     <ns0:id>440072</ns0:id>
-    <ns0:price>70515.00 USD</ns0:price>
+    <ns0:price>70000.00 USD</ns0:price>
     <ns0:vehicle_msrp>79695.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1C6SRFJT4TN275718</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -2029,7 +1990,7 @@
     <title>2026 Ram 2500 Big Horn</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C6UR5DJ5TG227599"/>
     <ns0:id>440073</ns0:id>
-    <ns0:price>62114.00 USD</ns0:price>
+    <ns0:price>61750.00 USD</ns0:price>
     <ns0:vehicle_msrp>68530.00 USD</ns0:vehicle_msrp>
     <ns0:vin>3C6UR5DJ5TG227599</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -2083,16 +2044,16 @@
     <ns0:mileage>14 miles</ns0:mileage>
     <ns0:body_style>full size van</ns0:body_style>
     <ns0:color>Silver Mist Clearcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968321--L-882-ltid1/1853968321.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968331--LI9J5-ltid1/1853968331.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968341--LI9J5-ltid1/1853968341.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968351--CPRVK-ltid1/1853968351.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968361--H5+8S-ltid1/1853968361.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968371--LZWBK-ltid1/1853968371.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968381--PEWMB-ltid1/1853968381.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968391--ZZMMQ-ltid1/1853968391.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968401--OC1B2-ltid1/1853968401.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1853968411--OC1B2-ltid1/1853968411.jpg</ns0:additional_image_link>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955884721--XNG-A-ltid1/1955884721.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955884731--XNG-A-ltid1/1955884731.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955884741--LNC-W-ltid1/1955884741.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955884751--LNC-W-ltid1/1955884751.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955884551--VLJGE-ltid1/1955884551.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955884561--GSNUJ-ltid1/1955884561.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955884571--GSNUJ-ltid1/1955884571.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955884581--GSNUJ-ltid1/1955884581.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955884591--XKGN+-ltid1/1955884591.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955884601--XKGN+-ltid1/1955884601.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Pacifica</ns0:custom_label_0>
   </entry>
   <entry>
@@ -2253,7 +2214,7 @@
     <title>2026 Ram 1500 Big Horn</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFFP6TN282245"/>
     <ns0:id>440075</ns0:id>
-    <ns0:price>54846.00 USD</ns0:price>
+    <ns0:price>54500.00 USD</ns0:price>
     <ns0:vehicle_msrp>64710.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1C6SRFFP6TN282245</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -2275,16 +2236,16 @@
     <ns0:mileage>20 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Forged Blue Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280631--TGOI0-ltid1/1877280631.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280641--TGOI0-ltid1/1877280641.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280651--VBKZL-ltid1/1877280651.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280661--E81FA-ltid1/1877280661.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280671--3A2YD-ltid1/1877280671.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280681--W2O41-ltid1/1877280681.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280691--W2O41-ltid1/1877280691.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280701--KUCK6-ltid1/1877280701.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280711--BRJTU-ltid1/1877280711.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1877280721--QPWGK-ltid1/1877280721.jpg</ns0:additional_image_link>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955967261--LNC-W-ltid1/1955967261.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955967271--+ELZJ-ltid1/1955967271.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955967281--+ELZJ-ltid1/1955967281.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955967291--+ELZJ-ltid1/1955967291.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955967301---R2EO-ltid1/1955967301.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955967311---R2EO-ltid1/1955967311.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955967321---R2EO-ltid1/1955967321.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955967331--QEDNK-ltid1/1955967331.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955967341--QEDNK-ltid1/1955967341.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955967351--QEDNK-ltid1/1955967351.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>1500</ns0:custom_label_0>
   </entry>
   <entry>
@@ -2292,7 +2253,7 @@
     <title>2026 Jeep Compass Latitude Altitude</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDBNXTT193199"/>
     <ns0:id>340128</ns0:id>
-    <ns0:price>34307.00 USD</ns0:price>
+    <ns0:price>34000.00 USD</ns0:price>
     <ns0:vehicle_msrp>36770.00 USD</ns0:vehicle_msrp>
     <ns0:vin>3C4NJDBNXTT193199</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -2369,7 +2330,7 @@
     <title>2026 Jeep Wrangler Willys</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4PJXDG2TW203596"/>
     <ns0:id>340130</ns0:id>
-    <ns0:price>50468.00 USD</ns0:price>
+    <ns0:price>50000.00 USD</ns0:price>
     <ns0:vehicle_msrp>53775.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1C4PJXDG2TW203596</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -2407,7 +2368,7 @@
     <title>2026 Jeep Compass Latitude Altitude</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDBN7TT200108"/>
     <ns0:id>340129</ns0:id>
-    <ns0:price>33080.00 USD</ns0:price>
+    <ns0:price>32750.00 USD</ns0:price>
     <ns0:vehicle_msrp>35280.00 USD</ns0:vehicle_msrp>
     <ns0:vin>3C4NJDBN7TT200108</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -2599,7 +2560,7 @@
     <title>2026 Jeep Cherokee Limited</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4PJMB25TT154602"/>
     <ns0:id>340131</ns0:id>
-    <ns0:price>45875.00 USD</ns0:price>
+    <ns0:price>45375.00 USD</ns0:price>
     <ns0:vehicle_msrp>45875.00 USD</ns0:vehicle_msrp>
     <ns0:vin>3C4PJMB25TT154602</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -2630,7 +2591,7 @@
     <title>2026 Jeep Grand Cherokee Laredo Altitude</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHAR9TC201351"/>
     <ns0:id>340132</ns0:id>
-    <ns0:price>49520.00 USD</ns0:price>
+    <ns0:price>49250.00 USD</ns0:price>
     <ns0:vehicle_msrp>49520.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1C4RJHAR9TC201351</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -2690,6 +2651,35 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1945036971--+AQ-K-ltid2/1945036971.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1945036981--+AQ-K-ltid2/1945036981.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1945036991--ABUYI-ltid2/1945036991.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Grand Cherokee</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>340133</id>
+    <title>2026 Jeep Grand Cherokee Laredo Altitude</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com//inventory/details/1C4RJHAR4TC201354"/>
+    <ns0:id>340133</ns0:id>
+    <ns0:price>49020.00 USD</ns0:price>
+    <ns0:vehicle_msrp>49020.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1C4RJHAR4TC201354</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Jeep</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Jeep</ns0:make>
+    <ns0:model>Grand Cherokee</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com//inventory/details/1C4RJHAR4TC201354?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Laredo Altitude</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Diamond Black Crystal Pearlcoat</ns0:color>
     <ns0:custom_label_0>Grand Cherokee</ns0:custom_label_0>
   </entry>
 </feed>
