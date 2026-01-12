@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Chevrolet Columbus Inventory Feed</title>
   <link href="https://www.napletonchevycolumbus.com" rel="self"/>
-  <updated>2026-01-12T08:03:26.813473</updated>
+  <updated>2026-01-12T12:04:14.131833</updated>
   <entry>
     <id>125348</id>
     <title>2025 Chevrolet Silverado EV RST</title>
@@ -813,6 +813,44 @@
     <ns0:custom_label_0>Trailblazer</ns0:custom_label_0>
   </entry>
   <entry>
+    <id>PB1051</id>
+    <title>2022 Jeep Compass Latitude Lux</title>
+    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/used-2022-jeep-compass-latitude-lux-four-wheel-drive-suv-3c4njdfb0nt211535/"/>
+    <ns0:id>PB1051</ns0:id>
+    <ns0:price>18193.00 USD</ns0:price>
+    <ns0:vin>3C4NJDFB0NT211535</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Jeep</ns0:brand>
+    <ns0:store_code>1647799517431806713</ns0:store_code>
+    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
+    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>1647799517431806713</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2022</ns0:year>
+    <ns0:make>Jeep</ns0:make>
+    <ns0:model>Compass</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/used-2022-jeep-compass-latitude-lux-four-wheel-drive-suv-3c4njdfb0nt211535/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Latitude Lux</ns0:trim>
+    <ns0:mileage>59543 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Granite Crystal Metallic Clearcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1808250991--IJAQ--ltid2/1808250991.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1808251001--QOX1M-ltid2/1808251001.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1808251011--QOX1M-ltid2/1808251011.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1808251021--VZT0K-ltid2/1808251021.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1808251031--MGG7Y-ltid2/1808251031.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1808251041--YRDAG-ltid2/1808251041.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1808251051--SATHB-ltid2/1808251051.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1808251061--SATHB-ltid2/1808251061.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1808251071--XJGDG-ltid2/1808251071.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1808251081--H-9JX-ltid2/1808251081.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Compass</ns0:custom_label_0>
+  </entry>
+  <entry>
     <id>126066</id>
     <title>2026 Chevrolet Trailblazer RS</title>
     <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/new-2026-chevrolet-trailblazer-rs-all-wheel-drive-suv-kl79musl1tb078352/"/>
@@ -1160,38 +1198,6 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1935003171--CCEDX-ltid1/1935003171.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1935003311--O4AQA-ltid1/1935003311.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Silverado 1500</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>126086</id>
-    <title>2026 Chevrolet Trax LS</title>
-    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/new-2026-chevrolet-trax-ls-front-wheel-drive-suv-kl77lfep7tc025153/"/>
-    <ns0:id>126086</ns0:id>
-    <ns0:price>23679.00 USD</ns0:price>
-    <ns0:vehicle_msrp>24925.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>KL77LFEP7TC025153</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Chevrolet</ns0:brand>
-    <ns0:store_code>1647799517431806713</ns0:store_code>
-    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
-    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>1647799517431806713</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Chevrolet</ns0:make>
-    <ns0:model>Trax</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/new-2026-chevrolet-trax-ls-front-wheel-drive-suv-kl77lfep7tc025153/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>LS</ns0:trim>
-    <ns0:mileage>200 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Mosaic Black Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1851522901--23SXI-ltid1/1851522901.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1851522911--KKIRL-ltid1/1851522911.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1851522921--KKIRL-ltid1/1851522921.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Trax</ns0:custom_label_0>
   </entry>
   <entry>
     <id>126087A</id>
@@ -1697,45 +1703,6 @@
     <ns0:custom_label_0>Trax</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>126107</id>
-    <title>2026 Chevrolet Equinox AWD RS</title>
-    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/new-2026-chevrolet-equinox-rs-all-wheel-drive-suv-3gnaxteg1tl376907/"/>
-    <ns0:id>126107</ns0:id>
-    <ns0:price>36050.00 USD</ns0:price>
-    <ns0:vehicle_msrp>40055.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>3GNAXTEG1TL376907</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Chevrolet</ns0:brand>
-    <ns0:store_code>1647799517431806713</ns0:store_code>
-    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
-    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>1647799517431806713</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Chevrolet</ns0:make>
-    <ns0:model>Equinox</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/new-2026-chevrolet-equinox-rs-all-wheel-drive-suv-3gnaxteg1tl376907/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>AWD RS</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Sterling Gray Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1910180041--CJDOM-ltid1/1910180041.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1910180051--MMF33-ltid1/1910180051.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1910180061--MMF33-ltid1/1910180061.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1910180071--TXNMA-ltid1/1910180071.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1910180081--TXNMA-ltid1/1910180081.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1910180091--TXNMA-ltid1/1910180091.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1910180101--TXNMA-ltid1/1910180101.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1910180111--S9SLT-ltid1/1910180111.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1910180121--S9SLT-ltid1/1910180121.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1910180131--KSMDT-ltid1/1910180131.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Equinox</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>126105A</id>
     <title>2020 Chevrolet Silverado 1500 LT</title>
     <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/used-2020-chevrolet-silverado-1500-lt-four-wheel-drive-crew-cab-3gcuyded5lg388680/"/>
@@ -1819,14 +1786,15 @@
     <ns0:custom_label_0>Corolla</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>PB1051</id>
-    <title>2022 Jeep Compass Latitude Lux</title>
-    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/used-2022-jeep-compass-latitude-lux-four-wheel-drive-suv-3c4njdfb0nt211535/"/>
-    <ns0:id>PB1051</ns0:id>
-    <ns0:price>18193.00 USD</ns0:price>
-    <ns0:vin>3C4NJDFB0NT211535</ns0:vin>
+    <id>126086</id>
+    <title>2026 Chevrolet Trax LS</title>
+    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/new-2026-chevrolet-trax-ls-front-wheel-drive-suv-kl77lfep7tc025153/"/>
+    <ns0:id>126086</ns0:id>
+    <ns0:price>23679.00 USD</ns0:price>
+    <ns0:vehicle_msrp>24925.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KL77LFEP7TC025153</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Jeep</ns0:brand>
+    <ns0:brand>Chevrolet</ns0:brand>
     <ns0:store_code>1647799517431806713</ns0:store_code>
     <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
     <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
@@ -1834,26 +1802,58 @@
       <ns0:option>in_store</ns0:option>
       <ns0:store_code>1647799517431806713</ns0:store_code>
     </ns0:vehicle_fulfillment>
-    <ns0:year>2022</ns0:year>
-    <ns0:make>Jeep</ns0:make>
-    <ns0:model>Compass</ns0:model>
-    <ns0:condition>used</ns0:condition>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Chevrolet</ns0:make>
+    <ns0:model>Trax</ns0:model>
+    <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/used-2022-jeep-compass-latitude-lux-four-wheel-drive-suv-3c4njdfb0nt211535/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Latitude Lux</ns0:trim>
-    <ns0:mileage>59543 miles</ns0:mileage>
+    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/new-2026-chevrolet-trax-ls-front-wheel-drive-suv-kl77lfep7tc025153/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>LS</ns0:trim>
+    <ns0:mileage>200 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Granite Crystal Metallic Clearcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1808250991--IJAQ--ltid2/1808250991.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1808251001--QOX1M-ltid2/1808251001.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1808251011--QOX1M-ltid2/1808251011.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1808251021--VZT0K-ltid2/1808251021.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1808251031--MGG7Y-ltid2/1808251031.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1808251041--YRDAG-ltid2/1808251041.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1808251051--SATHB-ltid2/1808251051.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1808251061--SATHB-ltid2/1808251061.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1808251071--XJGDG-ltid2/1808251071.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1808251081--H-9JX-ltid2/1808251081.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Compass</ns0:custom_label_0>
+    <ns0:color>Mosaic Black Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1851522901--23SXI-ltid1/1851522901.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1851522911--KKIRL-ltid1/1851522911.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1851522921--KKIRL-ltid1/1851522921.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Trax</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>126107</id>
+    <title>2026 Chevrolet Equinox AWD RS</title>
+    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/new-2026-chevrolet-equinox-rs-all-wheel-drive-suv-3gnaxteg1tl376907/"/>
+    <ns0:id>126107</ns0:id>
+    <ns0:price>36050.00 USD</ns0:price>
+    <ns0:vehicle_msrp>40055.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3GNAXTEG1TL376907</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Chevrolet</ns0:brand>
+    <ns0:store_code>1647799517431806713</ns0:store_code>
+    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
+    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>1647799517431806713</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Chevrolet</ns0:make>
+    <ns0:model>Equinox</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/new-2026-chevrolet-equinox-rs-all-wheel-drive-suv-3gnaxteg1tl376907/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>AWD RS</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Sterling Gray Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1910180041--CJDOM-ltid1/1910180041.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1910180051--MMF33-ltid1/1910180051.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1910180061--MMF33-ltid1/1910180061.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1910180071--TXNMA-ltid1/1910180071.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1910180081--TXNMA-ltid1/1910180081.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1910180091--TXNMA-ltid1/1910180091.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1910180101--TXNMA-ltid1/1910180101.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1910180111--S9SLT-ltid1/1910180111.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1910180121--S9SLT-ltid1/1910180121.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1910180131--KSMDT-ltid1/1910180131.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Equinox</ns0:custom_label_0>
   </entry>
 </feed>
