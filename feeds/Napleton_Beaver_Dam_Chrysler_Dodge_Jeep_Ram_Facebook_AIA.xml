@@ -1448,7 +1448,7 @@
     <vin>1c4rjfbg7lc374657</vin>
     <content_ids>1c4rjfbg7lc374657</content_ids>
     <availability>in stock</availability>
-    <price>22152.00 USD</price>
+    <price>22355.00 USD</price>
     <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJFBG7LC374657</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -2050,7 +2050,7 @@
     <vin>2c3ccasg8ph561271</vin>
     <content_ids>2c3ccasg8ph561271</content_ids>
     <availability>in stock</availability>
-    <price>27379.00 USD</price>
+    <price>27096.00 USD</price>
     <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C3CCASG8PH561271</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -3085,6 +3085,79 @@
     </image>
   </listing>
   <listing>
+    <vehicle_id>1c4pjxdgxtw205550</vehicle_id>
+    <title>2026 Jeep Wrangler Sport S</title>
+    <description>2026 Jeep Wrangler. Trim: Sport S. Color: Black Clearcoat. Body Style: 4-door.</description>
+    <address format="simple">
+      <component name="addr1">1724 N Spring St.</component>
+      <component name="city">Beaver Dam</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53916</component>
+    </address>
+    <year>2026</year>
+    <make>Jeep</make>
+    <model>Wrangler</model>
+    <vin>1c4pjxdgxtw205550</vin>
+    <content_ids>1c4pjxdgxtw205550</content_ids>
+    <availability>in stock</availability>
+    <price>45997.00 USD</price>
+    <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4PJXDGXTW205550</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>13</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Sport S</trim>
+    <body_style>OTHER</body_style>
+    <exterior_color>Black Clearcoat</exterior_color>
+    <interior_color>Black</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1824139091--01UFK-ltid1/1824139091.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1824139101--PP9QU-ltid1/1824139101.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1824139111--ZMN+--ltid1/1824139111.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1824139121--EV-E8-ltid1/1824139121.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1824139131--EV-E8-ltid1/1824139131.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1824139141--YCPLC-ltid1/1824139141.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1824139151--UPIVH-ltid1/1824139151.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1824139161--7ALWT-ltid1/1824139161.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1824139171--7ALWT-ltid1/1824139171.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1824139181--3ZFF5-ltid1/1824139181.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1824139191--RJCLF-ltid1/1824139191.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1824139201--9TJDV-ltid1/1824139201.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1824139211--KYCAL-ltid1/1824139211.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1824139221--WIJVU-ltid1/1824139221.jpg</url>
+    </image>
+  </listing>
+  <listing>
     <vehicle_id>1c4rjxdg2tw202411</vehicle_id>
     <title>2026 Jeep Wrangler Willys</title>
     <description>2026 Jeep Wrangler. Trim: Willys. Color: 41. Body Style: 4-door.</description>
@@ -3417,7 +3490,7 @@
     <vin>2hgfe1f77rh310694</vin>
     <content_ids>2hgfe1f77rh310694</content_ids>
     <availability>in stock</availability>
-    <price>21805.00 USD</price>
+    <price>21713.00 USD</price>
     <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2HGFE1F77RH310694</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -3775,7 +3848,7 @@
     <vin>1c6rrffg2nn260003</vin>
     <content_ids>1c6rrffg2nn260003</content_ids>
     <availability>in stock</availability>
-    <price>30623.00 USD</price>
+    <price>30580.00 USD</price>
     <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6RRFFG2NN260003</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -3847,6 +3920,46 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1934998891--EWLJ1-ltid2/1934998891.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>3c6ur5dj5tg227599</vehicle_id>
+    <title>2026 Ram 2500 Big Horn</title>
+    <description>2026 Ram 2500. Trim: Big Horn. Color: Bright White Clearcoat. Body Style: Crew Cab.</description>
+    <address format="simple">
+      <component name="addr1">1724 N Spring St.</component>
+      <component name="city">Beaver Dam</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53916</component>
+    </address>
+    <year>2026</year>
+    <make>Ram</make>
+    <model>2500</model>
+    <vin>3c6ur5dj5tg227599</vin>
+    <content_ids>3c6ur5dj5tg227599</content_ids>
+    <availability>in stock</availability>
+    <price>61750.00 USD</price>
+    <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C6UR5DJ5TG227599</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>5</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Big Horn</trim>
+    <body_style>OTHER</body_style>
+    <exterior_color>Bright White Clearcoat</exterior_color>
+    <interior_color>Black</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1851522721--OQB3A-ltid1/1851522721.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1851522731--OQB3A-ltid1/1851522731.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1851522741--TLPDI-ltid1/1851522741.jpg</url>
     </image>
   </listing>
   <listing>
@@ -4042,7 +4155,7 @@
     <vin>kl79musl5sb201696</vin>
     <content_ids>kl79musl5sb201696</content_ids>
     <availability>in stock</availability>
-    <price>27745.00 USD</price>
+    <price>26779.00 USD</price>
     <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=KL79MUSL5SB201696</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -4133,7 +4246,7 @@
     <vin>1c4rjhbg1pc522416</vin>
     <content_ids>1c4rjhbg1pc522416</content_ids>
     <availability>in stock</availability>
-    <price>28122.00 USD</price>
+    <price>28067.00 USD</price>
     <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHBG1PC522416</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -4224,7 +4337,7 @@
     <vin>1c4rjkbg3m8149875</vin>
     <content_ids>1c4rjkbg3m8149875</content_ids>
     <availability>in stock</availability>
-    <price>25957.00 USD</price>
+    <price>24827.00 USD</price>
     <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJKBG3M8149875</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -4389,6 +4502,73 @@
     </image>
   </listing>
   <listing>
+    <vehicle_id>3c4njdbnxtt193199</vehicle_id>
+    <title>2026 Jeep Compass Latitude Altitude</title>
+    <description>2026 Jeep Compass. Trim: Latitude Altitude. Color: Silver Zynith Metallic Clearcoat. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">1724 N Spring St.</component>
+      <component name="city">Beaver Dam</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53916</component>
+    </address>
+    <year>2026</year>
+    <make>Jeep</make>
+    <model>Compass</model>
+    <vin>3c4njdbnxtt193199</vin>
+    <content_ids>3c4njdbnxtt193199</content_ids>
+    <availability>in stock</availability>
+    <price>34000.00 USD</price>
+    <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDBNXTT193199</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>5</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Latitude Altitude</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Silver Zynith Metallic Clearcoat</exterior_color>
+    <interior_color>Black</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290651--VXHRA-ltid1/1884290651.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290661--W2ZJG-ltid1/1884290661.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290671--JVI+K-ltid1/1884290671.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290681--JVI+K-ltid1/1884290681.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290691--YIHWY-ltid1/1884290691.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290701--YIHWY-ltid1/1884290701.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290711--X321D-ltid1/1884290711.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290721--Z1KTN-ltid1/1884290721.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290731--ZE6PC-ltid1/1884290731.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290741--XL2GI-ltid1/1884290741.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290751--P77ZB-ltid1/1884290751.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290761--7LWH8-ltid1/1884290761.jpg</url>
+    </image>
+  </listing>
+  <listing>
     <vehicle_id>wmz23br05n3n59225</vehicle_id>
     <title>2022 MINI Countryman Cooper</title>
     <description>2022 MINI Countryman. Trim: Cooper. Color: Moonwalk Grey Metallic. Body Style: Sport Utility.</description>
@@ -4405,7 +4585,7 @@
     <vin>wmz23br05n3n59225</vin>
     <content_ids>wmz23br05n3n59225</content_ids>
     <availability>in stock</availability>
-    <price>16375.00 USD</price>
+    <price>16161.00 USD</price>
     <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=WMZ23BR05N3N59225</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -4656,6 +4836,76 @@
     </image>
   </listing>
   <listing>
+    <vehicle_id>3c6ur5cj6tg226284</vehicle_id>
+    <title>2026 Ram 2500 Warlock</title>
+    <description>2026 Ram 2500. Trim: Warlock. Color: Molten Red Pearlcoat. Body Style: Crew Cab.</description>
+    <address format="simple">
+      <component name="addr1">1724 N Spring St.</component>
+      <component name="city">Beaver Dam</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53916</component>
+    </address>
+    <year>2026</year>
+    <make>Ram</make>
+    <model>2500</model>
+    <vin>3c6ur5cj6tg226284</vin>
+    <content_ids>3c6ur5cj6tg226284</content_ids>
+    <availability>in stock</availability>
+    <price>55908.00 USD</price>
+    <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C6UR5CJ6TG226284</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>5</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Warlock</trim>
+    <body_style>OTHER</body_style>
+    <exterior_color>Molten Red Pearlcoat</exterior_color>
+    <interior_color>Black</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290401--SQ9JG-ltid1/1884290401.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290411--L9LRH-ltid1/1884290411.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290421--L9LRH-ltid1/1884290421.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290431--QYZMI-ltid1/1884290431.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290441--QYZMI-ltid1/1884290441.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290451--QYZMI-ltid1/1884290451.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290461--U5EYF-ltid1/1884290461.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290471--2X0O9-ltid1/1884290471.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290481--2WNO8-ltid1/1884290481.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290491--BAVJC-ltid1/1884290491.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290501--BOASR-ltid1/1884290501.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290511--8ECFD-ltid1/1884290511.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290521--9K4FU-ltid1/1884290521.jpg</url>
+    </image>
+  </listing>
+  <listing>
     <vehicle_id>1c6srfbp1sn518174</vehicle_id>
     <title>2025 Ram 1500 Big Horn</title>
     <description>2025 Ram 1500. Trim: Big Horn. Color: Billet Silver Metallic Clearcoat. Body Style: Quad Cab.</description>
@@ -4672,7 +4922,7 @@
     <vin>1c6srfbp1sn518174</vin>
     <content_ids>1c6srfbp1sn518174</content_ids>
     <availability>in stock</availability>
-    <price>40313.00 USD</price>
+    <price>40000.00 USD</price>
     <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFBP1SN518174</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -4763,7 +5013,7 @@
     <vin>1n6ed1ek3nn639202</vin>
     <content_ids>1n6ed1ek3nn639202</content_ids>
     <availability>in stock</availability>
-    <price>26127.00 USD</price>
+    <price>25169.00 USD</price>
     <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1N6ED1EK3NN639202</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -4854,7 +5104,7 @@
     <vin>1c4rjkag3p8853600</vin>
     <content_ids>1c4rjkag3p8853600</content_ids>
     <availability>in stock</availability>
-    <price>31040.00 USD</price>
+    <price>30898.00 USD</price>
     <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJKAG3P8853600</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -4926,6 +5176,43 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1933430811--OGO3W-ltid2/1933430811.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>3c4pjmb25tt154602</vehicle_id>
+    <title>2026 Jeep Cherokee Limited</title>
+    <description>2026 Jeep Cherokee. Trim: Limited. Color: Hydro Blue Pearlcoat. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">1724 N Spring St.</component>
+      <component name="city">Beaver Dam</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53916</component>
+    </address>
+    <year>2026</year>
+    <make>Jeep</make>
+    <model>Cherokee</model>
+    <vin>3c4pjmb25tt154602</vin>
+    <content_ids>3c4pjmb25tt154602</content_ids>
+    <availability>in stock</availability>
+    <price>45375.00 USD</price>
+    <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4PJMB25TT154602</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>5</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Limited</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Hydro Blue Pearlcoat</exterior_color>
+    <interior_color>Global Black</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1905305681--V2-UX-ltid1/1905305681.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1905305691--V2-UX-ltid1/1905305691.jpg</url>
     </image>
   </listing>
   <listing>
@@ -5017,293 +5304,6 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1945037091--EDKWQ-ltid2/1945037091.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>3c6ur5dj5tg227599</vehicle_id>
-    <title>2026 Ram 2500 Big Horn</title>
-    <description>2026 Ram 2500. Trim: Big Horn. Color: Bright White Clearcoat. Body Style: Crew Cab.</description>
-    <address format="simple">
-      <component name="addr1">1724 N Spring St.</component>
-      <component name="city">Beaver Dam</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53916</component>
-    </address>
-    <year>2026</year>
-    <make>Ram</make>
-    <model>2500</model>
-    <vin>3c6ur5dj5tg227599</vin>
-    <content_ids>3c6ur5dj5tg227599</content_ids>
-    <availability>in stock</availability>
-    <price>61750.00 USD</price>
-    <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C6UR5DJ5TG227599</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>5</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Big Horn</trim>
-    <body_style>OTHER</body_style>
-    <exterior_color>Bright White Clearcoat</exterior_color>
-    <interior_color>Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1851522721--OQB3A-ltid1/1851522721.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1851522731--OQB3A-ltid1/1851522731.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1851522741--TLPDI-ltid1/1851522741.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>3c4pjmb25tt154602</vehicle_id>
-    <title>2026 Jeep Cherokee Limited</title>
-    <description>2026 Jeep Cherokee. Trim: Limited. Color: Hydro Blue Pearlcoat. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">1724 N Spring St.</component>
-      <component name="city">Beaver Dam</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53916</component>
-    </address>
-    <year>2026</year>
-    <make>Jeep</make>
-    <model>Cherokee</model>
-    <vin>3c4pjmb25tt154602</vin>
-    <content_ids>3c4pjmb25tt154602</content_ids>
-    <availability>in stock</availability>
-    <price>45375.00 USD</price>
-    <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4PJMB25TT154602</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>5</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Limited</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Hydro Blue Pearlcoat</exterior_color>
-    <interior_color>Global Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1905305681--V2-UX-ltid1/1905305681.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1905305691--V2-UX-ltid1/1905305691.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>1c4pjxdgxtw205550</vehicle_id>
-    <title>2026 Jeep Wrangler Sport S</title>
-    <description>2026 Jeep Wrangler. Trim: Sport S. Color: Black Clearcoat. Body Style: 4-door.</description>
-    <address format="simple">
-      <component name="addr1">1724 N Spring St.</component>
-      <component name="city">Beaver Dam</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53916</component>
-    </address>
-    <year>2026</year>
-    <make>Jeep</make>
-    <model>Wrangler</model>
-    <vin>1c4pjxdgxtw205550</vin>
-    <content_ids>1c4pjxdgxtw205550</content_ids>
-    <availability>in stock</availability>
-    <price>45997.00 USD</price>
-    <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4PJXDGXTW205550</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>13</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Sport S</trim>
-    <body_style>OTHER</body_style>
-    <exterior_color>Black Clearcoat</exterior_color>
-    <interior_color>Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1824139091--01UFK-ltid1/1824139091.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1824139101--PP9QU-ltid1/1824139101.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1824139111--ZMN+--ltid1/1824139111.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1824139121--EV-E8-ltid1/1824139121.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1824139131--EV-E8-ltid1/1824139131.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1824139141--YCPLC-ltid1/1824139141.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1824139151--UPIVH-ltid1/1824139151.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1824139161--7ALWT-ltid1/1824139161.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1824139171--7ALWT-ltid1/1824139171.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1824139181--3ZFF5-ltid1/1824139181.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1824139191--RJCLF-ltid1/1824139191.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1824139201--9TJDV-ltid1/1824139201.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1824139211--KYCAL-ltid1/1824139211.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1824139221--WIJVU-ltid1/1824139221.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>3c4njdbnxtt193199</vehicle_id>
-    <title>2026 Jeep Compass Latitude Altitude</title>
-    <description>2026 Jeep Compass. Trim: Latitude Altitude. Color: Silver Zynith Metallic Clearcoat. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">1724 N Spring St.</component>
-      <component name="city">Beaver Dam</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53916</component>
-    </address>
-    <year>2026</year>
-    <make>Jeep</make>
-    <model>Compass</model>
-    <vin>3c4njdbnxtt193199</vin>
-    <content_ids>3c4njdbnxtt193199</content_ids>
-    <availability>in stock</availability>
-    <price>34000.00 USD</price>
-    <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDBNXTT193199</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>5</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Latitude Altitude</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Silver Zynith Metallic Clearcoat</exterior_color>
-    <interior_color>Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290651--VXHRA-ltid1/1884290651.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290661--W2ZJG-ltid1/1884290661.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290671--JVI+K-ltid1/1884290671.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290681--JVI+K-ltid1/1884290681.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290691--YIHWY-ltid1/1884290691.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290701--YIHWY-ltid1/1884290701.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290711--X321D-ltid1/1884290711.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290721--Z1KTN-ltid1/1884290721.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290731--ZE6PC-ltid1/1884290731.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290741--XL2GI-ltid1/1884290741.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290751--P77ZB-ltid1/1884290751.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290761--7LWH8-ltid1/1884290761.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>3c6ur5cj6tg226284</vehicle_id>
-    <title>2026 Ram 2500 Warlock</title>
-    <description>2026 Ram 2500. Trim: Warlock. Color: Molten Red Pearlcoat. Body Style: Crew Cab.</description>
-    <address format="simple">
-      <component name="addr1">1724 N Spring St.</component>
-      <component name="city">Beaver Dam</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53916</component>
-    </address>
-    <year>2026</year>
-    <make>Ram</make>
-    <model>2500</model>
-    <vin>3c6ur5cj6tg226284</vin>
-    <content_ids>3c6ur5cj6tg226284</content_ids>
-    <availability>in stock</availability>
-    <price>55908.00 USD</price>
-    <url>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C6UR5CJ6TG226284</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>5</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Warlock</trim>
-    <body_style>OTHER</body_style>
-    <exterior_color>Molten Red Pearlcoat</exterior_color>
-    <interior_color>Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290401--SQ9JG-ltid1/1884290401.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290411--L9LRH-ltid1/1884290411.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290421--L9LRH-ltid1/1884290421.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290431--QYZMI-ltid1/1884290431.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290441--QYZMI-ltid1/1884290441.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290451--QYZMI-ltid1/1884290451.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290461--U5EYF-ltid1/1884290461.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290471--2X0O9-ltid1/1884290471.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290481--2WNO8-ltid1/1884290481.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290491--BAVJC-ltid1/1884290491.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290501--BOASR-ltid1/1884290501.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290511--8ECFD-ltid1/1884290511.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1884290521--9K4FU-ltid1/1884290521.jpg</url>
     </image>
   </listing>
 </listings>
