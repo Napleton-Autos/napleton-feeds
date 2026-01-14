@@ -2,7 +2,279 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Downtown Hyundai Inventory Feed</title>
   <link href="https://www.napletondowntownhyundai.com/" rel="self"/>
-  <updated>2026-01-14T08:02:59.482619</updated>
+  <updated>2026-01-14T12:04:11.184570</updated>
+  <entry>
+    <id>H25169</id>
+    <title>2025 Hyundai Kona SEL</title>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8HBCABXSU317807"/>
+    <ns0:id>H25169</ns0:id>
+    <ns0:price>25500.00 USD</ns0:price>
+    <ns0:vehicle_msrp>29595.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KM8HBCABXSU317807</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Hyundai</ns0:brand>
+    <ns0:store_code>8954334598476874759</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
+    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8954334598476874759</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Hyundai</ns0:make>
+    <ns0:model>Kona</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8HBCABXSU317807&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SEL</ns0:trim>
+    <ns0:mileage>9 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Denim Blue</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639841--MFIL5-ltid1/1771639841.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639851--MFIL5-ltid1/1771639851.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639861--ELCBZ-ltid1/1771639861.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639871--ELCBZ-ltid1/1771639871.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639881--ZFLKA-ltid1/1771639881.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640191--ZFLKA-ltid1/1771640191.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640201--ZFLKA-ltid1/1771640201.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640211--WTCGX-ltid1/1771640211.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640221--WTCGX-ltid1/1771640221.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640231--WTCGX-ltid1/1771640231.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Kona</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>H25218</id>
+    <title>2025 HYUNDAI IONIQ 5 SEL AWD</title>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKNDDC1SY031728"/>
+    <ns0:id>H25218</ns0:id>
+    <ns0:price>37532.00 USD</ns0:price>
+    <ns0:vehicle_msrp>55195.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>7YAKNDDC1SY031728</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>HYUNDAI</ns0:brand>
+    <ns0:store_code>8954334598476874759</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
+    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8954334598476874759</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>HYUNDAI</ns0:make>
+    <ns0:model>IONIQ 5</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKNDDC1SY031728&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SEL AWD</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:color>BLACK</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643371--5A9-S-ltid1/1771643371.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643381--87IJ2-ltid1/1771643381.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643391--4EI0K-ltid1/1771643391.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643401--4EI0K-ltid1/1771643401.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643411--JOMIO-ltid1/1771643411.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643421--YOKUW-ltid1/1771643421.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643431--BHY2C-ltid1/1771643431.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643441--2ARB4-ltid1/1771643441.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643451--YH8SX-ltid1/1771643451.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643461--YH8SX-ltid1/1771643461.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>IONIQ 5</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>H26010</id>
+    <title>2026 Hyundai Santa Fe SEL</title>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMP24GL3TH155114"/>
+    <ns0:id>H26010</ns0:id>
+    <ns0:price>36942.00 USD</ns0:price>
+    <ns0:vehicle_msrp>40465.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>5NMP24GL3TH155114</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Hyundai</ns0:brand>
+    <ns0:store_code>8954334598476874759</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
+    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8954334598476874759</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Hyundai</ns0:make>
+    <ns0:model>Santa Fe</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMP24GL3TH155114&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SEL</ns0:trim>
+    <ns0:mileage>11 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Serenity White</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771646791--83WNF-ltid1/1771646791.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771646801--83WNF-ltid1/1771646801.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771646811--83WNF-ltid1/1771646811.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771646821--ZTYPW-ltid1/1771646821.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771646831--ZTYPW-ltid1/1771646831.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771646841--ZTYPW-ltid1/1771646841.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771646851--5EVA8-ltid1/1771646851.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771650121--5EVA8-ltid1/1771650121.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771650131--5EVA8-ltid1/1771650131.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771650141--A1H0Y-ltid1/1771650141.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Santa Fe</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>H26033</id>
+    <title>2026 Hyundai Santa Fe Hybrid SE</title>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMP1DG16TH086663"/>
+    <ns0:id>H26033</ns0:id>
+    <ns0:price>36771.00 USD</ns0:price>
+    <ns0:vehicle_msrp>40285.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>5NMP1DG16TH086663</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Hyundai</ns0:brand>
+    <ns0:store_code>8954334598476874759</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
+    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8954334598476874759</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Hyundai</ns0:make>
+    <ns0:model>Santa Fe Hybrid</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMP1DG16TH086663&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SE</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Phantom Black</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771648601--9Y6B3-ltid1/1771648601.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771648611--9Y6B3-ltid1/1771648611.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771648621--9Y6B3-ltid1/1771648621.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771648631--JMIWQ-ltid1/1771648631.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771635941--8SSLV-ltid1/1771635941.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771635951--8SSLV-ltid1/1771635951.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771635961--8SSLV-ltid1/1771635961.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771635971--A7VSH-ltid1/1771635971.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771637481--A7VSH-ltid1/1771637481.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771637491--RPFCF-ltid1/1771637491.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Santa Fe Hybrid</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>H26039</id>
+    <title>2026 Hyundai IONIQ 9 Performance Calligraphy</title>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAMYFS51TY009150"/>
+    <ns0:id>H26039</ns0:id>
+    <ns0:price>57000.00 USD</ns0:price>
+    <ns0:vehicle_msrp>77510.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>7YAMYFS51TY009150</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Hyundai</ns0:brand>
+    <ns0:store_code>8954334598476874759</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
+    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8954334598476874759</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Hyundai</ns0:make>
+    <ns0:model>IONIQ 9</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAMYFS51TY009150&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Performance Calligraphy</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Ionosphere Green</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771638361--EXFSE-ltid1/1771638361.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771638371--6KMJW-ltid1/1771638371.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771638381---SGLB-ltid1/1771638381.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771638391--AGCOJ-ltid1/1771638391.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771638401--YOZTC-ltid1/1771638401.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771638411--FCCNF-ltid1/1771638411.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771638421--6CTTJ-ltid1/1771638421.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771638431--AND1D-ltid1/1771638431.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771638441--MSQ52-ltid1/1771638441.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771638451--+8--V-ltid1/1771638451.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>IONIQ 9</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>H26049</id>
+    <title>2026 Hyundai Tucson SEL Premium</title>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMJCCDE4TH637366"/>
+    <ns0:id>H26049</ns0:id>
+    <ns0:price>35794.00 USD</ns0:price>
+    <ns0:vehicle_msrp>38730.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>5NMJCCDE4TH637366</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Hyundai</ns0:brand>
+    <ns0:store_code>8954334598476874759</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
+    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8954334598476874759</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Hyundai</ns0:make>
+    <ns0:model>Tucson</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMJCCDE4TH637366&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SEL Premium</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Serenity White Pearl</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771648771--Y+T6S-ltid1/1771648771.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771649301--Y+T6S-ltid1/1771649301.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771649311--BXFFH-ltid1/1771649311.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771649321--6TF-L-ltid1/1771649321.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771649331--6TF-L-ltid1/1771649331.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771649341--MI6+O-ltid1/1771649341.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771649351--IKZ4A-ltid1/1771649351.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771649361--GVUPO-ltid1/1771649361.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771649731--GVUPO-ltid1/1771649731.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771649741--D8ERM-ltid1/1771649741.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Tucson</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>H26060</id>
+    <title>2026 Hyundai Tucson Hybrid Limited</title>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8JEDD18TU421523"/>
+    <ns0:id>H26060</ns0:id>
+    <ns0:price>42313.00 USD</ns0:price>
+    <ns0:vehicle_msrp>44910.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KM8JEDD18TU421523</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Hyundai</ns0:brand>
+    <ns0:store_code>8954334598476874759</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
+    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8954334598476874759</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Hyundai</ns0:make>
+    <ns0:model>Tucson Hybrid</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8JEDD18TU421523&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Limited</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Ecotronic Gray</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887321--DK8V1-ltid1/1846887321.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887331--DK8V1-ltid1/1846887331.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887341--FOSCV-ltid1/1846887341.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887351--6RL9T-ltid1/1846887351.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887361--MY53N-ltid1/1846887361.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887371--MY53N-ltid1/1846887371.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887381--ZYCUF-ltid1/1846887381.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887391--NGJWK-ltid1/1846887391.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887401--QKQVV-ltid1/1846887401.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887411--QKQVV-ltid1/1846887411.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Tucson Hybrid</ns0:custom_label_0>
+  </entry>
   <entry>
     <id>H24402</id>
     <title>2025 Hyundai IONIQ 5 N</title>
@@ -26,7 +298,7 @@
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8KNDA81SU004801&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:mileage>32 miles</ns0:mileage>
+    <ns0:mileage>152 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Atlas White</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639141--EWNQZ-ltid1/1771639141.jpg</ns0:image_link>
@@ -274,45 +546,6 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639951--V3TC4-ltid1/1771639951.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639961--V3TC4-ltid1/1771639961.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Sonata</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>H25169</id>
-    <title>2025 Hyundai Kona SEL</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8HBCABXSU317807"/>
-    <ns0:id>H25169</ns0:id>
-    <ns0:price>25500.00 USD</ns0:price>
-    <ns0:vehicle_msrp>29595.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>KM8HBCABXSU317807</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Hyundai</ns0:brand>
-    <ns0:store_code>8954334598476874759</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
-    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>8954334598476874759</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Hyundai</ns0:make>
-    <ns0:model>Kona</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8HBCABXSU317807&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>SEL</ns0:trim>
-    <ns0:mileage>9 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Denim Blue</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639841--MFIL5-ltid1/1771639841.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639851--MFIL5-ltid1/1771639851.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639861--ELCBZ-ltid1/1771639861.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639871--ELCBZ-ltid1/1771639871.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771639881--ZFLKA-ltid1/1771639881.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640191--ZFLKA-ltid1/1771640191.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640201--ZFLKA-ltid1/1771640201.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640211--WTCGX-ltid1/1771640211.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640221--WTCGX-ltid1/1771640221.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771640231--WTCGX-ltid1/1771640231.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Kona</ns0:custom_label_0>
   </entry>
   <entry>
     <id>H25158</id>
@@ -626,44 +859,6 @@
     <ns0:custom_label_0>IONIQ 9</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>H25218</id>
-    <title>2025 HYUNDAI IONIQ 5 SEL AWD</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKNDDC1SY031728"/>
-    <ns0:id>H25218</ns0:id>
-    <ns0:price>37532.00 USD</ns0:price>
-    <ns0:vehicle_msrp>55195.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>7YAKNDDC1SY031728</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>HYUNDAI</ns0:brand>
-    <ns0:store_code>8954334598476874759</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
-    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>8954334598476874759</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>HYUNDAI</ns0:make>
-    <ns0:model>IONIQ 5</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAKNDDC1SY031728&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>SEL AWD</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
-    <ns0:color>BLACK</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643371--5A9-S-ltid1/1771643371.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643381--87IJ2-ltid1/1771643381.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643391--4EI0K-ltid1/1771643391.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643401--4EI0K-ltid1/1771643401.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643411--JOMIO-ltid1/1771643411.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643421--YOKUW-ltid1/1771643421.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643431--BHY2C-ltid1/1771643431.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643441--2ARB4-ltid1/1771643441.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643451--YH8SX-ltid1/1771643451.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771643461--YH8SX-ltid1/1771643461.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>IONIQ 5</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>H26003</id>
     <title>2026 Hyundai IONIQ 9 SE</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAMTFS36TY006113"/>
@@ -739,45 +934,6 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771644931--5ZI+F-ltid1/1771644931.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771644941--5ZI+F-ltid1/1771644941.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>IONIQ 5</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>H25237</id>
-    <title>2025 Hyundai Elantra SEL Sport</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLM4DG3SU061818"/>
-    <ns0:id>H25237</ns0:id>
-    <ns0:price>19975.00 USD</ns0:price>
-    <ns0:vehicle_msrp>25105.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>KMHLM4DG3SU061818</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Hyundai</ns0:brand>
-    <ns0:store_code>8954334598476874759</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
-    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>8954334598476874759</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Hyundai</ns0:make>
-    <ns0:model>Elantra</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KMHLM4DG3SU061818&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>SEL Sport</ns0:trim>
-    <ns0:mileage>10 miles</ns0:mileage>
-    <ns0:body_style>sedan</ns0:body_style>
-    <ns0:color>Intense Blue</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771646441--YOADD-ltid1/1771646441.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771644601--9H1BZ-ltid1/1771644601.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771644611--KJHF4-ltid1/1771644611.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771644621--KJHF4-ltid1/1771644621.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771644631--KJHF4-ltid1/1771644631.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771644641--JVC8O-ltid1/1771644641.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771644651--JVC8O-ltid1/1771644651.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771644661--JVC8O-ltid1/1771644661.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771644671--1AAGO-ltid1/1771644671.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771645131--1AAGO-ltid1/1771645131.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Elantra</ns0:custom_label_0>
   </entry>
   <entry>
     <id>H25240</id>
@@ -1011,45 +1167,6 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771645361--TENAZ-ltid1/1771645361.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771645371--TENAZ-ltid1/1771645371.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771645381--TENAZ-ltid1/1771645381.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Santa Fe</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>H26010</id>
-    <title>2026 Hyundai Santa Fe SEL</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMP24GL3TH155114"/>
-    <ns0:id>H26010</ns0:id>
-    <ns0:price>36942.00 USD</ns0:price>
-    <ns0:vehicle_msrp>40465.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>5NMP24GL3TH155114</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Hyundai</ns0:brand>
-    <ns0:store_code>8954334598476874759</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
-    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>8954334598476874759</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Hyundai</ns0:make>
-    <ns0:model>Santa Fe</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMP24GL3TH155114&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>SEL</ns0:trim>
-    <ns0:mileage>11 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Serenity White</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771646791--83WNF-ltid1/1771646791.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771646801--83WNF-ltid1/1771646801.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771646811--83WNF-ltid1/1771646811.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771646821--ZTYPW-ltid1/1771646821.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771646831--ZTYPW-ltid1/1771646831.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771646841--ZTYPW-ltid1/1771646841.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771646851--5EVA8-ltid1/1771646851.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771650121--5EVA8-ltid1/1771650121.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771650131--5EVA8-ltid1/1771650131.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771650141--A1H0Y-ltid1/1771650141.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Santa Fe</ns0:custom_label_0>
   </entry>
   <entry>
@@ -1365,45 +1482,6 @@
     <ns0:custom_label_0>Kona</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>H26033</id>
-    <title>2026 Hyundai Santa Fe Hybrid SE</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMP1DG16TH086663"/>
-    <ns0:id>H26033</ns0:id>
-    <ns0:price>36771.00 USD</ns0:price>
-    <ns0:vehicle_msrp>40285.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>5NMP1DG16TH086663</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Hyundai</ns0:brand>
-    <ns0:store_code>8954334598476874759</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
-    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>8954334598476874759</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Hyundai</ns0:make>
-    <ns0:model>Santa Fe Hybrid</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMP1DG16TH086663&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>SE</ns0:trim>
-    <ns0:mileage>1 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Phantom Black</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771648601--9Y6B3-ltid1/1771648601.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771648611--9Y6B3-ltid1/1771648611.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771648621--9Y6B3-ltid1/1771648621.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771648631--JMIWQ-ltid1/1771648631.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771635941--8SSLV-ltid1/1771635941.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771635951--8SSLV-ltid1/1771635951.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771635961--8SSLV-ltid1/1771635961.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771635971--A7VSH-ltid1/1771635971.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771637481--A7VSH-ltid1/1771637481.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771637491--RPFCF-ltid1/1771637491.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Santa Fe Hybrid</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>H26034</id>
     <title>2026 Hyundai IONIQ 9 SE</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAMTFS34TY007938"/>
@@ -1716,45 +1794,6 @@
     <ns0:custom_label_0>IONIQ 9</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>H26039</id>
-    <title>2026 Hyundai IONIQ 9 Performance Calligraphy</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAMYFS51TY009150"/>
-    <ns0:id>H26039</ns0:id>
-    <ns0:price>57000.00 USD</ns0:price>
-    <ns0:vehicle_msrp>77510.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>7YAMYFS51TY009150</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Hyundai</ns0:brand>
-    <ns0:store_code>8954334598476874759</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
-    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>8954334598476874759</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Hyundai</ns0:make>
-    <ns0:model>IONIQ 9</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAMYFS51TY009150&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Performance Calligraphy</ns0:trim>
-    <ns0:mileage>1 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Ionosphere Green</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771638361--EXFSE-ltid1/1771638361.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771638371--6KMJW-ltid1/1771638371.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771638381---SGLB-ltid1/1771638381.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771638391--AGCOJ-ltid1/1771638391.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771638401--YOZTC-ltid1/1771638401.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771638411--FCCNF-ltid1/1771638411.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771638421--6CTTJ-ltid1/1771638421.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771638431--AND1D-ltid1/1771638431.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771638441--MSQ52-ltid1/1771638441.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771638451--+8--V-ltid1/1771638451.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>IONIQ 9</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>H26040</id>
     <title>2026 Hyundai IONIQ 9 Performance Calligraphy Design</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=7YAMYFS55TY009040"/>
@@ -2057,45 +2096,6 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1813121111--MWOQV-ltid1/1813121111.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1813121121--WAY86-ltid1/1813121121.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1813121131--WAY86-ltid1/1813121131.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Tucson</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>H26049</id>
-    <title>2026 Hyundai Tucson SEL Premium</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMJCCDE4TH637366"/>
-    <ns0:id>H26049</ns0:id>
-    <ns0:price>35794.00 USD</ns0:price>
-    <ns0:vehicle_msrp>38730.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>5NMJCCDE4TH637366</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Hyundai</ns0:brand>
-    <ns0:store_code>8954334598476874759</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
-    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>8954334598476874759</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Hyundai</ns0:make>
-    <ns0:model>Tucson</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMJCCDE4TH637366&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>SEL Premium</ns0:trim>
-    <ns0:mileage>1 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Serenity White Pearl</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771648771--Y+T6S-ltid1/1771648771.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771649301--Y+T6S-ltid1/1771649301.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771649311--BXFFH-ltid1/1771649311.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771649321--6TF-L-ltid1/1771649321.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771649331--6TF-L-ltid1/1771649331.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771649341--MI6+O-ltid1/1771649341.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771649351--IKZ4A-ltid1/1771649351.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771649361--GVUPO-ltid1/1771649361.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771649731--GVUPO-ltid1/1771649731.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771649741--D8ERM-ltid1/1771649741.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Tucson</ns0:custom_label_0>
   </entry>
   <entry>
@@ -2409,45 +2409,6 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771650061--VG-XE-ltid1/1771650061.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1771650071--9EF1E-ltid1/1771650071.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>IONIQ 5</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>H26060</id>
-    <title>2026 Hyundai Tucson Hybrid Limited</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8JEDD18TU421523"/>
-    <ns0:id>H26060</ns0:id>
-    <ns0:price>42313.00 USD</ns0:price>
-    <ns0:vehicle_msrp>44910.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>KM8JEDD18TU421523</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Hyundai</ns0:brand>
-    <ns0:store_code>8954334598476874759</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
-    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>8954334598476874759</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Hyundai</ns0:make>
-    <ns0:model>Tucson Hybrid</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=KM8JEDD18TU421523&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Limited</ns0:trim>
-    <ns0:mileage>1 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Ecotronic Gray</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887321--DK8V1-ltid1/1846887321.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887331--DK8V1-ltid1/1846887331.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887341--FOSCV-ltid1/1846887341.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887351--6RL9T-ltid1/1846887351.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887361--MY53N-ltid1/1846887361.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887371--MY53N-ltid1/1846887371.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887381--ZYCUF-ltid1/1846887381.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887391--NGJWK-ltid1/1846887391.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887401--QKQVV-ltid1/1846887401.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887411--QKQVV-ltid1/1846887411.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Tucson Hybrid</ns0:custom_label_0>
   </entry>
   <entry>
     <id>H26061</id>
@@ -3502,45 +3463,6 @@
     <ns0:custom_label_0>Kona</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>H26085</id>
-    <title>2026 Hyundai Tucson SEL</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMJBCDE0TH658105"/>
-    <ns0:id>H26085</ns0:id>
-    <ns0:price>31463.00 USD</ns0:price>
-    <ns0:vehicle_msrp>34535.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>5NMJBCDE0TH658105</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Hyundai</ns0:brand>
-    <ns0:store_code>8954334598476874759</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
-    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>8954334598476874759</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Hyundai</ns0:make>
-    <ns0:model>Tucson</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMJBCDE0TH658105&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>SEL</ns0:trim>
-    <ns0:mileage>1 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Hampton Gray</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887461--TTO6Y-ltid1/1846887461.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887471--TTO6Y-ltid1/1846887471.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887481--SKCGF-ltid1/1846887481.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887491--ABDUP-ltid1/1846887491.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887501--0BYAL-ltid1/1846887501.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887511--DJHNQ-ltid1/1846887511.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887521--DJHNQ-ltid1/1846887521.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887531--UX5M6-ltid1/1846887531.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887541--WEQ0L-ltid1/1846887541.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid1846887551--X0OR6-ltid1/1846887551.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Tucson</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>H26088</id>
     <title>2026 Hyundai Tucson SEL</title>
     <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMJBCDE9TH661097"/>
@@ -4547,13 +4469,13 @@
     <ns0:custom_label_0>Santa Fe</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>HD26108</id>
-    <title>2026 Hyundai Kona Limited</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com//inventory/details/KM8HECA33TU383827"/>
-    <ns0:id>HD26108</ns0:id>
-    <ns0:price>34462.00 USD</ns0:price>
-    <ns0:vehicle_msrp>36365.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>KM8HECA33TU383827</ns0:vin>
+    <id>H26114</id>
+    <title>2026 Hyundai Kona SE</title>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com//inventory/details/KM8HA3AB1TU421607"/>
+    <ns0:id>H26114</ns0:id>
+    <ns0:price>26511.00 USD</ns0:price>
+    <ns0:vehicle_msrp>27650.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KM8HA3AB1TU421607</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Hyundai</ns0:brand>
     <ns0:store_code>8954334598476874759</ns0:store_code>
@@ -4568,11 +4490,156 @@
     <ns0:model>Kona</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com//inventory/details/KM8HECA33TU383827?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Limited</ns0:trim>
-    <ns0:mileage>20 miles</ns0:mileage>
+    <ns0:link_template>https://www.napletondowntownhyundai.com//inventory/details/KM8HA3AB1TU421607?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SE</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Mirage Green</ns0:color>
+    <ns0:color>Atlas White</ns0:color>
     <ns0:custom_label_0>Kona</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>H26115</id>
+    <title>2026 Hyundai Kona SE</title>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com//inventory/details/KM8HA3AB3TU421382"/>
+    <ns0:id>H26115</ns0:id>
+    <ns0:price>26511.00 USD</ns0:price>
+    <ns0:vehicle_msrp>27650.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KM8HA3AB3TU421382</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Hyundai</ns0:brand>
+    <ns0:store_code>8954334598476874759</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
+    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8954334598476874759</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Hyundai</ns0:make>
+    <ns0:model>Kona</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletondowntownhyundai.com//inventory/details/KM8HA3AB3TU421382?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SE</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Ecotronic Gray Pearl</ns0:color>
+    <ns0:custom_label_0>Kona</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>H26117</id>
+    <title>2026 Hyundai Kona SEL Sport</title>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com//inventory/details/KM8HFCAB6TU421894"/>
+    <ns0:id>H26117</ns0:id>
+    <ns0:price>29880.00 USD</ns0:price>
+    <ns0:vehicle_msrp>31125.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KM8HFCAB6TU421894</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Hyundai</ns0:brand>
+    <ns0:store_code>8954334598476874759</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
+    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8954334598476874759</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Hyundai</ns0:make>
+    <ns0:model>Kona</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletondowntownhyundai.com//inventory/details/KM8HFCAB6TU421894?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SEL Sport</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Cyber Gray Metallic</ns0:color>
+    <ns0:custom_label_0>Kona</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>H26118</id>
+    <title>2026 Hyundai Tucson Hybrid SEL Convenience</title>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com//inventory/details/KM8JCDD12TU429798"/>
+    <ns0:id>H26118</ns0:id>
+    <ns0:price>36618.00 USD</ns0:price>
+    <ns0:vehicle_msrp>37750.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KM8JCDD12TU429798</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Hyundai</ns0:brand>
+    <ns0:store_code>8954334598476874759</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
+    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8954334598476874759</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Hyundai</ns0:make>
+    <ns0:model>Tucson Hybrid</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletondowntownhyundai.com//inventory/details/KM8JCDD12TU429798?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SEL Convenience</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Deep Sea</ns0:color>
+    <ns0:custom_label_0>Tucson Hybrid</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>H26119</id>
+    <title>2026 Hyundai Tucson Hybrid SEL Convenience</title>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com//inventory/details/KM8JCDD14TU430063"/>
+    <ns0:id>H26119</ns0:id>
+    <ns0:price>36618.00 USD</ns0:price>
+    <ns0:vehicle_msrp>37750.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KM8JCDD14TU430063</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Hyundai</ns0:brand>
+    <ns0:store_code>8954334598476874759</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
+    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8954334598476874759</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Hyundai</ns0:make>
+    <ns0:model>Tucson Hybrid</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletondowntownhyundai.com//inventory/details/KM8JCDD14TU430063?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SEL Convenience</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Deep Sea</ns0:color>
+    <ns0:custom_label_0>Tucson Hybrid</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>H26116</id>
+    <title>2026 Hyundai Tucson Hybrid Limited</title>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com//inventory/details/KM8JEDD16TU429880"/>
+    <ns0:id>H26116</ns0:id>
+    <ns0:price>43432.00 USD</ns0:price>
+    <ns0:vehicle_msrp>44775.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KM8JEDD16TU429880</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Hyundai</ns0:brand>
+    <ns0:store_code>8954334598476874759</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
+    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8954334598476874759</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Hyundai</ns0:make>
+    <ns0:model>Tucson Hybrid</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletondowntownhyundai.com//inventory/details/KM8JEDD16TU429880?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Limited</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Ash Black</ns0:color>
+    <ns0:custom_label_0>Tucson Hybrid</ns0:custom_label_0>
   </entry>
 </feed>
