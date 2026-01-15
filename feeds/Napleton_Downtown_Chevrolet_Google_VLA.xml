@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Downtown Chevrolet Inventory Feed</title>
   <link href="https://www.downtownchevy.com" rel="self"/>
-  <updated>2026-01-15T08:03:02.761600</updated>
+  <updated>2026-01-15T12:04:05.155795</updated>
   <entry>
     <id>H25031</id>
     <title>2025 Hyundai Sonata SE</title>
@@ -576,7 +576,7 @@
   <entry>
     <id>C26023</id>
     <title>2026 Chevrolet Corvette 1LT</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2026-chevrolet-corvette-stingray-1lt-rear-wheel-drive-coupe-1g1ya2d43t5100361/"/>
+    <link rel="alternate" href="https://www.downtownchevy.com/inventory/details/1G1YA2D43T5100361"/>
     <ns0:id>C26023</ns0:id>
     <ns0:price>80030.00 USD</ns0:price>
     <ns0:vehicle_msrp>80030.00 USD</ns0:vehicle_msrp>
@@ -595,7 +595,7 @@
     <ns0:model>Corvette</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2026-chevrolet-corvette-stingray-1lt-rear-wheel-drive-coupe-1g1ya2d43t5100361/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.downtownchevy.com/inventory/details/1G1YA2D43T5100361?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>1LT</ns0:trim>
     <ns0:mileage>3 miles</ns0:mileage>
     <ns0:body_style>coupe</ns0:body_style>
@@ -3089,6 +3089,16 @@
     <ns0:mileage>58075 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Sage Gray</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1976060331--YSDIU-ltid2/1976060331.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1976060341--9OO76-ltid2/1976060341.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1976060351--9OO76-ltid2/1976060351.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1976060361--9OO76-ltid2/1976060361.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1976060371--UEP6I-ltid2/1976060371.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1976060381--UEP6I-ltid2/1976060381.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1976060391--3XKGG-ltid2/1976060391.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1976060401--3XKGG-ltid2/1976060401.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1976060411--3XKGG-ltid2/1976060411.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1976060421--BX5LZ-ltid2/1976060421.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Santa Cruz</ns0:custom_label_0>
   </entry>
   <entry>
@@ -3146,5 +3156,117 @@
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Summit White</ns0:color>
     <ns0:custom_label_0>Terrain</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>H26085A</id>
+    <title>2021 Hyundai Tucson Value</title>
+    <link rel="alternate" href="https://www.downtownchevy.com/inventory/details/KM8J33A45MU288154"/>
+    <ns0:id>H26085A</ns0:id>
+    <ns0:price>15691.00 USD</ns0:price>
+    <ns0:vin>KM8J33A45MU288154</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Hyundai</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2021</ns0:year>
+    <ns0:make>Hyundai</ns0:make>
+    <ns0:model>Tucson</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.downtownchevy.com/inventory/details/KM8J33A45MU288154?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Value</ns0:trim>
+    <ns0:mileage>85684 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Winter White</ns0:color>
+    <ns0:custom_label_0>Tucson</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>P0797</id>
+    <title>2022 Hyundai Kona SEL</title>
+    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2022-hyundai-kona-sel-all-wheel-drive-utility-km8k3cab5nu858402/"/>
+    <ns0:id>P0797</ns0:id>
+    <ns0:price>19991.00 USD</ns0:price>
+    <ns0:vin>KM8K3CAB5NU858402</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Hyundai</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2022</ns0:year>
+    <ns0:make>Hyundai</ns0:make>
+    <ns0:model>Kona</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2022-hyundai-kona-sel-all-wheel-drive-utility-km8k3cab5nu858402/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SEL</ns0:trim>
+    <ns0:mileage>15162 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Lunar White</ns0:color>
+    <ns0:custom_label_0>Kona</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>P0795</id>
+    <title>2025 Buick Enclave Preferred</title>
+    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2025-buick-enclave-preferred-all-wheel-drive-suv-5gaevars6sj232411/"/>
+    <ns0:id>P0795</ns0:id>
+    <ns0:price>36991.00 USD</ns0:price>
+    <ns0:vin>5GAEVARS6SJ232411</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Buick</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Buick</ns0:make>
+    <ns0:model>Enclave</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2025-buick-enclave-preferred-all-wheel-drive-suv-5gaevars6sj232411/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Preferred</ns0:trim>
+    <ns0:mileage>21465 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Ebony Twilight Metallic</ns0:color>
+    <ns0:custom_label_0>Enclave</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>P0796</id>
+    <title>2025 Genesis GV70 2.5T</title>
+    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2025-genesis-gv70-2-5t-all-wheel-drive-sport-utility-5nmmadtb4sh022962/"/>
+    <ns0:id>P0796</ns0:id>
+    <ns0:price>34991.00 USD</ns0:price>
+    <ns0:vin>5NMMADTB4SH022962</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Genesis</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Genesis</ns0:make>
+    <ns0:model>GV70</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2025-genesis-gv70-2-5t-all-wheel-drive-sport-utility-5nmmadtb4sh022962/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>2.5T</ns0:trim>
+    <ns0:mileage>29216 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Vik Black</ns0:color>
+    <ns0:custom_label_0>GV70</ns0:custom_label_0>
   </entry>
 </feed>
