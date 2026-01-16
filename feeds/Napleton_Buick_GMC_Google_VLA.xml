@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Buick GMC Inventory Feed</title>
   <link href="https://www.napletoncrystallake.com" rel="self"/>
-  <updated>2026-01-16T16:02:57.681671</updated>
+  <updated>2026-01-16T20:02:40.954371</updated>
   <entry>
     <id>125136</id>
     <title>2025 GMC Acadia AWD AT4</title>
@@ -40,6 +40,45 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1771575321--CQQUA-ltid1/1771575321.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1771575331--SOJLI-ltid1/1771575331.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Acadia</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>126063</id>
+    <title>2026 GMC Terrain AWD Denali</title>
+    <link rel="alternate" href="https://www.napletoncrystallake.com/inventory/new-2026-gmc-terrain-denali-all-wheel-drive-suv-3gkalzeg8tl308258/"/>
+    <ns0:id>126063</ns0:id>
+    <ns0:price>42915.00 USD</ns0:price>
+    <ns0:vehicle_msrp>46145.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3GKALZEG8TL308258</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>GMC</ns0:brand>
+    <ns0:store_code>30389</ns0:store_code>
+    <ns0:dealership_name>Napleton Buick GMC</ns0:dealership_name>
+    <ns0:dealership_address>6305 Northwest Hwy., Crystal Lake, IL 60014</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>30389</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>GMC</ns0:make>
+    <ns0:model>Terrain</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletoncrystallake.com/inventory/new-2026-gmc-terrain-denali-all-wheel-drive-suv-3gkalzeg8tl308258/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>AWD Denali</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Downpour Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1771594851--QBVJZ-ltid1/1771594851.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1771594861--C2XSF-ltid1/1771594861.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1771594871--1QCN5-ltid1/1771594871.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1771594881--UMZKV-ltid1/1771594881.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1771594891--UMZKV-ltid1/1771594891.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1771594901--MSUIS-ltid1/1771594901.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1771594911--EZ0ME-ltid1/1771594911.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1771594921--EZ0ME-ltid1/1771594921.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1771594931--5BRR+-ltid1/1771594931.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1771594941--5BRR+-ltid1/1771594941.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Terrain</ns0:custom_label_0>
   </entry>
   <entry>
     <id>226006</id>
@@ -1089,45 +1128,6 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1771596441---8IEL-ltid1/1771596441.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1771596601---8IEL-ltid1/1771596601.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Enclave</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>126063</id>
-    <title>2026 GMC Terrain AWD Denali</title>
-    <link rel="alternate" href="https://www.napletoncrystallake.com/inventory/new-2026-gmc-terrain-denali-all-wheel-drive-suv-3gkalzeg8tl308258/"/>
-    <ns0:id>126063</ns0:id>
-    <ns0:price>42915.00 USD</ns0:price>
-    <ns0:vehicle_msrp>46145.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>3GKALZEG8TL308258</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>GMC</ns0:brand>
-    <ns0:store_code>30389</ns0:store_code>
-    <ns0:dealership_name>Napleton Buick GMC</ns0:dealership_name>
-    <ns0:dealership_address>6305 Northwest Hwy., Crystal Lake, IL 60014</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>30389</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>GMC</ns0:make>
-    <ns0:model>Terrain</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletoncrystallake.com/inventory/new-2026-gmc-terrain-denali-all-wheel-drive-suv-3gkalzeg8tl308258/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>AWD Denali</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Downpour Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1771594851--QBVJZ-ltid1/1771594851.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1771594861--C2XSF-ltid1/1771594861.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1771594871--1QCN5-ltid1/1771594871.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1771594881--UMZKV-ltid1/1771594881.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1771594891--UMZKV-ltid1/1771594891.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1771594901--MSUIS-ltid1/1771594901.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1771594911--EZ0ME-ltid1/1771594911.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1771594921--EZ0ME-ltid1/1771594921.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1771594931--5BRR+-ltid1/1771594931.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1771594941--5BRR+-ltid1/1771594941.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Terrain</ns0:custom_label_0>
   </entry>
   <entry>
     <id>PB0030</id>
@@ -4315,7 +4315,7 @@
     <title>2026 GMC Sierra 1500 AT4</title>
     <link rel="alternate" href="https://www.napletoncrystallake.com/inventory/new-2026-gmc-sierra-1500-at4-four-wheel-drive-crew-cab-3gtuuee88tg187618/"/>
     <ns0:id>126123</ns0:id>
-    <ns0:price>73355.00 USD</ns0:price>
+    <ns0:price>66704.00 USD</ns0:price>
     <ns0:vehicle_msrp>73355.00 USD</ns0:vehicle_msrp>
     <ns0:vin>3GTUUEE88TG187618</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
