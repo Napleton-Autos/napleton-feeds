@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Chevrolet Buick GMC Inventory Feed</title>
   <link href="https://www.napletonchevybuickgmc.com" rel="self"/>
-  <updated>2026-01-16T08:03:01.680523</updated>
+  <updated>2026-01-16T12:04:00.461888</updated>
   <entry>
     <id>125153</id>
     <title>2025 Chevrolet Silverado 2500HD LTZ</title>
@@ -1826,45 +1826,6 @@
     <ns0:custom_label_0>Trax</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>126064</id>
-    <title>2026 Chevrolet Silverado 1500 LTZ</title>
-    <link rel="alternate" href="https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=2GCUKGED6T1117588"/>
-    <ns0:id>126064</ns0:id>
-    <ns0:price>56957.00 USD</ns0:price>
-    <ns0:vehicle_msrp>65645.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>2GCUKGED6T1117588</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Chevrolet</ns0:brand>
-    <ns0:store_code>8769789203665249729</ns0:store_code>
-    <ns0:dealership_name>Napleton Chevrolet Buick GMC</ns0:dealership_name>
-    <ns0:dealership_address>N8167 Kellom Rd., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>8769789203665249729</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Chevrolet</ns0:make>
-    <ns0:model>Silverado 1500</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=2GCUKGED6T1117588&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>LTZ</ns0:trim>
-    <ns0:mileage>8 miles</ns0:mileage>
-    <ns0:body_style>truck</ns0:body_style>
-    <ns0:color>Sterling Gray Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1771541651--EOHYX-ltid1/1771541651.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1771541661--EOHYX-ltid1/1771541661.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1771534221--SMKBH-ltid1/1771534221.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1771534231--1KGEW-ltid1/1771534231.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1771534671--1KGEW-ltid1/1771534671.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1771534681--1KGEW-ltid1/1771534681.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1771534691--JIDB9-ltid1/1771534691.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1771534701--JIDB9-ltid1/1771534701.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1771534711--KOZUH-ltid1/1771534711.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1771534721--KOZUH-ltid1/1771534721.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Silverado 1500</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>126063</id>
     <title>2026 Chevrolet Silverado 1500 RST</title>
     <link rel="alternate" href="https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GCUKEED1TG136674"/>
@@ -2471,7 +2432,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GT4UPEY0TF153153&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>AT4</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:mileage>17 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Summit White</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1934987601--NRCYH-ltid1/1934987601.jpg</ns0:image_link>
@@ -3191,7 +3152,7 @@
     <title>2023 GMC Acadia SLT</title>
     <link rel="alternate" href="https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GKKNUL47PZ237207"/>
     <ns0:id>PB061</ns0:id>
-    <ns0:price>24772.00 USD</ns0:price>
+    <ns0:price>24719.00 USD</ns0:price>
     <ns0:vin>1GKKNUL47PZ237207</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>GMC</ns0:brand>
@@ -3222,45 +3183,6 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1806904591--LAZJP-ltid2/1806904591.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1806904601--RSZPR-ltid2/1806904601.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Acadia</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>326083</id>
-    <title>2026 GMC Sierra 2500HD AT4</title>
-    <link rel="alternate" href="https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GT4UPEY1TF160290"/>
-    <ns0:id>326083</ns0:id>
-    <ns0:price>82536.00 USD</ns0:price>
-    <ns0:vehicle_msrp>89285.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1GT4UPEY1TF160290</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>GMC</ns0:brand>
-    <ns0:store_code>8769789203665249729</ns0:store_code>
-    <ns0:dealership_name>Napleton Chevrolet Buick GMC</ns0:dealership_name>
-    <ns0:dealership_address>N8167 Kellom Rd., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>8769789203665249729</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>GMC</ns0:make>
-    <ns0:model>Sierra 2500HD</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GT4UPEY1TF160290&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>AT4</ns0:trim>
-    <ns0:mileage>8 miles</ns0:mileage>
-    <ns0:body_style>truck</ns0:body_style>
-    <ns0:color>Summit White</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1934987701--VXC9B-ltid1/1934987701.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1934987711--JFYXW-ltid1/1934987711.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1934987721--BHHQP-ltid1/1934987721.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1934987731--QZ6+H-ltid1/1934987731.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1934987741--C54MH-ltid1/1934987741.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1934987751--GGEGN-ltid1/1934987751.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1934987761--HOB1M-ltid1/1934987761.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1934987771--4KK6T-ltid1/1934987771.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1934987781--AAMJB-ltid1/1934987781.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1934987791--FCA6S-ltid1/1934987791.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Sierra 2500HD</ns0:custom_label_0>
   </entry>
   <entry>
     <id>326086</id>
@@ -3759,39 +3681,6 @@
     <ns0:custom_label_0>Sierra 1500</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>326092</id>
-    <title>2026 GMC Sierra 1500 Denali</title>
-    <link rel="alternate" href="https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GTUUGE80TZ222776"/>
-    <ns0:id>326092</ns0:id>
-    <ns0:price>70271.00 USD</ns0:price>
-    <ns0:vehicle_msrp>77150.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1GTUUGE80TZ222776</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>GMC</ns0:brand>
-    <ns0:store_code>8769789203665249729</ns0:store_code>
-    <ns0:dealership_name>Napleton Chevrolet Buick GMC</ns0:dealership_name>
-    <ns0:dealership_address>N8167 Kellom Rd., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>8769789203665249729</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>GMC</ns0:make>
-    <ns0:model>Sierra 1500</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GTUUGE80TZ222776&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Denali</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
-    <ns0:body_style>truck</ns0:body_style>
-    <ns0:color>Sterling Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1798987851--XHCUS-ltid1/1798987851.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1798987861--XHCUS-ltid1/1798987861.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1798987871--WXU+V-ltid1/1798987871.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1798987881--WXU+V-ltid1/1798987881.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Sierra 1500</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>326095</id>
     <title>2026 GMC Sierra 2500HD Denali Ultimate</title>
     <link rel="alternate" href="https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GT4UXEY3TF170173"/>
@@ -3894,16 +3783,16 @@
     <ns0:trim>Denali</ns0:trim>
     <ns0:mileage>75005 miles</ns0:mileage>
     <ns0:color>White Frost Tricoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1834629141--BWJ-+-ltid2/1834629141.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1834629151--BWJ-+-ltid2/1834629151.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1834629161--BWJ-+-ltid2/1834629161.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1834629171--BWJ-+-ltid2/1834629171.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1834629181--BWJ-+-ltid2/1834629181.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1834629191--BWJ-+-ltid2/1834629191.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1834629201--BWJ-+-ltid2/1834629201.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1834629211--BWJ-+-ltid2/1834629211.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1834629221--BWJ-+-ltid2/1834629221.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1834629231--BWJ-+-ltid2/1834629231.jpg</ns0:additional_image_link>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1834629141--CRCVI-ltid2/1834629141.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1834629151--CRCVI-ltid2/1834629151.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1834629161--CRCVI-ltid2/1834629161.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1834629171--CRCVI-ltid2/1834629171.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1834629181--CRCVI-ltid2/1834629181.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1834629191--CRCVI-ltid2/1834629191.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1834629201--CRCVI-ltid2/1834629201.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1834629211--CRCVI-ltid2/1834629211.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1834629221--CRCVI-ltid2/1834629221.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1834629231--CRCVI-ltid2/1834629231.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Acadia</ns0:custom_label_0>
   </entry>
   <entry>
@@ -4489,45 +4378,6 @@
     <ns0:custom_label_0>Enclave</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>226059</id>
-    <title>2026 Buick Enclave Avenir</title>
-    <link rel="alternate" href="https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5GAEVCKS5TJ226946"/>
-    <ns0:id>226059</ns0:id>
-    <ns0:price>60804.00 USD</ns0:price>
-    <ns0:vehicle_msrp>67560.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>5GAEVCKS5TJ226946</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Buick</ns0:brand>
-    <ns0:store_code>8769789203665249729</ns0:store_code>
-    <ns0:dealership_name>Napleton Chevrolet Buick GMC</ns0:dealership_name>
-    <ns0:dealership_address>N8167 Kellom Rd., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>8769789203665249729</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Buick</ns0:make>
-    <ns0:model>Enclave</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5GAEVCKS5TJ226946&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Avenir</ns0:trim>
-    <ns0:mileage>4 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Iridescent White Tricoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1848741891--KW+J8-ltid1/1848741891.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1848741901--RX0ZQ-ltid1/1848741901.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1848741911--RX0ZQ-ltid1/1848741911.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1848741921--W157F-ltid1/1848741921.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1848741931--W157F-ltid1/1848741931.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1848741941--9AW9J-ltid1/1848741941.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1848741951--ES8UW-ltid1/1848741951.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1848741961--ES8UW-ltid1/1848741961.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1848741971--1Z6HF-ltid1/1848741971.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1848741981--CKXZX-ltid1/1848741981.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Enclave</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>226052</id>
     <title>2026 Buick Enclave Avenir</title>
     <link rel="alternate" href="https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5GAEVCKS8TJ226777"/>
@@ -4766,7 +4616,7 @@
     <title>2023 Chevrolet Blazer LT</title>
     <link rel="alternate" href="https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GNKBHR4XPS180976"/>
     <ns0:id>325189A</ns0:id>
-    <ns0:price>25551.00 USD</ns0:price>
+    <ns0:price>25423.00 USD</ns0:price>
     <ns0:vin>3GNKBHR4XPS180976</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Chevrolet</ns0:brand>
@@ -5115,7 +4965,7 @@
     <title>2023 GMC Acadia SLE</title>
     <link rel="alternate" href="https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GKKNRL49PZ140376"/>
     <ns0:id>226046A</ns0:id>
-    <ns0:price>24548.00 USD</ns0:price>
+    <ns0:price>24496.00 USD</ns0:price>
     <ns0:vin>1GKKNRL49PZ140376</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>GMC</ns0:brand>
@@ -5268,7 +5118,7 @@
     <title>2018 Jeep Wrangler JK Sport</title>
     <link rel="alternate" href="https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1C4AJWAG5JL800213"/>
     <ns0:id>P0366A</ns0:id>
-    <ns0:price>16620.00 USD</ns0:price>
+    <ns0:price>16031.00 USD</ns0:price>
     <ns0:vin>1C4AJWAG5JL800213</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Jeep</ns0:brand>
@@ -5286,7 +5136,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1C4AJWAG5JL800213&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Sport</ns0:trim>
-    <ns0:mileage>85396 miles</ns0:mileage>
+    <ns0:mileage>85397 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Black Clearcoat</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1965401831--WKOXZ-ltid2/1965401831.jpg</ns0:image_link>
@@ -5438,7 +5288,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=JF2SJAEC7HH414373&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Premium</ns0:trim>
-    <ns0:mileage>82888 miles</ns0:mileage>
+    <ns0:mileage>82889 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Ice Silver Metallic</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1969386491--D93QC-ltid2/1969386491.jpg</ns0:image_link>
@@ -5540,9 +5390,19 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GC1KVEY7JF117440&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LT</ns0:trim>
-    <ns0:mileage>173416 miles</ns0:mileage>
+    <ns0:mileage>173417 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Black</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982717571--XDXL2-ltid2/1982717571.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982717581--GKBI6-ltid2/1982717581.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982717591--GKBI6-ltid2/1982717591.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982717601--GKBI6-ltid2/1982717601.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982717611--W2M-M-ltid2/1982717611.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982717621--W2M-M-ltid2/1982717621.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982717631--W2M-M-ltid2/1982717631.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982717641--OKJNQ-ltid2/1982717641.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982717651--OKJNQ-ltid2/1982717651.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982717661--ADWEK-ltid2/1982717661.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Silverado 2500HD</ns0:custom_label_0>
   </entry>
   <entry>
@@ -5550,7 +5410,7 @@
     <title>2023 GMC Sierra 1500 Denali</title>
     <link rel="alternate" href="https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GTUUGE81PG151965"/>
     <ns0:id>326075A</ns0:id>
-    <ns0:price>44231.00 USD</ns0:price>
+    <ns0:price>44151.00 USD</ns0:price>
     <ns0:vin>3GTUUGE81PG151965</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>GMC</ns0:brand>
@@ -5612,43 +5472,6 @@
     <ns0:custom_label_0>Sierra 1500</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>126122A</id>
-    <title>2017 Ford F-150 XLT</title>
-    <link rel="alternate" href="https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1FTEW1EG9HKD15489"/>
-    <ns0:id>126122A</ns0:id>
-    <ns0:price>20741.00 USD</ns0:price>
-    <ns0:vin>1FTEW1EG9HKD15489</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>8769789203665249729</ns0:store_code>
-    <ns0:dealership_name>Napleton Chevrolet Buick GMC</ns0:dealership_name>
-    <ns0:dealership_address>N8167 Kellom Rd., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>8769789203665249729</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2017</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>F-150</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1FTEW1EG9HKD15489&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>XLT</ns0:trim>
-    <ns0:mileage>93660 miles</ns0:mileage>
-    <ns0:color>Magnetic Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1966295991--O9EWQ-ltid2/1966295991.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1966296001--KXGV9-ltid2/1966296001.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1966296011--YUCLU-ltid2/1966296011.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1966296021--0GYGK-ltid2/1966296021.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1966296031--LPAQA-ltid2/1966296031.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1966296041--LBI3N-ltid2/1966296041.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1966296051--7PWCO-ltid2/1966296051.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1966296061--TY3WW-ltid2/1966296061.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1966296071--TY3WW-ltid2/1966296071.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1966296081--R4DWI-ltid2/1966296081.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>F-150</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>126124</id>
     <title>2026 Chevrolet Silverado 2500HD High Country</title>
     <link rel="alternate" href="https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GC4KREYXTF203722"/>
@@ -5675,6 +5498,16 @@
     <ns0:mileage>5 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Sterling Gray Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982215921--MR3NC-ltid1/1982215921.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982215931--YV7CW-ltid1/1982215931.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982215941--YV7CW-ltid1/1982215941.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982215951--YV7CW-ltid1/1982215951.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982215961--ZXUZL-ltid1/1982215961.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982215971--ZXUZL-ltid1/1982215971.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982215981--ZXUZL-ltid1/1982215981.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982215991--DVF9L-ltid1/1982215991.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982216001--DVF9L-ltid1/1982216001.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982216011--DVF9L-ltid1/1982216011.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Silverado 2500HD</ns0:custom_label_0>
   </entry>
   <entry>
@@ -5977,16 +5810,16 @@
     <ns0:mileage>4 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Polar White Tricoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1902252121--AC+AL-ltid1/1902252121.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1902252131--AC+AL-ltid1/1902252131.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1902252141--AC+AL-ltid1/1902252141.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1902252151--AC+AL-ltid1/1902252151.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1902252161--AC+AL-ltid1/1902252161.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1902252171--AC+AL-ltid1/1902252171.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1902252181--AC+AL-ltid1/1902252181.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1902252191--AC+AL-ltid1/1902252191.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1902252201--AC+AL-ltid1/1902252201.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1902252211--AC+AL-ltid1/1902252211.jpg</ns0:additional_image_link>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1902252121--IZGPP-ltid1/1902252121.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1902252131--IZGPP-ltid1/1902252131.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1902252141--IZGPP-ltid1/1902252141.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1902252151--IZGPP-ltid1/1902252151.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1902252161--IZGPP-ltid1/1902252161.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1902252171--IZGPP-ltid1/1902252171.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1902252181--IZGPP-ltid1/1902252181.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1902252191--IZGPP-ltid1/1902252191.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1902252201--IZGPP-ltid1/1902252201.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1902252211--IZGPP-ltid1/1902252211.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Equinox</ns0:custom_label_0>
   </entry>
   <entry>
@@ -6255,7 +6088,7 @@
     <title>2019 Buick Enclave Essence</title>
     <link rel="alternate" href="https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5GAEVAKW5KJ155270"/>
     <ns0:id>226057A</ns0:id>
-    <ns0:price>17756.00 USD</ns0:price>
+    <ns0:price>17569.00 USD</ns0:price>
     <ns0:vin>5GAEVAKW5KJ155270</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Buick</ns0:brand>
@@ -6349,7 +6182,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GNEVKKW6NJ138252&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Premier</ns0:trim>
-    <ns0:mileage>54966 miles</ns0:mileage>
+    <ns0:mileage>54977 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Cherry Red Tintcoat</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1965829131--JVIVZ-ltid2/1965829131.jpg</ns0:image_link>
@@ -7464,7 +7297,7 @@
     <title>2023 Hyundai Elantra Hybrid Limited</title>
     <link rel="alternate" href="https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KMHLN4AJ4PU034471"/>
     <ns0:id>226009A</ns0:id>
-    <ns0:price>20220.00 USD</ns0:price>
+    <ns0:price>20212.00 USD</ns0:price>
     <ns0:vin>KMHLN4AJ4PU034471</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Hyundai</ns0:brand>
@@ -7524,7 +7357,7 @@
     <title>2024 GMC Sierra 2500HD SLT</title>
     <link rel="alternate" href="https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GT49NE71RF369292"/>
     <ns0:id>326111A</ns0:id>
-    <ns0:price>58391.00 USD</ns0:price>
+    <ns0:price>57773.00 USD</ns0:price>
     <ns0:vin>1GT49NE71RF369292</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>GMC</ns0:brand>
@@ -7552,7 +7385,7 @@
     <title>2019 Ram 3500 Tradesman</title>
     <link rel="alternate" href="https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3C63RRGL9KG580507"/>
     <ns0:id>326104B</ns0:id>
-    <ns0:price>41566.00 USD</ns0:price>
+    <ns0:price>40968.00 USD</ns0:price>
     <ns0:vin>3C63RRGL9KG580507</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Ram</ns0:brand>
@@ -7573,39 +7406,17 @@
     <ns0:mileage>49776 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Delmonico Red Pearlcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982630191--9E6XA-ltid2/1982630191.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982630201--9E6XA-ltid2/1982630201.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982630211--2JJUM-ltid2/1982630211.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982630231--2JJUM-ltid2/1982630231.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982630241--NYOPA-ltid2/1982630241.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982630251--NYOPA-ltid2/1982630251.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982630261--NYOPA-ltid2/1982630261.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982630271--64YQE-ltid2/1982630271.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982630281--64YQE-ltid2/1982630281.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982630291--64YQE-ltid2/1982630291.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>3500</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>126139</id>
-    <title>2026 Chevrolet Silverado 1500 RST</title>
-    <link rel="alternate" href="https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GCUKEEL7TG165264"/>
-    <ns0:id>126139</ns0:id>
-    <ns0:price>67540.00 USD</ns0:price>
-    <ns0:vehicle_msrp>67540.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>3GCUKEEL7TG165264</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Chevrolet</ns0:brand>
-    <ns0:store_code>8769789203665249729</ns0:store_code>
-    <ns0:dealership_name>Napleton Chevrolet Buick GMC</ns0:dealership_name>
-    <ns0:dealership_address>N8167 Kellom Rd., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>8769789203665249729</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Chevrolet</ns0:make>
-    <ns0:model>Silverado 1500</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GCUKEEL7TG165264&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>RST</ns0:trim>
-    <ns0:mileage>30 miles</ns0:mileage>
-    <ns0:body_style>truck</ns0:body_style>
-    <ns0:color>Radiant Red Tintcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1975113801--SMC4S-ltid1/1975113801.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1975113811--SMC4S-ltid1/1975113811.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1975113821--DDT1K-ltid1/1975113821.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Silverado 1500</ns0:custom_label_0>
   </entry>
   <entry>
     <id>326139</id>
@@ -7701,22 +7512,87 @@
     <ns0:mileage>130 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Onyx Black</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1975113961--3RO71-ltid1/1975113961.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1975113971--TKPL--ltid1/1975113971.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1975113981--TKPL--ltid1/1975113981.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1975113991--HXSCY-ltid1/1975113991.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1975114001--O72H5-ltid1/1975114001.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1975114011--O72H5-ltid1/1975114011.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1975114021--3-NE0-ltid1/1975114021.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1975114031--3-NE0-ltid1/1975114031.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1975114041--MOEJ+-ltid1/1975114041.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1975114051--MOEJ+-ltid1/1975114051.jpg</ns0:additional_image_link>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982717741--OXPVE-ltid1/1982717741.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982717751--OXPVE-ltid1/1982717751.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982717761--GFMNO-ltid1/1982717761.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982717771--GFMNO-ltid1/1982717771.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982717781--GFMNO-ltid1/1982717781.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982717791--ET9YU-ltid1/1982717791.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982717801--ET9YU-ltid1/1982717801.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982717811--ET9YU-ltid1/1982717811.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982717821--HLV5F-ltid1/1982717821.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1982717831--HLV5F-ltid1/1982717831.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Canyon</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>125170A</id>
+    <title>2018 Ford F-150 XLT</title>
+    <link rel="alternate" href="https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1FTEW1EG7JFA24665"/>
+    <ns0:id>125170A</ns0:id>
+    <ns0:price>19739.00 USD</ns0:price>
+    <ns0:vin>1FTEW1EG7JFA24665</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>8769789203665249729</ns0:store_code>
+    <ns0:dealership_name>Napleton Chevrolet Buick GMC</ns0:dealership_name>
+    <ns0:dealership_address>N8167 Kellom Rd., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8769789203665249729</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2018</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>F-150</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1FTEW1EG7JFA24665&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>XLT</ns0:trim>
+    <ns0:mileage>128635 miles</ns0:mileage>
+    <ns0:color>Oxford White</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1978264521--8KRTP-ltid2/1978264521.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1978264531--8KRTP-ltid2/1978264531.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1978264541--8KRTP-ltid2/1978264541.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1978264551---TQTV-ltid2/1978264551.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1978264561---TQTV-ltid2/1978264561.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1978264571--JQFMQ-ltid2/1978264571.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1978264581--JQFMQ-ltid2/1978264581.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1978264591--JQFMQ-ltid2/1978264591.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1978264601--RZJTJ-ltid2/1978264601.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1978264611--RZJTJ-ltid2/1978264611.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>F-150</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>326055A</id>
+    <title>2025 GMC Sierra 1500 AT4</title>
+    <link rel="alternate" href="https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GTUUEE88SZ179999"/>
+    <ns0:id>326055A</ns0:id>
+    <ns0:price>55554.00 USD</ns0:price>
+    <ns0:vin>1GTUUEE88SZ179999</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>GMC</ns0:brand>
+    <ns0:store_code>8769789203665249729</ns0:store_code>
+    <ns0:dealership_name>Napleton Chevrolet Buick GMC</ns0:dealership_name>
+    <ns0:dealership_address>N8167 Kellom Rd., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8769789203665249729</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>GMC</ns0:make>
+    <ns0:model>Sierra 1500</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GTUUEE88SZ179999&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>AT4</ns0:trim>
+    <ns0:mileage>25618 miles</ns0:mileage>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>Onyx Black</ns0:color>
+    <ns0:custom_label_0>Sierra 1500</ns0:custom_label_0>
   </entry>
   <entry>
     <id>326140</id>
     <title>2026 GMC Sierra 1500 Denali Ultimate</title>
-    <link rel="alternate" href="https://www.napletonchevybuickgmc.com/inventory/details/1GTUUHE87TZ256008"/>
+    <link rel="alternate" href="https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GTUUHE87TZ256008"/>
     <ns0:id>326140</ns0:id>
     <ns0:price>86115.00 USD</ns0:price>
     <ns0:vehicle_msrp>86115.00 USD</ns0:vehicle_msrp>
@@ -7735,17 +7611,27 @@
     <ns0:model>Sierra 1500</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevybuickgmc.com/inventory/details/1GTUUHE87TZ256008?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GTUUHE87TZ256008&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Denali Ultimate</ns0:trim>
     <ns0:mileage>130 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Downpour Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1983012431--JDRGA-ltid1/1983012431.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1983012441--IDV9C-ltid1/1983012441.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1983012451--MEO3G-ltid1/1983012451.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1983012461--8QCQU-ltid1/1983012461.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1983012471--8QCQU-ltid1/1983012471.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1983012481--TDMZV-ltid1/1983012481.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1983012491--H8SY2-ltid1/1983012491.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1983012501--G3FFG-ltid1/1983012501.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1983012511--Q-ME2-ltid1/1983012511.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid28685-photoid1983012521--Q-ME2-ltid1/1983012521.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Sierra 1500</ns0:custom_label_0>
   </entry>
   <entry>
     <id>124466</id>
     <title>2024 Chevrolet Silverado 6500HD Work Truck</title>
-    <link rel="alternate" href="https://www.napletonchevybuickgmc.com/inventory/details/1HTKJPVK1RH339277"/>
+    <link rel="alternate" href="https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1HTKJPVK1RH339277"/>
     <ns0:id>124466</ns0:id>
     <ns0:price>70106.64 USD</ns0:price>
     <ns0:vehicle_msrp>70106.64 USD</ns0:vehicle_msrp>
@@ -7764,10 +7650,67 @@
     <ns0:model>Silverado 6500HD</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevybuickgmc.com/inventory/details/1HTKJPVK1RH339277?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1HTKJPVK1RH339277&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Work Truck</ns0:trim>
     <ns0:mileage>222 miles</ns0:mileage>
     <ns0:color>Summit White</ns0:color>
     <ns0:custom_label_0>Silverado 6500HD</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>126051C</id>
+    <title>2025 Honda HR-V Sport</title>
+    <link rel="alternate" href="https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3CZRZ2H51SM729126"/>
+    <ns0:id>126051C</ns0:id>
+    <ns0:price>25000.00 USD</ns0:price>
+    <ns0:vin>3CZRZ2H51SM729126</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Honda</ns0:brand>
+    <ns0:store_code>8769789203665249729</ns0:store_code>
+    <ns0:dealership_name>Napleton Chevrolet Buick GMC</ns0:dealership_name>
+    <ns0:dealership_address>N8167 Kellom Rd., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8769789203665249729</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>Honda</ns0:make>
+    <ns0:model>HR-V</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonchevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3CZRZ2H51SM729126&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Sport</ns0:trim>
+    <ns0:mileage>34238 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Crystal Black Pearl</ns0:color>
+    <ns0:custom_label_0>HR-V</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>126141</id>
+    <title>2026 Chevrolet Silverado 1500 LT Trail Boss</title>
+    <link rel="alternate" href="https://www.napletonchevybuickgmc.com/inventory/details/3GCUKFED3TG190810"/>
+    <ns0:id>126141</ns0:id>
+    <ns0:price>69520.00 USD</ns0:price>
+    <ns0:vehicle_msrp>69520.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3GCUKFED3TG190810</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Chevrolet</ns0:brand>
+    <ns0:store_code>8769789203665249729</ns0:store_code>
+    <ns0:dealership_name>Napleton Chevrolet Buick GMC</ns0:dealership_name>
+    <ns0:dealership_address>N8167 Kellom Rd., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8769789203665249729</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Chevrolet</ns0:make>
+    <ns0:model>Silverado 1500</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonchevybuickgmc.com/inventory/details/3GCUKFED3TG190810?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>LT Trail Boss</ns0:trim>
+    <ns0:mileage>55 miles</ns0:mileage>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>Riptide Blue Metallic</ns0:color>
+    <ns0:custom_label_0>Silverado 1500</ns0:custom_label_0>
   </entry>
 </feed>

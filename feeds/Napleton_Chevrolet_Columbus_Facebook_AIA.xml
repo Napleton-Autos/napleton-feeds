@@ -1,79 +1,6 @@
 <?xml version="1.0" ?>
 <listings>
   <listing>
-    <vehicle_id>1gc402elxsu414012</vehicle_id>
-    <title>2025 Chevrolet Silverado EV RST</title>
-    <description>2025 Chevrolet Silverado EV. Trim: RST. Color: Black. Body Style: Crew Cab Pickup.</description>
-    <address format="simple">
-      <component name="addr1">800 Maple Avenue</component>
-      <component name="city">Columbus</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53925</component>
-    </address>
-    <year>2025</year>
-    <make>Chevrolet</make>
-    <model>Silverado EV</model>
-    <vin>1gc402elxsu414012</vin>
-    <content_ids>1gc402elxsu414012</content_ids>
-    <availability>in stock</availability>
-    <price>82408.00 USD</price>
-    <url>https://www.napletonchevycolumbus.com/inventory/new-2025-chevrolet-silverado-ev-rst-max-range-four-wheel-drive-crew-cab-1gc402elxsu414012/</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>8</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>RST</trim>
-    <body_style>TRUCK</body_style>
-    <exterior_color>Black</exterior_color>
-    <interior_color>Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771650901--1CELY-ltid1/1771650901.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771650911--1CELY-ltid1/1771650911.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771650921--1CELY-ltid1/1771650921.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771650931---MIBB-ltid1/1771650931.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771650941---MIBB-ltid1/1771650941.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771650951---MIBB-ltid1/1771650951.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771650961--8XSUR-ltid1/1771650961.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771650971--8XSUR-ltid1/1771650971.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771650981--8XSUR-ltid1/1771650981.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771650991--0CHGV-ltid1/1771650991.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771651001--0CHGV-ltid1/1771651001.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771651011--0CHGV-ltid1/1771651011.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771652641--MCOBA-ltid1/1771652641.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1771652651--MCOBA-ltid1/1771652651.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>kl79mrsl3tb010115</vehicle_id>
     <title>2026 Chevrolet Trailblazer LT</title>
     <description>2026 Chevrolet Trailblazer. Trim: LT. Color: Summit White. Body Style: Sport Utility.</description>
@@ -763,97 +690,6 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1793876481--DGNIV-ltid1/1793876481.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>3gnaxueg9pl254131</vehicle_id>
-    <title>2023 Chevrolet Equinox LT</title>
-    <description>2023 Chevrolet Equinox. Trim: LT. Color: Sterling Gray Metallic. Body Style: Sport Utility Vehicle.</description>
-    <address format="simple">
-      <component name="addr1">800 Maple Avenue</component>
-      <component name="city">Columbus</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53925</component>
-    </address>
-    <year>2023</year>
-    <make>Chevrolet</make>
-    <model>Equinox</model>
-    <vin>3gnaxueg9pl254131</vin>
-    <content_ids>3gnaxueg9pl254131</content_ids>
-    <availability>in stock</availability>
-    <price>18778.00 USD</price>
-    <url>https://www.napletonchevycolumbus.com/inventory/used-2023-chevrolet-equinox-lt-all-wheel-drive-suv-3gnaxueg9pl254131/</url>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <condition>used</condition>
-    <mileage>
-      <value>60499</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>LT</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Sterling Gray Metallic</exterior_color>
-    <interior_color>Jet Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1804043251--NTXY4-ltid2/1804043251.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1804043261--EN6LH-ltid2/1804043261.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1804043271--EN6LH-ltid2/1804043271.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1804043281--YFUT3-ltid2/1804043281.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1804043291--QWBOX-ltid2/1804043291.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1804043101--CC9WK-ltid2/1804043101.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1804043111--CMMFN-ltid2/1804043111.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1804043121--CMMFN-ltid2/1804043121.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1804043131--ID+DU-ltid2/1804043131.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1804043141--E4OGC-ltid2/1804043141.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1804043151--NGZIO-ltid2/1804043151.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1804043161--TQ5EM-ltid2/1804043161.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1804043171--5FN4F-ltid2/1804043171.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1804043181--5FN4F-ltid2/1804043181.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1804043191--DV22X-ltid2/1804043191.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1804043201--HGUUD-ltid2/1804043201.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1804043211--HCK2P-ltid2/1804043211.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1804043221--OQH3K-ltid2/1804043221.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1804043231--OQH3K-ltid2/1804043231.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1804043241--SVBX5-ltid2/1804043241.jpg</url>
     </image>
   </listing>
   <listing>
@@ -2638,41 +2474,62 @@
     <exterior_color>Lakeshore Blue Metallic</exterior_color>
     <interior_color>Jet Black</interior_color>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1862697941--U3NWF-ltid1/1862697941.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1982634301--MFB6E-ltid1/1982634301.jpg</url>
       <tag>main</tag>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1862697951--RUGQ+-ltid1/1862697951.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1982634311--MFB6E-ltid1/1982634311.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1862697961--MA+B1-ltid1/1862697961.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1982634321--B-E5A-ltid1/1982634321.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1862697971--AJDZD-ltid1/1862697971.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1982634331--JQNZ4-ltid1/1982634331.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1862697981--M2SZX-ltid1/1862697981.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1982634341--KR4ZN-ltid1/1982634341.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1862697991--C+JPH-ltid1/1862697991.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1982634351--KR4ZN-ltid1/1982634351.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1862698001--SX1SN-ltid1/1862698001.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1982634361--SC1UD-ltid1/1982634361.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1862698011--SX1SN-ltid1/1862698011.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1982634371--XTC2R-ltid1/1982634371.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1862698021--TEZFF-ltid1/1862698021.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1982634381--OPR5V-ltid1/1982634381.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1862698031--YG8+R-ltid1/1862698031.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1982634391--OPR5V-ltid1/1982634391.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1862698041--YG8+R-ltid1/1862698041.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1982634401--SAYP9-ltid1/1982634401.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1862698051--NGCYM-ltid1/1862698051.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1982634411--PZG2Z-ltid1/1982634411.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1982634421--ROKTC-ltid1/1982634421.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1982634431--9EIOT-ltid1/1982634431.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1982634441--9EIOT-ltid1/1982634441.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1982634451--PIO---ltid1/1982634451.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1982634461--K8ZFB-ltid1/1982634461.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1982634471--ZCRXH-ltid1/1982634471.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1982634481--HDOJX-ltid1/1982634481.jpg</url>
     </image>
   </listing>
   <listing>
@@ -3636,9 +3493,9 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3gnaxpeg0tl252960</vehicle_id>
-    <title>2026 Chevrolet Equinox AWD LT</title>
-    <description>2026 Chevrolet Equinox. Trim: AWD LT. Color: Mosaic Black Metallic. Body Style: Sport Utility Vehicle.</description>
+    <vehicle_id>1gnskfkd0mr301186</vehicle_id>
+    <title>2021 Chevrolet Suburban Premier</title>
+    <description>2021 Chevrolet Suburban. Trim: Premier. Color: Iridescent Pearl Tricoat. Body Style: Sport Utility Vehicle.</description>
     <address format="simple">
       <component name="addr1">800 Maple Avenue</component>
       <component name="city">Columbus</component>
@@ -3646,63 +3503,84 @@
       <component name="country">US</component>
       <component name="postal_code">53925</component>
     </address>
-    <year>2026</year>
+    <year>2021</year>
     <make>Chevrolet</make>
-    <model>Equinox</model>
-    <vin>3gnaxpeg0tl252960</vin>
-    <content_ids>3gnaxpeg0tl252960</content_ids>
+    <model>Suburban</model>
+    <vin>1gnskfkd0mr301186</vin>
+    <content_ids>1gnskfkd0mr301186</content_ids>
     <availability>in stock</availability>
-    <price>35590.00 USD</price>
-    <url>https://www.napletonchevycolumbus.com/inventory/new-2026-chevrolet-equinox-lt-all-wheel-drive-suv-3gnaxpeg0tl252960/</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
+    <price>40622.00 USD</price>
+    <url>https://www.napletonchevycolumbus.com/inventory/used-2021-chevrolet-suburban-premier-four-wheel-drive-suv-1gnskfkd0mr301186/</url>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <condition>used</condition>
     <mileage>
-      <value>189</value>
+      <value>81807</value>
       <unit>MI</unit>
     </mileage>
-    <trim>AWD LT</trim>
+    <trim>Premier</trim>
     <body_style>SUV</body_style>
-    <exterior_color>Mosaic Black Metallic</exterior_color>
-    <interior_color>Black</interior_color>
+    <exterior_color>Iridescent Pearl Tricoat</exterior_color>
+    <interior_color>Jet Black</interior_color>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1969299191--D93QC-ltid1/1969299191.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1981737201--EVTPF-ltid2/1981737201.jpg</url>
       <tag>main</tag>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1969299201--DR33K-ltid1/1969299201.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1981737211--ZE+ZR-ltid2/1981737211.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1969299211--DR33K-ltid1/1969299211.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1981737221--ZE+ZR-ltid2/1981737221.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1969299221--OYWBN-ltid1/1969299221.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1981737231--ZE+ZR-ltid2/1981737231.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1969299231--3O8XZ-ltid1/1969299231.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1981737241--ZE+ZR-ltid2/1981737241.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1969299241--3O8XZ-ltid1/1969299241.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1981737251--EX16N-ltid2/1981737251.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1969299251--JZKD4-ltid1/1969299251.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1981737261--EX16N-ltid2/1981737261.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1969299261--JZKD4-ltid1/1969299261.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1981737271--EX16N-ltid2/1981737271.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1969299271--WUZTJ-ltid1/1969299271.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1981737281--SBLQ--ltid2/1981737281.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1969299281--KDMDR-ltid1/1969299281.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1981737291--SBLQ--ltid2/1981737291.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1969299291--OBK3N-ltid1/1969299291.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1981737301--SBLQ--ltid2/1981737301.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1969299301--OBPZ7-ltid1/1969299301.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1981737311--BLMPZ-ltid2/1981737311.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1969299311--OBPZ7-ltid1/1969299311.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1981737321--BLMPZ-ltid2/1981737321.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1981737331--BLMPZ-ltid2/1981737331.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1981737341--K8INX-ltid2/1981737341.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1981737351--K8INX-ltid2/1981737351.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1981737361--K8INX-ltid2/1981737361.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1981737371--NH4LN-ltid2/1981737371.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1981737381--NH4LN-ltid2/1981737381.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1981737051--KFSGS-ltid2/1981737051.jpg</url>
     </image>
   </listing>
 </listings>
