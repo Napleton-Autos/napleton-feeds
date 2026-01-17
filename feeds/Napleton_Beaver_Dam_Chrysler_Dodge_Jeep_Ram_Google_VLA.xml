@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Beaver Dam Chrysler Dodge Jeep Ram Inventory Feed</title>
   <link href="https://www.beaverdamcdjr.com/" rel="self"/>
-  <updated>2026-01-17T08:02:44.712490</updated>
+  <updated>2026-01-17T12:03:02.946661</updated>
   <entry>
     <id>140015</id>
     <title>2025 Chrysler Pacifica Select</title>
@@ -1970,7 +1970,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C6UR5DJ5TG227599&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Big Horn</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:mileage>11 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Bright White Clearcoat</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1986700101--ODE5C-ltid1/1986700101.jpg</ns0:image_link>
@@ -2755,7 +2755,7 @@
   <entry>
     <id>440077</id>
     <title>2026 Ram 1500 Laramie</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com//inventory/details/1C6SRFJT5TN251556"/>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFJT5TN251556"/>
     <ns0:id>440077</ns0:id>
     <ns0:price>64772.00 USD</ns0:price>
     <ns0:vehicle_msrp>73315.00 USD</ns0:vehicle_msrp>
@@ -2774,21 +2774,105 @@
     <ns0:model>1500</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com//inventory/details/1C6SRFJT5TN251556?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFJT5TN251556&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Laramie</ns0:trim>
     <ns0:mileage>100 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Molten Red Pearlcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1981173511--PTOBT-ltid1/1981173511.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1981173521--M4IRQ-ltid1/1981173521.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1981173531--LPQ21-ltid1/1981173531.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1981173541--OY4TV-ltid1/1981173541.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1981173551--JPP3T-ltid1/1981173551.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1981173561--27131-ltid1/1981173561.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1981173571--13WTR-ltid1/1981173571.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1981173581--ZIFZ3-ltid1/1981173581.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1981173591--ZIFZ3-ltid1/1981173591.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1981173601--YWS0C-ltid1/1981173601.jpg</ns0:additional_image_link>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1988064541---STAS-ltid1/1988064541.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1988064551--XI7RN-ltid1/1988064551.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1988064561--LG7CP-ltid1/1988064561.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1988064571--LG7CP-ltid1/1988064571.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1988064581--T0FPW-ltid1/1988064581.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1988064591--MMX8S-ltid1/1988064591.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1988064601--AIN6H-ltid1/1988064601.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1988064611---SKOX-ltid1/1988064611.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1988064621--IMUGY-ltid1/1988064621.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1988064631--IMUGY-ltid1/1988064631.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>1500</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>440079</id>
+    <title>2026 RAM 1500 BIG HORN 4X4 CREW CAB 5'7</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com//inventory/details/1C6SRFFP5TN310374"/>
+    <ns0:id>440079</ns0:id>
+    <ns0:price>59425.00 USD</ns0:price>
+    <ns0:vehicle_msrp>64775.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1C6SRFFP5TN310374</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>RAM</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>RAM</ns0:make>
+    <ns0:model>1500</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com//inventory/details/1C6SRFFP5TN310374?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>BIG HORN 4X4 CREW CAB 5'7</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:color>FORGED BLUE METALLIC</ns0:color>
+    <ns0:custom_label_0>1500</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>440078</id>
+    <title>2026 RAM 1500 LARAMIE 4X4 CREW CAB 5'7</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com//inventory/details/1C6SRFJT8TN302418"/>
+    <ns0:id>440078</ns0:id>
+    <ns0:price>78436.00 USD</ns0:price>
+    <ns0:vehicle_msrp>83960.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1C6SRFJT8TN302418</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>RAM</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>RAM</ns0:make>
+    <ns0:model>1500</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com//inventory/details/1C6SRFJT8TN302418?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>LARAMIE 4X4 CREW CAB 5'7</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:color>HYDRO BLUE PEARL COAT</ns0:color>
+    <ns0:custom_label_0>1500</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>440080</id>
+    <title>2026 RAM 1500 BIG HORN 4X4 CREW CAB 6'4</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com//inventory/details/1C6SRFMP8TN292780"/>
+    <ns0:id>440080</ns0:id>
+    <ns0:price>59377.00 USD</ns0:price>
+    <ns0:vehicle_msrp>64620.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1C6SRFMP8TN292780</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>RAM</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>RAM</ns0:make>
+    <ns0:model>1500</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com//inventory/details/1C6SRFMP8TN292780?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>BIG HORN 4X4 CREW CAB 6'4</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:color>DIAMOND BLACK CRYSTAL P/C</ns0:color>
     <ns0:custom_label_0>1500</ns0:custom_label_0>
   </entry>
 </feed>

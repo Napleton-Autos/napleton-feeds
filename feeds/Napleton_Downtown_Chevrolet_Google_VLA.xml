@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Downtown Chevrolet Inventory Feed</title>
   <link href="https://www.downtownchevy.com" rel="self"/>
-  <updated>2026-01-17T08:02:44.765902</updated>
+  <updated>2026-01-17T12:03:03.000040</updated>
   <entry>
     <id>H25031</id>
     <title>2025 Hyundai Sonata SE</title>
@@ -1384,44 +1384,6 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771617431--OVGMO-ltid2/1771617431.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771617441--16OD4-ltid2/1771617441.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Yukon</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>P0758</id>
-    <title>2023 Buick Encore GX Select</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2023-buick-encore-gx-select-front-wheel-drive-suv-kl4mmdsl1pb012462/"/>
-    <ns0:id>P0758</ns0:id>
-    <ns0:price>19996.00 USD</ns0:price>
-    <ns0:vin>KL4MMDSL1PB012462</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Buick</ns0:brand>
-    <ns0:store_code>7227908043401009324</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
-    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>7227908043401009324</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2023</ns0:year>
-    <ns0:make>Buick</ns0:make>
-    <ns0:model>Encore GX</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2023-buick-encore-gx-select-front-wheel-drive-suv-kl4mmdsl1pb012462/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Select</ns0:trim>
-    <ns0:mileage>35740 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>White Frost Tricoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1785864701--OHGTV-ltid2/1785864701.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1785864711--RWPIX-ltid2/1785864711.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1785864721--RWPIX-ltid2/1785864721.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1785864731--RWPIX-ltid2/1785864731.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1785864741--01TYN-ltid2/1785864741.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1785864751--01TYN-ltid2/1785864751.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1785864761--01TYN-ltid2/1785864761.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1785864771--01TYN-ltid2/1785864771.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1785864781--A-6II-ltid2/1785864781.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1785864791--A-6II-ltid2/1785864791.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Encore GX</ns0:custom_label_0>
   </entry>
   <entry>
     <id>P0760</id>
@@ -3274,7 +3236,7 @@
   <entry>
     <id>T26011A</id>
     <title>2018 GMC Acadia SLT</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/details/1GKKNULS2JZ192554"/>
+    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2018-gmc-acadia-slt-all-wheel-drive-suv-1gkknuls2jz192554/"/>
     <ns0:id>T26011A</ns0:id>
     <ns0:price>18991.00 USD</ns0:price>
     <ns0:vin>1GKKNULS2JZ192554</ns0:vin>
@@ -3292,7 +3254,7 @@
     <ns0:model>Acadia</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/details/1GKKNULS2JZ192554?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2018-gmc-acadia-slt-all-wheel-drive-suv-1gkknuls2jz192554/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>SLT</ns0:trim>
     <ns0:mileage>25647 miles</ns0:mileage>
     <ns0:color>Iridium Metallic</ns0:color>
@@ -3301,7 +3263,7 @@
   <entry>
     <id>B26007A</id>
     <title>2019 Chevrolet Silverado 1500 RST</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/details/3GCUYEED5KG210157"/>
+    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2019-chevrolet-silverado-1500-rst-four-wheel-drive-crew-cab-3gcuyeed5kg210157/"/>
     <ns0:id>B26007A</ns0:id>
     <ns0:price>31691.00 USD</ns0:price>
     <ns0:vin>3GCUYEED5KG210157</ns0:vin>
@@ -3319,7 +3281,7 @@
     <ns0:model>Silverado 1500</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/details/3GCUYEED5KG210157?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2019-chevrolet-silverado-1500-rst-four-wheel-drive-crew-cab-3gcuyeed5kg210157/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>RST</ns0:trim>
     <ns0:mileage>46457 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
