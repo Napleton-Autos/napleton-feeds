@@ -2,11 +2,11 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Downtown Chevrolet Inventory Feed</title>
   <link href="https://www.downtownchevy.com" rel="self"/>
-  <updated>2026-01-20T08:03:29.639640</updated>
+  <updated>2026-01-20T12:04:19.294247</updated>
   <entry>
     <id>H25031</id>
     <title>2025 Hyundai Sonata SE</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/details/KMHL24JA5SA457420"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KMHL24JA5SA457420"/>
     <ns0:id>H25031</ns0:id>
     <ns0:price>21795.00 USD</ns0:price>
     <ns0:vehicle_msrp>28330.00 USD</ns0:vehicle_msrp>
@@ -25,7 +25,7 @@
     <ns0:model>Sonata</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/details/KMHL24JA5SA457420?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KMHL24JA5SA457420&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>SE</ns0:trim>
     <ns0:mileage>6769 miles</ns0:mileage>
     <ns0:body_style>sedan</ns0:body_style>
@@ -45,7 +45,7 @@
   <entry>
     <id>C25129</id>
     <title>2025 Chevrolet Silverado 1500 Work Truck</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2025-chevrolet-silverado-1500-wt-four-wheel-drive-regular-cab-3gcnkaed0sg137665/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GCNKAED0SG137665"/>
     <ns0:id>C25129</ns0:id>
     <ns0:price>36573.00 USD</ns0:price>
     <ns0:vehicle_msrp>48050.00 USD</ns0:vehicle_msrp>
@@ -64,7 +64,7 @@
     <ns0:model>Silverado 1500</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2025-chevrolet-silverado-1500-wt-four-wheel-drive-regular-cab-3gcnkaed0sg137665/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GCNKAED0SG137665&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Work Truck</ns0:trim>
     <ns0:mileage>12 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
@@ -84,7 +84,7 @@
   <entry>
     <id>C25221</id>
     <title>2025 Chevrolet Blazer EV AWD LT</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2025-chevrolet-blazer-ev-lt-all-wheel-drive-suv-3gnkdgrj2ss172986/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GNKDGRJ2SS172986"/>
     <ns0:id>C25221</ns0:id>
     <ns0:price>42291.00 USD</ns0:price>
     <ns0:vehicle_msrp>52035.00 USD</ns0:vehicle_msrp>
@@ -103,7 +103,7 @@
     <ns0:model>Blazer EV</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2025-chevrolet-blazer-ev-lt-all-wheel-drive-suv-3gnkdgrj2ss172986/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GNKDGRJ2SS172986&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>AWD LT</ns0:trim>
     <ns0:mileage>1 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -123,7 +123,7 @@
   <entry>
     <id>C25222</id>
     <title>2025 Chevrolet Blazer EV AWD LT</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2025-chevrolet-blazer-ev-lt-all-wheel-drive-suv-3gnkdgrj5ss173145/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GNKDGRJ5SS173145"/>
     <ns0:id>C25222</ns0:id>
     <ns0:price>42291.00 USD</ns0:price>
     <ns0:vehicle_msrp>52035.00 USD</ns0:vehicle_msrp>
@@ -142,7 +142,7 @@
     <ns0:model>Blazer EV</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2025-chevrolet-blazer-ev-lt-all-wheel-drive-suv-3gnkdgrj5ss173145/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GNKDGRJ5SS173145&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>AWD LT</ns0:trim>
     <ns0:mileage>17 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -162,7 +162,7 @@
   <entry>
     <id>C25312</id>
     <title>2025 Chevrolet Colorado 4WD LT</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2025-chevrolet-colorado-wtlt-four-wheel-drive-crew-cab-1gcptcek9s1185230/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GCPTCEK9S1185230"/>
     <ns0:id>C25312</ns0:id>
     <ns0:price>35171.00 USD</ns0:price>
     <ns0:vehicle_msrp>40190.00 USD</ns0:vehicle_msrp>
@@ -181,7 +181,7 @@
     <ns0:model>Colorado</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2025-chevrolet-colorado-wtlt-four-wheel-drive-crew-cab-1gcptcek9s1185230/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GCPTCEK9S1185230&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>4WD LT</ns0:trim>
     <ns0:mileage>4 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
@@ -201,7 +201,7 @@
   <entry>
     <id>H25145</id>
     <title>2025 Hyundai Sonata Hybrid Limited</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/details/KMHL54JJ3SA126424"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KMHL54JJ3SA126424"/>
     <ns0:id>H25145</ns0:id>
     <ns0:price>31565.00 USD</ns0:price>
     <ns0:vin>KMHL54JJ3SA126424</ns0:vin>
@@ -219,7 +219,7 @@
     <ns0:model>Sonata Hybrid</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/details/KMHL54JJ3SA126424?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KMHL54JJ3SA126424&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Limited</ns0:trim>
     <ns0:mileage>3300 miles</ns0:mileage>
     <ns0:body_style>sedan</ns0:body_style>
@@ -277,7 +277,7 @@
   <entry>
     <id>C25321</id>
     <title>2025 Chevrolet Silverado EV RST</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2025-chevrolet-silverado-ev-rst-max-range-four-wheel-drive-crew-cab-1gc402el5su414015/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GC402EL5SU414015"/>
     <ns0:id>C25321</ns0:id>
     <ns0:price>82408.00 USD</ns0:price>
     <ns0:vehicle_msrp>98190.00 USD</ns0:vehicle_msrp>
@@ -296,7 +296,7 @@
     <ns0:model>Silverado EV</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2025-chevrolet-silverado-ev-rst-max-range-four-wheel-drive-crew-cab-1gc402el5su414015/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GC402EL5SU414015&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>RST</ns0:trim>
     <ns0:mileage>834 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
@@ -316,7 +316,7 @@
   <entry>
     <id>H25050</id>
     <title>2025 Hyundai Elantra SE</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/details/KMHLL4DG5SU936819"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KMHLL4DG5SU936819"/>
     <ns0:id>H25050</ns0:id>
     <ns0:price>18950.00 USD</ns0:price>
     <ns0:vin>KMHLL4DG5SU936819</ns0:vin>
@@ -334,7 +334,7 @@
     <ns0:model>Elantra</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/details/KMHLL4DG5SU936819?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KMHLL4DG5SU936819&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>SE</ns0:trim>
     <ns0:mileage>3663 miles</ns0:mileage>
     <ns0:body_style>sedan</ns0:body_style>
@@ -344,7 +344,7 @@
   <entry>
     <id>C26010</id>
     <title>2026 Chevrolet Trailblazer LS</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2026-chevrolet-trailblazer-ls-front-wheel-drive-suv-kl79mmsl9tb020313/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL79MMSL9TB020313"/>
     <ns0:id>C26010</ns0:id>
     <ns0:price>23676.00 USD</ns0:price>
     <ns0:vehicle_msrp>25875.00 USD</ns0:vehicle_msrp>
@@ -363,7 +363,7 @@
     <ns0:model>Trailblazer</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2026-chevrolet-trailblazer-ls-front-wheel-drive-suv-kl79mmsl9tb020313/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL79MMSL9TB020313&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LS</ns0:trim>
     <ns0:mileage>3600 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -383,7 +383,7 @@
   <entry>
     <id>C25375</id>
     <title>2025 Chevrolet Trax ACTIV</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2025-chevrolet-trax-activ-front-wheel-drive-suv-kl77lkep3sc332522/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL77LKEP3SC332522"/>
     <ns0:id>C25375</ns0:id>
     <ns0:price>25029.00 USD</ns0:price>
     <ns0:vehicle_msrp>27205.00 USD</ns0:vehicle_msrp>
@@ -402,7 +402,7 @@
     <ns0:model>Trax</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2025-chevrolet-trax-activ-front-wheel-drive-suv-kl77lkep3sc332522/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL77LKEP3SC332522&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>ACTIV</ns0:trim>
     <ns0:mileage>6 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -420,47 +420,9 @@
     <ns0:custom_label_0>Trax</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>GL26012</id>
-    <title>2026 Genesis G70 2.5T Prestige</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/details/KMTG34SC6TU160600"/>
-    <ns0:id>GL26012</ns0:id>
-    <ns0:price>43985.00 USD</ns0:price>
-    <ns0:vin>KMTG34SC6TU160600</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Genesis</ns0:brand>
-    <ns0:store_code>7227908043401009324</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
-    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>7227908043401009324</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Genesis</ns0:make>
-    <ns0:model>G70</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/details/KMTG34SC6TU160600?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>2.5T Prestige</ns0:trim>
-    <ns0:mileage>4210 miles</ns0:mileage>
-    <ns0:body_style>sedan</ns0:body_style>
-    <ns0:color>Vik Black</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1829564841--QSRGH-ltid2/1829564841.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1829564851--F+Y+X-ltid2/1829564851.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1829564861--DS6HS-ltid2/1829564861.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1829564871--JKJ6S-ltid2/1829564871.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1829564881--JKJ6S-ltid2/1829564881.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1829564891--MMDML-ltid2/1829564891.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1829564901--PXECG-ltid2/1829564901.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1829564911--KKZAR-ltid2/1829564911.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1829564921--22RJV-ltid2/1829564921.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1829564931--AISL+-ltid2/1829564931.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>G70</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>C26022</id>
     <title>2026 Chevrolet Traverse FWD LT</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2026-chevrolet-traverse-lt-front-wheel-drive-suv-1gnergks5tj136746/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GNERGKS5TJ136746"/>
     <ns0:id>C26022</ns0:id>
     <ns0:price>42503.00 USD</ns0:price>
     <ns0:vehicle_msrp>44740.00 USD</ns0:vehicle_msrp>
@@ -479,7 +441,7 @@
     <ns0:model>Traverse</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2026-chevrolet-traverse-lt-front-wheel-drive-suv-1gnergks5tj136746/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GNERGKS5TJ136746&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>FWD LT</ns0:trim>
     <ns0:mileage>5 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -499,7 +461,7 @@
   <entry>
     <id>C26024</id>
     <title>2026 Chevrolet Traverse FWD LT</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2026-chevrolet-traverse-lt-front-wheel-drive-suv-1gnergks9tj141173/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GNERGKS9TJ141173"/>
     <ns0:id>C26024</ns0:id>
     <ns0:price>42503.00 USD</ns0:price>
     <ns0:vehicle_msrp>44740.00 USD</ns0:vehicle_msrp>
@@ -518,7 +480,7 @@
     <ns0:model>Traverse</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2026-chevrolet-traverse-lt-front-wheel-drive-suv-1gnergks9tj141173/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GNERGKS9TJ141173&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>FWD LT</ns0:trim>
     <ns0:mileage>5 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -538,7 +500,7 @@
   <entry>
     <id>C26023</id>
     <title>2026 Chevrolet Corvette 1LT</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2026-chevrolet-corvette-stingray-1lt-rear-wheel-drive-coupe-1g1ya2d43t5100361/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1G1YA2D43T5100361"/>
     <ns0:id>C26023</ns0:id>
     <ns0:price>80030.00 USD</ns0:price>
     <ns0:vehicle_msrp>80030.00 USD</ns0:vehicle_msrp>
@@ -557,7 +519,7 @@
     <ns0:model>Corvette</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2026-chevrolet-corvette-stingray-1lt-rear-wheel-drive-coupe-1g1ya2d43t5100361/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1G1YA2D43T5100361&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>1LT</ns0:trim>
     <ns0:mileage>3 miles</ns0:mileage>
     <ns0:body_style>coupe</ns0:body_style>
@@ -577,7 +539,7 @@
   <entry>
     <id>C26030</id>
     <title>2026 Chevrolet Equinox FWD LT</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2026-chevrolet-equinox-lt-front-wheel-drive-suv-3gnaxhegxtl253832/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GNAXHEGXTL253832"/>
     <ns0:id>C26030</ns0:id>
     <ns0:price>27977.00 USD</ns0:price>
     <ns0:vehicle_msrp>31085.00 USD</ns0:vehicle_msrp>
@@ -596,7 +558,7 @@
     <ns0:model>Equinox</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2026-chevrolet-equinox-lt-front-wheel-drive-suv-3gnaxhegxtl253832/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GNAXHEGXTL253832&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>FWD LT</ns0:trim>
     <ns0:mileage>3 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -616,7 +578,7 @@
   <entry>
     <id>C26032</id>
     <title>2026 Chevrolet Trax LS</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2026-chevrolet-trax-ls-front-wheel-drive-suv-kl77lfep8tc010211/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL77LFEP8TC010211"/>
     <ns0:id>C26032</ns0:id>
     <ns0:price>23679.00 USD</ns0:price>
     <ns0:vehicle_msrp>24925.00 USD</ns0:vehicle_msrp>
@@ -635,7 +597,7 @@
     <ns0:model>Trax</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2026-chevrolet-trax-ls-front-wheel-drive-suv-kl77lfep8tc010211/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL77LFEP8TC010211&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LS</ns0:trim>
     <ns0:mileage>3414 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -655,7 +617,7 @@
   <entry>
     <id>C26031</id>
     <title>2026 Chevrolet Trax 1RS</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2026-chevrolet-trax-1rs-front-wheel-drive-suv-kl77lgep1tc010380/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL77LGEP1TC010380"/>
     <ns0:id>C26031</ns0:id>
     <ns0:price>24159.00 USD</ns0:price>
     <ns0:vehicle_msrp>25430.00 USD</ns0:vehicle_msrp>
@@ -674,7 +636,7 @@
     <ns0:model>Trax</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2026-chevrolet-trax-1rs-front-wheel-drive-suv-kl77lgep1tc010380/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL77LGEP1TC010380&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>1RS</ns0:trim>
     <ns0:mileage>5 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -694,7 +656,7 @@
   <entry>
     <id>C26034</id>
     <title>2026 Chevrolet Trailblazer LT</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2026-chevrolet-trailblazer-lt-front-wheel-drive-suv-kl79mpsl7tb062139/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL79MPSL7TB062139"/>
     <ns0:id>C26034</ns0:id>
     <ns0:price>24870.00 USD</ns0:price>
     <ns0:vehicle_msrp>27180.00 USD</ns0:vehicle_msrp>
@@ -713,7 +675,7 @@
     <ns0:model>Trailblazer</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2026-chevrolet-trailblazer-lt-front-wheel-drive-suv-kl79mpsl7tb062139/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL79MPSL7TB062139&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LT</ns0:trim>
     <ns0:mileage>9 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -733,7 +695,7 @@
   <entry>
     <id>C26039</id>
     <title>2026 Chevrolet Equinox EV LT2 w/PDE</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2026-chevrolet-equinox-ev-lt-front-wheel-drive-suv-3gn7dnrp0ts106792/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GN7DNRP0TS106792"/>
     <ns0:id>C26039</ns0:id>
     <ns0:price>33976.00 USD</ns0:price>
     <ns0:vehicle_msrp>44290.00 USD</ns0:vehicle_msrp>
@@ -752,7 +714,7 @@
     <ns0:model>Equinox EV</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2026-chevrolet-equinox-ev-lt-front-wheel-drive-suv-3gn7dnrp0ts106792/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GN7DNRP0TS106792&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LT2 w/PDE</ns0:trim>
     <ns0:mileage>13 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -772,7 +734,7 @@
   <entry>
     <id>C26041</id>
     <title>2026 Chevrolet Equinox EV LT2 w/PDE</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2026-chevrolet-equinox-ev-lt-front-wheel-drive-suv-3gn7dnrp8ts106796/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GN7DNRP8TS106796"/>
     <ns0:id>C26041</ns0:id>
     <ns0:price>33976.00 USD</ns0:price>
     <ns0:vehicle_msrp>44290.00 USD</ns0:vehicle_msrp>
@@ -791,7 +753,7 @@
     <ns0:model>Equinox EV</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2026-chevrolet-equinox-ev-lt-front-wheel-drive-suv-3gn7dnrp8ts106796/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GN7DNRP8TS106796&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LT2 w/PDE</ns0:trim>
     <ns0:mileage>38 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -811,7 +773,7 @@
   <entry>
     <id>C26045</id>
     <title>2026 Chevrolet Trax 1RS</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2026-chevrolet-trax-1rs-front-wheel-drive-suv-kl77lgep3tc012552/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL77LGEP3TC012552"/>
     <ns0:id>C26045</ns0:id>
     <ns0:price>24159.00 USD</ns0:price>
     <ns0:vehicle_msrp>25430.00 USD</ns0:vehicle_msrp>
@@ -830,7 +792,7 @@
     <ns0:model>Trax</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2026-chevrolet-trax-1rs-front-wheel-drive-suv-kl77lgep3tc012552/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL77LGEP3TC012552&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>1RS</ns0:trim>
     <ns0:mileage>6 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -850,7 +812,7 @@
   <entry>
     <id>C26048</id>
     <title>2026 Chevrolet Trax LT</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2026-chevrolet-trax-lt-front-wheel-drive-suv-kl77lhep4tc024683/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL77LHEP4TC024683"/>
     <ns0:id>C26048</ns0:id>
     <ns0:price>25479.00 USD</ns0:price>
     <ns0:vehicle_msrp>26820.00 USD</ns0:vehicle_msrp>
@@ -869,7 +831,7 @@
     <ns0:model>Trax</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2026-chevrolet-trax-lt-front-wheel-drive-suv-kl77lhep4tc024683/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL77LHEP4TC024683&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LT</ns0:trim>
     <ns0:mileage>3 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -889,7 +851,7 @@
   <entry>
     <id>C26049</id>
     <title>2026 Chevrolet Trax LT</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2026-chevrolet-trax-lt-front-wheel-drive-suv-kl77lhep8tc024816/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL77LHEP8TC024816"/>
     <ns0:id>C26049</ns0:id>
     <ns0:price>25104.00 USD</ns0:price>
     <ns0:vehicle_msrp>26425.00 USD</ns0:vehicle_msrp>
@@ -908,7 +870,7 @@
     <ns0:model>Trax</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2026-chevrolet-trax-lt-front-wheel-drive-suv-kl77lhep8tc024816/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL77LHEP8TC024816&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LT</ns0:trim>
     <ns0:mileage>4 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -928,7 +890,7 @@
   <entry>
     <id>P0731</id>
     <title>2024 Subaru Forester Limited</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2024-subaru-forester-limited-all-wheel-drive-utility-jf2skalc1rh493735/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=JF2SKALC1RH493735"/>
     <ns0:id>P0731</ns0:id>
     <ns0:price>25895.00 USD</ns0:price>
     <ns0:vin>JF2SKALC1RH493735</ns0:vin>
@@ -946,7 +908,7 @@
     <ns0:model>Forester</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2024-subaru-forester-limited-all-wheel-drive-utility-jf2skalc1rh493735/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=JF2SKALC1RH493735&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Limited</ns0:trim>
     <ns0:mileage>28801 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -966,7 +928,7 @@
   <entry>
     <id>P0732</id>
     <title>2024 Volvo V60 Cross Country Plus</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2024-volvo-v60-cross-country-plus-all-wheel-drive-suv-yv4l12wy2r2137250/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=YV4L12WY2R2137250"/>
     <ns0:id>P0732</ns0:id>
     <ns0:price>33595.00 USD</ns0:price>
     <ns0:vin>YV4L12WY2R2137250</ns0:vin>
@@ -984,7 +946,7 @@
     <ns0:model>V60 Cross Country</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2024-volvo-v60-cross-country-plus-all-wheel-drive-suv-yv4l12wy2r2137250/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=YV4L12WY2R2137250&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Plus</ns0:trim>
     <ns0:mileage>34588 miles</ns0:mileage>
     <ns0:body_style>station wagon</ns0:body_style>
@@ -1004,7 +966,7 @@
   <entry>
     <id>P0733</id>
     <title>2024 Chevrolet Traverse AWD LT</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2024-chevrolet-traverse-lt-all-wheel-drive-suv-1gnevgks5rj194425/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GNEVGKS5RJ194425"/>
     <ns0:id>P0733</ns0:id>
     <ns0:price>34595.00 USD</ns0:price>
     <ns0:vin>1GNEVGKS5RJ194425</ns0:vin>
@@ -1022,7 +984,7 @@
     <ns0:model>Traverse</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2024-chevrolet-traverse-lt-all-wheel-drive-suv-1gnevgks5rj194425/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GNEVGKS5RJ194425&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>AWD LT</ns0:trim>
     <ns0:mileage>33259 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1042,7 +1004,7 @@
   <entry>
     <id>C26068</id>
     <title>2026 Chevrolet Trax 1RS</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2026-chevrolet-trax-1rs-front-wheel-drive-suv-kl77lgep2tc024935/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL77LGEP2TC024935"/>
     <ns0:id>C26068</ns0:id>
     <ns0:price>24159.00 USD</ns0:price>
     <ns0:vehicle_msrp>25430.00 USD</ns0:vehicle_msrp>
@@ -1061,7 +1023,7 @@
     <ns0:model>Trax</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2026-chevrolet-trax-1rs-front-wheel-drive-suv-kl77lgep2tc024935/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL77LGEP2TC024935&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>1RS</ns0:trim>
     <ns0:mileage>5 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1081,7 +1043,7 @@
   <entry>
     <id>C26065</id>
     <title>2026 Chevrolet Trax LT</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2026-chevrolet-trax-lt-front-wheel-drive-suv-kl77lhep3tc025050/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL77LHEP3TC025050"/>
     <ns0:id>C26065</ns0:id>
     <ns0:price>25104.00 USD</ns0:price>
     <ns0:vehicle_msrp>26425.00 USD</ns0:vehicle_msrp>
@@ -1100,7 +1062,7 @@
     <ns0:model>Trax</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2026-chevrolet-trax-lt-front-wheel-drive-suv-kl77lhep3tc025050/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL77LHEP3TC025050&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LT</ns0:trim>
     <ns0:mileage>4 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1120,7 +1082,7 @@
   <entry>
     <id>C26071</id>
     <title>2026 Chevrolet Trax LT</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2026-chevrolet-trax-lt-front-wheel-drive-suv-kl77lhep9tc024906/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL77LHEP9TC024906"/>
     <ns0:id>C26071</ns0:id>
     <ns0:price>25104.00 USD</ns0:price>
     <ns0:vehicle_msrp>26425.00 USD</ns0:vehicle_msrp>
@@ -1139,7 +1101,7 @@
     <ns0:model>Trax</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2026-chevrolet-trax-lt-front-wheel-drive-suv-kl77lhep9tc024906/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL77LHEP9TC024906&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LT</ns0:trim>
     <ns0:mileage>6 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1159,7 +1121,7 @@
   <entry>
     <id>C26063</id>
     <title>2026 Chevrolet Equinox EV LT1 w/PCY</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2026-chevrolet-equinox-ev-lt-all-wheel-drive-suv-3gn7dmrr7ts121592/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GN7DMRR7TS121592"/>
     <ns0:id>C26063</ns0:id>
     <ns0:price>33022.00 USD</ns0:price>
     <ns0:vehicle_msrp>42070.00 USD</ns0:vehicle_msrp>
@@ -1178,7 +1140,7 @@
     <ns0:model>Equinox EV</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2026-chevrolet-equinox-ev-lt-all-wheel-drive-suv-3gn7dmrr7ts121592/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GN7DMRR7TS121592&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LT1 w/PCY</ns0:trim>
     <ns0:mileage>4 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1198,7 +1160,7 @@
   <entry>
     <id>P0744</id>
     <title>2023 Chevrolet Equinox LT</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2023-chevrolet-equinox-lt-front-wheel-drive-suv-3gnaxkeg9pl124242/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GNAXKEG9PL124242"/>
     <ns0:id>P0744</ns0:id>
     <ns0:price>20995.00 USD</ns0:price>
     <ns0:vin>3GNAXKEG9PL124242</ns0:vin>
@@ -1216,7 +1178,7 @@
     <ns0:model>Equinox</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2023-chevrolet-equinox-lt-front-wheel-drive-suv-3gnaxkeg9pl124242/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GNAXKEG9PL124242&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LT</ns0:trim>
     <ns0:mileage>28611 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1236,7 +1198,7 @@
   <entry>
     <id>P0743</id>
     <title>2023 Kia Telluride S</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2023-kia-telluride-s-all-wheel-drive-utility-5xyp6dgcxpg337932/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5XYP6DGCXPG337932"/>
     <ns0:id>P0743</ns0:id>
     <ns0:price>30985.00 USD</ns0:price>
     <ns0:vin>5XYP6DGCXPG337932</ns0:vin>
@@ -1254,7 +1216,7 @@
     <ns0:model>Telluride</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2023-kia-telluride-s-all-wheel-drive-utility-5xyp6dgcxpg337932/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5XYP6DGCXPG337932&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>S</ns0:trim>
     <ns0:mileage>34758 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1274,7 +1236,7 @@
   <entry>
     <id>PB0001</id>
     <title>2024 Hyundai Sonata Hybrid Limited</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2024-hyundai-sonata-hybrid-limited-front-wheel-drive-sedan-4-dr-kmhl54jj4ra093895/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KMHL54JJ4RA093895"/>
     <ns0:id>PB0001</ns0:id>
     <ns0:price>27997.00 USD</ns0:price>
     <ns0:vin>KMHL54JJ4RA093895</ns0:vin>
@@ -1292,7 +1254,7 @@
     <ns0:model>Sonata Hybrid</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2024-hyundai-sonata-hybrid-limited-front-wheel-drive-sedan-4-dr-kmhl54jj4ra093895/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KMHL54JJ4RA093895&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Limited</ns0:trim>
     <ns0:mileage>20877 miles</ns0:mileage>
     <ns0:body_style>sedan</ns0:body_style>
@@ -1312,7 +1274,7 @@
   <entry>
     <id>P0753</id>
     <title>2024 Jeep Wrangler Sport S</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2024-jeep-wrangler-sport-s-four-wheel-drive-suv-1c4pjxdg9rw308340/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1C4PJXDG9RW308340"/>
     <ns0:id>P0753</ns0:id>
     <ns0:price>33545.00 USD</ns0:price>
     <ns0:vin>1C4PJXDG9RW308340</ns0:vin>
@@ -1330,7 +1292,7 @@
     <ns0:model>Wrangler</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2024-jeep-wrangler-sport-s-four-wheel-drive-suv-1c4pjxdg9rw308340/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1C4PJXDG9RW308340&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Sport S</ns0:trim>
     <ns0:mileage>28816 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1350,7 +1312,7 @@
   <entry>
     <id>P0754</id>
     <title>2025 GMC Yukon Denali</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2025-gmc-yukon-denali-four-wheel-drive-suv-1gks2drl4sr169092/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GKS2DRL4SR169092"/>
     <ns0:id>P0754</ns0:id>
     <ns0:price>73790.00 USD</ns0:price>
     <ns0:vin>1GKS2DRL4SR169092</ns0:vin>
@@ -1368,7 +1330,7 @@
     <ns0:model>Yukon</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2025-gmc-yukon-denali-four-wheel-drive-suv-1gks2drl4sr169092/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GKS2DRL4SR169092&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Denali</ns0:trim>
     <ns0:mileage>19831 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1388,7 +1350,7 @@
   <entry>
     <id>P0760</id>
     <title>2025 Cadillac XT5 AWD Premium Luxury</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2025-cadillac-xt5-premium-luxury-all-wheel-drive-suv-1gykndrs1sz118816/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GYKNDRS1SZ118816"/>
     <ns0:id>P0760</ns0:id>
     <ns0:price>38995.00 USD</ns0:price>
     <ns0:vin>1GYKNDRS1SZ118816</ns0:vin>
@@ -1406,7 +1368,7 @@
     <ns0:model>XT5</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2025-cadillac-xt5-premium-luxury-all-wheel-drive-suv-1gykndrs1sz118816/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GYKNDRS1SZ118816&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>AWD Premium Luxury</ns0:trim>
     <ns0:mileage>24231 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1426,7 +1388,7 @@
   <entry>
     <id>P0759</id>
     <title>2025 Cadillac XT6 AWD Premium Luxury</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2025-cadillac-xt6-premium-luxury-all-wheel-drive-suv-1gykpdrs8sz120637/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GYKPDRS8SZ120637"/>
     <ns0:id>P0759</ns0:id>
     <ns0:price>42985.00 USD</ns0:price>
     <ns0:vin>1GYKPDRS8SZ120637</ns0:vin>
@@ -1444,7 +1406,7 @@
     <ns0:model>XT6</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2025-cadillac-xt6-premium-luxury-all-wheel-drive-suv-1gykpdrs8sz120637/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GYKPDRS8SZ120637&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>AWD Premium Luxury</ns0:trim>
     <ns0:mileage>24372 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1464,7 +1426,7 @@
   <entry>
     <id>C26011A</id>
     <title>2025 Chevrolet Trailblazer LT</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2025-chevrolet-trailblazer-lt-front-wheel-drive-suv-kl79mpsl1sb094356/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL79MPSL1SB094356"/>
     <ns0:id>C26011A</ns0:id>
     <ns0:price>21973.00 USD</ns0:price>
     <ns0:vin>KL79MPSL1SB094356</ns0:vin>
@@ -1482,7 +1444,7 @@
     <ns0:model>Trailblazer</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2025-chevrolet-trailblazer-lt-front-wheel-drive-suv-kl79mpsl1sb094356/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL79MPSL1SB094356&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LT</ns0:trim>
     <ns0:mileage>4315 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1502,7 +1464,7 @@
   <entry>
     <id>P0771</id>
     <title>2023 Hyundai Tucson SEL</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2023-hyundai-tucson-sel-front-wheel-drive-suv-5nmjb3ae5ph225308/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5NMJB3AE5PH225308"/>
     <ns0:id>P0771</ns0:id>
     <ns0:price>21572.00 USD</ns0:price>
     <ns0:vin>5NMJB3AE5PH225308</ns0:vin>
@@ -1520,7 +1482,7 @@
     <ns0:model>Tucson</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2023-hyundai-tucson-sel-front-wheel-drive-suv-5nmjb3ae5ph225308/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5NMJB3AE5PH225308&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>SEL</ns0:trim>
     <ns0:mileage>28741 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1540,7 +1502,7 @@
   <entry>
     <id>P0772</id>
     <title>2023 Cadillac XT4 FWD Sport</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2023-cadillac-xt4-sport-front-wheel-drive-suv-1gyfzer45pf151579/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GYFZER45PF151579"/>
     <ns0:id>P0772</ns0:id>
     <ns0:price>26754.00 USD</ns0:price>
     <ns0:vin>1GYFZER45PF151579</ns0:vin>
@@ -1558,7 +1520,7 @@
     <ns0:model>XT4</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2023-cadillac-xt4-sport-front-wheel-drive-suv-1gyfzer45pf151579/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GYFZER45PF151579&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>FWD Sport</ns0:trim>
     <ns0:mileage>43740 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1578,7 +1540,7 @@
   <entry>
     <id>P0770</id>
     <title>2022 GMC Terrain SLT</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2022-gmc-terrain-slt-all-wheel-drive-suv-3gkalvevxnl202646/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GKALVEVXNL202646"/>
     <ns0:id>P0770</ns0:id>
     <ns0:price>23395.00 USD</ns0:price>
     <ns0:vin>3GKALVEVXNL202646</ns0:vin>
@@ -1596,7 +1558,7 @@
     <ns0:model>Terrain</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2022-gmc-terrain-slt-all-wheel-drive-suv-3gkalvevxnl202646/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GKALVEVXNL202646&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>SLT</ns0:trim>
     <ns0:mileage>36942 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1616,7 +1578,7 @@
   <entry>
     <id>C26074</id>
     <title>2026 Chevrolet Blazer LT</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2026-chevrolet-blazer-2lt-front-wheel-drive-suv-3gnkbcr46ts135708/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GNKBCR46TS135708"/>
     <ns0:id>C26074</ns0:id>
     <ns0:price>34291.00 USD</ns0:price>
     <ns0:vehicle_msrp>36095.00 USD</ns0:vehicle_msrp>
@@ -1635,7 +1597,7 @@
     <ns0:model>Blazer</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2026-chevrolet-blazer-2lt-front-wheel-drive-suv-3gnkbcr46ts135708/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GNKBCR46TS135708&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LT</ns0:trim>
     <ns0:mileage>2 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1655,7 +1617,7 @@
   <entry>
     <id>H26021A</id>
     <title>2022 Ram 1500 Laramie</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/details/1C6SRFJT2NN185812"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFJT2NN185812"/>
     <ns0:id>H26021A</ns0:id>
     <ns0:price>33595.00 USD</ns0:price>
     <ns0:vin>1C6SRFJT2NN185812</ns0:vin>
@@ -1673,7 +1635,7 @@
     <ns0:model>1500</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/details/1C6SRFJT2NN185812?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFJT2NN185812&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Laramie</ns0:trim>
     <ns0:mileage>78194 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
@@ -1693,7 +1655,7 @@
   <entry>
     <id>CD26016</id>
     <title>2026 Chevrolet Traverse AWD LT</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2026-chevrolet-traverse-lt-all-wheel-drive-suv-1gnevgks2tj195197/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GNEVGKS2TJ195197"/>
     <ns0:id>CD26016</ns0:id>
     <ns0:price>47230.00 USD</ns0:price>
     <ns0:vehicle_msrp>47820.00 USD</ns0:vehicle_msrp>
@@ -1712,7 +1674,7 @@
     <ns0:model>Traverse</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2026-chevrolet-traverse-lt-all-wheel-drive-suv-1gnevgks2tj195197/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GNEVGKS2TJ195197&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>AWD LT</ns0:trim>
     <ns0:mileage>20 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1732,7 +1694,7 @@
   <entry>
     <id>P0776</id>
     <title>2022 Kia EV6 GT-Line</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2022-kia-ev6-gt-line-all-wheel-drive-suv-kndc4dlc9n5069567/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KNDC4DLC9N5069567"/>
     <ns0:id>P0776</ns0:id>
     <ns0:price>24785.00 USD</ns0:price>
     <ns0:vin>KNDC4DLC9N5069567</ns0:vin>
@@ -1750,7 +1712,7 @@
     <ns0:model>EV6</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2022-kia-ev6-gt-line-all-wheel-drive-suv-kndc4dlc9n5069567/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KNDC4DLC9N5069567&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>GT-Line</ns0:trim>
     <ns0:mileage>23179 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1770,7 +1732,7 @@
   <entry>
     <id>P0777</id>
     <title>2023 Ford Escape Active</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2023-ford-escape-active-all-wheel-drive-suv-1fmcu9gn5pub03548/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9GN5PUB03548"/>
     <ns0:id>P0777</ns0:id>
     <ns0:price>21991.00 USD</ns0:price>
     <ns0:vin>1FMCU9GN5PUB03548</ns0:vin>
@@ -1788,7 +1750,7 @@
     <ns0:model>Escape</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2023-ford-escape-active-all-wheel-drive-suv-1fmcu9gn5pub03548/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9GN5PUB03548&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Active</ns0:trim>
     <ns0:mileage>25601 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1808,7 +1770,7 @@
   <entry>
     <id>P0781</id>
     <title>2023 Hyundai Palisade SE</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2023-hyundai-palisade-se-front-wheel-drive-suv-km8r14ge3pu556735/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KM8R14GE3PU556735"/>
     <ns0:id>P0781</ns0:id>
     <ns0:price>27982.00 USD</ns0:price>
     <ns0:vin>KM8R14GE3PU556735</ns0:vin>
@@ -1826,7 +1788,7 @@
     <ns0:model>Palisade</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2023-hyundai-palisade-se-front-wheel-drive-suv-km8r14ge3pu556735/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KM8R14GE3PU556735&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>SE</ns0:trim>
     <ns0:mileage>24985 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1846,7 +1808,7 @@
   <entry>
     <id>H25194A</id>
     <title>2019 Jeep Wrangler Unlimited Sport S</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/details/1C4HJXDN3KW625040"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1C4HJXDN3KW625040"/>
     <ns0:id>H25194A</ns0:id>
     <ns0:price>21325.00 USD</ns0:price>
     <ns0:vin>1C4HJXDN3KW625040</ns0:vin>
@@ -1864,7 +1826,7 @@
     <ns0:model>Wrangler Unlimited</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/details/1C4HJXDN3KW625040?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1C4HJXDN3KW625040&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Sport S</ns0:trim>
     <ns0:mileage>88523 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1884,7 +1846,7 @@
   <entry>
     <id>G26039A</id>
     <title>2025 Acura RDX SH-AWD w/Advance w/A-SPEC</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2025-acura-rdx-wa-spec-advance-package-all-wheel-drive-suv-5j8tc2h87sl004897/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5J8TC2H87SL004897"/>
     <ns0:id>G26039A</ns0:id>
     <ns0:price>45732.00 USD</ns0:price>
     <ns0:vin>5J8TC2H87SL004897</ns0:vin>
@@ -1902,7 +1864,7 @@
     <ns0:model>RDX</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2025-acura-rdx-wa-spec-advance-package-all-wheel-drive-suv-5j8tc2h87sl004897/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5J8TC2H87SL004897&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>SH-AWD w/Advance w/A-SPEC</ns0:trim>
     <ns0:mileage>5293 miles</ns0:mileage>
     <ns0:color>Apex Blue Pearl</ns0:color>
@@ -1921,7 +1883,7 @@
   <entry>
     <id>P0783</id>
     <title>2023 Hyundai Tucson Limited</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2023-hyundai-tucson-limited-all-wheel-drive-suv-5nmjecae4ph194432/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5NMJECAE4PH194432"/>
     <ns0:id>P0783</ns0:id>
     <ns0:price>24395.00 USD</ns0:price>
     <ns0:vin>5NMJECAE4PH194432</ns0:vin>
@@ -1939,7 +1901,7 @@
     <ns0:model>Tucson</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2023-hyundai-tucson-limited-all-wheel-drive-suv-5nmjecae4ph194432/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5NMJECAE4PH194432&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Limited</ns0:trim>
     <ns0:mileage>37013 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1959,7 +1921,7 @@
   <entry>
     <id>C26078</id>
     <title>2026 Chevrolet Trax ACTIV</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2026-chevrolet-trax-activ-front-wheel-drive-suv-kl77lkep0tc058150/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL77LKEP0TC058150"/>
     <ns0:id>C26078</ns0:id>
     <ns0:price>27004.00 USD</ns0:price>
     <ns0:vehicle_msrp>28425.00 USD</ns0:vehicle_msrp>
@@ -1978,7 +1940,7 @@
     <ns0:model>Trax</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2026-chevrolet-trax-activ-front-wheel-drive-suv-kl77lkep0tc058150/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL77LKEP0TC058150&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>ACTIV</ns0:trim>
     <ns0:mileage>4 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1998,7 +1960,7 @@
   <entry>
     <id>C26076</id>
     <title>2026 Chevrolet Trax ACTIV</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2026-chevrolet-trax-activ-front-wheel-drive-suv-kl77lkep6tc057147/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL77LKEP6TC057147"/>
     <ns0:id>C26076</ns0:id>
     <ns0:price>26629.00 USD</ns0:price>
     <ns0:vehicle_msrp>28030.00 USD</ns0:vehicle_msrp>
@@ -2017,7 +1979,7 @@
     <ns0:model>Trax</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2026-chevrolet-trax-activ-front-wheel-drive-suv-kl77lkep6tc057147/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL77LKEP6TC057147&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>ACTIV</ns0:trim>
     <ns0:mileage>4 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2037,7 +1999,7 @@
   <entry>
     <id>RTPB0071</id>
     <title>2024 Dodge Hornet R/T</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2024-dodge-hornet-rt-all-wheel-drive-utility-zacpdfcw7r3a29631/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=ZACPDFCW7R3A29631"/>
     <ns0:id>RTPB0071</ns0:id>
     <ns0:price>20855.00 USD</ns0:price>
     <ns0:vin>ZACPDFCW7R3A29631</ns0:vin>
@@ -2055,7 +2017,7 @@
     <ns0:model>Hornet</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2024-dodge-hornet-rt-all-wheel-drive-utility-zacpdfcw7r3a29631/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=ZACPDFCW7R3A29631&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>R/T</ns0:trim>
     <ns0:mileage>37636 miles</ns0:mileage>
     <ns0:color>Gray Cray</ns0:color>
@@ -2074,7 +2036,7 @@
   <entry>
     <id>RTPB0079</id>
     <title>2019 Subaru Impreza Premium</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2019-subaru-impreza-premium-all-wheel-drive-sedan-4s3gkad6xk3620496/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=4S3GKAD6XK3620496"/>
     <ns0:id>RTPB0079</ns0:id>
     <ns0:price>16991.00 USD</ns0:price>
     <ns0:vin>4S3GKAD6XK3620496</ns0:vin>
@@ -2092,7 +2054,7 @@
     <ns0:model>Impreza</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2019-subaru-impreza-premium-all-wheel-drive-sedan-4s3gkad6xk3620496/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=4S3GKAD6XK3620496&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Premium</ns0:trim>
     <ns0:mileage>28602 miles</ns0:mileage>
     <ns0:body_style>sedan</ns0:body_style>
@@ -2112,7 +2074,7 @@
   <entry>
     <id>RTPB0017</id>
     <title>2022 Nissan Rogue SV</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2022-nissan-rogue-sv-all-wheel-drive-suv-5n1bt3bb9nc707115/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5N1BT3BB9NC707115"/>
     <ns0:id>RTPB0017</ns0:id>
     <ns0:price>22995.00 USD</ns0:price>
     <ns0:vin>5N1BT3BB9NC707115</ns0:vin>
@@ -2130,7 +2092,7 @@
     <ns0:model>Rogue</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2022-nissan-rogue-sv-all-wheel-drive-suv-5n1bt3bb9nc707115/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5N1BT3BB9NC707115&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>SV</ns0:trim>
     <ns0:mileage>10757 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2150,7 +2112,7 @@
   <entry>
     <id>RTPB0076</id>
     <title>2023 Kia Sportage X-Line</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2023-kia-sportage-x-line-all-wheel-drive-utility-5xyk6caf1pg006681/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5XYK6CAF1PG006681"/>
     <ns0:id>RTPB0076</ns0:id>
     <ns0:price>21996.00 USD</ns0:price>
     <ns0:vin>5XYK6CAF1PG006681</ns0:vin>
@@ -2168,7 +2130,7 @@
     <ns0:model>Sportage</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2023-kia-sportage-x-line-all-wheel-drive-utility-5xyk6caf1pg006681/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5XYK6CAF1PG006681&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>X-Line</ns0:trim>
     <ns0:mileage>62037 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2188,7 +2150,7 @@
   <entry>
     <id>C25336A</id>
     <title>2024 Ford F-150 LARIAT</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2024-ford-f-150-lariat-four-wheel-drive-crew-pickup-1ftfw5l85rke62305/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1FTFW5L85RKE62305"/>
     <ns0:id>C25336A</ns0:id>
     <ns0:price>48892.00 USD</ns0:price>
     <ns0:vin>1FTFW5L85RKE62305</ns0:vin>
@@ -2206,7 +2168,7 @@
     <ns0:model>F-150</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2024-ford-f-150-lariat-four-wheel-drive-crew-pickup-1ftfw5l85rke62305/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1FTFW5L85RKE62305&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LARIAT</ns0:trim>
     <ns0:mileage>38322 miles</ns0:mileage>
     <ns0:color>Agate Black</ns0:color>
@@ -2225,7 +2187,7 @@
   <entry>
     <id>CD26061A</id>
     <title>2024 Chevrolet Camaro 2LT</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2024-chevrolet-camaro-2lt-rear-wheel-drive-convertible-1g1fd3ds1r0112355/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1G1FD3DS1R0112355"/>
     <ns0:id>CD26061A</ns0:id>
     <ns0:price>38350.00 USD</ns0:price>
     <ns0:vin>1G1FD3DS1R0112355</ns0:vin>
@@ -2243,7 +2205,7 @@
     <ns0:model>Camaro</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2024-chevrolet-camaro-2lt-rear-wheel-drive-convertible-1g1fd3ds1r0112355/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1G1FD3DS1R0112355&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>2LT</ns0:trim>
     <ns0:mileage>4174 miles</ns0:mileage>
     <ns0:body_style>convertible</ns0:body_style>
@@ -2263,7 +2225,7 @@
   <entry>
     <id>B26008A</id>
     <title>2021 Buick Enclave Essence</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2021-buick-enclave-essence-all-wheel-drive-suv-5gaevakw0mj222098/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5GAEVAKW0MJ222098"/>
     <ns0:id>B26008A</ns0:id>
     <ns0:price>27991.00 USD</ns0:price>
     <ns0:vin>5GAEVAKW0MJ222098</ns0:vin>
@@ -2281,7 +2243,7 @@
     <ns0:model>Enclave</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2021-buick-enclave-essence-all-wheel-drive-suv-5gaevakw0mj222098/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5GAEVAKW0MJ222098&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Essence</ns0:trim>
     <ns0:mileage>19482 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2301,7 +2263,7 @@
   <entry>
     <id>C26080</id>
     <title>2026 Chevrolet Suburban LT</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2026-chevrolet-suburban-lt-four-wheel-drive-suv-1gns6ckd5tr211520/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GNS6CKD5TR211520"/>
     <ns0:id>C26080</ns0:id>
     <ns0:price>73770.00 USD</ns0:price>
     <ns0:vehicle_msrp>76270.00 USD</ns0:vehicle_msrp>
@@ -2320,7 +2282,7 @@
     <ns0:model>Suburban</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2026-chevrolet-suburban-lt-four-wheel-drive-suv-1gns6ckd5tr211520/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GNS6CKD5TR211520&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LT</ns0:trim>
     <ns0:mileage>12 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2340,7 +2302,7 @@
   <entry>
     <id>C26081</id>
     <title>2026 Chevrolet Tahoe RST</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2026-chevrolet-tahoe-rst-four-wheel-drive-suv-1gns6rkd0tr218555/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GNS6RKD0TR218555"/>
     <ns0:id>C26081</ns0:id>
     <ns0:price>80900.00 USD</ns0:price>
     <ns0:vehicle_msrp>83400.00 USD</ns0:vehicle_msrp>
@@ -2359,7 +2321,7 @@
     <ns0:model>Tahoe</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2026-chevrolet-tahoe-rst-four-wheel-drive-suv-1gns6rkd0tr218555/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GNS6RKD0TR218555&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>RST</ns0:trim>
     <ns0:mileage>3 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2377,47 +2339,9 @@
     <ns0:custom_label_0>Tahoe</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>HD26019A</id>
-    <title>2023 Hyundai Tucson Limited</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/details/5NMJECAE5PH232251"/>
-    <ns0:id>HD26019A</ns0:id>
-    <ns0:price>27491.00 USD</ns0:price>
-    <ns0:vin>5NMJECAE5PH232251</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Hyundai</ns0:brand>
-    <ns0:store_code>7227908043401009324</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
-    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>7227908043401009324</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2023</ns0:year>
-    <ns0:make>Hyundai</ns0:make>
-    <ns0:model>Tucson</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/details/5NMJECAE5PH232251?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Limited</ns0:trim>
-    <ns0:mileage>8845 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Calypso Red</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1933986101--+LZXC-ltid2/1933986101.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1933986111--LIJ+E-ltid2/1933986111.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1933986121--LIJ+E-ltid2/1933986121.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1933986131--LIJ+E-ltid2/1933986131.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1933986141--DAZY8-ltid2/1933986141.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1933986151--DAZY8-ltid2/1933986151.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1933986161--DAZY8-ltid2/1933986161.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1933986171--WWKME-ltid2/1933986171.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1933986181--WWKME-ltid2/1933986181.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1933986191--WWKME-ltid2/1933986191.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Tucson</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>H25208A</id>
     <title>2022 Hyundai Tucson Limited</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/details/5NMJECAE3NH007677"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5NMJECAE3NH007677"/>
     <ns0:id>H25208A</ns0:id>
     <ns0:price>22551.00 USD</ns0:price>
     <ns0:vin>5NMJECAE3NH007677</ns0:vin>
@@ -2435,7 +2359,7 @@
     <ns0:model>Tucson</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/details/5NMJECAE3NH007677?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5NMJECAE3NH007677&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Limited</ns0:trim>
     <ns0:mileage>49041 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2455,7 +2379,7 @@
   <entry>
     <id>CD26083</id>
     <title>2026 Chevrolet Trax ACTIV</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2026-chevrolet-trax-activ-front-wheel-drive-suv-kl77lkep5tc057060/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL77LKEP5TC057060"/>
     <ns0:id>CD26083</ns0:id>
     <ns0:price>26629.00 USD</ns0:price>
     <ns0:vehicle_msrp>28030.00 USD</ns0:vehicle_msrp>
@@ -2474,7 +2398,7 @@
     <ns0:model>Trax</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2026-chevrolet-trax-activ-front-wheel-drive-suv-kl77lkep5tc057060/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL77LKEP5TC057060&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>ACTIV</ns0:trim>
     <ns0:mileage>25 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2492,48 +2416,9 @@
     <ns0:custom_label_0>Trax</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>CD26082</id>
-    <title>2026 Chevrolet Trailblazer LT</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2026-chevrolet-trailblazer-lt-all-wheel-drive-suv-kl79mrsl6tb090851/"/>
-    <ns0:id>CD26082</ns0:id>
-    <ns0:price>27377.00 USD</ns0:price>
-    <ns0:vehicle_msrp>29920.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>KL79MRSL6TB090851</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Chevrolet</ns0:brand>
-    <ns0:store_code>7227908043401009324</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
-    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>7227908043401009324</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Chevrolet</ns0:make>
-    <ns0:model>Trailblazer</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2026-chevrolet-trailblazer-lt-all-wheel-drive-suv-kl79mrsl6tb090851/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>LT</ns0:trim>
-    <ns0:mileage>25 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Summit White</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1982718731--XHO0Z-ltid1/1982718731.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1982718741--SNPNR-ltid1/1982718741.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1982718751--SNPNR-ltid1/1982718751.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1982718761--SNPNR-ltid1/1982718761.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1982718771--IL4GJ-ltid1/1982718771.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1982718781--IL4GJ-ltid1/1982718781.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1982718791--IL4GJ-ltid1/1982718791.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1982718801--SPGF+-ltid1/1982718801.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1982718811--SPGF+-ltid1/1982718811.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1982718821--SPGF+-ltid1/1982718821.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Trailblazer</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>P0790</id>
     <title>2022 Buick Envision Essence</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2022-buick-envision-essence-front-wheel-drive-suv-lrbfznr41nd114557/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=LRBFZNR41ND114557"/>
     <ns0:id>P0790</ns0:id>
     <ns0:price>23921.00 USD</ns0:price>
     <ns0:vin>LRBFZNR41ND114557</ns0:vin>
@@ -2551,7 +2436,7 @@
     <ns0:model>Envision</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2022-buick-envision-essence-front-wheel-drive-suv-lrbfznr41nd114557/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=LRBFZNR41ND114557&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Essence</ns0:trim>
     <ns0:mileage>47834 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2571,7 +2456,7 @@
   <entry>
     <id>B26006A</id>
     <title>2023 Buick Envision Avenir</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2023-buick-envision-avenir-all-wheel-drive-suv-lrbfzsr47pd065446/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=LRBFZSR47PD065446"/>
     <ns0:id>B26006A</ns0:id>
     <ns0:price>30891.00 USD</ns0:price>
     <ns0:vin>LRBFZSR47PD065446</ns0:vin>
@@ -2589,7 +2474,7 @@
     <ns0:model>Envision</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2023-buick-envision-avenir-all-wheel-drive-suv-lrbfzsr47pd065446/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=LRBFZSR47PD065446&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Avenir</ns0:trim>
     <ns0:mileage>18430 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2609,7 +2494,7 @@
   <entry>
     <id>P0791</id>
     <title>2023 Audi Q5 S line Premium Plus</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2023-audi-q5-s-line-premium-plus-all-wheel-drive-utility-wa1eaafy1p2003004/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=WA1EAAFY1P2003004"/>
     <ns0:id>P0791</ns0:id>
     <ns0:price>26995.00 USD</ns0:price>
     <ns0:vin>WA1EAAFY1P2003004</ns0:vin>
@@ -2627,7 +2512,7 @@
     <ns0:model>Q5</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2023-audi-q5-s-line-premium-plus-all-wheel-drive-utility-wa1eaafy1p2003004/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=WA1EAAFY1P2003004&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>S line Premium Plus</ns0:trim>
     <ns0:mileage>42819 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2647,7 +2532,7 @@
   <entry>
     <id>P0789</id>
     <title>2024 Kia Forte LXS</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2024-kia-forte-lxs-front-wheel-drive-sedan-4-dr-3kpf24ad6re714765/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3KPF24AD6RE714765"/>
     <ns0:id>P0789</ns0:id>
     <ns0:price>17881.00 USD</ns0:price>
     <ns0:vin>3KPF24AD6RE714765</ns0:vin>
@@ -2665,7 +2550,7 @@
     <ns0:model>Forte</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2024-kia-forte-lxs-front-wheel-drive-sedan-4-dr-3kpf24ad6re714765/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3KPF24AD6RE714765&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LXS</ns0:trim>
     <ns0:mileage>25890 miles</ns0:mileage>
     <ns0:body_style>sedan</ns0:body_style>
@@ -2685,7 +2570,7 @@
   <entry>
     <id>P0792</id>
     <title>2023 INFINITI QX55 LUXE</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2023-infiniti-qx55-luxe-all-wheel-drive-suv-3pcaj5jr1pf107906/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3PCAJ5JR1PF107906"/>
     <ns0:id>P0792</ns0:id>
     <ns0:price>29432.00 USD</ns0:price>
     <ns0:vin>3PCAJ5JR1PF107906</ns0:vin>
@@ -2703,7 +2588,7 @@
     <ns0:model>QX55</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2023-infiniti-qx55-luxe-all-wheel-drive-suv-3pcaj5jr1pf107906/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3PCAJ5JR1PF107906&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LUXE</ns0:trim>
     <ns0:mileage>40654 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2723,7 +2608,7 @@
   <entry>
     <id>P0786</id>
     <title>2023 Hyundai Tucson SEL</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2023-hyundai-tucson-sel-front-wheel-drive-suv-5nmjb3ae1ph225533/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5NMJB3AE1PH225533"/>
     <ns0:id>P0786</ns0:id>
     <ns0:price>23891.00 USD</ns0:price>
     <ns0:vin>5NMJB3AE1PH225533</ns0:vin>
@@ -2741,7 +2626,7 @@
     <ns0:model>Tucson</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2023-hyundai-tucson-sel-front-wheel-drive-suv-5nmjb3ae1ph225533/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5NMJB3AE1PH225533&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>SEL</ns0:trim>
     <ns0:mileage>8153 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2761,7 +2646,7 @@
   <entry>
     <id>P0787</id>
     <title>2023 INFINITI QX60 PURE</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2023-infiniti-qx60-pure-all-wheel-drive-suv-5n1dl1es5pc367733/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5N1DL1ES5PC367733"/>
     <ns0:id>P0787</ns0:id>
     <ns0:price>34995.00 USD</ns0:price>
     <ns0:vin>5N1DL1ES5PC367733</ns0:vin>
@@ -2779,7 +2664,7 @@
     <ns0:model>QX60</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2023-infiniti-qx60-pure-all-wheel-drive-suv-5n1dl1es5pc367733/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5N1DL1ES5PC367733&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>PURE</ns0:trim>
     <ns0:mileage>16543 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2799,7 +2684,7 @@
   <entry>
     <id>P0794</id>
     <title>2025 Ford Explorer ST-Line</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2025-ford-explorer-st-line-four-wheel-drive-suv-1fmuk8kh4sgb58909/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KH4SGB58909"/>
     <ns0:id>P0794</ns0:id>
     <ns0:price>38995.00 USD</ns0:price>
     <ns0:vin>1FMUK8KH4SGB58909</ns0:vin>
@@ -2817,7 +2702,7 @@
     <ns0:model>Explorer</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2025-ford-explorer-st-line-four-wheel-drive-suv-1fmuk8kh4sgb58909/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KH4SGB58909&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>ST-Line</ns0:trim>
     <ns0:mileage>18725 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2837,7 +2722,7 @@
   <entry>
     <id>P0793</id>
     <title>2025 Ford Maverick XLT</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2025-ford-maverick-xlt-all-wheel-drive-crew-pickup-3fttw8ja7sra21125/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3FTTW8JA7SRA21125"/>
     <ns0:id>P0793</ns0:id>
     <ns0:price>28996.00 USD</ns0:price>
     <ns0:vin>3FTTW8JA7SRA21125</ns0:vin>
@@ -2855,7 +2740,7 @@
     <ns0:model>Maverick</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2025-ford-maverick-xlt-all-wheel-drive-crew-pickup-3fttw8ja7sra21125/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3FTTW8JA7SRA21125&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>XLT</ns0:trim>
     <ns0:mileage>11389 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
@@ -2875,7 +2760,7 @@
   <entry>
     <id>P0761A</id>
     <title>2021 Buick Envision Essence</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2021-buick-envision-essence-front-wheel-drive-suv-lrbfznr44md136941/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=LRBFZNR44MD136941"/>
     <ns0:id>P0761A</ns0:id>
     <ns0:price>24863.00 USD</ns0:price>
     <ns0:vin>LRBFZNR44MD136941</ns0:vin>
@@ -2893,9 +2778,9 @@
     <ns0:model>Envision</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2021-buick-envision-essence-front-wheel-drive-suv-lrbfznr44md136941/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=LRBFZNR44MD136941&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Essence</ns0:trim>
-    <ns0:mileage>25077 miles</ns0:mileage>
+    <ns0:mileage>25148 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Ebony Twilight Metallic</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1950103011--KDEZC-ltid2/1950103011.jpg</ns0:image_link>
@@ -2913,7 +2798,7 @@
   <entry>
     <id>C26084</id>
     <title>2026 Chevrolet Silverado 1500 Custom</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/new-2026-chevrolet-silverado-1500-custom-four-wheel-drive-crew-cab-1gcpkbek9tz100872/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GCPKBEK9TZ100872"/>
     <ns0:id>C26084</ns0:id>
     <ns0:price>42667.00 USD</ns0:price>
     <ns0:vehicle_msrp>49645.00 USD</ns0:vehicle_msrp>
@@ -2932,7 +2817,7 @@
     <ns0:model>Silverado 1500</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/new-2026-chevrolet-silverado-1500-custom-four-wheel-drive-crew-cab-1gcpkbek9tz100872/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GCPKBEK9TZ100872&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Custom</ns0:trim>
     <ns0:mileage>1 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
@@ -2952,7 +2837,7 @@
   <entry>
     <id>H26090A</id>
     <title>2022 Hyundai Santa Cruz SEL</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/details/5NTJCDAE4NH019546"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5NTJCDAE4NH019546"/>
     <ns0:id>H26090A</ns0:id>
     <ns0:price>20991.00 USD</ns0:price>
     <ns0:vin>5NTJCDAE4NH019546</ns0:vin>
@@ -2970,7 +2855,7 @@
     <ns0:model>Santa Cruz</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/details/5NTJCDAE4NH019546?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5NTJCDAE4NH019546&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>SEL</ns0:trim>
     <ns0:mileage>58075 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
@@ -2990,7 +2875,7 @@
   <entry>
     <id>H25173A</id>
     <title>2021 Toyota Prius LE AWD-e</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/details/JTDL9MFU6M3026921"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=JTDL9MFU6M3026921"/>
     <ns0:id>H25173A</ns0:id>
     <ns0:price>17961.00 USD</ns0:price>
     <ns0:vin>JTDL9MFU6M3026921</ns0:vin>
@@ -3008,7 +2893,7 @@
     <ns0:model>Prius</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/details/JTDL9MFU6M3026921?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=JTDL9MFU6M3026921&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LE AWD-e</ns0:trim>
     <ns0:mileage>88822 miles</ns0:mileage>
     <ns0:body_style>hatchback</ns0:body_style>
@@ -3028,7 +2913,7 @@
   <entry>
     <id>B26025A</id>
     <title>2022 GMC Terrain SLE</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2022-gmc-terrain-sle-front-wheel-drive-suv-3gkalmev2nl152092/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GKALMEV2NL152092"/>
     <ns0:id>B26025A</ns0:id>
     <ns0:price>17896.00 USD</ns0:price>
     <ns0:vin>3GKALMEV2NL152092</ns0:vin>
@@ -3046,7 +2931,7 @@
     <ns0:model>Terrain</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2022-gmc-terrain-sle-front-wheel-drive-suv-3gkalmev2nl152092/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GKALMEV2NL152092&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>SLE</ns0:trim>
     <ns0:mileage>62111 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -3066,7 +2951,7 @@
   <entry>
     <id>H26085A</id>
     <title>2021 Hyundai Tucson Value</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/details/KM8J33A45MU288154"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KM8J33A45MU288154"/>
     <ns0:id>H26085A</ns0:id>
     <ns0:price>15691.00 USD</ns0:price>
     <ns0:vin>KM8J33A45MU288154</ns0:vin>
@@ -3084,7 +2969,7 @@
     <ns0:model>Tucson</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/details/KM8J33A45MU288154?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KM8J33A45MU288154&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Value</ns0:trim>
     <ns0:mileage>85684 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -3104,7 +2989,7 @@
   <entry>
     <id>P0797</id>
     <title>2022 Hyundai Kona SEL</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2022-hyundai-kona-sel-all-wheel-drive-utility-km8k3cab5nu858402/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KM8K3CAB5NU858402"/>
     <ns0:id>P0797</ns0:id>
     <ns0:price>19991.00 USD</ns0:price>
     <ns0:vin>KM8K3CAB5NU858402</ns0:vin>
@@ -3122,7 +3007,7 @@
     <ns0:model>Kona</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2022-hyundai-kona-sel-all-wheel-drive-utility-km8k3cab5nu858402/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KM8K3CAB5NU858402&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>SEL</ns0:trim>
     <ns0:mileage>15162 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -3142,7 +3027,7 @@
   <entry>
     <id>P0795</id>
     <title>2025 Buick Enclave Preferred</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2025-buick-enclave-preferred-all-wheel-drive-suv-5gaevars6sj232411/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5GAEVARS6SJ232411"/>
     <ns0:id>P0795</ns0:id>
     <ns0:price>36991.00 USD</ns0:price>
     <ns0:vin>5GAEVARS6SJ232411</ns0:vin>
@@ -3160,17 +3045,27 @@
     <ns0:model>Enclave</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2025-buick-enclave-preferred-all-wheel-drive-suv-5gaevars6sj232411/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5GAEVARS6SJ232411&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Preferred</ns0:trim>
     <ns0:mileage>21465 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Ebony Twilight Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004125451--WDJMS-ltid2/2004125451.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004125461--WDJMS-ltid2/2004125461.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004125471--L7ITB-ltid2/2004125471.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004125481--L7ITB-ltid2/2004125481.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004125491--L7ITB-ltid2/2004125491.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004125501--AZFX2-ltid2/2004125501.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004125511--AZFX2-ltid2/2004125511.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004125521--AZFX2-ltid2/2004125521.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004125531--EF2QN-ltid2/2004125531.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004125541--EF2QN-ltid2/2004125541.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Enclave</ns0:custom_label_0>
   </entry>
   <entry>
     <id>P0796</id>
     <title>2025 Genesis GV70 2.5T</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2025-genesis-gv70-2-5t-all-wheel-drive-sport-utility-5nmmadtb4sh022962/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5NMMADTB4SH022962"/>
     <ns0:id>P0796</ns0:id>
     <ns0:price>34991.00 USD</ns0:price>
     <ns0:vin>5NMMADTB4SH022962</ns0:vin>
@@ -3188,7 +3083,7 @@
     <ns0:model>GV70</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2025-genesis-gv70-2-5t-all-wheel-drive-sport-utility-5nmmadtb4sh022962/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5NMMADTB4SH022962&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>2.5T</ns0:trim>
     <ns0:mileage>29216 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -3198,7 +3093,7 @@
   <entry>
     <id>T26011A</id>
     <title>2018 GMC Acadia SLT</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2018-gmc-acadia-slt-all-wheel-drive-suv-1gkknuls2jz192554/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GKKNULS2JZ192554"/>
     <ns0:id>T26011A</ns0:id>
     <ns0:price>18991.00 USD</ns0:price>
     <ns0:vin>1GKKNULS2JZ192554</ns0:vin>
@@ -3216,7 +3111,7 @@
     <ns0:model>Acadia</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2018-gmc-acadia-slt-all-wheel-drive-suv-1gkknuls2jz192554/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GKKNULS2JZ192554&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>SLT</ns0:trim>
     <ns0:mileage>25647 miles</ns0:mileage>
     <ns0:color>Iridium Metallic</ns0:color>
@@ -3235,7 +3130,7 @@
   <entry>
     <id>B26007A</id>
     <title>2019 Chevrolet Silverado 1500 RST</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2019-chevrolet-silverado-1500-rst-four-wheel-drive-crew-cab-3gcuyeed5kg210157/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GCUYEED5KG210157"/>
     <ns0:id>B26007A</ns0:id>
     <ns0:price>31691.00 USD</ns0:price>
     <ns0:vin>3GCUYEED5KG210157</ns0:vin>
@@ -3253,17 +3148,27 @@
     <ns0:model>Silverado 1500</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2019-chevrolet-silverado-1500-rst-four-wheel-drive-crew-cab-3gcuyeed5kg210157/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GCUYEED5KG210157&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>RST</ns0:trim>
     <ns0:mileage>46457 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Northsky Blue Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004621651--YW4KQ-ltid2/2004621651.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004621661--R4DQH-ltid2/2004621661.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004621671--4OA8Y-ltid2/2004621671.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004621681--4OA8Y-ltid2/2004621681.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004621691--BRFGD-ltid2/2004621691.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004621701--NX7DD-ltid2/2004621701.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004621711--09IQV-ltid2/2004621711.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004621721--09IQV-ltid2/2004621721.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004621731---NC1Y-ltid2/2004621731.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004621741--1JJV3-ltid2/2004621741.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Silverado 1500</ns0:custom_label_0>
   </entry>
   <entry>
     <id>P0798</id>
     <title>2022 BMW X7 xDrive40i</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2022-bmw-x7-xdrive40i-all-wheel-drive-suv-5uxcw2c02n9m77968/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5UXCW2C02N9M77968"/>
     <ns0:id>P0798</ns0:id>
     <ns0:price>38991.00 USD</ns0:price>
     <ns0:vin>5UXCW2C02N9M77968</ns0:vin>
@@ -3281,7 +3186,7 @@
     <ns0:model>X7</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2022-bmw-x7-xdrive40i-all-wheel-drive-suv-5uxcw2c02n9m77968/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5UXCW2C02N9M77968&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>xDrive40i</ns0:trim>
     <ns0:mileage>91635 miles</ns0:mileage>
     <ns0:color>Mineral White Metallic</ns0:color>
@@ -3300,7 +3205,7 @@
   <entry>
     <id>P0799</id>
     <title>2024 Hyundai Sonata SEL</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/used-2024-hyundai-sonata-sel-front-wheel-drive-sedan-4-dr-kmhl64ja8ra410493/"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KMHL64JA8RA410493"/>
     <ns0:id>P0799</ns0:id>
     <ns0:price>21495.00 USD</ns0:price>
     <ns0:vin>KMHL64JA8RA410493</ns0:vin>
@@ -3318,7 +3223,7 @@
     <ns0:model>Sonata</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/used-2024-hyundai-sonata-sel-front-wheel-drive-sedan-4-dr-kmhl64ja8ra410493/?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KMHL64JA8RA410493&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>SEL</ns0:trim>
     <ns0:mileage>39440 miles</ns0:mileage>
     <ns0:body_style>sedan</ns0:body_style>
@@ -3328,7 +3233,7 @@
   <entry>
     <id>H25230A</id>
     <title>2021 Mercedes-Benz GLE GLE 350</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/details/4JGFB4KB6MA411196"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=4JGFB4KB6MA411196"/>
     <ns0:id>H25230A</ns0:id>
     <ns0:price>36991.00 USD</ns0:price>
     <ns0:vin>4JGFB4KB6MA411196</ns0:vin>
@@ -3346,7 +3251,7 @@
     <ns0:model>GLE</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/details/4JGFB4KB6MA411196?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=4JGFB4KB6MA411196&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>GLE 350</ns0:trim>
     <ns0:mileage>31456 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -3362,5 +3267,1248 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1994080721--IJO2A-ltid2/1994080721.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1994080731--RLR0M-ltid2/1994080731.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>GLE</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>H25193A</id>
+    <title>2022 Audi Q3 S line Premium</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=WA1DECF37N1083427"/>
+    <ns0:id>H25193A</ns0:id>
+    <ns0:price>23991.00 USD</ns0:price>
+    <ns0:vin>WA1DECF37N1083427</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Audi</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2022</ns0:year>
+    <ns0:make>Audi</ns0:make>
+    <ns0:model>Q3</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=WA1DECF37N1083427&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>S line Premium</ns0:trim>
+    <ns0:mileage>31680 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Ibis White</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004333391--OSKYX-ltid2/2004333391.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004333401--OSKYX-ltid2/2004333401.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004333411--MB1AQ-ltid2/2004333411.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004333421--KXTM8-ltid2/2004333421.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004333431--KXTM8-ltid2/2004333431.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004333441--E6JQ2-ltid2/2004333441.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004333451--YVSX3-ltid2/2004333451.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004333461--YVSX3-ltid2/2004333461.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004333471--UFK9M-ltid2/2004333471.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004333481--ZAQRI-ltid2/2004333481.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Q3</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>B26014</id>
+    <title>2026 Buick Encore GX Preferred</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL4AMBSL2TB068282"/>
+    <ns0:id>B26014</ns0:id>
+    <ns0:price>27769.00 USD</ns0:price>
+    <ns0:vehicle_msrp>30515.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KL4AMBSL2TB068282</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Buick</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Buick</ns0:make>
+    <ns0:model>Encore GX</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL4AMBSL2TB068282&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Preferred</ns0:trim>
+    <ns0:mileage>3 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Ocean Blue Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004626441--VCERV-ltid1/2004626441.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004626451--9IC3L-ltid1/2004626451.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004626461--9IC3L-ltid1/2004626461.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004626471--F-2XD-ltid1/2004626471.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004626481--F-2XD-ltid1/2004626481.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004626491--ZYIC1-ltid1/2004626491.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004626501--IA7BV-ltid1/2004626501.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004626511--XVB8Q-ltid1/2004626511.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004626521--XVB8Q-ltid1/2004626521.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004626531--HHBVV-ltid1/2004626531.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Encore GX</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>B26012</id>
+    <title>2026 Buick Encore GX Preferred</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL4AMBSL2TB068962"/>
+    <ns0:id>B26012</ns0:id>
+    <ns0:price>27319.00 USD</ns0:price>
+    <ns0:vehicle_msrp>30020.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KL4AMBSL2TB068962</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Buick</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Buick</ns0:make>
+    <ns0:model>Encore GX</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL4AMBSL2TB068962&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Preferred</ns0:trim>
+    <ns0:mileage>3 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Summit White</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004626581--NMOTL-ltid1/2004626581.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004626591--NMOTL-ltid1/2004626591.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004626601--BUFVR-ltid1/2004626601.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004626611--BUFVR-ltid1/2004626611.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004621771--LLEQT-ltid1/2004621771.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004621781--LLEQT-ltid1/2004621781.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004621791--Z6ZJ9-ltid1/2004621791.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004621801--GAU0H-ltid1/2004621801.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004621811--GAU0H-ltid1/2004621811.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004621821--VFI1+-ltid1/2004621821.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Encore GX</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>B26001</id>
+    <title>2026 Buick Encore GX Preferred</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL4AMBSL4TB045697"/>
+    <ns0:id>B26001</ns0:id>
+    <ns0:price>27769.00 USD</ns0:price>
+    <ns0:vehicle_msrp>30515.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KL4AMBSL4TB045697</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Buick</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Buick</ns0:make>
+    <ns0:model>Encore GX</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL4AMBSL4TB045697&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Preferred</ns0:trim>
+    <ns0:mileage>4 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Ocean Blue Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004621871--IXZL7-ltid1/2004621871.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004621881--PRX+G-ltid1/2004621881.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004621891---RUER-ltid1/2004621891.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004621901---RUER-ltid1/2004621901.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004621911--LKQUA-ltid1/2004621911.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004621921--DFR6N-ltid1/2004621921.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004621931--FL180-ltid1/2004621931.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004621941--FL180-ltid1/2004621941.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004621951--VR3RC-ltid1/2004621951.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004621961--L1T4L-ltid1/2004621961.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Encore GX</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>B26016</id>
+    <title>2026 Buick Encore GX Preferred</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL4AMBSL6TB070178"/>
+    <ns0:id>B26016</ns0:id>
+    <ns0:price>27769.00 USD</ns0:price>
+    <ns0:vehicle_msrp>30515.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KL4AMBSL6TB070178</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Buick</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Buick</ns0:make>
+    <ns0:model>Encore GX</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL4AMBSL6TB070178&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Preferred</ns0:trim>
+    <ns0:mileage>3 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Ebony Twilight Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004622011--LHMVM-ltid1/2004622011.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004622021--LHMVM-ltid1/2004622021.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004622031--E2IWU-ltid1/2004622031.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004622041--KNNUA-ltid1/2004622041.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004622051--GHFZC-ltid1/2004622051.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004622061--SWCPO-ltid1/2004622061.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004622071--SWCPO-ltid1/2004622071.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004622081--SHYVU-ltid1/2004622081.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004622091--RORMG-ltid1/2004622091.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004622101--DVB30-ltid1/2004622101.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Encore GX</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>B26002</id>
+    <title>2026 Buick Encore GX Preferred</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL4AMBSL9TB045386"/>
+    <ns0:id>B26002</ns0:id>
+    <ns0:price>27319.00 USD</ns0:price>
+    <ns0:vehicle_msrp>30020.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KL4AMBSL9TB045386</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Buick</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Buick</ns0:make>
+    <ns0:model>Encore GX</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL4AMBSL9TB045386&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Preferred</ns0:trim>
+    <ns0:mileage>4 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Summit White</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004636671--XA+O7-ltid1/2004636671.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004636681--AQU98-ltid1/2004636681.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004636691--AQU98-ltid1/2004636691.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004636701--HWHZO-ltid1/2004636701.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004636711--HWHZO-ltid1/2004636711.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004636721--QSYPK-ltid1/2004636721.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004636731--OE2F9-ltid1/2004636731.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004636741--OE2F9-ltid1/2004636741.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004636751--GJWB8-ltid1/2004636751.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004636761--GCPXT-ltid1/2004636761.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Encore GX</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>B26027</id>
+    <title>2026 Buick Envista Sport Touring</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL47LBEPXTB108104"/>
+    <ns0:id>B26027</ns0:id>
+    <ns0:price>28481.00 USD</ns0:price>
+    <ns0:vehicle_msrp>29980.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KL47LBEPXTB108104</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Buick</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Buick</ns0:make>
+    <ns0:model>Envista</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL47LBEPXTB108104&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Sport Touring</ns0:trim>
+    <ns0:mileage>4 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Ocean Blue Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004626621--VZM5T-ltid1/2004626621.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004626631--9MRNN-ltid1/2004626631.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004626641--K2OU9-ltid1/2004626641.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004626651--K2OU9-ltid1/2004626651.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004626661--1RU4R-ltid1/2004626661.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004626671--XOIK3-ltid1/2004626671.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004626681--XOIK3-ltid1/2004626681.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004626691--BFRDV-ltid1/2004626691.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004626701--OULLJ-ltid1/2004626701.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004626711--OULLJ-ltid1/2004626711.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Envista</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>B26030</id>
+    <title>2026 Buick Envista Sport Touring</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL47LBEPXTB129311"/>
+    <ns0:id>B26030</ns0:id>
+    <ns0:price>28386.00 USD</ns0:price>
+    <ns0:vehicle_msrp>29880.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KL47LBEPXTB129311</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Buick</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Buick</ns0:make>
+    <ns0:model>Envista</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL47LBEPXTB129311&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Sport Touring</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Ebony Twilight Metallic</ns0:color>
+    <ns0:custom_label_0>Envista</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>B26023</id>
+    <title>2026 Buick Envista Sport Touring</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL47LBEP1TB104538"/>
+    <ns0:id>B26023</ns0:id>
+    <ns0:price>27066.00 USD</ns0:price>
+    <ns0:vehicle_msrp>28490.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KL47LBEP1TB104538</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Buick</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Buick</ns0:make>
+    <ns0:model>Envista</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL47LBEP1TB104538&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Sport Touring</ns0:trim>
+    <ns0:mileage>4 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Brilliant Red</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004643901--1HUWS-ltid1/2004643901.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004643911--1HUWS-ltid1/2004643911.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004643921---FN1A-ltid1/2004643921.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004643931--LOH1M-ltid1/2004643931.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004643941--LOH1M-ltid1/2004643941.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004643951--HM1PN-ltid1/2004643951.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004643961--HQV0M-ltid1/2004643961.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004643971--HQV0M-ltid1/2004643971.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004643981--IVDYB-ltid1/2004643981.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004643991--HDAZU-ltid1/2004643991.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Envista</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>B26028</id>
+    <title>2026 Buick Envista Sport Touring</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL47LBEP1TB107522"/>
+    <ns0:id>B26028</ns0:id>
+    <ns0:price>27066.00 USD</ns0:price>
+    <ns0:vehicle_msrp>28490.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KL47LBEP1TB107522</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Buick</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Buick</ns0:make>
+    <ns0:model>Envista</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL47LBEP1TB107522&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Sport Touring</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Moonstone Gray Metallic</ns0:color>
+    <ns0:custom_label_0>Envista</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>B26024</id>
+    <title>2026 Buick Envista Sport Touring</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL47LBEP3TB103228"/>
+    <ns0:id>B26024</ns0:id>
+    <ns0:price>26596.00 USD</ns0:price>
+    <ns0:vehicle_msrp>27995.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KL47LBEP3TB103228</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Buick</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Buick</ns0:make>
+    <ns0:model>Envista</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL47LBEP3TB103228&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Sport Touring</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Summit White</ns0:color>
+    <ns0:custom_label_0>Envista</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>B26026</id>
+    <title>2026 Buick Envista Sport Touring</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL47LBEP3TB104539"/>
+    <ns0:id>B26026</ns0:id>
+    <ns0:price>27066.00 USD</ns0:price>
+    <ns0:vehicle_msrp>28490.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KL47LBEP3TB104539</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Buick</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Buick</ns0:make>
+    <ns0:model>Envista</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL47LBEP3TB104539&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Sport Touring</ns0:trim>
+    <ns0:mileage>4 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Brilliant Red</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004636811--27DBJ-ltid1/2004636811.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004636821--MO5JD-ltid1/2004636821.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004636831--QQOGZ-ltid1/2004636831.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004636841--NU-WD-ltid1/2004636841.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004636851--DA3FC-ltid1/2004636851.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004636861--DA3FC-ltid1/2004636861.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004636871--X5CQA-ltid1/2004636871.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004636881--AQYBA-ltid1/2004636881.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004636891--AQYBA-ltid1/2004636891.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004636901--EMXTX-ltid1/2004636901.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Envista</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>B26029</id>
+    <title>2026 Buick Envista Sport Touring</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL47LBEP7TB107508"/>
+    <ns0:id>B26029</ns0:id>
+    <ns0:price>27916.00 USD</ns0:price>
+    <ns0:vehicle_msrp>29385.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KL47LBEP7TB107508</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Buick</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Buick</ns0:make>
+    <ns0:model>Envista</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL47LBEP7TB107508&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Sport Touring</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Moonstone Gray Metallic</ns0:color>
+    <ns0:custom_label_0>Envista</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>B26021</id>
+    <title>2026 Buick Envista Sport Touring</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL47LBEP8TB112992"/>
+    <ns0:id>B26021</ns0:id>
+    <ns0:price>29237.00 USD</ns0:price>
+    <ns0:vehicle_msrp>30775.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KL47LBEP8TB112992</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Buick</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Buick</ns0:make>
+    <ns0:model>Envista</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KL47LBEP8TB112992&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Sport Touring</ns0:trim>
+    <ns0:mileage>4 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Ebony Twilight Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004636991---GM3H-ltid1/2004636991.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637001--QTI5A-ltid1/2004637001.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637011--CKRW0-ltid1/2004637011.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637021--CKRW0-ltid1/2004637021.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637031--WLGPV-ltid1/2004637031.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637041--Q5DUB-ltid1/2004637041.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637051--UUQ7O-ltid1/2004637051.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637061--UUQ7O-ltid1/2004637061.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637071--P7ZF1-ltid1/2004637071.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637081--P7ZF1-ltid1/2004637081.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Envista</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>T24038</id>
+    <title>2024 GMC HUMMER EV SUV 3X</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GKB0RDC7RU102181"/>
+    <ns0:id>T24038</ns0:id>
+    <ns0:price>96180.00 USD</ns0:price>
+    <ns0:vehicle_msrp>116180.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1GKB0RDC7RU102181</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>GMC</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2024</ns0:year>
+    <ns0:make>GMC</ns0:make>
+    <ns0:model>HUMMER EV SUV</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GKB0RDC7RU102181&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>3X</ns0:trim>
+    <ns0:mileage>1788 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Moonshot Green Matte</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004630741--PN2CL-ltid1/2004630741.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004630751--PN2CL-ltid1/2004630751.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004630761--OGKVQ-ltid1/2004630761.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004630771--KAAOI-ltid1/2004630771.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004630781--KAAOI-ltid1/2004630781.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004630791--65BX7-ltid1/2004630791.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004630801--ZAHRJ-ltid1/2004630801.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004630811--MDL+E-ltid1/2004630811.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004630821--MDL+E-ltid1/2004630821.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004623781--RGOZW-ltid1/2004623781.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>HUMMER EV SUV</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>T26019</id>
+    <title>2026 GMC Acadia AWD Elevation</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GKENNKSXTJ202933"/>
+    <ns0:id>T26019</ns0:id>
+    <ns0:price>49529.00 USD</ns0:price>
+    <ns0:vehicle_msrp>52135.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1GKENNKSXTJ202933</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>GMC</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>GMC</ns0:make>
+    <ns0:model>Acadia</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GKENNKSXTJ202933&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>AWD Elevation</ns0:trim>
+    <ns0:mileage>3 miles</ns0:mileage>
+    <ns0:color>Volcanic Red Tintcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004623831--DWXBL-ltid1/2004623831.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004623841--DWXBL-ltid1/2004623841.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004623851--J0CIH-ltid1/2004623851.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004623861--ATBV1-ltid1/2004623861.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004623871--7AWPN-ltid1/2004623871.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004623881--7AWPN-ltid1/2004623881.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004623891--TXXKJ-ltid1/2004623891.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004623901--GVMXH-ltid1/2004623901.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004623911--DI1AV-ltid1/2004623911.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004623921--DI1AV-ltid1/2004623921.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Acadia</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>T25008</id>
+    <title>2025 GMC Acadia AWD Elevation</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GKENNRS6SJ272255"/>
+    <ns0:id>T25008</ns0:id>
+    <ns0:price>47223.00 USD</ns0:price>
+    <ns0:vehicle_msrp>52570.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1GKENNRS6SJ272255</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>GMC</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>GMC</ns0:make>
+    <ns0:model>Acadia</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GKENNRS6SJ272255&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>AWD Elevation</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:color>Ebony Twilight Metallic</ns0:color>
+    <ns0:custom_label_0>Acadia</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>T26026</id>
+    <title>2026 GMC Yukon AT4</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GKS2CKDXTR233537"/>
+    <ns0:id>T26026</ns0:id>
+    <ns0:price>80760.00 USD</ns0:price>
+    <ns0:vehicle_msrp>81760.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1GKS2CKDXTR233537</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>GMC</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>GMC</ns0:make>
+    <ns0:model>Yukon</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GKS2CKDXTR233537&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>AT4</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Midnight Pine</ns0:color>
+    <ns0:custom_label_0>Yukon</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>T26027</id>
+    <title>2026 GMC Yukon AT4 Ultimate</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GKS2VKL9TR232799"/>
+    <ns0:id>T26027</ns0:id>
+    <ns0:price>100190.00 USD</ns0:price>
+    <ns0:vehicle_msrp>101190.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1GKS2VKL9TR232799</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>GMC</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>GMC</ns0:make>
+    <ns0:model>Yukon</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GKS2VKL9TR232799&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>AT4 Ultimate</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Onyx Black</ns0:color>
+    <ns0:custom_label_0>Yukon</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>T25009</id>
+    <title>2025 GMC Canyon 4WD AT4</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GTP2DEK0S1238809"/>
+    <ns0:id>T25009</ns0:id>
+    <ns0:price>47475.00 USD</ns0:price>
+    <ns0:vehicle_msrp>52750.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1GTP2DEK0S1238809</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>GMC</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>GMC</ns0:make>
+    <ns0:model>Canyon</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GTP2DEK0S1238809&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>4WD AT4</ns0:trim>
+    <ns0:mileage>2 miles</ns0:mileage>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>Onyx Black</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004630831--CIBRY-ltid1/2004630831.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004630841--FILTL-ltid1/2004630841.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004630851--FILTL-ltid1/2004630851.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004630861--HS+GJ-ltid1/2004630861.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004630871--SQVNJ-ltid1/2004630871.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004630881--Q3M4B-ltid1/2004630881.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004630891--Q3M4B-ltid1/2004630891.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004630901--2X6V4-ltid1/2004630901.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004630911--6MPCO-ltid1/2004630911.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004630921--ENMYX-ltid1/2004630921.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Canyon</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>T25007</id>
+    <title>2025 GMC Sierra EV Extended Range Denali</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GT10MED0SU412714"/>
+    <ns0:id>T25007</ns0:id>
+    <ns0:price>81651.00 USD</ns0:price>
+    <ns0:vehicle_msrp>92785.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1GT10MED0SU412714</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>GMC</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>GMC</ns0:make>
+    <ns0:model>Sierra EV</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GT10MED0SU412714&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Extended Range Denali</ns0:trim>
+    <ns0:mileage>2062 miles</ns0:mileage>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>Onyx Black</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004624011--R2QIQ-ltid1/2004624011.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004624021--JSAK0-ltid1/2004624021.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004624031--JSAK0-ltid1/2004624031.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004624041--QRTTS-ltid1/2004624041.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004624051--XZKRR-ltid1/2004624051.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004624061--Z39Q8-ltid1/2004624061.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004624071--Z39Q8-ltid1/2004624071.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004624081--2YRKD-ltid1/2004624081.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004624091--J0+WI-ltid1/2004624091.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004630971--URNJQ-ltid1/2004630971.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Sierra EV</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>T25013</id>
+    <title>2025 GMC Sierra 2500HD AT4</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GT4UPEY5SF357669"/>
+    <ns0:id>T25013</ns0:id>
+    <ns0:price>79352.00 USD</ns0:price>
+    <ns0:vehicle_msrp>89280.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1GT4UPEY5SF357669</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>GMC</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2025</ns0:year>
+    <ns0:make>GMC</ns0:make>
+    <ns0:model>Sierra 2500HD</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GT4UPEY5SF357669&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>AT4</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>Onyx Black</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004631021--XTO+X-ltid1/2004631021.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004631031--JK0DV-ltid1/2004631031.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004631041--BYPFT-ltid1/2004631041.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004631051--IJTPG-ltid1/2004631051.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004631061--IJTPG-ltid1/2004631061.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004631071--WQREP-ltid1/2004631071.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004631081--JBDZA-ltid1/2004631081.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004631091--IBB8D-ltid1/2004631091.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004631101--IBB8D-ltid1/2004631101.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004631111--CAVKD-ltid1/2004631111.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Sierra 2500HD</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>T26015</id>
+    <title>2026 GMC Terrain AWD Elevation</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GKALUEG2TL294294"/>
+    <ns0:id>T26015</ns0:id>
+    <ns0:price>32230.00 USD</ns0:price>
+    <ns0:vehicle_msrp>34655.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3GKALUEG2TL294294</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>GMC</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>GMC</ns0:make>
+    <ns0:model>Terrain</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GKALUEG2TL294294&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>AWD Elevation</ns0:trim>
+    <ns0:mileage>1251 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Sterling Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004646131--ECJ9S-ltid1/2004646131.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004646141--MSJLO-ltid1/2004646141.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004646151--VC1F7-ltid1/2004646151.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004646161--VC1F7-ltid1/2004646161.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004646171--+OBRS-ltid1/2004646171.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004646181--FSWJP-ltid1/2004646181.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004646191--FSWJP-ltid1/2004646191.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004646201--EO+UM-ltid1/2004646201.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004646211--LPDLF-ltid1/2004646211.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004646221--LPNKL-ltid1/2004646221.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Terrain</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>T26017</id>
+    <title>2026 GMC Terrain AWD Elevation</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GKALUEG2TL321610"/>
+    <ns0:id>T26017</ns0:id>
+    <ns0:price>33420.00 USD</ns0:price>
+    <ns0:vehicle_msrp>35935.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3GKALUEG2TL321610</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>GMC</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>GMC</ns0:make>
+    <ns0:model>Terrain</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GKALUEG2TL321610&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>AWD Elevation</ns0:trim>
+    <ns0:mileage>3 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Volcanic Red Tintcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635051--2SAI4-ltid1/2004635051.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635061--YQ2HF-ltid1/2004635061.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635071--AC+CI-ltid1/2004635071.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635081--TI5KX-ltid1/2004635081.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635091--Q+GZP-ltid1/2004635091.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635101--OR4Z0-ltid1/2004635101.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635111--9D8HV-ltid1/2004635111.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635121--YIEQQ-ltid1/2004635121.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635131--YIEQQ-ltid1/2004635131.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635141--KINEM-ltid1/2004635141.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Terrain</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>T26016</id>
+    <title>2026 GMC Terrain AWD Elevation</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GKALUEG3TL310602"/>
+    <ns0:id>T26016</ns0:id>
+    <ns0:price>32230.00 USD</ns0:price>
+    <ns0:vehicle_msrp>34655.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3GKALUEG3TL310602</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>GMC</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>GMC</ns0:make>
+    <ns0:model>Terrain</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GKALUEG3TL310602&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>AWD Elevation</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Riverstone Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635191--WZHWZ-ltid1/2004635191.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635201--WZHWZ-ltid1/2004635201.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635211--D7KHW-ltid1/2004635211.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635221--PUS+4-ltid1/2004635221.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635231--HSLEW-ltid1/2004635231.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635241--HSLEW-ltid1/2004635241.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635251--DK9+N-ltid1/2004635251.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635261--3GSLP-ltid1/2004635261.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635271--ZZCUE-ltid1/2004635271.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635281--ZZCUE-ltid1/2004635281.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Terrain</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>T26024</id>
+    <title>2026 GMC Terrain AWD Elevation</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GKALUEG3TL347939"/>
+    <ns0:id>T26024</ns0:id>
+    <ns0:price>33281.00 USD</ns0:price>
+    <ns0:vehicle_msrp>35785.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3GKALUEG3TL347939</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>GMC</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>GMC</ns0:make>
+    <ns0:model>Terrain</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GKALUEG3TL347939&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>AWD Elevation</ns0:trim>
+    <ns0:mileage>4 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Ebony Twilight Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635331--N7B6I-ltid1/2004635331.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635341--LKS3T-ltid1/2004635341.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635351--DXZPP-ltid1/2004635351.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635361--5CGTA-ltid1/2004635361.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635371--5CGTA-ltid1/2004635371.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635381--D8XFP-ltid1/2004635381.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635391--UVTST-ltid1/2004635391.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635401--AO-IN-ltid1/2004635401.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637681--AO-IN-ltid1/2004637681.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637691--5MSES-ltid1/2004637691.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Terrain</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>T26022</id>
+    <title>2026 GMC Terrain AWD Elevation</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GKALUEG6TL320914"/>
+    <ns0:id>T26022</ns0:id>
+    <ns0:price>33281.00 USD</ns0:price>
+    <ns0:vehicle_msrp>35785.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3GKALUEG6TL320914</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>GMC</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>GMC</ns0:make>
+    <ns0:model>Terrain</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GKALUEG6TL320914&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>AWD Elevation</ns0:trim>
+    <ns0:mileage>3 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Sterling Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637741--MA2QO-ltid1/2004637741.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637751--QIHPB-ltid1/2004637751.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637761--CLWQO-ltid1/2004637761.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637771--CLWQO-ltid1/2004637771.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637781--2H1WS-ltid1/2004637781.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637791--2H1WS-ltid1/2004637791.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637801--RBWAJ-ltid1/2004637801.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637811--VXUHO-ltid1/2004637811.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637821--9EKAE-ltid1/2004637821.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637831--9EKAE-ltid1/2004637831.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Terrain</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>T26025</id>
+    <title>2026 GMC Terrain AWD Elevation</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GKALUEG9TL349520"/>
+    <ns0:id>T26025</ns0:id>
+    <ns0:price>33281.00 USD</ns0:price>
+    <ns0:vehicle_msrp>35785.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3GKALUEG9TL349520</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>GMC</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>GMC</ns0:make>
+    <ns0:model>Terrain</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GKALUEG9TL349520&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>AWD Elevation</ns0:trim>
+    <ns0:mileage>4 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Riverstone Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637881--ACHMJ-ltid1/2004637881.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637891--ACHMJ-ltid1/2004637891.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637901--P7B85-ltid1/2004637901.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637911--6VTIQ-ltid1/2004637911.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637921--6VTIQ-ltid1/2004637921.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637931--N6VSK-ltid1/2004637931.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637941--L-A1Q-ltid1/2004637941.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637951--WYOQ0-ltid1/2004637951.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637961--WYOQ0-ltid1/2004637961.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004637971--KUETP-ltid1/2004637971.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Terrain</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>T26005</id>
+    <title>2026 GMC Terrain AWD Denali</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GKALZEG0TL204847"/>
+    <ns0:id>T26005</ns0:id>
+    <ns0:price>41158.00 USD</ns0:price>
+    <ns0:vehicle_msrp>44255.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3GKALZEG0TL204847</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>GMC</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>GMC</ns0:make>
+    <ns0:model>Terrain</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GKALZEG0TL204847&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>AWD Denali</ns0:trim>
+    <ns0:mileage>8 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Summit White</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004631161--LRJ5P-ltid1/2004631161.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004631171--PAY82-ltid1/2004631171.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004631181--PAY82-ltid1/2004631181.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004631191--HXQ-Y-ltid1/2004631191.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004631201--Q0UMH-ltid1/2004631201.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004628691--DHNEP-ltid1/2004628691.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004628701--DHNEP-ltid1/2004628701.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004628711--9RGSK-ltid1/2004628711.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004628721--PNODG-ltid1/2004628721.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004628731--OCWXM-ltid1/2004628731.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Terrain</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>T26008</id>
+    <title>2026 GMC Terrain AWD Denali</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GKALZEG6TL209423"/>
+    <ns0:id>T26008</ns0:id>
+    <ns0:price>41757.00 USD</ns0:price>
+    <ns0:vehicle_msrp>44900.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>3GKALZEG6TL209423</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>GMC</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>GMC</ns0:make>
+    <ns0:model>Terrain</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=3GKALZEG6TL209423&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>AWD Denali</ns0:trim>
+    <ns0:mileage>2 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Volcanic Red Tintcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004628781--OJF6H-ltid1/2004628781.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004628791--C0HAO-ltid1/2004628791.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004628801--C0HAO-ltid1/2004628801.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004628811--MJQ6C-ltid1/2004628811.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004628821--V5+0I-ltid1/2004628821.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004628831--V5+0I-ltid1/2004628831.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004628841--ORUTU-ltid1/2004628841.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004628851--1EEI3-ltid1/2004628851.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004628861--7GCBZ-ltid1/2004628861.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004628871--JWENA-ltid1/2004628871.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Terrain</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>B26015</id>
+    <title>2026 Buick Enclave Preferred</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5GAEVAKS3TJ179811"/>
+    <ns0:id>B26015</ns0:id>
+    <ns0:price>43586.00 USD</ns0:price>
+    <ns0:vehicle_msrp>50095.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>5GAEVAKS3TJ179811</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Buick</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Buick</ns0:make>
+    <ns0:model>Enclave</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5GAEVAKS3TJ179811&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Preferred</ns0:trim>
+    <ns0:mileage>2 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>summit white</ns0:color>
+    <ns0:custom_label_0>Enclave</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>B26009</id>
+    <title>2026 Buick Enclave Preferred</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5GAEVAKS5TJ173654"/>
+    <ns0:id>B26009</ns0:id>
+    <ns0:price>44031.00 USD</ns0:price>
+    <ns0:vehicle_msrp>50590.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>5GAEVAKS5TJ173654</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Buick</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Buick</ns0:make>
+    <ns0:model>Enclave</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5GAEVAKS5TJ173654&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Preferred</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Ebony Twilight Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004642301--5TXUL-ltid1/2004642301.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004642311--6GJAY-ltid1/2004642311.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004642321--7GALS-ltid1/2004642321.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004642331--7GALS-ltid1/2004642331.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004642341--KMPII-ltid1/2004642341.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004642351--SQR+F-ltid1/2004642351.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004642361--SQR+F-ltid1/2004642361.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004642371--QSLXN-ltid1/2004642371.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004642381--S5UE5-ltid1/2004642381.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004642391--WQM9Y-ltid1/2004642391.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Enclave</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>B26010</id>
+    <title>2026 Buick Enclave Preferred</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5GAEVAKS6TJ186946"/>
+    <ns0:id>B26010</ns0:id>
+    <ns0:price>44031.00 USD</ns0:price>
+    <ns0:vehicle_msrp>50590.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>5GAEVAKS6TJ186946</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Buick</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Buick</ns0:make>
+    <ns0:model>Enclave</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5GAEVAKS6TJ186946&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Preferred</ns0:trim>
+    <ns0:mileage>2 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>moonstone grey metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004642441--Q-MYI-ltid1/2004642441.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004642451--6GGGX-ltid1/2004642451.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004642461--6GGGX-ltid1/2004642461.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004642471--CY1GE-ltid1/2004642471.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004642481--ZKHPC-ltid1/2004642481.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004642491--ZKHPC-ltid1/2004642491.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004642501--WVTUG-ltid1/2004642501.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004642511--3EODA-ltid1/2004642511.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004642521--LNIXK-ltid1/2004642521.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004642531--6ESMZ-ltid1/2004642531.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Enclave</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>B26005</id>
+    <title>2026 Buick Enclave Sport Touring</title>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5GAEVBKS1TJ160809"/>
+    <ns0:id>B26005</ns0:id>
+    <ns0:price>48954.00 USD</ns0:price>
+    <ns0:vehicle_msrp>56060.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>5GAEVBKS1TJ160809</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Buick</ns0:brand>
+    <ns0:store_code>7227908043401009324</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
+    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7227908043401009324</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Buick</ns0:make>
+    <ns0:model>Enclave</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5GAEVBKS1TJ160809&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Sport Touring</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Summit White</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004638021--1NETB-ltid1/2004638021.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004638031--1NETB-ltid1/2004638031.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004638041--BOVAN-ltid1/2004638041.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635411--QA7ZX-ltid1/2004635411.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635421--UX70U-ltid1/2004635421.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635431--UX70U-ltid1/2004635431.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635441--XY3N7-ltid1/2004635441.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635451--3OYN7-ltid1/2004635451.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635461--3Y+Z0-ltid1/2004635461.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2004635471--+WOTV-ltid1/2004635471.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Enclave</ns0:custom_label_0>
   </entry>
 </feed>
