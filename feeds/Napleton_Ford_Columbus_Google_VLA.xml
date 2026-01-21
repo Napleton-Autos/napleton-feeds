@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Ford Columbus Inventory Feed</title>
   <link href="https://www.napletonfordcolumbus.com" rel="self"/>
-  <updated>2026-01-21T08:03:30.195605</updated>
+  <updated>2026-01-21T12:04:26.229635</updated>
   <entry>
     <id>124036</id>
     <title>2024 Ford Super Duty F-550 DRW XL</title>
@@ -1550,44 +1550,6 @@
     <ns0:custom_label_0>Edge</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>PB0032</id>
-    <title>2018 Ford EcoSport SE</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=MAJ3P1TE6JC235448"/>
-    <ns0:id>PB0032</ns0:id>
-    <ns0:price>13048.00 USD</ns0:price>
-    <ns0:vin>MAJ3P1TE6JC235448</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2018</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>EcoSport</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=MAJ3P1TE6JC235448&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>SE</ns0:trim>
-    <ns0:mileage>7993 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Smoke Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1842665871--FOMXH-ltid2/1842665871.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1842665881--P693A-ltid2/1842665881.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1842665891--+W7ZO-ltid2/1842665891.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1842665901--+W7ZO-ltid2/1842665901.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1842665911--DND3K-ltid2/1842665911.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1842665921--5H6NP-ltid2/1842665921.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1842665931--ABVF6-ltid2/1842665931.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1842665941--ABVF6-ltid2/1842665941.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1842665951--UUJCH-ltid2/1842665951.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1842665961--XGKEX-ltid2/1842665961.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>EcoSport</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>PB0035</id>
     <title>2024 Dodge Durango GT Plus</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1C4RDJDG5RC192035"/>
@@ -1779,45 +1741,6 @@
     <ns0:custom_label_0>Bronco</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>126012</id>
-    <title>2026 Ford Explorer ST-Line</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KH8TGA20095"/>
-    <ns0:id>126012</ns0:id>
-    <ns0:price>48375.00 USD</ns0:price>
-    <ns0:vehicle_msrp>53850.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1FMUK8KH8TGA20095</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>Explorer</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KH8TGA20095&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>ST-Line</ns0:trim>
-    <ns0:mileage>22 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Vapor Blue Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771572161--PN0CV-ltid1/1771572161.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771572171--PN0CV-ltid1/1771572171.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771572181--LTQHY-ltid1/1771572181.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771572191--LTQHY-ltid1/1771572191.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771572201--LTQHY-ltid1/1771572201.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771572211--LTQHY-ltid1/1771572211.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771572221--OSGE7-ltid1/1771572221.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771572231--OSGE7-ltid1/1771572231.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771572241--BMMU0-ltid1/1771572241.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771572251--BMMU0-ltid1/1771572251.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Explorer</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>125171</id>
     <title>2025 Ford Bronco Sport Big Bend</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN2SRF64960"/>
@@ -1959,16 +1882,16 @@
     <ns0:mileage>9 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Ruby Red Metallic Tinted Clearcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1738941471--JANU8-ltid1/1738941471.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1738941481--UMXDR-ltid1/1738941481.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1738941491--UMXDR-ltid1/1738941491.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1738941501--O43DR-ltid1/1738941501.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1738941511--L0PBU-ltid1/1738941511.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1738941521--S-YKM-ltid1/1738941521.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1738941531--8FNM0-ltid1/1738941531.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1738941541--IBTGR-ltid1/1738941541.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1738941551--KOOXS-ltid1/1738941551.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1738941561--6P8SQ-ltid1/1738941561.jpg</ns0:additional_image_link>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2007602231--507VX-ltid1/2007602231.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2007602241--YISYW-ltid1/2007602241.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2007602251--DMY3M-ltid1/2007602251.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2007602261--DMY3M-ltid1/2007602261.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2007602271--KMTM5-ltid1/2007602271.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2007602281--KMTM5-ltid1/2007602281.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2007602291--JWTOT-ltid1/2007602291.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2007602301--YPAKI-ltid1/2007602301.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2007602311--YPAKI-ltid1/2007602311.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2007602321--ONPDK-ltid1/2007602321.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Bronco</ns0:custom_label_0>
   </entry>
   <entry>
@@ -3156,9 +3079,16 @@
     <ns0:mileage>7 miles</ns0:mileage>
     <ns0:body_style>full size van</ns0:body_style>
     <ns0:color>Oxford White</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1851523101--AK4NW-ltid1/1851523101.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1851523111--OQRTH-ltid1/1851523111.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1851523121--GUGQZ-ltid1/1851523121.jpg</ns0:additional_image_link>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2008675241--WEVHY-ltid1/2008675241.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2008675251--M4FD4-ltid1/2008675251.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2008675261--HKDER-ltid1/2008675261.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2008675271--HP-A2-ltid1/2008675271.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2008675281--HP-A2-ltid1/2008675281.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2008675291--FO9KV-ltid1/2008675291.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2008675301--UWCG5-ltid1/2008675301.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2008675311--UWCG5-ltid1/2008675311.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2008675321--VGKNZ-ltid1/2008675321.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2008675331--PNX7B-ltid1/2008675331.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Transit Cargo Van</ns0:custom_label_0>
   </entry>
   <entry>
@@ -3218,8 +3148,16 @@
     <ns0:trim>Tremor</ns0:trim>
     <ns0:mileage>5 miles</ns0:mileage>
     <ns0:color>Carbonized Gray Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1851523081--QUTVU-ltid1/1851523081.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1851523091--QUTVU-ltid1/1851523091.jpg</ns0:additional_image_link>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2008133581--ATYJU-ltid1/2008133581.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2008133591--47JH7-ltid1/2008133591.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2008133601--47JH7-ltid1/2008133601.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2008133611--47JH7-ltid1/2008133611.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2008133621--DEA-8-ltid1/2008133621.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2008133631--DEA-8-ltid1/2008133631.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2008133641--1YTKS-ltid1/2008133641.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2008133651--1YTKS-ltid1/2008133651.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2008133661--1YTKS-ltid1/2008133661.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2008133671--FNYEW-ltid1/2008133671.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>F-150</ns0:custom_label_0>
   </entry>
   <entry>
@@ -4071,43 +4009,6 @@
     <ns0:custom_label_0>Maverick</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>125191A</id>
-    <title>2015 Ford F-150 King Ranch</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTEW1EF1FFC49050"/>
-    <ns0:id>125191A</ns0:id>
-    <ns0:price>22954.00 USD</ns0:price>
-    <ns0:vin>1FTEW1EF1FFC49050</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2015</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>F-150</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTEW1EF1FFC49050&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>King Ranch</ns0:trim>
-    <ns0:mileage>131324 miles</ns0:mileage>
-    <ns0:color>White Platinum Metallic Tri-Coat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1981288051--AE6V7-ltid2/1981288051.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1981288061--WGDTR-ltid2/1981288061.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1981288071--WGDTR-ltid2/1981288071.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1981288081--WGDTR-ltid2/1981288081.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1981288091--NLP45-ltid2/1981288091.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1981288101--NLP45-ltid2/1981288101.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1981288111--NLP45-ltid2/1981288111.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1981288121--ZFJSA-ltid2/1981288121.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1981288131--ZFJSA-ltid2/1981288131.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1981288141--ZFJSA-ltid2/1981288141.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>F-150</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>126043</id>
     <title>2026 Ford Ranger XLT</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTER4HH9TLE01272"/>
@@ -4265,7 +4166,7 @@
   <entry>
     <id>126046</id>
     <title>2026 Ford Explorer ST-Line</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/1FMUK8KH5TGA92422"/>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KH5TGA92422"/>
     <ns0:id>126046</ns0:id>
     <ns0:price>45434.00 USD</ns0:price>
     <ns0:vehicle_msrp>50540.00 USD</ns0:vehicle_msrp>
@@ -4284,11 +4185,21 @@
     <ns0:model>Explorer</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/1FMUK8KH5TGA92422?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KH5TGA92422&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>ST-Line</ns0:trim>
     <ns0:mileage>5 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Star White Metallic Tri-Coat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2007304961--WCSBR-ltid1/2007304961.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2007304971--KDBCT-ltid1/2007304971.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2007304981--KDBCT-ltid1/2007304981.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2007304991--ZHW08-ltid1/2007304991.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2007305001--CHWUN-ltid1/2007305001.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2007305011--CHWUN-ltid1/2007305011.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2007305021--CHWUN-ltid1/2007305021.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2007305031--WS8ZL-ltid1/2007305031.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2007305041--WS8ZL-ltid1/2007305041.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2007305051--WS8ZL-ltid1/2007305051.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Explorer</ns0:custom_label_0>
   </entry>
 </feed>
