@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Downtown Chevrolet Inventory Feed</title>
   <link href="https://www.downtownchevy.com" rel="self"/>
-  <updated>2026-01-22T08:02:50.162563</updated>
+  <updated>2026-01-22T12:04:12.235059</updated>
   <entry>
     <id>H25031</id>
     <title>2025 Hyundai Sonata SE</title>
@@ -160,45 +160,6 @@
     <ns0:custom_label_0>Blazer EV</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>C25312</id>
-    <title>2025 Chevrolet Colorado 4WD LT</title>
-    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GCPTCEK9S1185230"/>
-    <ns0:id>C25312</ns0:id>
-    <ns0:price>35171.00 USD</ns0:price>
-    <ns0:vehicle_msrp>40190.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1GCPTCEK9S1185230</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Chevrolet</ns0:brand>
-    <ns0:store_code>7227908043401009324</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
-    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>7227908043401009324</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Chevrolet</ns0:make>
-    <ns0:model>Colorado</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GCPTCEK9S1185230&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>4WD LT</ns0:trim>
-    <ns0:mileage>4 miles</ns0:mileage>
-    <ns0:body_style>truck</ns0:body_style>
-    <ns0:color>Radiant Red Tintcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771602141--FVBBI-ltid1/1771602141.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771602151--FVBBI-ltid1/1771602151.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771602161--FVBBI-ltid1/1771602161.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771602171--OUMOJ-ltid1/1771602171.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771602181--OUMOJ-ltid1/1771602181.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771602191--OUMOJ-ltid1/1771602191.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771602201--EEHC8-ltid1/1771602201.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771602211--EEHC8-ltid1/1771602211.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771602221--EEHC8-ltid1/1771602221.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1771602231--XTUBM-ltid1/1771602231.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Colorado</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>H25145</id>
     <title>2025 Hyundai Sonata Hybrid Limited</title>
     <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=KMHL54JJ3SA126424"/>
@@ -241,7 +202,7 @@
     <title>2025 Genesis GV80 Standard</title>
     <link rel="alternate" href="https://www.downtownchevy.com/inventory/details/KMUHFESB9SU258037"/>
     <ns0:id>GL25068</ns0:id>
-    <ns0:price>51395.00 USD</ns0:price>
+    <ns0:price>52995.00 USD</ns0:price>
     <ns0:vin>KMUHFESB9SU258037</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Genesis</ns0:brand>
@@ -1466,7 +1427,7 @@
     <title>2023 Hyundai Tucson SEL</title>
     <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=5NMJB3AE5PH225308"/>
     <ns0:id>P0771</ns0:id>
-    <ns0:price>21993.00 USD</ns0:price>
+    <ns0:price>21951.00 USD</ns0:price>
     <ns0:vin>5NMJB3AE5PH225308</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Hyundai</ns0:brand>
@@ -2974,44 +2935,17 @@
     <ns0:mileage>29216 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Vik Black</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2011045301--GOKPR-ltid2/2011045301.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2011045311--GOKPR-ltid2/2011045311.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2011045321--BD5LY-ltid2/2011045321.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2011045331--BD5LY-ltid2/2011045331.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2011045341--BD5LY-ltid2/2011045341.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2011045351---6+WJ-ltid2/2011045351.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2011045361---6+WJ-ltid2/2011045361.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2011045021--POALN-ltid2/2011045021.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2011045031--POALN-ltid2/2011045031.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2011045041--POALN-ltid2/2011045041.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>GV70</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>T26011A</id>
-    <title>2018 GMC Acadia SLT</title>
-    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GKKNULS2JZ192554"/>
-    <ns0:id>T26011A</ns0:id>
-    <ns0:price>18991.00 USD</ns0:price>
-    <ns0:vin>1GKKNULS2JZ192554</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>GMC</ns0:brand>
-    <ns0:store_code>7227908043401009324</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
-    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>7227908043401009324</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2018</ns0:year>
-    <ns0:make>GMC</ns0:make>
-    <ns0:model>Acadia</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=1GKKNULS2JZ192554&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>SLT</ns0:trim>
-    <ns0:mileage>25647 miles</ns0:mileage>
-    <ns0:color>Iridium Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1993437301--DID4H-ltid2/1993437301.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1993437311--GTMFL-ltid2/1993437311.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1993437321--GTMFL-ltid2/1993437321.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1993437331--GTMFL-ltid2/1993437331.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1993437341--IP4WE-ltid2/1993437341.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1993437351--IP4WE-ltid2/1993437351.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1993437361--IP4WE-ltid2/1993437361.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1993437371--EEC7U-ltid2/1993437371.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1993437381--EEC7U-ltid2/1993437381.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid1993437391--EEC7U-ltid2/1993437391.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Acadia</ns0:custom_label_0>
   </entry>
   <entry>
     <id>B26007A</id>
@@ -4503,6 +4437,16 @@
     <ns0:mileage>32802 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Velvet Red Pearlcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2011045721--XMGA8-ltid2/2011045721.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2011045731--UFCQY-ltid2/2011045731.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2011045371---6+WJ-ltid2/2011045371.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2011045381--4E9AU-ltid2/2011045381.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2011045391--4E9AU-ltid2/2011045391.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2011045401--4E9AU-ltid2/2011045401.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2011045411--2HBSC-ltid2/2011045411.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2011045421--2HBSC-ltid2/2011045421.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2011045431--2HBSC-ltid2/2011045431.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid50912-photoid2011045441--XE5US-ltid2/2011045441.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Grand Cherokee L</ns0:custom_label_0>
   </entry>
   <entry>
@@ -4532,33 +4476,5 @@
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Onyx Black</ns0:color>
     <ns0:custom_label_0>Yukon</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>CD26082A</id>
-    <title>2018 Chevrolet Equinox LS</title>
-    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=2GNAXREV4J6347176"/>
-    <ns0:id>CD26082A</ns0:id>
-    <ns0:price>14921.00 USD</ns0:price>
-    <ns0:vin>2GNAXREV4J6347176</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Chevrolet</ns0:brand>
-    <ns0:store_code>7227908043401009324</ns0:store_code>
-    <ns0:dealership_name>Napleton Downtown Chevrolet</ns0:dealership_name>
-    <ns0:dealership_address>2720 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>7227908043401009324</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2018</ns0:year>
-    <ns0:make>Chevrolet</ns0:make>
-    <ns0:model>Equinox</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=2GNAXREV4J6347176&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>LS</ns0:trim>
-    <ns0:mileage>54006 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Mosaic Black Metallic</ns0:color>
-    <ns0:custom_label_0>Equinox</ns0:custom_label_0>
   </entry>
 </feed>

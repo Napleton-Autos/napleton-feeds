@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Ford Columbus Inventory Feed</title>
   <link href="https://www.napletonfordcolumbus.com" rel="self"/>
-  <updated>2026-01-22T08:02:49.980732</updated>
+  <updated>2026-01-22T12:04:12.056572</updated>
   <entry>
     <id>124036</id>
     <title>2024 Ford Super Duty F-550 DRW XL</title>
@@ -2431,6 +2431,44 @@
     <ns0:custom_label_0>Civic Coupe</ns0:custom_label_0>
   </entry>
   <entry>
+    <id>P0380</id>
+    <title>2023 Audi Q5 S line Premium Plus</title>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/WA1EAAFY1P2116841"/>
+    <ns0:id>P0380</ns0:id>
+    <ns0:price>23732.00 USD</ns0:price>
+    <ns0:vin>WA1EAAFY1P2116841</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Audi</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2023</ns0:year>
+    <ns0:make>Audi</ns0:make>
+    <ns0:model>Q5</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/WA1EAAFY1P2116841?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>S line Premium Plus</ns0:trim>
+    <ns0:mileage>61269 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>GRAY</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1809087041--4KT7W-ltid2/1809087041.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1809087051--Q+AJM-ltid2/1809087051.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1809087061--6YTEZ-ltid2/1809087061.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1809087071--XPNKK-ltid2/1809087071.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1809087081--BG0LK-ltid2/1809087081.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1809087091--5WBRQ-ltid2/1809087091.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1809087101--ZRXV8-ltid2/1809087101.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1809087111--HCAVO-ltid2/1809087111.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1809087121--ZRZ8L-ltid2/1809087121.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1809087131--O5RMJ-ltid2/1809087131.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Q5</ns0:custom_label_0>
+  </entry>
+  <entry>
     <id>P0379</id>
     <title>2023 Nissan Murano SV</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=5N1AZ2BS9PC132361"/>
@@ -3430,44 +3468,6 @@
     <ns0:custom_label_0>Bronco Sport</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>125179B</id>
-    <title>2023 Chevrolet Equinox RS</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3GNAXWEG5PS163617"/>
-    <ns0:id>125179B</ns0:id>
-    <ns0:price>24207.00 USD</ns0:price>
-    <ns0:vin>3GNAXWEG5PS163617</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Chevrolet</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2023</ns0:year>
-    <ns0:make>Chevrolet</ns0:make>
-    <ns0:model>Equinox</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3GNAXWEG5PS163617&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>RS</ns0:trim>
-    <ns0:mileage>21013 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Iron Gray Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934958631--3TSPK-ltid2/1934958631.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934958641--X98EB-ltid2/1934958641.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934958651--X98EB-ltid2/1934958651.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934958661--THA7I-ltid2/1934958661.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934958671--SKFLO-ltid2/1934958671.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934958681--GHA2E-ltid2/1934958681.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934958691--GHA2E-ltid2/1934958691.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934958701--IPIXP-ltid2/1934958701.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934958711--WE+Q+-ltid2/1934958711.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934958721--USC9Y-ltid2/1934958721.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Equinox</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>125122A</id>
     <title>2024 Ford Bronco Outer Banks</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMEE8BP9RLA56817"/>
@@ -3610,16 +3610,16 @@
     <ns0:mileage>92 miles</ns0:mileage>
     <ns0:body_style>full size van</ns0:body_style>
     <ns0:color>Oxford White</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1887263901--HJYWJ-ltid1/1887263901.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1887263921--57OQU-ltid1/1887263921.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1887263911--HJYWJ-ltid1/1887263911.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1887263951--LGK52-ltid1/1887263951.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1887263931--57OQU-ltid1/1887263931.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1887263981--VZIUO-ltid1/1887263981.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1887263991--76QRE-ltid1/1887263991.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1887263941--LGK52-ltid1/1887263941.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1887263971--TQO1R-ltid1/1887263971.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1887264001--PIJZY-ltid1/1887264001.jpg</ns0:additional_image_link>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2011555711--U79HE-ltid1/2011555711.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2011555721--KAAND-ltid1/2011555721.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2011555731--KAAND-ltid1/2011555731.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2011555741--KAAND-ltid1/2011555741.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2011555751--6J9TA-ltid1/2011555751.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2011555761--6J9TA-ltid1/2011555761.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2011555771--6J9TA-ltid1/2011555771.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2011555781--KHGOR-ltid1/2011555781.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2011555791--KHGOR-ltid1/2011555791.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2011555631--SQ0EK-ltid1/2011555631.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Transit Cargo Van</ns0:custom_label_0>
   </entry>
   <entry>
