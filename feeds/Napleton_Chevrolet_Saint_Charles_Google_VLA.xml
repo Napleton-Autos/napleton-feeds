@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Chevrolet Saint Charles Inventory Feed</title>
   <link href="https://www.napletonchevrolet.com" rel="self"/>
-  <updated>2026-01-23T08:02:57.762374</updated>
+  <updated>2026-01-23T12:04:04.814965</updated>
   <entry>
     <id>24530</id>
     <title>2024 Chevrolet Silverado 5500HD Work Truck</title>
@@ -2273,6 +2273,44 @@
     <ns0:custom_label_0>Sequoia</ns0:custom_label_0>
   </entry>
   <entry>
+    <id>P692A</id>
+    <title>2015 Ford Expedition XLT</title>
+    <link rel="alternate" href="https://www.napletonchevrolet.com/inventory/details/1FMJU1JTXFEF37392"/>
+    <ns0:id>P692A</ns0:id>
+    <ns0:price>12495.00 USD</ns0:price>
+    <ns0:vin>1FMJU1JTXFEF37392</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>7093661331809096168</ns0:store_code>
+    <ns0:dealership_name>Napleton Chevrolet Saint Charles</ns0:dealership_name>
+    <ns0:dealership_address>2015 E. Main St., Saint Charles, IL 60174</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7093661331809096168</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2015</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>Expedition</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonchevrolet.com/inventory/details/1FMJU1JTXFEF37392?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>XLT</ns0:trim>
+    <ns0:mileage>138048 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Ingot Silver Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1874608191--VPXCK-ltid2/1874608191.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1874608201--VPXCK-ltid2/1874608201.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1874608211--VPXCK-ltid2/1874608211.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1874608221--VPXCK-ltid2/1874608221.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1874608231--VPXCK-ltid2/1874608231.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1874608241--VPXCK-ltid2/1874608241.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1874608251--VPXCK-ltid2/1874608251.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1874608261--VPXCK-ltid2/1874608261.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1874608271--VPXCK-ltid2/1874608271.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1874608281--VPXCK-ltid2/1874608281.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Expedition</ns0:custom_label_0>
+  </entry>
+  <entry>
     <id>PB0093</id>
     <title>2022 Nissan Rogue Platinum</title>
     <link rel="alternate" href="https://www.napletonchevrolet.com/inventory/used-2022-nissan-rogue-platinum-all-wheel-drive-suv-jn8bt3ddxnw275804/"/>
@@ -3904,7 +3942,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletonchevrolet.com/inventory/new-2025-chevrolet-colorado-trail-boss-four-wheel-drive-crew-cab-1gcpteek8s1200490/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>4WD Trail Boss</ns0:trim>
-    <ns0:mileage>50 miles</ns0:mileage>
+    <ns0:mileage>126 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Summit White</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1934981731--G5H-3-ltid1/1934981731.jpg</ns0:image_link>
@@ -4501,45 +4539,6 @@
     <ns0:custom_label_0>Traverse</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>26251</id>
-    <title>2026 Chevrolet Traverse AWD RS</title>
-    <link rel="alternate" href="https://www.napletonchevrolet.com/inventory/new-2026-chevrolet-traverse-rs-all-wheel-drive-suv-1gnevlks0tj250674/"/>
-    <ns0:id>26251</ns0:id>
-    <ns0:price>58254.00 USD</ns0:price>
-    <ns0:vehicle_msrp>61320.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1GNEVLKS0TJ250674</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Chevrolet</ns0:brand>
-    <ns0:store_code>7093661331809096168</ns0:store_code>
-    <ns0:dealership_name>Napleton Chevrolet Saint Charles</ns0:dealership_name>
-    <ns0:dealership_address>2015 E. Main St., Saint Charles, IL 60174</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>7093661331809096168</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Chevrolet</ns0:make>
-    <ns0:model>Traverse</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevrolet.com/inventory/new-2026-chevrolet-traverse-rs-all-wheel-drive-suv-1gnevlks0tj250674/?store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>AWD RS</ns0:trim>
-    <ns0:mileage>3 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Mosaic Black Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1970672761--7RZJH-ltid1/1970672761.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1970672771--7RZJH-ltid1/1970672771.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1970672781--7RZJH-ltid1/1970672781.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1970672791--7RZJH-ltid1/1970672791.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1970672801--PF3PC-ltid1/1970672801.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1970672811--PF3PC-ltid1/1970672811.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1970672821--PF3PC-ltid1/1970672821.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1970672831--P41-E-ltid1/1970672831.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1970672841--P41-E-ltid1/1970672841.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid1970672851--P41-E-ltid1/1970672851.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Traverse</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>26249A</id>
     <title>2019 Chevrolet Traverse Premier</title>
     <link rel="alternate" href="https://www.napletonchevrolet.com/inventory/used-2019-chevrolet-traverse-premier-all-wheel-drive-suv-1gnevkkw8kj111419/"/>
@@ -4736,7 +4735,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletonchevrolet.com/inventory/new-2026-chevrolet-traverse-lt-all-wheel-drive-suv-1gnevgks7tj255586/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>AWD LT</ns0:trim>
-    <ns0:mileage>10 miles</ns0:mileage>
+    <ns0:mileage>3 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>WHITE</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid2011060361--QR5G3-ltid1/2011060361.jpg</ns0:image_link>
@@ -4754,7 +4753,7 @@
   <entry>
     <id>26255</id>
     <title>2026 Chevrolet Traverse AWD RS</title>
-    <link rel="alternate" href="https://www.napletonchevrolet.com/inventory/details/1GNEVLKS4TJ255232"/>
+    <link rel="alternate" href="https://www.napletonchevrolet.com/inventory/new-2026-chevrolet-traverse-rs-all-wheel-drive-suv-1gnevlks4tj255232/"/>
     <ns0:id>26255</ns0:id>
     <ns0:price>58254.00 USD</ns0:price>
     <ns0:vehicle_msrp>61320.00 USD</ns0:vehicle_msrp>
@@ -4773,7 +4772,7 @@
     <ns0:model>Traverse</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevrolet.com/inventory/details/1GNEVLKS4TJ255232?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.napletonchevrolet.com/inventory/new-2026-chevrolet-traverse-rs-all-wheel-drive-suv-1gnevlks4tj255232/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>AWD RS</ns0:trim>
     <ns0:mileage>3 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -4793,7 +4792,7 @@
   <entry>
     <id>26256</id>
     <title>2026 Chevrolet Traverse AWD RS</title>
-    <link rel="alternate" href="https://www.napletonchevrolet.com/inventory/details/1GNEVLKS6TJ255863"/>
+    <link rel="alternate" href="https://www.napletonchevrolet.com/inventory/new-2026-chevrolet-traverse-rs-all-wheel-drive-suv-1gnevlks6tj255863/"/>
     <ns0:id>26256</ns0:id>
     <ns0:price>58725.00 USD</ns0:price>
     <ns0:vehicle_msrp>61815.00 USD</ns0:vehicle_msrp>
@@ -4812,7 +4811,7 @@
     <ns0:model>Traverse</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevrolet.com/inventory/details/1GNEVLKS6TJ255863?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.napletonchevrolet.com/inventory/new-2026-chevrolet-traverse-rs-all-wheel-drive-suv-1gnevlks6tj255863/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>AWD RS</ns0:trim>
     <ns0:mileage>10 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -4960,7 +4959,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletonchevrolet.com/inventory/used-2019-chevrolet-colorado-4wd-z71-four-wheel-drive-crew-cab-1gcgtden1k1349957/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>4WD Z71</ns0:trim>
-    <ns0:mileage>78990 miles</ns0:mileage>
+    <ns0:mileage>78991 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Cajun Red Tintcoat</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid2008333811--YETVQ-ltid2/2008333811.jpg</ns0:image_link>
@@ -5051,6 +5050,34 @@
     <ns0:custom_label_0>Silverado 1500 LTD</ns0:custom_label_0>
   </entry>
   <entry>
+    <id>26020A</id>
+    <title>2018 Ford Explorer XLT</title>
+    <link rel="alternate" href="https://www.napletonchevrolet.com/inventory/used-2018-ford-explorer-xlt-front-wheel-drive-suv-1fm5k7d89jga52854/"/>
+    <ns0:id>26020A</ns0:id>
+    <ns0:price>15997.00 USD</ns0:price>
+    <ns0:vin>1FM5K7D89JGA52854</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>7093661331809096168</ns0:store_code>
+    <ns0:dealership_name>Napleton Chevrolet Saint Charles</ns0:dealership_name>
+    <ns0:dealership_address>2015 E. Main St., Saint Charles, IL 60174</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7093661331809096168</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2018</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>Explorer</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonchevrolet.com/inventory/used-2018-ford-explorer-xlt-front-wheel-drive-suv-1fm5k7d89jga52854/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>XLT</ns0:trim>
+    <ns0:mileage>68710 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Magnetic Metallic</ns0:color>
+    <ns0:custom_label_0>Explorer</ns0:custom_label_0>
+  </entry>
+  <entry>
     <id>P746A</id>
     <title>2025 Toyota Sienna XSE</title>
     <link rel="alternate" href="https://www.napletonchevrolet.com/inventory/used-2025-toyota-sienna-xse-all-wheel-drive-van-5tddskfc1ss206419/"/>
@@ -5076,12 +5103,22 @@
     <ns0:mileage>19998 miles</ns0:mileage>
     <ns0:body_style>full size van</ns0:body_style>
     <ns0:color>Midnight Black Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid2015104441--BEXN1-ltid2/2015104441.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid2015104451--ZYLWL-ltid2/2015104451.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid2015104461--CBHKO-ltid2/2015104461.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid2015104471--CBHKO-ltid2/2015104471.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid2015104481--2RULU-ltid2/2015104481.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid2015104491--84TVA-ltid2/2015104491.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid2015104501--BFH8C-ltid2/2015104501.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid2015104511--BFH8C-ltid2/2015104511.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid2015104521--KP+PQ-ltid2/2015104521.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid2015104531--7BEEP-ltid2/2015104531.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Sienna</ns0:custom_label_0>
   </entry>
   <entry>
     <id>26261</id>
     <title>2026 Chevrolet Trax LS</title>
-    <link rel="alternate" href="https://www.napletonchevrolet.com/inventory/details/KL77LFEP7TC025153"/>
+    <link rel="alternate" href="https://www.napletonchevrolet.com/inventory/new-2026-chevrolet-trax-ls-front-wheel-drive-suv-kl77lfep7tc025153/"/>
     <ns0:id>26261</ns0:id>
     <ns0:price>24925.00 USD</ns0:price>
     <ns0:vehicle_msrp>24925.00 USD</ns0:vehicle_msrp>
@@ -5100,11 +5137,21 @@
     <ns0:model>Trax</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonchevrolet.com/inventory/details/KL77LFEP7TC025153?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.napletonchevrolet.com/inventory/new-2026-chevrolet-trax-ls-front-wheel-drive-suv-kl77lfep7tc025153/?store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LS</ns0:trim>
     <ns0:mileage>50 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Mosaic Black Metallic</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid2015104841--1KYXP-ltid1/2015104841.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid2015104851--HNA5I-ltid1/2015104851.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid2015104861--KT81X-ltid1/2015104861.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid2015104871--FTCHF-ltid1/2015104871.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid2015104881--FTCHF-ltid1/2015104881.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid2015104891--BAB0Y-ltid1/2015104891.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid2015104901--X3O3F-ltid1/2015104901.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid2015104911--NXTSC-ltid1/2015104911.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid2015104921--7E-Q+-ltid1/2015104921.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid4802-photoid2015104931--QZ36Y-ltid1/2015104931.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Trax</ns0:custom_label_0>
   </entry>
 </feed>

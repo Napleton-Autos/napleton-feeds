@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Ford Columbus Inventory Feed</title>
   <link href="https://www.napletonfordcolumbus.com" rel="self"/>
-  <updated>2026-01-23T08:02:57.344278</updated>
+  <updated>2026-01-23T12:04:04.379868</updated>
   <entry>
     <id>124036</id>
     <title>2024 Ford Super Duty F-550 DRW XL</title>
@@ -46,7 +46,7 @@
     <title>2025 Ford Escape PHEV</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU0E18SUA54771"/>
     <ns0:id>125019</ns0:id>
-    <ns0:price>28000.00 USD</ns0:price>
+    <ns0:price>35000.00 USD</ns0:price>
     <ns0:vehicle_msrp>41050.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1FMCU0E18SUA54771</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -85,7 +85,7 @@
     <title>2025 Ford Escape ST-Line</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9MN2SUA50935"/>
     <ns0:id>125018</ns0:id>
-    <ns0:price>28085.00 USD</ns0:price>
+    <ns0:price>27085.00 USD</ns0:price>
     <ns0:vehicle_msrp>34870.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1FMCU9MN2SUA50935</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -586,7 +586,7 @@
     <title>2025 Ford Escape Active</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9GN3SUB51882"/>
     <ns0:id>125126</ns0:id>
-    <ns0:price>27996.00 USD</ns0:price>
+    <ns0:price>26996.00 USD</ns0:price>
     <ns0:vehicle_msrp>35240.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1FMCU9GN3SUB51882</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -837,7 +837,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMTK3SU2SMA54629&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Premium</ns0:trim>
-    <ns0:mileage>6 miles</ns0:mileage>
+    <ns0:mileage>14 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>SHADOW BLACK</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771557371--QLDQB-ltid1/1771557371.jpg</ns0:image_link>
@@ -1780,44 +1780,6 @@
     <ns0:custom_label_0>Bronco Sport</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>PB0040</id>
-    <title>2023 Jeep Renegade Upland</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=ZACNJDB12PPP72145"/>
-    <ns0:id>PB0040</ns0:id>
-    <ns0:price>18706.00 USD</ns0:price>
-    <ns0:vin>ZACNJDB12PPP72145</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Jeep</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2023</ns0:year>
-    <ns0:make>Jeep</ns0:make>
-    <ns0:model>Renegade</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=ZACNJDB12PPP72145&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Upland</ns0:trim>
-    <ns0:mileage>37052 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Black Clearcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771569501--ENMHK-ltid2/1771569501.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771569511--HUFFF-ltid2/1771569511.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771569521--HUFFF-ltid2/1771569521.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771569531--O4XHQ-ltid2/1771569531.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771569541--O4XHQ-ltid2/1771569541.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771569551--O4XHQ-ltid2/1771569551.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771560441--QX2C3-ltid2/1771560441.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771560451--QX2C3-ltid2/1771560451.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771560461--QX2C3-ltid2/1771560461.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771560471--3NLHY-ltid2/1771560471.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Renegade</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>PB0042</id>
     <title>2023 Toyota Highlander XLE</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=5TDKDRAH7PS036071"/>
@@ -2433,7 +2395,7 @@
   <entry>
     <id>P0380</id>
     <title>2023 Audi Q5 S line Premium Plus</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/inventory/details/WA1EAAFY1P2116841"/>
+    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=WA1EAAFY1P2116841"/>
     <ns0:id>P0380</ns0:id>
     <ns0:price>23732.00 USD</ns0:price>
     <ns0:vin>WA1EAAFY1P2116841</ns0:vin>
@@ -2451,9 +2413,9 @@
     <ns0:model>Q5</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/inventory/details/WA1EAAFY1P2116841?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=WA1EAAFY1P2116841&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>S line Premium Plus</ns0:trim>
-    <ns0:mileage>61269 miles</ns0:mileage>
+    <ns0:mileage>61632 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>GRAY</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1809087041--4KT7W-ltid2/1809087041.jpg</ns0:image_link>
