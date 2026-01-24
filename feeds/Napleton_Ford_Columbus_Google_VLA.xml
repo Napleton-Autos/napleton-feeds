@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Ford Columbus Inventory Feed</title>
   <link href="https://www.napletonfordcolumbus.com" rel="self"/>
-  <updated>2026-01-24T08:02:41.478245</updated>
+  <updated>2026-01-24T12:03:53.267660</updated>
   <entry>
     <id>124036</id>
     <title>2024 Ford Super Duty F-550 DRW XL</title>
@@ -46,7 +46,7 @@
     <title>2025 Ford Escape PHEV</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU0E18SUA54771"/>
     <ns0:id>125019</ns0:id>
-    <ns0:price>35000.00 USD</ns0:price>
+    <ns0:price>27000.00 USD</ns0:price>
     <ns0:vehicle_msrp>41050.00 USD</ns0:vehicle_msrp>
     <ns0:vin>1FMCU0E18SUA54771</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -83,7 +83,7 @@
   <entry>
     <id>125018</id>
     <title>2025 Ford Escape ST-Line</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9MN2SUA50935"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9MN2SUA50935"/>
     <ns0:id>125018</ns0:id>
     <ns0:price>27085.00 USD</ns0:price>
     <ns0:vehicle_msrp>34870.00 USD</ns0:vehicle_msrp>
@@ -102,7 +102,7 @@
     <ns0:model>Escape</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9MN2SUA50935&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9MN2SUA50935&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>ST-Line</ns0:trim>
     <ns0:mileage>1610 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -122,7 +122,7 @@
   <entry>
     <id>125020</id>
     <title>2025 Ford F-150 XLT</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW3L86SKD09457"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW3L86SKD09457"/>
     <ns0:id>125020</ns0:id>
     <ns0:price>55386.00 USD</ns0:price>
     <ns0:vehicle_msrp>67795.00 USD</ns0:vehicle_msrp>
@@ -141,7 +141,7 @@
     <ns0:model>F-150</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW3L86SKD09457&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW3L86SKD09457&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>XLT</ns0:trim>
     <ns0:mileage>1745 miles</ns0:mileage>
     <ns0:color>OXFORD WHITE</ns0:color>
@@ -160,7 +160,7 @@
   <entry>
     <id>125029</id>
     <title>2025 Ford Explorer ST</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMWK8GC4SGB09523"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMWK8GC4SGB09523"/>
     <ns0:id>125029</ns0:id>
     <ns0:price>51267.00 USD</ns0:price>
     <ns0:vehicle_msrp>57855.00 USD</ns0:vehicle_msrp>
@@ -179,7 +179,7 @@
     <ns0:model>Explorer</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMWK8GC4SGB09523&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMWK8GC4SGB09523&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>ST</ns0:trim>
     <ns0:mileage>1310 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -199,7 +199,7 @@
   <entry>
     <id>125033</id>
     <title>2025 Ford Super Duty F-250 SRW LARIAT</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FT8W2BT6SEC49297"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FT8W2BT6SEC49297"/>
     <ns0:id>125033</ns0:id>
     <ns0:price>74579.00 USD</ns0:price>
     <ns0:vehicle_msrp>81305.00 USD</ns0:vehicle_msrp>
@@ -218,7 +218,7 @@
     <ns0:model>Super Duty F-250 SRW</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FT8W2BT6SEC49297&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FT8W2BT6SEC49297&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LARIAT</ns0:trim>
     <ns0:mileage>19 miles</ns0:mileage>
     <ns0:color>Agate Black Metallic</ns0:color>
@@ -237,7 +237,7 @@
   <entry>
     <id>125040</id>
     <title>2025 Ford Transit Cargo Van</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTBF1Y85SKA32814"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTBF1Y85SKA32814"/>
     <ns0:id>125040</ns0:id>
     <ns0:price>48546.00 USD</ns0:price>
     <ns0:vehicle_msrp>57560.00 USD</ns0:vehicle_msrp>
@@ -256,7 +256,7 @@
     <ns0:model>Transit Cargo Van</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTBF1Y85SKA32814&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTBF1Y85SKA32814&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:mileage>15 miles</ns0:mileage>
     <ns0:body_style>full size van</ns0:body_style>
     <ns0:color>OXFORD WHITE</ns0:color>
@@ -275,7 +275,7 @@
   <entry>
     <id>125045</id>
     <title>2025 Ford Transit Cargo Van T-250 148  LOW RF 9070 GV</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTBR1Y85SKA31797"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTBR1Y85SKA31797"/>
     <ns0:id>125045</ns0:id>
     <ns0:price>45995.00 USD</ns0:price>
     <ns0:vehicle_msrp>54645.00 USD</ns0:vehicle_msrp>
@@ -294,7 +294,7 @@
     <ns0:model>Transit Cargo Van</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTBR1Y85SKA31797&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTBR1Y85SKA31797&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>T-250 148  LOW RF 9070 GV</ns0:trim>
     <ns0:mileage>11 miles</ns0:mileage>
     <ns0:body_style>full size van</ns0:body_style>
@@ -314,7 +314,7 @@
   <entry>
     <id>125052</id>
     <title>2025 Ford Transit Cargo Van</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTBF1Y83SKA32956"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTBF1Y83SKA32956"/>
     <ns0:id>125052</ns0:id>
     <ns0:price>45204.00 USD</ns0:price>
     <ns0:vehicle_msrp>53525.00 USD</ns0:vehicle_msrp>
@@ -333,7 +333,7 @@
     <ns0:model>Transit Cargo Van</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTBF1Y83SKA32956&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTBF1Y83SKA32956&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:mileage>36 miles</ns0:mileage>
     <ns0:body_style>full size van</ns0:body_style>
     <ns0:color>OXFORD WHITE</ns0:color>
@@ -352,7 +352,7 @@
   <entry>
     <id>125083</id>
     <title>2025 Ford E-Series Cutaway E-350 DRW 138  WB</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FDWE3FN8SDD39709"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FDWE3FN8SDD39709"/>
     <ns0:id>125083</ns0:id>
     <ns0:price>40900.00 USD</ns0:price>
     <ns0:vehicle_msrp>42400.00 USD</ns0:vehicle_msrp>
@@ -371,7 +371,7 @@
     <ns0:model>E-Series Cutaway</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FDWE3FN8SDD39709&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FDWE3FN8SDD39709&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>E-350 DRW 138  WB</ns0:trim>
     <ns0:mileage>10 miles</ns0:mileage>
     <ns0:color>OXFORD WHITE</ns0:color>
@@ -390,7 +390,7 @@
   <entry>
     <id>125087</id>
     <title>2025 Ford E-Series Cutaway E-350 DRW 138  WB</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FDWE3FN2SDD40922"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FDWE3FN2SDD40922"/>
     <ns0:id>125087</ns0:id>
     <ns0:price>40900.00 USD</ns0:price>
     <ns0:vehicle_msrp>42400.00 USD</ns0:vehicle_msrp>
@@ -409,7 +409,7 @@
     <ns0:model>E-Series Cutaway</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FDWE3FN2SDD40922&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FDWE3FN2SDD40922&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>E-350 DRW 138  WB</ns0:trim>
     <ns0:mileage>20 miles</ns0:mileage>
     <ns0:color>OXFORD WHITE</ns0:color>
@@ -428,7 +428,7 @@
   <entry>
     <id>125105</id>
     <title>2025 Ford Explorer ST-Line</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KH0SGB89994"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KH0SGB89994"/>
     <ns0:id>125105</ns0:id>
     <ns0:price>44449.00 USD</ns0:price>
     <ns0:vehicle_msrp>50285.00 USD</ns0:vehicle_msrp>
@@ -447,7 +447,7 @@
     <ns0:model>Explorer</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KH0SGB89994&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KH0SGB89994&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>ST-Line</ns0:trim>
     <ns0:mileage>1260 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -467,7 +467,7 @@
   <entry>
     <id>125108</id>
     <title>2025 Ford Bronco Sport Big Bend</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN8SRF09168"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN8SRF09168"/>
     <ns0:id>125108</ns0:id>
     <ns0:price>31358.00 USD</ns0:price>
     <ns0:vehicle_msrp>36505.00 USD</ns0:vehicle_msrp>
@@ -486,7 +486,7 @@
     <ns0:model>Bronco Sport</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN8SRF09168&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN8SRF09168&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Big Bend</ns0:trim>
     <ns0:mileage>1184 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -545,7 +545,7 @@
   <entry>
     <id>125116</id>
     <title>2025 Ford Maverick XL</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FTTW8BAXSRB16132"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FTTW8BAXSRB16132"/>
     <ns0:id>125116</ns0:id>
     <ns0:price>29894.00 USD</ns0:price>
     <ns0:vehicle_msrp>31505.00 USD</ns0:vehicle_msrp>
@@ -564,7 +564,7 @@
     <ns0:model>Maverick</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FTTW8BAXSRB16132&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FTTW8BAXSRB16132&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>XL</ns0:trim>
     <ns0:mileage>1392 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
@@ -584,7 +584,7 @@
   <entry>
     <id>125126</id>
     <title>2025 Ford Escape Active</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9GN3SUB51882"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9GN3SUB51882"/>
     <ns0:id>125126</ns0:id>
     <ns0:price>26996.00 USD</ns0:price>
     <ns0:vehicle_msrp>35240.00 USD</ns0:vehicle_msrp>
@@ -603,7 +603,7 @@
     <ns0:model>Escape</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9GN3SUB51882&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9GN3SUB51882&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Active</ns0:trim>
     <ns0:mileage>1011 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -623,7 +623,7 @@
   <entry>
     <id>125132</id>
     <title>2025 Ford F-150 STX</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTEW2LP7SFB82773"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTEW2LP7SFB82773"/>
     <ns0:id>125132</ns0:id>
     <ns0:price>45098.00 USD</ns0:price>
     <ns0:vehicle_msrp>54415.00 USD</ns0:vehicle_msrp>
@@ -642,7 +642,7 @@
     <ns0:model>F-150</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTEW2LP7SFB82773&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTEW2LP7SFB82773&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>STX</ns0:trim>
     <ns0:mileage>1936 miles</ns0:mileage>
     <ns0:color>AGATE BLACK METALLIC</ns0:color>
@@ -661,7 +661,7 @@
   <entry>
     <id>125134</id>
     <title>2025 Ford Bronco Sport Outer Banks</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9CN8SRF28057"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9CN8SRF28057"/>
     <ns0:id>125134</ns0:id>
     <ns0:price>36678.00 USD</ns0:price>
     <ns0:vehicle_msrp>42475.00 USD</ns0:vehicle_msrp>
@@ -680,7 +680,7 @@
     <ns0:model>Bronco Sport</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9CN8SRF28057&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9CN8SRF28057&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Outer Banks</ns0:trim>
     <ns0:mileage>5 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -700,7 +700,7 @@
   <entry>
     <id>125136</id>
     <title>2025 Ford Bronco Sport Big Bend</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN6SRF23246"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN6SRF23246"/>
     <ns0:id>125136</ns0:id>
     <ns0:price>31998.00 USD</ns0:price>
     <ns0:vehicle_msrp>36980.00 USD</ns0:vehicle_msrp>
@@ -719,7 +719,7 @@
     <ns0:model>Bronco Sport</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN6SRF23246&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN6SRF23246&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Big Bend</ns0:trim>
     <ns0:mileage>18 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -739,7 +739,7 @@
   <entry>
     <id>125137</id>
     <title>2025 Ford Explorer ST-Line</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KHXSGD09820"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KHXSGD09820"/>
     <ns0:id>125137</ns0:id>
     <ns0:price>46326.00 USD</ns0:price>
     <ns0:vehicle_msrp>53275.00 USD</ns0:vehicle_msrp>
@@ -758,7 +758,7 @@
     <ns0:model>Explorer</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KHXSGD09820&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KHXSGD09820&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>ST-Line</ns0:trim>
     <ns0:mileage>1440 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -816,7 +816,7 @@
   <entry>
     <id>125145</id>
     <title>2025 Ford Mustang Mach-E Premium</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMTK3SU2SMA54629"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMTK3SU2SMA54629"/>
     <ns0:id>125145</ns0:id>
     <ns0:price>43800.00 USD</ns0:price>
     <ns0:vehicle_msrp>53415.00 USD</ns0:vehicle_msrp>
@@ -835,7 +835,7 @@
     <ns0:model>Mustang Mach-E</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMTK3SU2SMA54629&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMTK3SU2SMA54629&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Premium</ns0:trim>
     <ns0:mileage>14 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -855,7 +855,7 @@
   <entry>
     <id>126001</id>
     <title>2026 Ford Escape ST-Line Select</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9NZ8TUA05534"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9NZ8TUA05534"/>
     <ns0:id>126001</ns0:id>
     <ns0:price>31500.00 USD</ns0:price>
     <ns0:vehicle_msrp>35580.00 USD</ns0:vehicle_msrp>
@@ -874,7 +874,7 @@
     <ns0:model>Escape</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9NZ8TUA05534&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9NZ8TUA05534&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>ST-Line Select</ns0:trim>
     <ns0:mileage>1105 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -894,7 +894,7 @@
   <entry>
     <id>125147</id>
     <title>2025 Ford Bronco Sport Big Bend</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN2SRF41842"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN2SRF41842"/>
     <ns0:id>125147</ns0:id>
     <ns0:price>31125.00 USD</ns0:price>
     <ns0:vehicle_msrp>35680.00 USD</ns0:vehicle_msrp>
@@ -913,7 +913,7 @@
     <ns0:model>Bronco Sport</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN2SRF41842&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN2SRF41842&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Big Bend</ns0:trim>
     <ns0:mileage>19 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -933,7 +933,7 @@
   <entry>
     <id>125148</id>
     <title>2025 Ford Maverick XLT</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FTTW8H35SRB58295"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FTTW8H35SRB58295"/>
     <ns0:id>125148</ns0:id>
     <ns0:price>30786.00 USD</ns0:price>
     <ns0:vehicle_msrp>32340.00 USD</ns0:vehicle_msrp>
@@ -952,7 +952,7 @@
     <ns0:model>Maverick</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FTTW8H35SRB58295&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FTTW8H35SRB58295&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>XLT</ns0:trim>
     <ns0:mileage>13 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
@@ -972,7 +972,7 @@
   <entry>
     <id>125152</id>
     <title>2025 Ford F-150 STX</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTEW2LP7SFC10927"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTEW2LP7SFC10927"/>
     <ns0:id>125152</ns0:id>
     <ns0:price>43745.00 USD</ns0:price>
     <ns0:vehicle_msrp>52755.00 USD</ns0:vehicle_msrp>
@@ -991,9 +991,9 @@
     <ns0:model>F-150</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTEW2LP7SFC10927&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTEW2LP7SFC10927&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>STX</ns0:trim>
-    <ns0:mileage>18 miles</ns0:mileage>
+    <ns0:mileage>1115 miles</ns0:mileage>
     <ns0:color>ATLAS BLUE METALLIC</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771564851--2CHNY-ltid1/1771564851.jpg</ns0:image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771564861--YI+GR-ltid1/1771564861.jpg</ns0:additional_image_link>
@@ -1010,7 +1010,7 @@
   <entry>
     <id>126002</id>
     <title>2026 Ford Escape ST-Line Select</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9NA1TUA04462"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9NA1TUA04462"/>
     <ns0:id>126002</ns0:id>
     <ns0:price>33376.00 USD</ns0:price>
     <ns0:vehicle_msrp>38345.00 USD</ns0:vehicle_msrp>
@@ -1029,7 +1029,7 @@
     <ns0:model>Escape</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9NA1TUA04462&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9NA1TUA04462&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>ST-Line Select</ns0:trim>
     <ns0:mileage>3 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1049,7 +1049,7 @@
   <entry>
     <id>126003</id>
     <title>2026 Ford Escape ST-Line</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9MN6TUA04977"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9MN6TUA04977"/>
     <ns0:id>126003</ns0:id>
     <ns0:price>33496.00 USD</ns0:price>
     <ns0:vehicle_msrp>39010.00 USD</ns0:vehicle_msrp>
@@ -1068,7 +1068,7 @@
     <ns0:model>Escape</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9MN6TUA04977&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9MN6TUA04977&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>ST-Line</ns0:trim>
     <ns0:mileage>2 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1088,7 +1088,7 @@
   <entry>
     <id>126005</id>
     <title>2026 Ford Explorer Active</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8DHXTGA12576"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8DHXTGA12576"/>
     <ns0:id>126005</ns0:id>
     <ns0:price>43867.00 USD</ns0:price>
     <ns0:vehicle_msrp>50515.00 USD</ns0:vehicle_msrp>
@@ -1107,7 +1107,7 @@
     <ns0:model>Explorer</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8DHXTGA12576&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8DHXTGA12576&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Active</ns0:trim>
     <ns0:mileage>5 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1127,7 +1127,7 @@
   <entry>
     <id>126004</id>
     <title>2026 Ford Explorer Tremor</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8JH3TGA09684"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8JH3TGA09684"/>
     <ns0:id>126004</ns0:id>
     <ns0:price>45138.00 USD</ns0:price>
     <ns0:vehicle_msrp>51355.00 USD</ns0:vehicle_msrp>
@@ -1146,7 +1146,7 @@
     <ns0:model>Explorer</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8JH3TGA09684&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8JH3TGA09684&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Tremor</ns0:trim>
     <ns0:mileage>9 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1166,7 +1166,7 @@
   <entry>
     <id>125155</id>
     <title>2025 Ford F-150 STX</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTEW2LP8SKF38364"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTEW2LP8SKF38364"/>
     <ns0:id>125155</ns0:id>
     <ns0:price>45894.00 USD</ns0:price>
     <ns0:vehicle_msrp>54170.00 USD</ns0:vehicle_msrp>
@@ -1185,7 +1185,7 @@
     <ns0:model>F-150</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTEW2LP8SKF38364&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTEW2LP8SKF38364&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>STX</ns0:trim>
     <ns0:mileage>38 miles</ns0:mileage>
     <ns0:color>Oxford White</ns0:color>
@@ -1204,9 +1204,9 @@
   <entry>
     <id>RT0016</id>
     <title>2024 Buick Encore GX Sport Touring</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=KL4AMESL9RB073747"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=KL4AMESL9RB073747"/>
     <ns0:id>RT0016</ns0:id>
-    <ns0:price>19480.00 USD</ns0:price>
+    <ns0:price>19525.00 USD</ns0:price>
     <ns0:vin>KL4AMESL9RB073747</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Buick</ns0:brand>
@@ -1222,7 +1222,7 @@
     <ns0:model>Encore GX</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=KL4AMESL9RB073747&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=KL4AMESL9RB073747&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Sport Touring</ns0:trim>
     <ns0:mileage>41581 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1242,7 +1242,7 @@
   <entry>
     <id>126007</id>
     <title>2026 Ford Explorer ST</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMWK8GCXTGA05295"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMWK8GCXTGA05295"/>
     <ns0:id>126007</ns0:id>
     <ns0:price>55106.00 USD</ns0:price>
     <ns0:vehicle_msrp>62340.00 USD</ns0:vehicle_msrp>
@@ -1261,7 +1261,7 @@
     <ns0:model>Explorer</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMWK8GCXTGA05295&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMWK8GCXTGA05295&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>ST</ns0:trim>
     <ns0:mileage>8 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1281,7 +1281,7 @@
   <entry>
     <id>125159</id>
     <title>2025 Ford Bronco Sport Big Bend</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN5SRF57498"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN5SRF57498"/>
     <ns0:id>125159</ns0:id>
     <ns0:price>32997.00 USD</ns0:price>
     <ns0:vehicle_msrp>37405.00 USD</ns0:vehicle_msrp>
@@ -1300,7 +1300,7 @@
     <ns0:model>Bronco Sport</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN5SRF57498&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN5SRF57498&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Big Bend</ns0:trim>
     <ns0:mileage>13 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1320,9 +1320,9 @@
   <entry>
     <id>125160</id>
     <title>2025 Ford Bronco Sport Outer Banks</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9CN8SRF49961"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9CN8SRF49961"/>
     <ns0:id>125160</ns0:id>
-    <ns0:price>35815.00 USD</ns0:price>
+    <ns0:price>35315.00 USD</ns0:price>
     <ns0:vehicle_msrp>40985.00 USD</ns0:vehicle_msrp>
     <ns0:vin>3FMCR9CN8SRF49961</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -1339,9 +1339,9 @@
     <ns0:model>Bronco Sport</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9CN8SRF49961&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9CN8SRF49961&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Outer Banks</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:mileage>1026 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Carbonized Gray Metallic</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1774790991--HDXTR-ltid1/1774790991.jpg</ns0:image_link>
@@ -1359,7 +1359,7 @@
   <entry>
     <id>126009</id>
     <title>2026 Ford Escape Active</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9GN4TUA14046"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9GN4TUA14046"/>
     <ns0:id>126009</ns0:id>
     <ns0:price>32498.00 USD</ns0:price>
     <ns0:vehicle_msrp>37670.00 USD</ns0:vehicle_msrp>
@@ -1378,7 +1378,7 @@
     <ns0:model>Escape</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9GN4TUA14046&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9GN4TUA14046&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Active</ns0:trim>
     <ns0:mileage>2 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1398,7 +1398,7 @@
   <entry>
     <id>126008</id>
     <title>2026 Ford Explorer ST-Line</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KH6TGA10410"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KH6TGA10410"/>
     <ns0:id>126008</ns0:id>
     <ns0:price>46250.00 USD</ns0:price>
     <ns0:vehicle_msrp>53355.00 USD</ns0:vehicle_msrp>
@@ -1417,7 +1417,7 @@
     <ns0:model>Explorer</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KH6TGA10410&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KH6TGA10410&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>ST-Line</ns0:trim>
     <ns0:mileage>3 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1437,7 +1437,7 @@
   <entry>
     <id>126010</id>
     <title>2026 Ford Explorer ST-Line</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KH2TGA10470"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KH2TGA10470"/>
     <ns0:id>126010</ns0:id>
     <ns0:price>46750.00 USD</ns0:price>
     <ns0:vehicle_msrp>53850.00 USD</ns0:vehicle_msrp>
@@ -1456,9 +1456,9 @@
     <ns0:model>Explorer</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KH2TGA10470&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KH2TGA10470&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>ST-Line</ns0:trim>
-    <ns0:mileage>3 miles</ns0:mileage>
+    <ns0:mileage>1421 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Rapid Red Metallic Tinted Clearcoat</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771570541--BEJXA-ltid1/1771570541.jpg</ns0:image_link>
@@ -1476,7 +1476,7 @@
   <entry>
     <id>125165</id>
     <title>2025 Ford F-150 XLT</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW3LD3SFC44363"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW3LD3SFC44363"/>
     <ns0:id>125165</ns0:id>
     <ns0:price>55876.00 USD</ns0:price>
     <ns0:vehicle_msrp>64570.00 USD</ns0:vehicle_msrp>
@@ -1495,7 +1495,7 @@
     <ns0:model>F-150</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW3LD3SFC44363&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW3LD3SFC44363&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>XLT</ns0:trim>
     <ns0:mileage>6 miles</ns0:mileage>
     <ns0:color>Agate Black Metallic</ns0:color>
@@ -1514,9 +1514,9 @@
   <entry>
     <id>PB0033</id>
     <title>2023 Ford Edge Titanium</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=2FMPK4K90PBA22631"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=2FMPK4K90PBA22631"/>
     <ns0:id>PB0033</ns0:id>
-    <ns0:price>20467.00 USD</ns0:price>
+    <ns0:price>20412.00 USD</ns0:price>
     <ns0:vin>2FMPK4K90PBA22631</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Ford</ns0:brand>
@@ -1532,7 +1532,7 @@
     <ns0:model>Edge</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=2FMPK4K90PBA22631&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=2FMPK4K90PBA22631&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Titanium</ns0:trim>
     <ns0:mileage>60841 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1552,9 +1552,9 @@
   <entry>
     <id>PB0035</id>
     <title>2024 Dodge Durango GT Plus</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1C4RDJDG5RC192035"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1C4RDJDG5RC192035"/>
     <ns0:id>PB0035</ns0:id>
-    <ns0:price>30482.00 USD</ns0:price>
+    <ns0:price>30486.00 USD</ns0:price>
     <ns0:vin>1C4RDJDG5RC192035</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Dodge</ns0:brand>
@@ -1570,7 +1570,7 @@
     <ns0:model>Durango</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1C4RDJDG5RC192035&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1C4RDJDG5RC192035&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>GT Plus</ns0:trim>
     <ns0:mileage>33951 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1590,9 +1590,9 @@
   <entry>
     <id>PB0036</id>
     <title>2024 Toyota Corolla Cross LE</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=7MUCAAAG7RV093983"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=7MUCAAAG7RV093983"/>
     <ns0:id>PB0036</ns0:id>
-    <ns0:price>21836.00 USD</ns0:price>
+    <ns0:price>22657.00 USD</ns0:price>
     <ns0:vin>7MUCAAAG7RV093983</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Toyota</ns0:brand>
@@ -1608,9 +1608,9 @@
     <ns0:model>Corolla Cross</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=7MUCAAAG7RV093983&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=7MUCAAAG7RV093983&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LE</ns0:trim>
-    <ns0:mileage>37961 miles</ns0:mileage>
+    <ns0:mileage>38025 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Celestite</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771572791--Q6-9N-ltid2/1771572791.jpg</ns0:image_link>
@@ -1628,9 +1628,9 @@
   <entry>
     <id>PB0037</id>
     <title>2022 Ford Escape S</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9F66NUB18695"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9F66NUB18695"/>
     <ns0:id>PB0037</ns0:id>
-    <ns0:price>15709.00 USD</ns0:price>
+    <ns0:price>15861.00 USD</ns0:price>
     <ns0:vin>1FMCU9F66NUB18695</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Ford</ns0:brand>
@@ -1646,7 +1646,7 @@
     <ns0:model>Escape</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9F66NUB18695&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9F66NUB18695&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>S</ns0:trim>
     <ns0:mileage>60822 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1666,9 +1666,9 @@
   <entry>
     <id>PB0038</id>
     <title>2023 Nissan Rogue SV</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=5N1BT3BB3PC751131"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=5N1BT3BB3PC751131"/>
     <ns0:id>PB0038</ns0:id>
-    <ns0:price>18344.00 USD</ns0:price>
+    <ns0:price>18385.00 USD</ns0:price>
     <ns0:vin>5N1BT3BB3PC751131</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Nissan</ns0:brand>
@@ -1684,7 +1684,7 @@
     <ns0:model>Rogue</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=5N1BT3BB3PC751131&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=5N1BT3BB3PC751131&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>SV</ns0:trim>
     <ns0:mileage>70990 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1704,7 +1704,7 @@
   <entry>
     <id>125170</id>
     <title>2025 Ford Bronco Big Bend</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMDE7BH1SLB58813"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMDE7BH1SLB58813"/>
     <ns0:id>125170</ns0:id>
     <ns0:price>43625.00 USD</ns0:price>
     <ns0:vehicle_msrp>48465.00 USD</ns0:vehicle_msrp>
@@ -1723,7 +1723,7 @@
     <ns0:model>Bronco</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMDE7BH1SLB58813&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMDE7BH1SLB58813&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Big Bend</ns0:trim>
     <ns0:mileage>5 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1743,7 +1743,7 @@
   <entry>
     <id>125171</id>
     <title>2025 Ford Bronco Sport Big Bend</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN2SRF64960"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN2SRF64960"/>
     <ns0:id>125171</ns0:id>
     <ns0:price>31785.00 USD</ns0:price>
     <ns0:vehicle_msrp>35905.00 USD</ns0:vehicle_msrp>
@@ -1762,7 +1762,7 @@
     <ns0:model>Bronco Sport</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN2SRF64960&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN2SRF64960&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Big Bend</ns0:trim>
     <ns0:mileage>14 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1782,9 +1782,9 @@
   <entry>
     <id>PB0042</id>
     <title>2023 Toyota Highlander XLE</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=5TDKDRAH7PS036071"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=5TDKDRAH7PS036071"/>
     <ns0:id>PB0042</ns0:id>
-    <ns0:price>31000.00 USD</ns0:price>
+    <ns0:price>31261.00 USD</ns0:price>
     <ns0:vin>5TDKDRAH7PS036071</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Toyota</ns0:brand>
@@ -1800,7 +1800,7 @@
     <ns0:model>Highlander</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=5TDKDRAH7PS036071&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=5TDKDRAH7PS036071&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>XLE</ns0:trim>
     <ns0:mileage>54416 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1820,7 +1820,7 @@
   <entry>
     <id>125172</id>
     <title>2025 Ford Bronco Badlands</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMEE9BP6SLB43179"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMEE9BP6SLB43179"/>
     <ns0:id>125172</ns0:id>
     <ns0:price>63496.00 USD</ns0:price>
     <ns0:vehicle_msrp>69915.00 USD</ns0:vehicle_msrp>
@@ -1839,7 +1839,7 @@
     <ns0:model>Bronco</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMEE9BP6SLB43179&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMEE9BP6SLB43179&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Badlands</ns0:trim>
     <ns0:mileage>9 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1859,7 +1859,7 @@
   <entry>
     <id>126014</id>
     <title>2026 Ford Mustang EcoBoost</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FA6P8TH5T5105989"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FA6P8TH5T5105989"/>
     <ns0:id>126014</ns0:id>
     <ns0:price>34530.00 USD</ns0:price>
     <ns0:vehicle_msrp>36905.00 USD</ns0:vehicle_msrp>
@@ -1878,7 +1878,7 @@
     <ns0:model>Mustang</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FA6P8TH5T5105989&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FA6P8TH5T5105989&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>EcoBoost</ns0:trim>
     <ns0:mileage>6 miles</ns0:mileage>
     <ns0:color>Vapor Blue Metallic</ns0:color>
@@ -1897,9 +1897,9 @@
   <entry>
     <id>PB0044</id>
     <title>2023 Ford Escape Active</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9GN2PUB24437"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9GN2PUB24437"/>
     <ns0:id>PB0044</ns0:id>
-    <ns0:price>21599.00 USD</ns0:price>
+    <ns0:price>21537.00 USD</ns0:price>
     <ns0:vin>1FMCU9GN2PUB24437</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Ford</ns0:brand>
@@ -1915,7 +1915,7 @@
     <ns0:model>Escape</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9GN2PUB24437&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9GN2PUB24437&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Active</ns0:trim>
     <ns0:mileage>21457 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1935,7 +1935,7 @@
   <entry>
     <id>126015</id>
     <title>2026 Ford Escape ST-Line</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9MN6TUA16627"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9MN6TUA16627"/>
     <ns0:id>126015</ns0:id>
     <ns0:price>32750.00 USD</ns0:price>
     <ns0:vehicle_msrp>38020.00 USD</ns0:vehicle_msrp>
@@ -1954,7 +1954,7 @@
     <ns0:model>Escape</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9MN6TUA16627&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9MN6TUA16627&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>ST-Line</ns0:trim>
     <ns0:mileage>6 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1974,9 +1974,9 @@
   <entry>
     <id>PB0046</id>
     <title>2023 Ford Explorer XLT</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMSK8DH8PGA00181"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMSK8DH8PGA00181"/>
     <ns0:id>PB0046</ns0:id>
-    <ns0:price>28917.00 USD</ns0:price>
+    <ns0:price>29016.00 USD</ns0:price>
     <ns0:vin>1FMSK8DH8PGA00181</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Ford</ns0:brand>
@@ -1992,7 +1992,7 @@
     <ns0:model>Explorer</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMSK8DH8PGA00181&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMSK8DH8PGA00181&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>XLT</ns0:trim>
     <ns0:mileage>39014 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2012,9 +2012,9 @@
   <entry>
     <id>PB0045</id>
     <title>2023 Ford Explorer XLT</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMSK8DH9PGB36593"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMSK8DH9PGB36593"/>
     <ns0:id>PB0045</ns0:id>
-    <ns0:price>28096.00 USD</ns0:price>
+    <ns0:price>28178.00 USD</ns0:price>
     <ns0:vin>1FMSK8DH9PGB36593</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Ford</ns0:brand>
@@ -2030,7 +2030,7 @@
     <ns0:model>Explorer</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMSK8DH9PGB36593&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMSK8DH9PGB36593&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>XLT</ns0:trim>
     <ns0:mileage>40348 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2050,7 +2050,7 @@
   <entry>
     <id>125174</id>
     <title>2025 Ford F-150 LARIAT</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW5L89SKE68310"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW5L89SKE68310"/>
     <ns0:id>125174</ns0:id>
     <ns0:price>63216.00 USD</ns0:price>
     <ns0:vehicle_msrp>70120.00 USD</ns0:vehicle_msrp>
@@ -2069,7 +2069,7 @@
     <ns0:model>F-150</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW5L89SKE68310&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW5L89SKE68310&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LARIAT</ns0:trim>
     <ns0:mileage>250 miles</ns0:mileage>
     <ns0:color>Agate Black Metallic</ns0:color>
@@ -2088,9 +2088,9 @@
   <entry>
     <id>125100A</id>
     <title>2023 Ford Super Duty F-350 DRW Platinum</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FT8W3DT8PED62999"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FT8W3DT8PED62999"/>
     <ns0:id>125100A</ns0:id>
-    <ns0:price>71999.00 USD</ns0:price>
+    <ns0:price>72092.00 USD</ns0:price>
     <ns0:vin>1FT8W3DT8PED62999</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Ford</ns0:brand>
@@ -2106,7 +2106,7 @@
     <ns0:model>Super Duty F-350 DRW</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FT8W3DT8PED62999&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FT8W3DT8PED62999&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Platinum</ns0:trim>
     <ns0:mileage>69492 miles</ns0:mileage>
     <ns0:color>Star White Metallic Tri-Coat</ns0:color>
@@ -2125,9 +2125,9 @@
   <entry>
     <id>PB0048</id>
     <title>2024 Ford Bronco Sport Heritage</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9G64RRF41952"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9G64RRF41952"/>
     <ns0:id>PB0048</ns0:id>
-    <ns0:price>28483.00 USD</ns0:price>
+    <ns0:price>28179.00 USD</ns0:price>
     <ns0:vin>3FMCR9G64RRF41952</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Ford</ns0:brand>
@@ -2143,7 +2143,7 @@
     <ns0:model>Bronco Sport</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9G64RRF41952&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9G64RRF41952&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Heritage</ns0:trim>
     <ns0:mileage>8654 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2163,7 +2163,7 @@
   <entry>
     <id>PB0049</id>
     <title>2023 Jeep Grand Cherokee Altitude</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHAG3PC641005"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHAG3PC641005"/>
     <ns0:id>PB0049</ns0:id>
     <ns0:price>26940.00 USD</ns0:price>
     <ns0:vin>1C4RJHAG3PC641005</ns0:vin>
@@ -2181,7 +2181,7 @@
     <ns0:model>Grand Cherokee</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHAG3PC641005&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHAG3PC641005&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Altitude</ns0:trim>
     <ns0:mileage>48795 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2201,7 +2201,7 @@
   <entry>
     <id>125175</id>
     <title>2025 Ford Maverick XL</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FTTW8B39SRB49964"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FTTW8B39SRB49964"/>
     <ns0:id>125175</ns0:id>
     <ns0:price>30523.00 USD</ns0:price>
     <ns0:vehicle_msrp>32160.00 USD</ns0:vehicle_msrp>
@@ -2220,7 +2220,7 @@
     <ns0:model>Maverick</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FTTW8B39SRB49964&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FTTW8B39SRB49964&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>XL</ns0:trim>
     <ns0:mileage>200 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
@@ -2240,7 +2240,7 @@
   <entry>
     <id>125176</id>
     <title>2025 Ford Bronco Big Bend</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMDE7BH8SLB55682"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMDE7BH8SLB55682"/>
     <ns0:id>125176</ns0:id>
     <ns0:price>45250.00 USD</ns0:price>
     <ns0:vehicle_msrp>50060.00 USD</ns0:vehicle_msrp>
@@ -2259,7 +2259,7 @@
     <ns0:model>Bronco</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMDE7BH8SLB55682&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMDE7BH8SLB55682&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Big Bend</ns0:trim>
     <ns0:mileage>7 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2279,7 +2279,7 @@
   <entry>
     <id>125178</id>
     <title>2025 Ford Bronco Sport Big Bend</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN2SRF69298"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN2SRF69298"/>
     <ns0:id>125178</ns0:id>
     <ns0:price>32989.00 USD</ns0:price>
     <ns0:vehicle_msrp>36505.00 USD</ns0:vehicle_msrp>
@@ -2298,7 +2298,7 @@
     <ns0:model>Bronco Sport</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN2SRF69298&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN2SRF69298&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Big Bend</ns0:trim>
     <ns0:mileage>16 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2318,7 +2318,7 @@
   <entry>
     <id>125177</id>
     <title>2025 Ford Bronco Sport Outer Banks</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9CN9SRF64890"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9CN9SRF64890"/>
     <ns0:id>125177</ns0:id>
     <ns0:price>37560.00 USD</ns0:price>
     <ns0:vehicle_msrp>40985.00 USD</ns0:vehicle_msrp>
@@ -2337,7 +2337,7 @@
     <ns0:model>Bronco Sport</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9CN9SRF64890&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9CN9SRF64890&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Outer Banks</ns0:trim>
     <ns0:mileage>8 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2357,9 +2357,9 @@
   <entry>
     <id>PB0029A</id>
     <title>2018 Honda Civic Coupe LX-P</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=2HGFC4B04JH301939"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=2HGFC4B04JH301939"/>
     <ns0:id>PB0029A</ns0:id>
-    <ns0:price>17066.00 USD</ns0:price>
+    <ns0:price>16675.00 USD</ns0:price>
     <ns0:vin>2HGFC4B04JH301939</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Honda</ns0:brand>
@@ -2375,7 +2375,7 @@
     <ns0:model>Civic Coupe</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=2HGFC4B04JH301939&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=2HGFC4B04JH301939&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>LX-P</ns0:trim>
     <ns0:mileage>36465 miles</ns0:mileage>
     <ns0:body_style>coupe</ns0:body_style>
@@ -2395,9 +2395,9 @@
   <entry>
     <id>P0380</id>
     <title>2023 Audi Q5 S line Premium Plus</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=WA1EAAFY1P2116841"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=WA1EAAFY1P2116841"/>
     <ns0:id>P0380</ns0:id>
-    <ns0:price>23732.00 USD</ns0:price>
+    <ns0:price>23723.00 USD</ns0:price>
     <ns0:vin>WA1EAAFY1P2116841</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Audi</ns0:brand>
@@ -2413,7 +2413,7 @@
     <ns0:model>Q5</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=WA1EAAFY1P2116841&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=WA1EAAFY1P2116841&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>S line Premium Plus</ns0:trim>
     <ns0:mileage>61632 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2433,9 +2433,9 @@
   <entry>
     <id>P0379</id>
     <title>2023 Nissan Murano SV</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=5N1AZ2BS9PC132361"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=5N1AZ2BS9PC132361"/>
     <ns0:id>P0379</ns0:id>
-    <ns0:price>20221.00 USD</ns0:price>
+    <ns0:price>20219.00 USD</ns0:price>
     <ns0:vin>5N1AZ2BS9PC132361</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Nissan</ns0:brand>
@@ -2451,7 +2451,7 @@
     <ns0:model>Murano</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=5N1AZ2BS9PC132361&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=5N1AZ2BS9PC132361&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>SV</ns0:trim>
     <ns0:mileage>54299 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2510,7 +2510,7 @@
   <entry>
     <id>125180</id>
     <title>2025 Ford Bronco Sport Outer Banks</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9CN5SRF79032"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9CN5SRF79032"/>
     <ns0:id>125180</ns0:id>
     <ns0:price>38930.00 USD</ns0:price>
     <ns0:vehicle_msrp>42475.00 USD</ns0:vehicle_msrp>
@@ -2529,7 +2529,7 @@
     <ns0:model>Bronco Sport</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9CN5SRF79032&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9CN5SRF79032&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Outer Banks</ns0:trim>
     <ns0:mileage>7 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2549,7 +2549,7 @@
   <entry>
     <id>125181</id>
     <title>2025 Ford Bronco Sport Outer Banks</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9CN7SRF75368"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9CN7SRF75368"/>
     <ns0:id>125181</ns0:id>
     <ns0:price>37923.00 USD</ns0:price>
     <ns0:vehicle_msrp>41380.00 USD</ns0:vehicle_msrp>
@@ -2568,7 +2568,7 @@
     <ns0:model>Bronco Sport</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9CN7SRF75368&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9CN7SRF75368&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Outer Banks</ns0:trim>
     <ns0:mileage>8 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2588,7 +2588,7 @@
   <entry>
     <id>126020</id>
     <title>2026 Ford Mustang EcoBoost</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FA6P8TH2T5110003"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FA6P8TH2T5110003"/>
     <ns0:id>126020</ns0:id>
     <ns0:price>32760.00 USD</ns0:price>
     <ns0:vehicle_msrp>34980.00 USD</ns0:vehicle_msrp>
@@ -2607,7 +2607,7 @@
     <ns0:model>Mustang</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FA6P8TH2T5110003&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FA6P8TH2T5110003&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>EcoBoost</ns0:trim>
     <ns0:mileage>5 miles</ns0:mileage>
     <ns0:color>Shadow Black</ns0:color>
@@ -2626,7 +2626,7 @@
   <entry>
     <id>126019</id>
     <title>2026 Ford Escape ST-Line Select</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9NA5TUA26996"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9NA5TUA26996"/>
     <ns0:id>126019</ns0:id>
     <ns0:price>32952.00 USD</ns0:price>
     <ns0:vehicle_msrp>38345.00 USD</ns0:vehicle_msrp>
@@ -2645,7 +2645,7 @@
     <ns0:model>Escape</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9NA5TUA26996&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9NA5TUA26996&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>ST-Line Select</ns0:trim>
     <ns0:mileage>2 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2665,7 +2665,7 @@
   <entry>
     <id>126023</id>
     <title>2026 Ford Escape ST-Line Select</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9NA8TUA36860"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9NA8TUA36860"/>
     <ns0:id>126023</ns0:id>
     <ns0:price>37782.00 USD</ns0:price>
     <ns0:vehicle_msrp>43140.00 USD</ns0:vehicle_msrp>
@@ -2684,7 +2684,7 @@
     <ns0:model>Escape</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9NA8TUA36860&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9NA8TUA36860&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>ST-Line Select</ns0:trim>
     <ns0:mileage>4 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2704,7 +2704,7 @@
   <entry>
     <id>125184</id>
     <title>2025 Ford Bronco Badlands</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMEE9BP0SLB77280"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMEE9BP0SLB77280"/>
     <ns0:id>125184</ns0:id>
     <ns0:price>56623.00 USD</ns0:price>
     <ns0:vehicle_msrp>62430.00 USD</ns0:vehicle_msrp>
@@ -2723,7 +2723,7 @@
     <ns0:model>Bronco</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMEE9BP0SLB77280&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMEE9BP0SLB77280&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Badlands</ns0:trim>
     <ns0:mileage>22 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2782,7 +2782,7 @@
   <entry>
     <id>125183</id>
     <title>2025 Ford Bronco Sport Big Bend</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN8SRF78460"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN8SRF78460"/>
     <ns0:id>125183</ns0:id>
     <ns0:price>33439.00 USD</ns0:price>
     <ns0:vehicle_msrp>36330.00 USD</ns0:vehicle_msrp>
@@ -2801,7 +2801,7 @@
     <ns0:model>Bronco Sport</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN8SRF78460&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN8SRF78460&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Big Bend</ns0:trim>
     <ns0:mileage>5 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2899,7 +2899,7 @@
   <entry>
     <id>126024</id>
     <title>2026 Ford Escape Active</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9GN4TUA13981"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9GN4TUA13981"/>
     <ns0:id>126024</ns0:id>
     <ns0:price>31496.00 USD</ns0:price>
     <ns0:vehicle_msrp>36570.00 USD</ns0:vehicle_msrp>
@@ -2918,7 +2918,7 @@
     <ns0:model>Escape</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9GN4TUA13981&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9GN4TUA13981&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Active</ns0:trim>
     <ns0:mileage>5 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -2938,7 +2938,7 @@
   <entry>
     <id>126025</id>
     <title>2026 Ford Explorer Active</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8DH2TGA13432"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8DH2TGA13432"/>
     <ns0:id>126025</ns0:id>
     <ns0:price>44412.00 USD</ns0:price>
     <ns0:vehicle_msrp>49610.00 USD</ns0:vehicle_msrp>
@@ -2957,7 +2957,7 @@
     <ns0:model>Explorer</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8DH2TGA13432&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8DH2TGA13432&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Active</ns0:trim>
     <ns0:mileage>250 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -3016,7 +3016,7 @@
   <entry>
     <id>126028</id>
     <title>2026 Ford Explorer Platinum</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8HH9TGA65196"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8HH9TGA65196"/>
     <ns0:id>126028</ns0:id>
     <ns0:price>53429.00 USD</ns0:price>
     <ns0:vehicle_msrp>59190.00 USD</ns0:vehicle_msrp>
@@ -3035,7 +3035,7 @@
     <ns0:model>Explorer</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8HH9TGA65196&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8HH9TGA65196&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Platinum</ns0:trim>
     <ns0:mileage>5 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -3055,7 +3055,7 @@
   <entry>
     <id>126026</id>
     <title>2026 Ford Transit Cargo Van T-250 148  MED RF 9150 GV</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTBR2CGXTKA41179"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTBR2CGXTKA41179"/>
     <ns0:id>126026</ns0:id>
     <ns0:price>60140.00 USD</ns0:price>
     <ns0:vehicle_msrp>62640.00 USD</ns0:vehicle_msrp>
@@ -3074,7 +3074,7 @@
     <ns0:model>Transit Cargo Van</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTBR2CGXTKA41179&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTBR2CGXTKA41179&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>T-250 148  MED RF 9150 GV</ns0:trim>
     <ns0:mileage>7 miles</ns0:mileage>
     <ns0:body_style>full size van</ns0:body_style>
@@ -3125,7 +3125,7 @@
   <entry>
     <id>125185</id>
     <title>2025 Ford F-150 Tremor</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW4L53SFC67558"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW4L53SFC67558"/>
     <ns0:id>125185</ns0:id>
     <ns0:price>63294.00 USD</ns0:price>
     <ns0:vehicle_msrp>69585.00 USD</ns0:vehicle_msrp>
@@ -3144,7 +3144,7 @@
     <ns0:model>F-150</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW4L53SFC67558&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW4L53SFC67558&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Tremor</ns0:trim>
     <ns0:mileage>5 miles</ns0:mileage>
     <ns0:color>Carbonized Gray Metallic</ns0:color>
@@ -3163,7 +3163,7 @@
   <entry>
     <id>126030</id>
     <title>2026 Ford Transit Cargo Van T-250 148  MED RF 9150 GV</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTBR2CG8TKA43223"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTBR2CG8TKA43223"/>
     <ns0:id>126030</ns0:id>
     <ns0:price>59705.00 USD</ns0:price>
     <ns0:vehicle_msrp>62205.00 USD</ns0:vehicle_msrp>
@@ -3182,7 +3182,7 @@
     <ns0:model>Transit Cargo Van</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTBR2CG8TKA43223&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTBR2CG8TKA43223&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>T-250 148  MED RF 9150 GV</ns0:trim>
     <ns0:mileage>5 miles</ns0:mileage>
     <ns0:body_style>full size van</ns0:body_style>
@@ -3240,7 +3240,7 @@
   <entry>
     <id>125192</id>
     <title>2025 Ford F-150 Tremor</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW4L58SFC48715"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW4L58SFC48715"/>
     <ns0:id>125192</ns0:id>
     <ns0:price>72421.00 USD</ns0:price>
     <ns0:vehicle_msrp>79615.00 USD</ns0:vehicle_msrp>
@@ -3259,7 +3259,7 @@
     <ns0:model>F-150</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW4L58SFC48715&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW4L58SFC48715&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Tremor</ns0:trim>
     <ns0:mileage>5 miles</ns0:mileage>
     <ns0:color>Antimatter Blue Metallic</ns0:color>
@@ -3317,7 +3317,7 @@
   <entry>
     <id>125093A</id>
     <title>2021 Honda Odyssey EX-L</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=5FNRL6H72MB021152"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=5FNRL6H72MB021152"/>
     <ns0:id>125093A</ns0:id>
     <ns0:price>23039.00 USD</ns0:price>
     <ns0:vin>5FNRL6H72MB021152</ns0:vin>
@@ -3335,12 +3335,12 @@
     <ns0:model>Odyssey</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=5FNRL6H72MB021152&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=5FNRL6H72MB021152&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>EX-L</ns0:trim>
     <ns0:mileage>99758 miles</ns0:mileage>
     <ns0:body_style>full size van</ns0:body_style>
     <ns0:color>Pacific Pewter Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934958911--JNFGT-ltid2/1934958911.jpg</ns0:image_link>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934958911--1+ERJ-ltid2/1934958911.jpg</ns0:image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934958921--JNFGT-ltid2/1934958921.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934958931--2JCUX-ltid2/1934958931.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934959101--2JCUX-ltid2/1934959101.jpg</ns0:additional_image_link>
@@ -3355,7 +3355,7 @@
   <entry>
     <id>125179A</id>
     <title>2025 Ram 1500 Big Horn</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1C6RRFFG8SN540312"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1C6RRFFG8SN540312"/>
     <ns0:id>125179A</ns0:id>
     <ns0:price>41430.00 USD</ns0:price>
     <ns0:vin>1C6RRFFG8SN540312</ns0:vin>
@@ -3373,7 +3373,7 @@
     <ns0:model>1500</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1C6RRFFG8SN540312&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1C6RRFFG8SN540312&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Big Horn</ns0:trim>
     <ns0:mileage>5052 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
@@ -3393,7 +3393,7 @@
   <entry>
     <id>125194</id>
     <title>2025 Ford Bronco Sport Badlands</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9DA5SRF73758"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9DA5SRF73758"/>
     <ns0:id>125194</ns0:id>
     <ns0:price>40636.00 USD</ns0:price>
     <ns0:vehicle_msrp>44100.00 USD</ns0:vehicle_msrp>
@@ -3412,7 +3412,7 @@
     <ns0:model>Bronco Sport</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9DA5SRF73758&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9DA5SRF73758&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Badlands</ns0:trim>
     <ns0:mileage>5 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -3432,9 +3432,9 @@
   <entry>
     <id>125122A</id>
     <title>2024 Ford Bronco Outer Banks</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMEE8BP9RLA56817"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMEE8BP9RLA56817"/>
     <ns0:id>125122A</ns0:id>
-    <ns0:price>44882.00 USD</ns0:price>
+    <ns0:price>45097.00 USD</ns0:price>
     <ns0:vin>1FMEE8BP9RLA56817</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Ford</ns0:brand>
@@ -3450,7 +3450,7 @@
     <ns0:model>Bronco</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMEE8BP9RLA56817&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMEE8BP9RLA56817&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Outer Banks</ns0:trim>
     <ns0:mileage>16035 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -3548,7 +3548,7 @@
   <entry>
     <id>125195</id>
     <title>2025 Ford Transit Cargo Van T-350 148  HI RF 9500 GVW</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTBW1X81SKA91280"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTBW1X81SKA91280"/>
     <ns0:id>125195</ns0:id>
     <ns0:price>50495.00 USD</ns0:price>
     <ns0:vehicle_msrp>59760.00 USD</ns0:vehicle_msrp>
@@ -3567,7 +3567,7 @@
     <ns0:model>Transit Cargo Van</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTBW1X81SKA91280&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTBW1X81SKA91280&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>T-350 148  HI RF 9500 GVW</ns0:trim>
     <ns0:mileage>92 miles</ns0:mileage>
     <ns0:body_style>full size van</ns0:body_style>
@@ -3587,7 +3587,7 @@
   <entry>
     <id>126035</id>
     <title>2026 Ford Explorer Tremor</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMWK8JC7TGA93568"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMWK8JC7TGA93568"/>
     <ns0:id>126035</ns0:id>
     <ns0:price>53106.00 USD</ns0:price>
     <ns0:vehicle_msrp>62410.00 USD</ns0:vehicle_msrp>
@@ -3606,7 +3606,7 @@
     <ns0:model>Explorer</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMWK8JC7TGA93568&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMWK8JC7TGA93568&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Tremor</ns0:trim>
     <ns0:mileage>5 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -3703,9 +3703,9 @@
   <entry>
     <id>126016A</id>
     <title>2019 MINI Countryman John Cooper Works</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=WMZYV9C58K3F02887"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=WMZYV9C58K3F02887"/>
     <ns0:id>126016A</ns0:id>
-    <ns0:price>23054.00 USD</ns0:price>
+    <ns0:price>23458.00 USD</ns0:price>
     <ns0:vin>WMZYV9C58K3F02887</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>MINI</ns0:brand>
@@ -3721,7 +3721,7 @@
     <ns0:model>Countryman</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=WMZYV9C58K3F02887&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=WMZYV9C58K3F02887&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>John Cooper Works</ns0:trim>
     <ns0:mileage>40941 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -3741,7 +3741,7 @@
   <entry>
     <id>125169A</id>
     <title>2021 Ford Bronco Badlands</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMEE5DP2MLA80980"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMEE5DP2MLA80980"/>
     <ns0:id>125169A</ns0:id>
     <ns0:price>31049.00 USD</ns0:price>
     <ns0:vin>1FMEE5DP2MLA80980</ns0:vin>
@@ -3759,7 +3759,7 @@
     <ns0:model>Bronco</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMEE5DP2MLA80980&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMEE5DP2MLA80980&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Badlands</ns0:trim>
     <ns0:mileage>99841 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -3818,7 +3818,7 @@
   <entry>
     <id>126041</id>
     <title>2026 Ford Explorer ST</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMWK8GC9TGA90047"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMWK8GC9TGA90047"/>
     <ns0:id>126041</ns0:id>
     <ns0:price>57722.00 USD</ns0:price>
     <ns0:vehicle_msrp>63135.00 USD</ns0:vehicle_msrp>
@@ -3837,21 +3837,21 @@
     <ns0:model>Explorer</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMWK8GC9TGA90047&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMWK8GC9TGA90047&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>ST</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:mileage>3 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Star White Metallic Tri-Coat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1959753031--LWBW5-ltid1/1959753031.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1959753041--RJDF6-ltid1/1959753041.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1959753051--RJDF6-ltid1/1959753051.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1959753061--NIX3T-ltid1/1959753061.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1959753071--QYZW8-ltid1/1959753071.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1959753081--XYKPL-ltid1/1959753081.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1959753091--XYKPL-ltid1/1959753091.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1959753101--XYKPL-ltid1/1959753101.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1959753111--ZOLNU-ltid1/1959753111.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1959753121--6AH7R-ltid1/1959753121.jpg</ns0:additional_image_link>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2019260931--ELU9Y-ltid1/2019260931.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2019260941--WIKPV-ltid1/2019260941.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2019260951--WIKPV-ltid1/2019260951.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2019260961--WIKPV-ltid1/2019260961.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2019260971--WGQIZ-ltid1/2019260971.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2019260791--B-7YB-ltid1/2019260791.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2019260801--B-7YB-ltid1/2019260801.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2019260811--B-7YB-ltid1/2019260811.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2019260821--3F45N-ltid1/2019260821.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2019260831--3F45N-ltid1/2019260831.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Explorer</ns0:custom_label_0>
   </entry>
   <entry>
@@ -3878,7 +3878,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW3L59TFA07385&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>XLT</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:mileage>3 miles</ns0:mileage>
     <ns0:color>Carbonized Gray Metallic</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1981173661--RD9ZS-ltid1/1981173661.jpg</ns0:image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1981173671--6EZNZ-ltid1/1981173671.jpg</ns0:additional_image_link>
@@ -3895,7 +3895,7 @@
   <entry>
     <id>126039</id>
     <title>2026 Ford Maverick XLT</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FTTW8J36TRA33463"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FTTW8J36TRA33463"/>
     <ns0:id>126039</ns0:id>
     <ns0:price>34571.00 USD</ns0:price>
     <ns0:vehicle_msrp>37990.00 USD</ns0:vehicle_msrp>
@@ -3914,7 +3914,7 @@
     <ns0:model>Maverick</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FTTW8J36TRA33463&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FTTW8J36TRA33463&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>XLT</ns0:trim>
     <ns0:mileage>5 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
@@ -4012,9 +4012,9 @@
   <entry>
     <id>125146A</id>
     <title>2023 Ford F-150 XL</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTEX1EP5PKE00132"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTEX1EP5PKE00132"/>
     <ns0:id>125146A</ns0:id>
-    <ns0:price>31517.00 USD</ns0:price>
+    <ns0:price>30910.00 USD</ns0:price>
     <ns0:vin>1FTEX1EP5PKE00132</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Ford</ns0:brand>
@@ -4030,7 +4030,7 @@
     <ns0:model>F-150</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTEX1EP5PKE00132&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTEX1EP5PKE00132&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>XL</ns0:trim>
     <ns0:mileage>51456 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
@@ -4089,7 +4089,7 @@
   <entry>
     <id>126045</id>
     <title>2026 Ford Explorer ST-Line</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KH3TGA86215"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KH3TGA86215"/>
     <ns0:id>126045</ns0:id>
     <ns0:price>44702.00 USD</ns0:price>
     <ns0:vehicle_msrp>49745.00 USD</ns0:vehicle_msrp>
@@ -4108,7 +4108,7 @@
     <ns0:model>Explorer</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KH3TGA86215&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KH3TGA86215&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>ST-Line</ns0:trim>
     <ns0:mileage>5 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -4128,7 +4128,7 @@
   <entry>
     <id>126046</id>
     <title>2026 Ford Explorer ST-Line</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KH5TGA92422"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KH5TGA92422"/>
     <ns0:id>126046</ns0:id>
     <ns0:price>45434.00 USD</ns0:price>
     <ns0:vehicle_msrp>50540.00 USD</ns0:vehicle_msrp>
@@ -4147,7 +4147,7 @@
     <ns0:model>Explorer</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KH5TGA92422&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMUK8KH5TGA92422&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>ST-Line</ns0:trim>
     <ns0:mileage>5 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -4163,5 +4163,33 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2007305041--WS8ZL-ltid1/2007305041.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2007305051--WS8ZL-ltid1/2007305051.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Explorer</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>125179C</id>
+    <title>2017 Chevrolet Equinox LT</title>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=2GNALCEK9H1565507"/>
+    <ns0:id>125179C</ns0:id>
+    <ns0:price>6210.00 USD</ns0:price>
+    <ns0:vin>2GNALCEK9H1565507</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Chevrolet</ns0:brand>
+    <ns0:store_code>5445979293761982858</ns0:store_code>
+    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
+    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>5445979293761982858</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2017</ns0:year>
+    <ns0:make>Chevrolet</ns0:make>
+    <ns0:model>Equinox</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=2GNALCEK9H1565507&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>LT</ns0:trim>
+    <ns0:mileage>146085 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Blue Velvet Metallic</ns0:color>
+    <ns0:custom_label_0>Equinox</ns0:custom_label_0>
   </entry>
 </feed>

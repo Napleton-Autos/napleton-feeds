@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Genesis of Downtown Chicago Inventory Feed</title>
   <link href="https://www.genesisofdowntownchicago.com/" rel="self"/>
-  <updated>2026-01-24T08:02:41.801140</updated>
+  <updated>2026-01-24T12:03:53.584867</updated>
   <entry>
     <id>G25098</id>
     <title>2025 Genesis GV80 Prestige</title>
@@ -1601,5 +1601,34 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid215614-photoid1975035671--H7OTL-ltid1/1975035671.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid215614-photoid1975035741--QY0WL-ltid1/1975035741.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>G80</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>G26090</id>
+    <title>2026 Genesis G70 3.3T Sport Prestige</title>
+    <link rel="alternate" href="https://www.genesisofdowntownchicago.com/inventory/new-2026-genesis-g70-3-3t-sport-prestige-awd-4dr-car-kmtg54se2tu169693/"/>
+    <ns0:id>G26090</ns0:id>
+    <ns0:price>55176.00 USD</ns0:price>
+    <ns0:vehicle_msrp>58080.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>KMTG54SE2TU169693</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Genesis</ns0:brand>
+    <ns0:store_code>3078858109013009292</ns0:store_code>
+    <ns0:dealership_name>Genesis of Downtown Chicago</ns0:dealership_name>
+    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>3078858109013009292</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Genesis</ns0:make>
+    <ns0:model>G70</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.genesisofdowntownchicago.com/inventory/new-2026-genesis-g70-3-3t-sport-prestige-awd-4dr-car-kmtg54se2tu169693/?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>3.3T Sport Prestige</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:body_style>sedan</ns0:body_style>
+    <ns0:color>Uyuni White</ns0:color>
+    <ns0:custom_label_0>G70</ns0:custom_label_0>
   </entry>
 </feed>
