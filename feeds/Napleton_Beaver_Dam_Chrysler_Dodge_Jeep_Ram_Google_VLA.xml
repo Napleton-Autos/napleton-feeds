@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Beaver Dam Chrysler Dodge Jeep Ram Inventory Feed</title>
   <link href="https://www.beaverdamcdjr.com/" rel="self"/>
-  <updated>2026-01-25T08:02:43.767224</updated>
+  <updated>2026-01-25T12:03:47.529495</updated>
   <entry>
     <id>140015</id>
     <title>2025 Chrysler Pacifica Select</title>
@@ -1056,44 +1056,6 @@
     <ns0:custom_label_0>Grand Cherokee L</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>PB0090</id>
-    <title>2023 Chrysler 300 300 Touring L</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C3CCASG8PH561271"/>
-    <ns0:id>PB0090</ns0:id>
-    <ns0:price>25895.00 USD</ns0:price>
-    <ns0:vin>2C3CCASG8PH561271</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Chrysler</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2023</ns0:year>
-    <ns0:make>Chrysler</ns0:make>
-    <ns0:model>300</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C3CCASG8PH561271&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>300 Touring L</ns0:trim>
-    <ns0:mileage>46288 miles</ns0:mileage>
-    <ns0:body_style>sedan</ns0:body_style>
-    <ns0:color>Bright White</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402411---CMBM-ltid2/1786402411.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402421--VYSNJ-ltid2/1786402421.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402431--IDHHO-ltid2/1786402431.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402441--WS14F-ltid2/1786402441.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402451--ZCDMB-ltid2/1786402451.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402461--ZCDMB-ltid2/1786402461.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402471--DOGP8-ltid2/1786402471.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402481--7TFEY-ltid2/1786402481.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402491--LYVT+-ltid2/1786402491.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1786402501--LYVT+-ltid2/1786402501.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>300</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>140047</id>
     <title>2026 Chrysler Pacifica Pinnacle</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC1PG0TR195146"/>
@@ -2063,6 +2025,44 @@
     <ns0:custom_label_0>Grand Cherokee</ns0:custom_label_0>
   </entry>
   <entry>
+    <id>440063A</id>
+    <title>2021 Jeep Grand Cherokee L Limited</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJKBG3M8149875"/>
+    <ns0:id>440063A</ns0:id>
+    <ns0:price>25957.00 USD</ns0:price>
+    <ns0:vin>1C4RJKBG3M8149875</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Jeep</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2021</ns0:year>
+    <ns0:make>Jeep</ns0:make>
+    <ns0:model>Grand Cherokee L</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJKBG3M8149875&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Limited</ns0:trim>
+    <ns0:mileage>80325 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Baltic Gray Metallic Clearcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1935000361--ZIRGF-ltid2/1935000361.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1935000371--ZIRGF-ltid2/1935000371.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1934998191--ZIRGF-ltid2/1934998191.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1934998201--ZIRGF-ltid2/1934998201.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1934998211--ZIRGF-ltid2/1934998211.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1934998221--ZIRGF-ltid2/1934998221.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1934998231--ZIRGF-ltid2/1934998231.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1934998241--ZIRGF-ltid2/1934998241.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1934998251--ZIRGF-ltid2/1934998251.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1934998261--ZIRGF-ltid2/1934998261.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Grand Cherokee L</ns0:custom_label_0>
+  </entry>
+  <entry>
     <id>440075</id>
     <title>2026 Ram 1500 Big Horn</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFFP6TN282245"/>
@@ -2293,44 +2293,6 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1934999561--LH3IH-ltid2/1934999561.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1934999571--ACJ33-ltid2/1934999571.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>1500</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>340120A</id>
-    <title>2022 Nissan Frontier SV</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1N6ED1EK3NN639202"/>
-    <ns0:id>340120A</ns0:id>
-    <ns0:price>24804.00 USD</ns0:price>
-    <ns0:vin>1N6ED1EK3NN639202</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Nissan</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2022</ns0:year>
-    <ns0:make>Nissan</ns0:make>
-    <ns0:model>Frontier</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1N6ED1EK3NN639202&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>SV</ns0:trim>
-    <ns0:mileage>66183 miles</ns0:mileage>
-    <ns0:body_style>truck</ns0:body_style>
-    <ns0:color>Deep Blue Pearl</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1935000201--O+BNT-ltid2/1935000201.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1935000211--VWNW8-ltid2/1935000211.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1935000221--BOV+B-ltid2/1935000221.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1935000231--BOV+B-ltid2/1935000231.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1935000241--K-4EU-ltid2/1935000241.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1935000251--XXA6G-ltid2/1935000251.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1935000261--EDUAU-ltid2/1935000261.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1935000271--UOBOL-ltid2/1935000271.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1935000281--JVSXW-ltid2/1935000281.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1935000291--JVSXW-ltid2/1935000291.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Frontier</ns0:custom_label_0>
   </entry>
   <entry>
     <id>340078A</id>

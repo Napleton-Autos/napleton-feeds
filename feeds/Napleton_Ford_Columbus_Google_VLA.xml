@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Ford Columbus Inventory Feed</title>
   <link href="https://www.napletonfordcolumbus.com" rel="self"/>
-  <updated>2026-01-25T08:02:43.655370</updated>
+  <updated>2026-01-25T12:03:47.419506</updated>
   <entry>
     <id>124036</id>
     <title>2024 Ford Super Duty F-550 DRW XL</title>
@@ -44,7 +44,7 @@
   <entry>
     <id>125019</id>
     <title>2025 Ford Escape PHEV</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU0E18SUA54771"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU0E18SUA54771"/>
     <ns0:id>125019</ns0:id>
     <ns0:price>27000.00 USD</ns0:price>
     <ns0:vehicle_msrp>41050.00 USD</ns0:vehicle_msrp>
@@ -63,7 +63,7 @@
     <ns0:model>Escape</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU0E18SUA54771&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU0E18SUA54771&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>PHEV</ns0:trim>
     <ns0:mileage>1062 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
@@ -1200,44 +1200,6 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1774790931--+YGB1-ltid1/1774790931.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1774790941--+YGB1-ltid1/1774790941.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>F-150</ns0:custom_label_0>
-  </entry>
-  <entry>
-    <id>RT0016</id>
-    <title>2024 Buick Encore GX Sport Touring</title>
-    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=KL4AMESL9RB073747"/>
-    <ns0:id>RT0016</ns0:id>
-    <ns0:price>19525.00 USD</ns0:price>
-    <ns0:vin>KL4AMESL9RB073747</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Buick</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2024</ns0:year>
-    <ns0:make>Buick</ns0:make>
-    <ns0:model>Encore GX</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=KL4AMESL9RB073747&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Sport Touring</ns0:trim>
-    <ns0:mileage>41581 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Sunrise Red Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771563541--XEJFM-ltid2/1771563541.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771563551--XEJFM-ltid2/1771563551.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771563561--VFG-P-ltid2/1771563561.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771563571--VFG-P-ltid2/1771563571.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771563581--+7K7G-ltid2/1771563581.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771563911--+7K7G-ltid2/1771563911.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771563921--V+AQB-ltid2/1771563921.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771563931--V+AQB-ltid2/1771563931.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771563941--UJQ1B-ltid2/1771563941.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1771563951--UJQ1B-ltid2/1771563951.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Encore GX</ns0:custom_label_0>
   </entry>
   <entry>
     <id>126007</id>
@@ -2624,45 +2586,6 @@
     <ns0:custom_label_0>Mustang</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>126019</id>
-    <title>2026 Ford Escape ST-Line Select</title>
-    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9NA5TUA26996"/>
-    <ns0:id>126019</ns0:id>
-    <ns0:price>32952.00 USD</ns0:price>
-    <ns0:vehicle_msrp>38345.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1FMCU9NA5TUA26996</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>Escape</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9NA5TUA26996&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>ST-Line Select</ns0:trim>
-    <ns0:mileage>2 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>vapor blue metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934958141--9KEWQ-ltid1/1934958141.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934958151--FOZG+-ltid1/1934958151.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934958161--FOZG+-ltid1/1934958161.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934958171--VUIWO-ltid1/1934958171.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934958181--P9PXB-ltid1/1934958181.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934958191--YFS1B-ltid1/1934958191.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934958201--5FSAQ-ltid1/1934958201.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934958211--QA2KQ-ltid1/1934958211.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934958221--ZEJOB-ltid1/1934958221.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934958231--ZEJOB-ltid1/1934958231.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Escape</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>126023</id>
     <title>2026 Ford Escape ST-Line Select</title>
     <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9NA8TUA36860"/>
@@ -3857,7 +3780,7 @@
   <entry>
     <id>126040</id>
     <title>2026 Ford F-150 XLT</title>
-    <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW3L59TFA07385"/>
+    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW3L59TFA07385"/>
     <ns0:id>126040</ns0:id>
     <ns0:price>61318.00 USD</ns0:price>
     <ns0:vehicle_msrp>66675.00 USD</ns0:vehicle_msrp>
@@ -3876,7 +3799,7 @@
     <ns0:model>F-150</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW3L59TFA07385&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW3L59TFA07385&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>XLT</ns0:trim>
     <ns0:mileage>3 miles</ns0:mileage>
     <ns0:color>Carbonized Gray Metallic</ns0:color>
