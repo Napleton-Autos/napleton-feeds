@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Chevrolet Saint Charles Inventory Feed</title>
   <link href="https://www.napletonchevrolet.com" rel="self"/>
-  <updated>2026-01-26T08:03:24.537109</updated>
+  <updated>2026-01-26T12:04:33.580579</updated>
   <entry>
     <id>24530</id>
     <title>2024 Chevrolet Silverado 5500HD Work Truck</title>
@@ -5028,5 +5028,33 @@
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Ebony Twilight Metallic</ns0:color>
     <ns0:custom_label_0>Enclave</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>25238A</id>
+    <title>2018 Ford EcoSport Titanium</title>
+    <link rel="alternate" href="https://www.napletonchevrolet.com/inventory/details/MAJ6P1WL4JC200947"/>
+    <ns0:id>25238A</ns0:id>
+    <ns0:price>12195.00 USD</ns0:price>
+    <ns0:vin>MAJ6P1WL4JC200947</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Ford</ns0:brand>
+    <ns0:store_code>7093661331809096168</ns0:store_code>
+    <ns0:dealership_name>Napleton Chevrolet Saint Charles</ns0:dealership_name>
+    <ns0:dealership_address>2015 E. Main St., Saint Charles, IL 60174</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>7093661331809096168</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2018</ns0:year>
+    <ns0:make>Ford</ns0:make>
+    <ns0:model>EcoSport</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletonchevrolet.com/inventory/details/MAJ6P1WL4JC200947?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Titanium</ns0:trim>
+    <ns0:mileage>75119 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Shadow Black</ns0:color>
+    <ns0:custom_label_0>EcoSport</ns0:custom_label_0>
   </entry>
 </feed>

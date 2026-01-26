@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Downtown Chevrolet Inventory Feed</title>
   <link href="https://www.downtownchevy.com" rel="self"/>
-  <updated>2026-01-26T08:03:24.293747</updated>
+  <updated>2026-01-26T12:04:33.352514</updated>
   <entry>
     <id>H25031</id>
     <title>2025 Hyundai Sonata SE</title>
@@ -4422,7 +4422,7 @@
   <entry>
     <id>H26060A</id>
     <title>2016 Audi Q5 Premium Plus</title>
-    <link rel="alternate" href="https://www.downtownchevy.com/inventory/details/WA1L2AFP0GA045813"/>
+    <link rel="alternate" href="https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=WA1L2AFP0GA045813"/>
     <ns0:id>H26060A</ns0:id>
     <ns0:price>12981.00 USD</ns0:price>
     <ns0:vin>WA1L2AFP0GA045813</ns0:vin>
@@ -4440,7 +4440,7 @@
     <ns0:model>Q5</ns0:model>
     <ns0:condition>used</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.downtownchevy.com/inventory/details/WA1L2AFP0GA045813?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://chicagochevybuickgmc.com/wp-json/space-multisite/v1/api/?vdp=WA1L2AFP0GA045813&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Premium Plus</ns0:trim>
     <ns0:mileage>67403 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
