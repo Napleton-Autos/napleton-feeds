@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Ford Columbus Inventory Feed</title>
   <link href="https://www.napletonfordcolumbus.com" rel="self"/>
-  <updated>2026-01-27T08:03:08.144056</updated>
+  <updated>2026-01-27T12:04:19.057265</updated>
   <entry>
     <id>124036</id>
     <title>2024 Ford Super Duty F-550 DRW XL</title>
@@ -2317,44 +2317,6 @@
     <ns0:custom_label_0>Bronco Sport</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>PB0029A</id>
-    <title>2018 Honda Civic Coupe LX-P</title>
-    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=2HGFC4B04JH301939"/>
-    <ns0:id>PB0029A</ns0:id>
-    <ns0:price>16675.00 USD</ns0:price>
-    <ns0:vin>2HGFC4B04JH301939</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Honda</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2018</ns0:year>
-    <ns0:make>Honda</ns0:make>
-    <ns0:model>Civic Coupe</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=2HGFC4B04JH301939&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>LX-P</ns0:trim>
-    <ns0:mileage>36465 miles</ns0:mileage>
-    <ns0:body_style>coupe</ns0:body_style>
-    <ns0:color>Aegean Blue Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1789187821--GA0TF-ltid2/1789187821.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1789187831--RRDPN-ltid2/1789187831.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1789187841--TSACE-ltid2/1789187841.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1789187851--2BJFA-ltid2/1789187851.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1789187861--2BJFA-ltid2/1789187861.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1789187871--E6-6W-ltid2/1789187871.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1789187881--SN7NE-ltid2/1789187881.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1789187891--MWQJG-ltid2/1789187891.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1789187901--MWQJG-ltid2/1789187901.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1789187911--HD1QO-ltid2/1789187911.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Civic Coupe</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>P0380</id>
     <title>2023 Audi Q5 S line Premium Plus</title>
     <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=WA1EAAFY1P2116841"/>
@@ -3161,44 +3123,6 @@
     <ns0:custom_label_0>F-150</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>125192</id>
-    <title>2025 Ford F-150 Tremor</title>
-    <link rel="alternate" href="https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW4L58SFC48715"/>
-    <ns0:id>125192</ns0:id>
-    <ns0:price>72421.00 USD</ns0:price>
-    <ns0:vehicle_msrp>79615.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>1FTFW4L58SFC48715</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Ford</ns0:brand>
-    <ns0:store_code>5445979293761982858</ns0:store_code>
-    <ns0:dealership_name>Napleton Ford Columbus</ns0:dealership_name>
-    <ns0:dealership_address>330 Transit Rd., Columbus, WI 53925</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>5445979293761982858</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2025</ns0:year>
-    <ns0:make>Ford</ns0:make>
-    <ns0:model>F-150</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW4L58SFC48715&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Tremor</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
-    <ns0:color>Antimatter Blue Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934961621--1+CKW-ltid1/1934961621.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934961631--1+CKW-ltid1/1934961631.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934961641--AUGAN-ltid1/1934961641.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934961651--G8N4Y-ltid1/1934961651.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934961661--H276L-ltid1/1934961661.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934961671--H276L-ltid1/1934961671.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934961681--I3ZU2-ltid1/1934961681.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934961691--ZZXYP-ltid1/1934961691.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934961701--VFKYB-ltid1/1934961701.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1934961711--NWHE4-ltid1/1934961711.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>F-150</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>126031</id>
     <title>2026 Ford Maverick LARIAT</title>
     <link rel="alternate" href="https://www.napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FTTW8SA9TRA42350"/>
@@ -3803,16 +3727,16 @@
     <ns0:trim>XLT</ns0:trim>
     <ns0:mileage>3 miles</ns0:mileage>
     <ns0:color>Carbonized Gray Metallic</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1981173661--RD9ZS-ltid1/1981173661.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1981173671--6EZNZ-ltid1/1981173671.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1981173681--6EZNZ-ltid1/1981173681.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1981173691--6EZNZ-ltid1/1981173691.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1981173701--BROLL-ltid1/1981173701.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1981173711--45WYD-ltid1/1981173711.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1981173721--L9V17-ltid1/1981173721.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1981173731--L9V17-ltid1/1981173731.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1981173741--L9V17-ltid1/1981173741.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1981173751--K444A-ltid1/1981173751.jpg</ns0:additional_image_link>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2027803051--VKAGK-ltid1/2027803051.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2027803061--J7+4F-ltid1/2027803061.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2027803071--DLMHJ-ltid1/2027803071.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2027803081--DLMHJ-ltid1/2027803081.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2027803091--FBWKI-ltid1/2027803091.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2027803101--SORUI-ltid1/2027803101.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2027803111--ORLAM-ltid1/2027803111.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2027803121--ORLAM-ltid1/2027803121.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2027803131--1IF9M-ltid1/2027803131.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2027803141--NPKZV-ltid1/2027803141.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>F-150</ns0:custom_label_0>
   </entry>
   <entry>

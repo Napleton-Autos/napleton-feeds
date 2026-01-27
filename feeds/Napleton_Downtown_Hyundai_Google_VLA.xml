@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Downtown Hyundai Inventory Feed</title>
   <link href="https://www.napletondowntownhyundai.com/" rel="self"/>
-  <updated>2026-01-27T08:03:08.423611</updated>
+  <updated>2026-01-27T12:04:19.316654</updated>
   <entry>
     <id>H24402</id>
     <title>2025 Hyundai IONIQ 5 N</title>
@@ -4546,6 +4546,93 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2024532581--ECYPZ-ltid1/2024532581.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2024532591--ECYPZ-ltid1/2024532591.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2024532601--C-WMZ-ltid1/2024532601.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Santa Fe</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>H26128</id>
+    <title>2026 Hyundai Tucson Limited</title>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com//inventory/details/5NMJECDE0TH674327"/>
+    <ns0:id>H26128</ns0:id>
+    <ns0:price>41050.00 USD</ns0:price>
+    <ns0:vehicle_msrp>43210.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>5NMJECDE0TH674327</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Hyundai</ns0:brand>
+    <ns0:store_code>8954334598476874759</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
+    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8954334598476874759</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Hyundai</ns0:make>
+    <ns0:model>Tucson</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletondowntownhyundai.com//inventory/details/5NMJECDE0TH674327?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Limited</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Ecotronic Gray</ns0:color>
+    <ns0:custom_label_0>Tucson</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>H26127</id>
+    <title>2026 Hyundai Santa Fe SE</title>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com//inventory/details/5NMP14GL3TH194143"/>
+    <ns0:id>H26127</ns0:id>
+    <ns0:price>35411.00 USD</ns0:price>
+    <ns0:vehicle_msrp>37275.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>5NMP14GL3TH194143</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Hyundai</ns0:brand>
+    <ns0:store_code>8954334598476874759</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
+    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8954334598476874759</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Hyundai</ns0:make>
+    <ns0:model>Santa Fe</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletondowntownhyundai.com//inventory/details/5NMP14GL3TH194143?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>SE</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Ecotronic Gray</ns0:color>
+    <ns0:custom_label_0>Santa Fe</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>H26126</id>
+    <title>2026 Hyundai Santa Fe XRT</title>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com//inventory/details/5NMP3DGL8TH194181"/>
+    <ns0:id>H26126</ns0:id>
+    <ns0:price>42337.00 USD</ns0:price>
+    <ns0:vehicle_msrp>44565.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>5NMP3DGL8TH194181</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Hyundai</ns0:brand>
+    <ns0:store_code>8954334598476874759</ns0:store_code>
+    <ns0:dealership_name>Napleton Downtown Hyundai</ns0:dealership_name>
+    <ns0:dealership_address>2700 S. Michigan Ave., Chicago, IL 60616</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>8954334598476874759</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Hyundai</ns0:make>
+    <ns0:model>Santa Fe</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.napletondowntownhyundai.com//inventory/details/5NMP3DGL8TH194181?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>XRT</ns0:trim>
+    <ns0:mileage>1 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Shimmering Silver</ns0:color>
     <ns0:custom_label_0>Santa Fe</ns0:custom_label_0>
   </entry>
 </feed>

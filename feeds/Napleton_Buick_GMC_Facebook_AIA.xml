@@ -22,7 +22,7 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
     <mileage>
-      <value>10</value>
+      <value>11</value>
       <unit>MI</unit>
     </mileage>
     <trim>AWD AT4</trim>
@@ -302,7 +302,7 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
     <mileage>
-      <value>10</value>
+      <value>997</value>
       <unit>MI</unit>
     </mileage>
     <trim>Preferred</trim>
@@ -1703,97 +1703,6 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1gtuugel7rz278341</vehicle_id>
-    <title>2024 GMC Sierra 1500 Denali</title>
-    <description>2024 GMC Sierra 1500. Trim: Denali. Color: Summit White. Body Style: Crew Cab Pickup.</description>
-    <address format="simple">
-      <component name="addr1">6305 Northwest Hwy.</component>
-      <component name="city">Crystal Lake</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60014</component>
-    </address>
-    <year>2024</year>
-    <make>GMC</make>
-    <model>Sierra 1500</model>
-    <vin>1gtuugel7rz278341</vin>
-    <content_ids>1gtuugel7rz278341</content_ids>
-    <availability>in stock</availability>
-    <price>51998.00 USD</price>
-    <url>https://www.napletoncrystallake.com/inventory/used-2024-gmc-sierra-1500-denali-four-wheel-drive-crew-cab-1gtuugel7rz278341/</url>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <condition>used</condition>
-    <mileage>
-      <value>30431</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Denali</trim>
-    <body_style>TRUCK</body_style>
-    <exterior_color>Summit White</exterior_color>
-    <interior_color>Jet Black</interior_color>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1982804801--GDOIS-ltid2/1982804801.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1982804811--GDOIS-ltid2/1982804811.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1982804821--L3JYV-ltid2/1982804821.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1982804831--L3JYV-ltid2/1982804831.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1982804841--L3JYV-ltid2/1982804841.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1982804851--V1LJ2-ltid2/1982804851.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1982804181--ZFKR1-ltid2/1982804181.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1982804191--ZFKR1-ltid2/1982804191.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1982804201--ZFKR1-ltid2/1982804201.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1982804211--KDXL1-ltid2/1982804211.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1982804221--KDXL1-ltid2/1982804221.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1982804231--KDXL1-ltid2/1982804231.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1982804241--UEVQH-ltid2/1982804241.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1982804251--UEVQH-ltid2/1982804251.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1982804261--UEVQH-ltid2/1982804261.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1982804271--C446U-ltid2/1982804271.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1982804281--C446U-ltid2/1982804281.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1982804291--K4UOA-ltid2/1982804291.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1982804301--K4UOA-ltid2/1982804301.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1982804311--K4UOA-ltid2/1982804311.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>5gaevaks5tj186145</vehicle_id>
     <title>2026 Buick Enclave Preferred</title>
     <description>2026 Buick Enclave. Trim: Preferred. Color: Ocean Blue Metallic. Body Style: Sport Utility Vehicle.</description>
@@ -2523,7 +2432,7 @@
     <vin>jm3tcbdy8k0328731</vin>
     <content_ids>jm3tcbdy8k0328731</content_ids>
     <availability>in stock</availability>
-    <price>19755.00 USD</price>
+    <price>19555.00 USD</price>
     <url>https://www.napletoncrystallake.com/inventory/used-2019-mazda-cx-9-grand-touring-all-wheel-drive-suv-jm3tcbdy8k0328731/</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -3004,7 +2913,7 @@
     <vin>2fmpk3k9xlba39411</vin>
     <content_ids>2fmpk3k9xlba39411</content_ids>
     <availability>in stock</availability>
-    <price>15889.00 USD</price>
+    <price>15777.00 USD</price>
     <url>https://www.napletoncrystallake.com/inventory/used-2020-ford-edge-titanium-front-wheel-drive-suv-2fmpk3k9xlba39411/</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -3095,7 +3004,7 @@
     <vin>1gkenpks8rj146947</vin>
     <content_ids>1gkenpks8rj146947</content_ids>
     <availability>in stock</availability>
-    <price>42999.00 USD</price>
+    <price>41999.00 USD</price>
     <url>https://www.napletoncrystallake.com/inventory/used-2024-gmc-acadia-at4-all-wheel-drive-suv-1gkenpks8rj146947/</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -4467,7 +4376,7 @@
     <vin>1c4rjyb69rc124963</vin>
     <content_ids>1c4rjyb69rc124963</content_ids>
     <availability>in stock</availability>
-    <price>24999.00 USD</price>
+    <price>24859.00 USD</price>
     <url>https://www.napletoncrystallake.com/inventory/used-2024-jeep-grand-cherokee-4xe-four-wheel-drive-suv-1c4rjyb69rc124963/</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -5977,7 +5886,7 @@
     <vin>4jgda5gb6kb215307</vin>
     <content_ids>4jgda5gb6kb215307</content_ids>
     <availability>in stock</availability>
-    <price>20777.00 USD</price>
+    <price>19999.00 USD</price>
     <url>https://www.napletoncrystallake.com/inventory/used-2019-mercedes-benz-gle-gle-400-all-wheel-drive-4matic-suv-4jgda5gb6kb215307/</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -7433,7 +7342,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
     <mileage>
-      <value>162348</value>
+      <value>162349</value>
       <unit>MI</unit>
     </mileage>
     <trim>Lariat</trim>
@@ -7532,26 +7441,65 @@
     <exterior_color>Argent Silver Metallic</exterior_color>
     <interior_color>Whisper Beige with Jet Black Accents</interior_color>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2011433781--BWN39-ltid2/2011433781.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028067971--H8U1I-ltid2/2028067971.jpg</url>
       <tag>main</tag>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2011433791--BWN39-ltid2/2011433791.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028067981--H8U1I-ltid2/2028067981.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2011433801--OSQYN-ltid2/2011433801.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028067991--FQFXT-ltid2/2028067991.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2011433811--HNIT1-ltid2/2011433811.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028068001--FQFXT-ltid2/2028068001.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2011433821--HNIT1-ltid2/2011433821.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028068011--SN-7N-ltid2/2028068011.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2011433831--KILR--ltid2/2011433831.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028068021---JQYS-ltid2/2028068021.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2011433841--KILR--ltid2/2011433841.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028067671--YNLNS-ltid2/2028067671.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028067681--HBELU-ltid2/2028067681.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028067691--HBELU-ltid2/2028067691.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028067701--NZSWC-ltid2/2028067701.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028067711--CKFFU-ltid2/2028067711.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028067721--CKFFU-ltid2/2028067721.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028067731--RVWZT-ltid2/2028067731.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028067741--EDQ9E-ltid2/2028067741.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028067751--6MPVI-ltid2/2028067751.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028067761--6MPVI-ltid2/2028067761.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028067771--9KDUI-ltid2/2028067771.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028067781--YGLMH-ltid2/2028067781.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028067791--KOZKP-ltid2/2028067791.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028067801--KOZKP-ltid2/2028067801.jpg</url>
     </image>
   </listing>
   <listing>
@@ -7782,6 +7730,97 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2024533411--KPOCR-ltid1/2024533411.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>1gtuugel1pz217614</vehicle_id>
+    <title>2023 GMC Sierra 1500 Denali</title>
+    <description>2023 GMC Sierra 1500. Trim: Denali. Color: White Frost Tricoat. Body Style: Crew Cab Pickup.</description>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
+    <year>2023</year>
+    <make>GMC</make>
+    <model>Sierra 1500</model>
+    <vin>1gtuugel1pz217614</vin>
+    <content_ids>1gtuugel1pz217614</content_ids>
+    <availability>in stock</availability>
+    <price>45999.00 USD</price>
+    <url>https://www.napletoncrystallake.com/inventory/used-2023-gmc-sierra-1500-denali-four-wheel-drive-crew-cab-1gtuugel1pz217614/</url>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <condition>used</condition>
+    <mileage>
+      <value>47794</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Denali</trim>
+    <body_style>TRUCK</body_style>
+    <exterior_color>White Frost Tricoat</exterior_color>
+    <interior_color>Atmosphere/Brownstone</interior_color>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028228531--IPM9+-ltid2/2028228531.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028228541--VN0CO-ltid2/2028228541.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028228551--VN0CO-ltid2/2028228551.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028228561--VZOAY-ltid2/2028228561.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028228571--N+IOL-ltid2/2028228571.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028228581--VIWQ3-ltid2/2028228581.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028228591--VIWQ3-ltid2/2028228591.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028228601--IYAZN-ltid2/2028228601.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028228611--GZQUX-ltid2/2028228611.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028228621--GZQUX-ltid2/2028228621.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028228631--YFBE8-ltid2/2028228631.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028228641--YE9AM-ltid2/2028228641.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028228651--YE9AM-ltid2/2028228651.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028228661--ZPEGV-ltid2/2028228661.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028228671--WFE2O-ltid2/2028228671.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028228681--CWS7A-ltid2/2028228681.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028228691--CWS7A-ltid2/2028228691.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028228701--XJYA6-ltid2/2028228701.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028228711--FY1CB-ltid2/2028228711.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2028228721--FY1CB-ltid2/2028228721.jpg</url>
     </image>
   </listing>
 </listings>

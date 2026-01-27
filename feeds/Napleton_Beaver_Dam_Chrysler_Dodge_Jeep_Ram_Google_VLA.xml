@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Beaver Dam Chrysler Dodge Jeep Ram Inventory Feed</title>
   <link href="https://www.beaverdamcdjr.com/" rel="self"/>
-  <updated>2026-01-27T08:03:08.259230</updated>
+  <updated>2026-01-27T12:04:19.143251</updated>
   <entry>
     <id>140015</id>
     <title>2025 Chrysler Pacifica Select</title>
@@ -1716,45 +1716,6 @@
     <ns0:custom_label_0>Pacifica</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>340126</id>
-    <title>2026 Jeep Compass Latitude Altitude</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDBNXTT199634"/>
-    <ns0:id>340126</ns0:id>
-    <ns0:price>32700.00 USD</ns0:price>
-    <ns0:vehicle_msrp>35280.00 USD</ns0:vehicle_msrp>
-    <ns0:vin>3C4NJDBNXTT199634</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Jeep</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2026</ns0:year>
-    <ns0:make>Jeep</ns0:make>
-    <ns0:model>Compass</ns0:model>
-    <ns0:condition>new</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C4NJDBNXTT199634&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>Latitude Altitude</ns0:trim>
-    <ns0:mileage>16 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Bright White Clearcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1933912421--BTQUV-ltid1/1933912421.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1933912431--2-HHM-ltid1/1933912431.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1933912441--2-HHM-ltid1/1933912441.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1933912451--OCJFX-ltid1/1933912451.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1933912461--TL8WN-ltid1/1933912461.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1933912471--MC+NY-ltid1/1933912471.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1933912481--MC+NY-ltid1/1933912481.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1933912491--PSWZ7-ltid1/1933912491.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1933912501--OUOYK-ltid1/1933912501.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1933912511--OUOYK-ltid1/1933912511.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Compass</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>340089C</id>
     <title>2024 Honda Civic Sedan EX</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2HGFE1F77RH310694"/>
@@ -2734,5 +2695,63 @@
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Summit White</ns0:color>
     <ns0:custom_label_0>Equinox</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>230010</id>
+    <title>2026 Dodge Durango GT Plus HEMI V8</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com//inventory/details/1C4SDJCT8TC198970"/>
+    <ns0:id>230010</ns0:id>
+    <ns0:price>57620.00 USD</ns0:price>
+    <ns0:vehicle_msrp>57620.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>1C4SDJCT8TC198970</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Dodge</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Dodge</ns0:make>
+    <ns0:model>Durango</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com//inventory/details/1C4SDJCT8TC198970?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>GT Plus HEMI V8</ns0:trim>
+    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Green Machine</ns0:color>
+    <ns0:custom_label_0>Durango</ns0:custom_label_0>
+  </entry>
+  <entry>
+    <id>140063</id>
+    <title>2026 Chrysler Pacifica Select</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com//inventory/details/2C4RC3BG8TR211435"/>
+    <ns0:id>140063</ns0:id>
+    <ns0:price>44016.00 USD</ns0:price>
+    <ns0:vehicle_msrp>50580.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>2C4RC3BG8TR211435</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Chrysler</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Chrysler</ns0:make>
+    <ns0:model>Pacifica</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com//inventory/details/2C4RC3BG8TR211435?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Select</ns0:trim>
+    <ns0:mileage>100 miles</ns0:mileage>
+    <ns0:body_style>full size van</ns0:body_style>
+    <ns0:color>Diamond Black Crystal Pearlcoat</ns0:color>
+    <ns0:custom_label_0>Pacifica</ns0:custom_label_0>
   </entry>
 </feed>
