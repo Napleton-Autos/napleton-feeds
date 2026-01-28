@@ -71,26 +71,15 @@ DEALERSHIPS = {
         'store_code': '252221242249419797'
     },
     '50912': {
-        'name': 'Napleton Downtown Chevrolet',
-        'website': 'https://www.downtownchevy.com',
+        'name': 'Napleton Chicago Chevy Buick GMC',
+        'website': 'https://www.chicagochevybuickgmc.com',
         'address': '2720 S. Michigan Ave., Chicago, IL 60616',
         'street_address': '2720 S. Michigan Ave.',
         'city': 'Chicago',
         'region': 'IL',
         'country': 'US',
         'postal_code': '60616',
-        'store_code': '7227908043401009324'
-    },
-    '216163': {
-        'name': 'Napleton Downtown Buick GMC',
-        'website': 'https://www.downtownbuickgmc.com',
-        'address': '2720 S. Michigan Ave., Chicago, IL 60616',
-        'street_address': '2720 S. Michigan Ave.',
-        'city': 'Chicago',
-        'region': 'IL',
-        'country': 'US',
-        'postal_code': '60616',
-        'store_code': '4088446453747783674'
+        'store_code': '827382'
     },
     '125848': {
         'name': 'Napleton Downtown Hyundai',
@@ -621,6 +610,11 @@ def generate_google_feed(vehicles, dealership, dealer_id):
         _add_g_element(entry, 'condition', condition)
         _add_g_element(entry, 'availability', 'in stock')
 
+        # Description from CSV
+        description_value = vehicle.get('Description')
+        if description_value:
+            _add_g_element(entry, 'description', description_value.strip())
+
         # VDP tracking templates
         link_template_url = ensure_store_placeholder(url)
         _add_g_element(entry, 'link_template', link_template_url)
@@ -697,6 +691,9 @@ def process_inventory(csv_file):
         reader = csv.DictReader(f)
         for row in reader:
             dealer_id = row.get('DealerID', '').strip()
+            # Remap old dealer ID 216163 (Napleton Downtown Buick GMC) to new merged dealer ID 50912
+            if dealer_id == '216163':
+                dealer_id = '50912'
             if dealer_id in DEALERSHIPS:
                 dealership_vehicles[dealer_id].append(row)
     
@@ -708,6 +705,13 @@ def main():
 
     # Create feeds directory
     os.makedirs(FEED_DIR, exist_ok=True)
+
+    # Clean up old feed files
+    for file in os.listdir(FEED_DIR):
+        if file.endswith('.xml'):
+            filepath = os.path.join(FEED_DIR, file)
+            os.remove(filepath)
+            print(f"Removed old feed: {file}")
 
     # Download inventory
     csv_file = download_from_sftp()
