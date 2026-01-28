@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Downtown Hyundai Inventory Feed</title>
   <link href="https://www.napletondowntownhyundai.com/" rel="self"/>
-  <updated>2026-01-28T08:03:01.928565</updated>
+  <updated>2026-01-28T12:04:12.540639</updated>
   <entry>
     <id>H24402</id>
     <title>2025 Hyundai IONIQ 5 N</title>
@@ -4551,9 +4551,9 @@
   <entry>
     <id>H26128</id>
     <title>2026 Hyundai Tucson Limited</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com//inventory/details/5NMJECDE0TH674327"/>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMJECDE0TH674327"/>
     <ns0:id>H26128</ns0:id>
-    <ns0:price>41050.00 USD</ns0:price>
+    <ns0:price>40050.00 USD</ns0:price>
     <ns0:vehicle_msrp>43210.00 USD</ns0:vehicle_msrp>
     <ns0:vin>5NMJECDE0TH674327</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -4570,17 +4570,27 @@
     <ns0:model>Tucson</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com//inventory/details/5NMJECDE0TH674327?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMJECDE0TH674327&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Limited</ns0:trim>
     <ns0:mileage>1 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Ecotronic Gray</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332291--2B3BL-ltid1/2030332291.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332301--UVXJJ-ltid1/2030332301.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332311--UVXJJ-ltid1/2030332311.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332321--PVJRQ-ltid1/2030332321.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332331--6PXG6-ltid1/2030332331.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332341--6PXG6-ltid1/2030332341.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332351--6PXG6-ltid1/2030332351.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332361--6PXG6-ltid1/2030332361.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332371--D9NGB-ltid1/2030332371.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332381--D9NGB-ltid1/2030332381.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Tucson</ns0:custom_label_0>
   </entry>
   <entry>
     <id>H26127</id>
     <title>2026 Hyundai Santa Fe SE</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com//inventory/details/5NMP14GL3TH194143"/>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMP14GL3TH194143"/>
     <ns0:id>H26127</ns0:id>
     <ns0:price>35411.00 USD</ns0:price>
     <ns0:vehicle_msrp>37275.00 USD</ns0:vehicle_msrp>
@@ -4599,19 +4609,29 @@
     <ns0:model>Santa Fe</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com//inventory/details/5NMP14GL3TH194143?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMP14GL3TH194143&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>SE</ns0:trim>
     <ns0:mileage>1 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Ecotronic Gray</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332421--JS1PK-ltid1/2030332421.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332431--WQJR0-ltid1/2030332431.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332441--WQJR0-ltid1/2030332441.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332451--WQJR0-ltid1/2030332451.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332461--TXHGU-ltid1/2030332461.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332471--C1XNZ-ltid1/2030332471.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332481--UCARB-ltid1/2030332481.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332491--ZNXCD-ltid1/2030332491.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332501--ZNXCD-ltid1/2030332501.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332511--EL+D9-ltid1/2030332511.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Santa Fe</ns0:custom_label_0>
   </entry>
   <entry>
     <id>H26126</id>
     <title>2026 Hyundai Santa Fe XRT</title>
-    <link rel="alternate" href="https://www.napletondowntownhyundai.com//inventory/details/5NMP3DGL8TH194181"/>
+    <link rel="alternate" href="https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMP3DGL8TH194181"/>
     <ns0:id>H26126</ns0:id>
-    <ns0:price>42337.00 USD</ns0:price>
+    <ns0:price>40837.00 USD</ns0:price>
     <ns0:vehicle_msrp>44565.00 USD</ns0:vehicle_msrp>
     <ns0:vin>5NMP3DGL8TH194181</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
@@ -4628,11 +4648,21 @@
     <ns0:model>Santa Fe</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.napletondowntownhyundai.com//inventory/details/5NMP3DGL8TH194181?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.napletondowntownhyundai.com/wp-json/space-multisite/v1/api/?vdp=5NMP3DGL8TH194181&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>XRT</ns0:trim>
     <ns0:mileage>1 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Shimmering Silver</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332541--4AXWX-ltid1/2030332541.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332551--AH6PM-ltid1/2030332551.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332561--AH6PM-ltid1/2030332561.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332571--VIGWH-ltid1/2030332571.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332581--VIGWH-ltid1/2030332581.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332591--VIGWH-ltid1/2030332591.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332601--QCIQN-ltid1/2030332601.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332611--QCIQN-ltid1/2030332611.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332621--QCIQN-ltid1/2030332621.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2030332631--0AFHU-ltid1/2030332631.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Santa Fe</ns0:custom_label_0>
   </entry>
 </feed>

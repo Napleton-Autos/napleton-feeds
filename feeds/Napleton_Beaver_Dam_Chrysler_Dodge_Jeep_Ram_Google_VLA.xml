@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Beaver Dam Chrysler Dodge Jeep Ram Inventory Feed</title>
   <link href="https://www.beaverdamcdjr.com/" rel="self"/>
-  <updated>2026-01-28T08:03:01.756343</updated>
+  <updated>2026-01-28T12:04:12.369784</updated>
   <entry>
     <id>140015</id>
     <title>2025 Chrysler Pacifica Select</title>
@@ -66,7 +66,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3C6LRVDG2SE529829&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Tradesman</ns0:trim>
-    <ns0:mileage>24 miles</ns0:mileage>
+    <ns0:mileage>25 miles</ns0:mileage>
     <ns0:body_style>full size van</ns0:body_style>
     <ns0:color>Bright White Clearcoat</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1937697821--N1-R2-ltid1/1937697821.jpg</ns0:image_link>
@@ -1909,6 +1909,45 @@
     <ns0:custom_label_0>2500</ns0:custom_label_0>
   </entry>
   <entry>
+    <id>140060</id>
+    <title>2026 Chrysler Pacifica Pinnacle</title>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com//inventory/details/2C4RC3PG8TR203036"/>
+    <ns0:id>140060</ns0:id>
+    <ns0:price>55284.00 USD</ns0:price>
+    <ns0:vehicle_msrp>62720.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>2C4RC3PG8TR203036</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Chrysler</ns0:brand>
+    <ns0:store_code>252221242249419797</ns0:store_code>
+    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
+    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>252221242249419797</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Chrysler</ns0:make>
+    <ns0:model>Pacifica</ns0:model>
+    <ns0:condition>new</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:link_template>https://www.beaverdamcdjr.com//inventory/details/2C4RC3PG8TR203036?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>Pinnacle</ns0:trim>
+    <ns0:mileage>14 miles</ns0:mileage>
+    <ns0:body_style>full size van</ns0:body_style>
+    <ns0:color>Silver Mist Clearcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955884721--XNG-A-ltid1/1955884721.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955884731--XNG-A-ltid1/1955884731.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955884741--LNC-W-ltid1/1955884741.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955884751--LNC-W-ltid1/1955884751.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955884551--VLJGE-ltid1/1955884551.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955884561--GSNUJ-ltid1/1955884561.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955884571--GSNUJ-ltid1/1955884571.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955884581--GSNUJ-ltid1/1955884581.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955884591--XKGN+-ltid1/1955884591.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1955884601--XKGN+-ltid1/1955884601.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Pacifica</ns0:custom_label_0>
+  </entry>
+  <entry>
     <id>140061</id>
     <title>2026 Chrysler Pacifica Limited</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC3GG4TR218777"/>
@@ -2395,34 +2434,6 @@
     <ns0:custom_label_0>Grand Cherokee</ns0:custom_label_0>
   </entry>
   <entry>
-    <id>340086B</id>
-    <title>2019 GMC Terrain SLE</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3GKALTEXXKL320066"/>
-    <ns0:id>340086B</ns0:id>
-    <ns0:price>16602.00 USD</ns0:price>
-    <ns0:vin>3GKALTEXXKL320066</ns0:vin>
-    <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>GMC</ns0:brand>
-    <ns0:store_code>252221242249419797</ns0:store_code>
-    <ns0:dealership_name>Napleton Beaver Dam Chrysler Dodge Jeep Ram</ns0:dealership_name>
-    <ns0:dealership_address>1724 N Spring St., Beaver Dam, WI 53916</ns0:dealership_address>
-    <ns0:vehicle_fulfillment>
-      <ns0:option>in_store</ns0:option>
-      <ns0:store_code>252221242249419797</ns0:store_code>
-    </ns0:vehicle_fulfillment>
-    <ns0:year>2019</ns0:year>
-    <ns0:make>GMC</ns0:make>
-    <ns0:model>Terrain</ns0:model>
-    <ns0:condition>used</ns0:condition>
-    <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=3GKALTEXXKL320066&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>SLE</ns0:trim>
-    <ns0:mileage>76649 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Graphite Gray Metallic</ns0:color>
-    <ns0:custom_label_0>Terrain</ns0:custom_label_0>
-  </entry>
-  <entry>
     <id>340135</id>
     <title>2026 Jeep Grand Cherokee Laredo Altitude</title>
     <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHAR6TC201355"/>
@@ -2446,11 +2457,19 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHAR6TC201355&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Laredo Altitude</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:mileage>17 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Velvet Red Pearlcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1975114601--BY86P-ltid1/1975114601.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1975114611--BY86P-ltid1/1975114611.jpg</ns0:additional_image_link>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030399011--XURMV-ltid1/2030399011.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030399021--XURMV-ltid1/2030399021.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030399031--OR4HV-ltid1/2030399031.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030399041--PZJNF-ltid1/2030399041.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030399051--0Q2WK-ltid1/2030399051.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030399061--0Q2WK-ltid1/2030399061.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030399071--8SFXF-ltid1/2030399071.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030399081--28VVI-ltid1/2030399081.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030399091--RXEUT-ltid1/2030399091.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030399101--RXEUT-ltid1/2030399101.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Grand Cherokee</ns0:custom_label_0>
   </entry>
   <entry>
@@ -2477,11 +2496,19 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHBRXTC201356&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Limited</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:mileage>17 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Diamond Black Crystal Pearlcoat</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1975114621--EQCM8-ltid1/1975114621.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1975114631--EQCM8-ltid1/1975114631.jpg</ns0:additional_image_link>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030615751--OET-5-ltid1/2030615751.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030615761--KVBA+-ltid1/2030615761.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030615771--KVBA+-ltid1/2030615771.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030615781--+JQLI-ltid1/2030615781.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030615611--NNUNH-ltid1/2030615611.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030615621--QXUHG-ltid1/2030615621.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030615631--NU+VA-ltid1/2030615631.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030615641--GEIWJ-ltid1/2030615641.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030615651--WQYQW-ltid1/2030615651.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030615661--WJHE1-ltid1/2030615661.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Grand Cherokee</ns0:custom_label_0>
   </entry>
   <entry>
@@ -2586,7 +2613,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFJT8TN302418&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Laramie</ns0:trim>
-    <ns0:mileage>5 miles</ns0:mileage>
+    <ns0:mileage>17 miles</ns0:mileage>
     <ns0:body_style>truck</ns0:body_style>
     <ns0:color>Hydro Blue Pearlcoat</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid1993387221--WWRGA-ltid1/1993387221.jpg</ns0:image_link>
@@ -2699,7 +2726,7 @@
   <entry>
     <id>230010</id>
     <title>2026 Dodge Durango GT Plus HEMI V8</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com//inventory/details/1C4SDJCT8TC198970"/>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4SDJCT8TC198970"/>
     <ns0:id>230010</ns0:id>
     <ns0:price>57620.00 USD</ns0:price>
     <ns0:vehicle_msrp>57620.00 USD</ns0:vehicle_msrp>
@@ -2718,17 +2745,27 @@
     <ns0:model>Durango</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com//inventory/details/1C4SDJCT8TC198970?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=1C4SDJCT8TC198970&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>GT Plus HEMI V8</ns0:trim>
     <ns0:mileage>5 miles</ns0:mileage>
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Green Machine</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030332171--S6F4T-ltid1/2030332171.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030332181--B5ABH-ltid1/2030332181.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030332191--B1TNB-ltid1/2030332191.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030332201--+6UWB-ltid1/2030332201.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030332211--HMSC3-ltid1/2030332211.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030332221--ZFCKI-ltid1/2030332221.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030332231--NXZE0-ltid1/2030332231.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030332241--PTUJL-ltid1/2030332241.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030332251--PTUJL-ltid1/2030332251.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030332261--KRVAT-ltid1/2030332261.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Durango</ns0:custom_label_0>
   </entry>
   <entry>
     <id>140063</id>
     <title>2026 Chrysler Pacifica Select</title>
-    <link rel="alternate" href="https://www.beaverdamcdjr.com//inventory/details/2C4RC3BG8TR211435"/>
+    <link rel="alternate" href="https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC3BG8TR211435"/>
     <ns0:id>140063</ns0:id>
     <ns0:price>44016.00 USD</ns0:price>
     <ns0:vehicle_msrp>50580.00 USD</ns0:vehicle_msrp>
@@ -2747,11 +2784,21 @@
     <ns0:model>Pacifica</ns0:model>
     <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:link_template>https://www.beaverdamcdjr.com//inventory/details/2C4RC3BG8TR211435?store={store_code}&amp;</ns0:link_template>
+    <ns0:link_template>https://www.beaverdamcdjr.com/wp-json/space-multisite/v1/api/?vdp=2C4RC3BG8TR211435&amp;store={store_code}&amp;</ns0:link_template>
     <ns0:trim>Select</ns0:trim>
     <ns0:mileage>100 miles</ns0:mileage>
     <ns0:body_style>full size van</ns0:body_style>
     <ns0:color>Diamond Black Crystal Pearlcoat</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030332051--IAKYP-ltid1/2030332051.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030332061--WNAET-ltid1/2030332061.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030332071--WNAET-ltid1/2030332071.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030332081--8MH9S-ltid1/2030332081.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030332091--UH1YY-ltid1/2030332091.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030332101--IAYR1-ltid1/2030332101.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030332111--GH70X-ltid1/2030332111.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030332121--GH70X-ltid1/2030332121.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030332131--GCCJQ-ltid1/2030332131.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid115908-photoid2030332141--VHX9N-ltid1/2030332141.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Pacifica</ns0:custom_label_0>
   </entry>
 </feed>
