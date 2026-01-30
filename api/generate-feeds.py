@@ -291,6 +291,14 @@ def generate_facebook_feed(vehicles, dealership):
             ET.SubElement(listing, 'exterior_color').text = vehicle['ExteriorColor']
         if vehicle.get('InteriorColor'):
             ET.SubElement(listing, 'interior_color').text = vehicle['InteriorColor']
+
+        # Days on lot (from NumberOfDays column)
+        if vehicle.get('NumberOfDays'):
+            try:
+                days_on_lot = int(vehicle['NumberOfDays'].strip())
+                ET.SubElement(listing, 'days_on_lot').text = str(days_on_lot)
+            except:
+                pass
         
         photos = parse_photos(vehicle.get('PhotoURL', ''))
         for photo_url in photos[:20]:
@@ -452,6 +460,27 @@ def generate_google_feed(vehicles, dealership, dealer_id):
             # Additional images (up to 9 more for total of 10)
             for photo_url in photos[1:10]:
                 _add_g_element(entry, 'additional_image_link', photo_url)
+
+        # Custom labels for campaign targeting
+        if vehicle.get('Model'):
+            _add_g_element(entry, 'custom_label_0', vehicle['Model'].strip())
+        
+        # Days on lot as custom label for age-based campaign rules
+        if vehicle.get('NumberOfDays'):
+            try:
+                days_on_lot = int(vehicle['NumberOfDays'].strip())
+                # Create age categories for campaign rules: New (0-7), Fresh (8-30), Aged (31-60), Stale (60+)
+                if days_on_lot <= 7:
+                    age_category = 'NEW'
+                elif days_on_lot <= 30:
+                    age_category = 'FRESH'
+                elif days_on_lot <= 60:
+                    age_category = 'AGED'
+                else:
+                    age_category = 'STALE'
+                _add_g_element(entry, 'custom_label_1', f"{age_category}_{days_on_lot}d")
+            except:
+                pass
 
     rough_string = ET.tostring(root, encoding='unicode')
     reparsed = minidom.parseString(rough_string)
