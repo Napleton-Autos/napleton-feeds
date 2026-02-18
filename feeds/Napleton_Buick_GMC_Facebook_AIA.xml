@@ -1,98 +1,6 @@
 <?xml version="1.0" ?>
 <listings>
   <listing>
-    <vehicle_id>1ft8w3bt1hef08518</vehicle_id>
-    <title>2017 Ford Super Duty F-350 SRW King Ranch</title>
-    <description>2017 Ford Super Duty F-350 SRW. Trim: King Ranch. Color: Ruby Red Metallic Tinted Clearcoat. Body Style: SD Crew Cab.</description>
-    <address format="simple">
-      <component name="addr1">6305 Northwest Hwy.</component>
-      <component name="city">Crystal Lake</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60014</component>
-    </address>
-    <year>2017</year>
-    <make>Ford</make>
-    <model>Super Duty F-350 SRW</model>
-    <vin>1ft8w3bt1hef08518</vin>
-    <content_ids>1ft8w3bt1hef08518</content_ids>
-    <availability>in stock</availability>
-    <price>50995.00 USD</price>
-    <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=1FT8W3BT1HEF08518</url>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <condition>used</condition>
-    <mileage>
-      <value>90003</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>King Ranch</trim>
-    <body_style>OTHER</body_style>
-    <exterior_color>Ruby Red Metallic Tinted Clearcoat</exterior_color>
-    <interior_color>Java</interior_color>
-    <days_on_lot>18</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1419135748--3ZEFQ-ltid2/1419135748.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1419135758--BXXMR-ltid2/1419135758.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1419135768--NDPAL-ltid2/1419135768.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1419135778--NDPAL-ltid2/1419135778.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1419135788--YNHVF-ltid2/1419135788.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1419135858--1NEYF-ltid2/1419135858.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1419135868--1NEYF-ltid2/1419135868.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1419135928--NB-KV-ltid2/1419135928.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1419135938--ZCJFP-ltid2/1419135938.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1419135948--ZCJFP-ltid2/1419135948.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1419135958--ZCJFP-ltid2/1419135958.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1419135968--ZCJFP-ltid2/1419135968.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1419135978--T1IZI-ltid2/1419135978.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1419136048--X9XF7-ltid2/1419136048.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1419136058--X9XF7-ltid2/1419136058.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1419136068--X9XF7-ltid2/1419136068.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1419136078--X9XF7-ltid2/1419136078.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1419136088--2LXJL-ltid2/1419136088.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1419136098--2LXJL-ltid2/1419136098.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1419136108--2LXJL-ltid2/1419136108.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>1gkenprs6sj224184</vehicle_id>
     <title>2025 GMC Acadia AWD AT4</title>
     <description>2025 GMC Acadia. Trim: AWD AT4. Color: Ebony Twilight Metallic. Body Style: 4 Door.</description>
@@ -121,7 +29,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Ebony Twilight Metallic</exterior_color>
     <interior_color>Forest Storm w/Mahogany Accents</interior_color>
-    <days_on_lot>221</days_on_lot>
+    <days_on_lot>222</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038710561--ZDLRA-ltid1/2038710561.jpg</url>
       <tag>main</tag>
@@ -189,7 +97,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Moonstone Gray Metallic</exterior_color>
     <interior_color>Ebony with Sky Cool Gray and Ebony interior accents</interior_color>
-    <days_on_lot>221</days_on_lot>
+    <days_on_lot>222</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038710861--A9QBT-ltid1/2038710861.jpg</url>
       <tag>main</tag>
@@ -257,7 +165,7 @@
     <body_style>TRUCK</body_style>
     <exterior_color>Onyx Black</exterior_color>
     <interior_color>Jet Black/Timber</interior_color>
-    <days_on_lot>218</days_on_lot>
+    <days_on_lot>219</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709341--TVMYP-ltid1/2038709341.jpg</url>
       <tag>main</tag>
@@ -297,346 +205,6 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1gtuuced6tz115141</vehicle_id>
-    <title>2026 GMC Sierra 1500 Elevation</title>
-    <description>2026 GMC Sierra 1500. Trim: Elevation. Color: Onyx Black. Body Style: Crew Cab Pickup.</description>
-    <address format="simple">
-      <component name="addr1">6305 Northwest Hwy.</component>
-      <component name="city">Crystal Lake</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60014</component>
-    </address>
-    <year>2026</year>
-    <make>GMC</make>
-    <model>Sierra 1500</model>
-    <vin>1gtuuced6tz115141</vin>
-    <content_ids>1gtuuced6tz115141</content_ids>
-    <availability>in stock</availability>
-    <price>60096.00 USD</price>
-    <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=1GTUUCED6TZ115141</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>10</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Elevation</trim>
-    <body_style>TRUCK</body_style>
-    <exterior_color>Onyx Black</exterior_color>
-    <interior_color>Jet Black</interior_color>
-    <days_on_lot>211</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709501--U8VQI-ltid1/2038709501.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709511--U8VQI-ltid1/2038709511.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709521--0BU8M-ltid1/2038709521.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709531--NZHTJ-ltid1/2038709531.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709541--X4WIC-ltid1/2038709541.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709551--X4WIC-ltid1/2038709551.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709561--+NUI6-ltid1/2038709561.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709571--A6C1Y-ltid1/2038709571.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709581--YH8O7-ltid1/2038709581.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709591--L4S1Y-ltid1/2038709591.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709601--L4S1Y-ltid1/2038709601.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709611--88OGY-ltid1/2038709611.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>kl4amcslxtb044298</vehicle_id>
-    <title>2026 Buick Encore GX Preferred</title>
-    <description>2026 Buick Encore GX. Trim: Preferred. Color: SUMMIT WHITE. Body Style: Sport Utility Vehicle.</description>
-    <address format="simple">
-      <component name="addr1">6305 Northwest Hwy.</component>
-      <component name="city">Crystal Lake</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60014</component>
-    </address>
-    <year>2026</year>
-    <make>Buick</make>
-    <model>Encore GX</model>
-    <vin>kl4amcslxtb044298</vin>
-    <content_ids>kl4amcslxtb044298</content_ids>
-    <availability>in stock</availability>
-    <price>29482.00 USD</price>
-    <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=KL4AMCSLXTB044298</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>997</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Preferred</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>SUMMIT WHITE</exterior_color>
-    <interior_color>Ebony seats with Ebony interior accents</interior_color>
-    <days_on_lot>203</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038710681--YG-MI-ltid1/2038710681.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038710691--YG-MI-ltid1/2038710691.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038710701--OJQ+6-ltid1/2038710701.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711311--MF1BP-ltid1/2038711311.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711321--MF1BP-ltid1/2038711321.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711331--7+PO--ltid1/2038711331.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711341--W6-B7-ltid1/2038711341.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711351--W6-B7-ltid1/2038711351.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711361--KGDIN-ltid1/2038711361.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711371--VQFZ8-ltid1/2038711371.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038723201--VQFZ8-ltid1/2038723201.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038723211--TGWBX-ltid1/2038723211.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>kl4amcsl6tb038076</vehicle_id>
-    <title>2026 Buick Encore GX Preferred</title>
-    <description>2026 Buick Encore GX. Trim: Preferred. Color: EBONY TWILIGHT METALLIC. Body Style: Sport Utility Vehicle.</description>
-    <address format="simple">
-      <component name="addr1">6305 Northwest Hwy.</component>
-      <component name="city">Crystal Lake</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60014</component>
-    </address>
-    <year>2026</year>
-    <make>Buick</make>
-    <model>Encore GX</model>
-    <vin>kl4amcsl6tb038076</vin>
-    <content_ids>kl4amcsl6tb038076</content_ids>
-    <availability>in stock</availability>
-    <price>26252.00 USD</price>
-    <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=KL4AMCSL6TB038076</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>2136</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Preferred</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>EBONY TWILIGHT METALLIC</exterior_color>
-    <interior_color>Ebony seats with Ebony interior accents</interior_color>
-    <days_on_lot>203</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038714461--MEMFH-ltid1/2038714461.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038714471--SNJOT-ltid1/2038714471.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038714481--SNJOT-ltid1/2038714481.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038714491--TKM2W-ltid1/2038714491.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038714501--GOMYT-ltid1/2038714501.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038714511--ODUDC-ltid1/2038714511.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038714521--GBLCM-ltid1/2038714521.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038714531--GBLCM-ltid1/2038714531.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038714541--WFPWC-ltid1/2038714541.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711381--OA6-E-ltid1/2038711381.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711391--Y8SSA-ltid1/2038711391.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711401--WT7GL-ltid1/2038711401.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>5gaevaks8tj122925</vehicle_id>
-    <title>2026 Buick Enclave Preferred</title>
-    <description>2026 Buick Enclave. Trim: Preferred. Color: MOONSTONE GRAY METALLIC. Body Style: Sport Utility Vehicle.</description>
-    <address format="simple">
-      <component name="addr1">6305 Northwest Hwy.</component>
-      <component name="city">Crystal Lake</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60014</component>
-    </address>
-    <year>2026</year>
-    <make>Buick</make>
-    <model>Enclave</model>
-    <vin>5gaevaks8tj122925</vin>
-    <content_ids>5gaevaks8tj122925</content_ids>
-    <availability>in stock</availability>
-    <price>44713.00 USD</price>
-    <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=5GAEVAKS8TJ122925</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>3</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Preferred</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>MOONSTONE GRAY METALLIC</exterior_color>
-    <interior_color>Ebony with Sky Cool Gray and Ebony interior accent</interior_color>
-    <days_on_lot>202</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709461--QIVUD-ltid1/2038709461.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709471--QIVUD-ltid1/2038709471.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709481--124BT-ltid1/2038709481.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709491--IZVON-ltid1/2038709491.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709801--CDGRG-ltid1/2038709801.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709811--CDGRG-ltid1/2038709811.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709821--3ZRHW-ltid1/2038709821.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709831--GRRLR-ltid1/2038709831.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709841--BYI39-ltid1/2038709841.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709851--BYI39-ltid1/2038709851.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709861--1RKSW-ltid1/2038709861.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709871--ABWED-ltid1/2038709871.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>kl47laep7tb050186</vehicle_id>
-    <title>2026 Buick Envista Preferred</title>
-    <description>2026 Buick Envista. Trim: Preferred. Color: SUMMIT WHITE. Body Style: Sport Utility Vehicle.</description>
-    <address format="simple">
-      <component name="addr1">6305 Northwest Hwy.</component>
-      <component name="city">Crystal Lake</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60014</component>
-    </address>
-    <year>2026</year>
-    <make>Buick</make>
-    <model>Envista</model>
-    <vin>kl47laep7tb050186</vin>
-    <content_ids>kl47laep7tb050186</content_ids>
-    <availability>in stock</availability>
-    <price>26518.00 USD</price>
-    <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=KL47LAEP7TB050186</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>10</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Preferred</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>SUMMIT WHITE</exterior_color>
-    <interior_color>Ebony seats and interior</interior_color>
-    <days_on_lot>187</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709741--3JXE7-ltid1/2038709741.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709751--XPSSB-ltid1/2038709751.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709761--AMKLL-ltid1/2038709761.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709771--AMKLL-ltid1/2038709771.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038722871--T4IVT-ltid1/2038722871.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038722881--MB-BK-ltid1/2038722881.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038722891--74PFL-ltid1/2038722891.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038722901--YXVAD-ltid1/2038722901.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038722911--PTWVQ-ltid1/2038722911.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038722921--PTWVQ-ltid1/2038722921.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038722931--H7ZQQ-ltid1/2038722931.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038722941--BF7J3-ltid1/2038722941.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>kl4ambsl7tb057164</vehicle_id>
     <title>2026 Buick Encore GX Preferred</title>
     <description>2026 Buick Encore GX. Trim: Preferred. Color: EBONY TWILIGHT METALLIC. Body Style: Sport Utility Vehicle.</description>
@@ -665,7 +233,7 @@
     <body_style>SUV</body_style>
     <exterior_color>EBONY TWILIGHT METALLIC</exterior_color>
     <interior_color>Whisper Beige seats with Ebony interior accents</interior_color>
-    <days_on_lot>181</days_on_lot>
+    <days_on_lot>182</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038714551--HFGIA-ltid1/2038714551.jpg</url>
       <tag>main</tag>
@@ -705,74 +273,6 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1gkennks0tj142936</vehicle_id>
-    <title>2026 GMC Acadia AWD Elevation</title>
-    <description>2026 GMC Acadia. Trim: AWD Elevation. Color: STERLING METALLIC. Body Style: 4 Door.</description>
-    <address format="simple">
-      <component name="addr1">6305 Northwest Hwy.</component>
-      <component name="city">Crystal Lake</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60014</component>
-    </address>
-    <year>2026</year>
-    <make>GMC</make>
-    <model>Acadia</model>
-    <vin>1gkennks0tj142936</vin>
-    <content_ids>1gkennks0tj142936</content_ids>
-    <availability>in stock</availability>
-    <price>50565.00 USD</price>
-    <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=1GKENNKS0TJ142936</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>10</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>AWD Elevation</trim>
-    <body_style>OTHER</body_style>
-    <exterior_color>STERLING METALLIC</exterior_color>
-    <interior_color>After Dark</interior_color>
-    <days_on_lot>180</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709781--VICPM-ltid1/2038709781.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709791--WPRDO-ltid1/2038709791.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038710101--WPRDO-ltid1/2038710101.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038710111--AB2SL-ltid1/2038710111.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038710121--LEIB8-ltid1/2038710121.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038710131--NMGRV-ltid1/2038710131.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038710141--NMGRV-ltid1/2038710141.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038710151--CDYC7-ltid1/2038710151.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038710161--QWQQR-ltid1/2038710161.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038710171--QWQQR-ltid1/2038710171.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038710181--+SHCJ-ltid1/2038710181.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038710191--JGRJH-ltid1/2038710191.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>kl4amcsl1tb045517</vehicle_id>
     <title>2026 Buick Encore GX Preferred</title>
     <description>2026 Buick Encore GX. Trim: Preferred. Color: EBONY TWILIGHT METALLIC. Body Style: Sport Utility Vehicle.</description>
@@ -801,7 +301,7 @@
     <body_style>SUV</body_style>
     <exterior_color>EBONY TWILIGHT METALLIC</exterior_color>
     <interior_color>Whisper Beige seats with Ebony interior accents</interior_color>
-    <days_on_lot>176</days_on_lot>
+    <days_on_lot>177</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038719561--DCKZD-ltid1/2038719561.jpg</url>
       <tag>main</tag>
@@ -875,7 +375,7 @@
     <body_style>SUV</body_style>
     <exterior_color>EBONY TWILIGHT METALLIC</exterior_color>
     <interior_color>Ebony with Sky Cool Gray and Ebony interior accent</interior_color>
-    <days_on_lot>176</days_on_lot>
+    <days_on_lot>177</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038710891--3H4TP-ltid1/2038710891.jpg</url>
       <tag>main</tag>
@@ -943,7 +443,7 @@
     <body_style>SUV</body_style>
     <exterior_color>MOONSTONE GRAY METALLIC</exterior_color>
     <interior_color>Sandstone with Ebony interior accents</interior_color>
-    <days_on_lot>168</days_on_lot>
+    <days_on_lot>169</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711411--UQFT+-ltid1/2038711411.jpg</url>
       <tag>main</tag>
@@ -1011,7 +511,7 @@
     <body_style>TRUCK</body_style>
     <exterior_color>Onyx Black</exterior_color>
     <interior_color>After Dark (Black)</interior_color>
-    <days_on_lot>162</days_on_lot>
+    <days_on_lot>163</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709621--FJ-BO-ltid1/2038709621.jpg</url>
       <tag>main</tag>
@@ -1079,7 +579,7 @@
     <body_style>TRUCK</body_style>
     <exterior_color>Summit White</exterior_color>
     <interior_color>After Dark (Black)</interior_color>
-    <days_on_lot>160</days_on_lot>
+    <days_on_lot>161</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709881--DJY-J-ltid1/2038709881.jpg</url>
       <tag>main</tag>
@@ -1147,7 +647,7 @@
     <body_style>TRUCK</body_style>
     <exterior_color>Summit White</exterior_color>
     <interior_color>Jet Black</interior_color>
-    <days_on_lot>159</days_on_lot>
+    <days_on_lot>160</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038710041--M8SYG-ltid1/2038710041.jpg</url>
       <tag>main</tag>
@@ -1215,7 +715,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Sterling Metallic</exterior_color>
     <interior_color>After Dark</interior_color>
-    <days_on_lot>144</days_on_lot>
+    <days_on_lot>145</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038710201--5BVYE-ltid1/2038710201.jpg</url>
       <tag>main</tag>
@@ -1283,7 +783,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Onyx Black</exterior_color>
     <interior_color>Jet Black</interior_color>
-    <days_on_lot>140</days_on_lot>
+    <days_on_lot>141</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038710771--6EIOM-ltid1/2038710771.jpg</url>
       <tag>main</tag>
@@ -1350,7 +850,7 @@
     <trim>Preferred</trim>
     <body_style>SUV</body_style>
     <exterior_color>Moonstone Gray Metallic</exterior_color>
-    <days_on_lot>137</days_on_lot>
+    <days_on_lot>138</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038710461--MJ0UG-ltid1/2038710461.jpg</url>
       <tag>main</tag>
@@ -1417,7 +917,7 @@
     <trim>Elevation</trim>
     <body_style>SUV</body_style>
     <exterior_color>Onyx Black</exterior_color>
-    <days_on_lot>134</days_on_lot>
+    <days_on_lot>135</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711971--NAILN-ltid1/2038711971.jpg</url>
       <tag>main</tag>
@@ -1484,7 +984,7 @@
     <trim>Standard Range Elevation</trim>
     <body_style>TRUCK</body_style>
     <exterior_color>Onyx Black</exterior_color>
-    <days_on_lot>133</days_on_lot>
+    <days_on_lot>134</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2059639491--MKY4Z-ltid1/2059639491.jpg</url>
       <tag>main</tag>
@@ -1560,7 +1060,7 @@
     <trim>Preferred</trim>
     <body_style>SUV</body_style>
     <exterior_color>Summit White</exterior_color>
-    <days_on_lot>133</days_on_lot>
+    <days_on_lot>134</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038712691--UYAAG-ltid1/2038712691.jpg</url>
       <tag>main</tag>
@@ -1627,7 +1127,7 @@
     <trim>Preferred</trim>
     <body_style>SUV</body_style>
     <exterior_color>Moonstone Gray Metallic</exterior_color>
-    <days_on_lot>132</days_on_lot>
+    <days_on_lot>133</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711181--JYRLP-ltid1/2038711181.jpg</url>
       <tag>main</tag>
@@ -1694,7 +1194,7 @@
     <trim>Preferred</trim>
     <body_style>SUV</body_style>
     <exterior_color>Ocean Blue Metallic</exterior_color>
-    <days_on_lot>131</days_on_lot>
+    <days_on_lot>132</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038713571--DBPPK-ltid1/2038713571.jpg</url>
       <tag>main</tag>
@@ -1762,7 +1262,7 @@
     <body_style>TRUCK</body_style>
     <exterior_color>Summit White</exterior_color>
     <interior_color>Jet Black w/Kalahari Accents</interior_color>
-    <days_on_lot>124</days_on_lot>
+    <days_on_lot>125</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038710321--0ROC7-ltid1/2038710321.jpg</url>
       <tag>main</tag>
@@ -1830,7 +1330,7 @@
     <body_style>TRUCK</body_style>
     <exterior_color>Downpour Metallic</exterior_color>
     <interior_color>Jet Black</interior_color>
-    <days_on_lot>118</days_on_lot>
+    <days_on_lot>119</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711491--B53EH-ltid1/2038711491.jpg</url>
       <tag>main</tag>
@@ -1898,7 +1398,7 @@
     <body_style>TRUCK</body_style>
     <exterior_color>Summit White</exterior_color>
     <interior_color>Jet Black</interior_color>
-    <days_on_lot>111</days_on_lot>
+    <days_on_lot>112</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2059750251--DXVFZ-ltid1/2059750251.jpg</url>
       <tag>main</tag>
@@ -1981,7 +1481,7 @@
     <body_style>TRUCK</body_style>
     <exterior_color>Sterling Metallic</exterior_color>
     <interior_color>Jet Black</interior_color>
-    <days_on_lot>109</days_on_lot>
+    <days_on_lot>110</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2066912561--G2OHH-ltid1/2066912561.jpg</url>
       <tag>main</tag>
@@ -2030,98 +1530,6 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>yv4ed3ul3p2008606</vehicle_id>
-    <title>2023 Volvo XC40 Recharge Pure Electric Plus</title>
-    <description>2023 Volvo XC40 Recharge Pure Electric. Trim: Plus. Color: Silver Dawn Metallic. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">6305 Northwest Hwy.</component>
-      <component name="city">Crystal Lake</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60014</component>
-    </address>
-    <year>2023</year>
-    <make>Volvo</make>
-    <model>XC40 Recharge Pure Electric</model>
-    <vin>yv4ed3ul3p2008606</vin>
-    <content_ids>yv4ed3ul3p2008606</content_ids>
-    <availability>in stock</availability>
-    <price>24329.00 USD</price>
-    <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=YV4ED3UL3P2008606</url>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <condition>used</condition>
-    <mileage>
-      <value>21210</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Plus</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Silver Dawn Metallic</exterior_color>
-    <interior_color>Charcoal Fusion</interior_color>
-    <days_on_lot>64</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038713621--YSRVE-ltid2/2038713621.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038713631--HLN+U-ltid2/2038713631.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038713641--HSWSO-ltid2/2038713641.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038713651--ZZFMM-ltid2/2038713651.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038713661--ZZFMM-ltid2/2038713661.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038713671--X4U04-ltid2/2038713671.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038713681--1PT0J-ltid2/2038713681.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038713691--4DEXD-ltid2/2038713691.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038714311--4DEXD-ltid2/2038714311.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711681--GJXV2-ltid2/2038711681.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711691--R8B98-ltid2/2038711691.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711701--R8B98-ltid2/2038711701.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711711--JG774-ltid2/2038711711.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711721--4OZSY-ltid2/2038711721.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711731--4AH9R-ltid2/2038711731.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711741--CJBIB-ltid2/2038711741.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038712361--CJBIB-ltid2/2038712361.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038712371--4Y6KN-ltid2/2038712371.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038712381--1Y4LH-ltid2/2038712381.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038712391--1Y4LH-ltid2/2038712391.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>1gnerfkw6pj170665</vehicle_id>
     <title>2023 Chevrolet Traverse LS</title>
     <description>2023 Chevrolet Traverse. Trim: LS. Color: Mosaic Black Metallic. Body Style: Sport Utility.</description>
@@ -2138,7 +1546,7 @@
     <vin>1gnerfkw6pj170665</vin>
     <content_ids>1gnerfkw6pj170665</content_ids>
     <availability>in stock</availability>
-    <price>22694.00 USD</price>
+    <price>22499.00 USD</price>
     <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=1GNERFKW6PJ170665</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -2150,7 +1558,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Mosaic Black Metallic</exterior_color>
     <interior_color>Jet Black/Chai</interior_color>
-    <days_on_lot>67</days_on_lot>
+    <days_on_lot>68</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038714321--MXM0H-ltid2/2038714321.jpg</url>
       <tag>main</tag>
@@ -2241,7 +1649,7 @@
     <trim>Sport Touring</trim>
     <body_style>SUV</body_style>
     <exterior_color>Brilliant Red</exterior_color>
-    <days_on_lot>105</days_on_lot>
+    <days_on_lot>106</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038723031--JDDAX-ltid1/2038723031.jpg</url>
       <tag>main</tag>
@@ -2330,7 +1738,7 @@
     <body_style>TRUCK</body_style>
     <exterior_color>Downpour Metallic</exterior_color>
     <interior_color>Jet Black</interior_color>
-    <days_on_lot>104</days_on_lot>
+    <days_on_lot>105</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2059750421--RY4A+-ltid1/2059750421.jpg</url>
       <tag>main</tag>
@@ -2413,7 +1821,7 @@
     <body_style>TRUCK</body_style>
     <exterior_color>Summit White</exterior_color>
     <interior_color>Jet Black</interior_color>
-    <days_on_lot>104</days_on_lot>
+    <days_on_lot>105</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038712621--P0BZK-ltid1/2038712621.jpg</url>
       <tag>main</tag>
@@ -2480,7 +1888,7 @@
     <trim>AWD Elevation</trim>
     <body_style>OTHER</body_style>
     <exterior_color>Ebony Twilight Metallic</exterior_color>
-    <days_on_lot>103</days_on_lot>
+    <days_on_lot>104</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038714381--8ZAGY-ltid1/2038714381.jpg</url>
       <tag>main</tag>
@@ -2569,7 +1977,7 @@
     <body_style>TRUCK</body_style>
     <exterior_color>Titanium Rush Metallic</exterior_color>
     <interior_color>Jet Black</interior_color>
-    <days_on_lot>103</days_on_lot>
+    <days_on_lot>104</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038713761--AXJUT-ltid1/2038713761.jpg</url>
       <tag>main</tag>
@@ -2637,7 +2045,7 @@
     <body_style>TRUCK</body_style>
     <exterior_color>Downpour Metallic</exterior_color>
     <interior_color>Jet Black</interior_color>
-    <days_on_lot>99</days_on_lot>
+    <days_on_lot>100</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2055774631--BX5V7-ltid1/2055774631.jpg</url>
       <tag>main</tag>
@@ -2720,7 +2128,7 @@
     <body_style>TRUCK</body_style>
     <exterior_color>Sterling Metallic</exterior_color>
     <interior_color>Jet Black</interior_color>
-    <days_on_lot>99</days_on_lot>
+    <days_on_lot>100</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1798988271--5MZVB-ltid1/1798988271.jpg</url>
       <tag>main</tag>
@@ -2790,7 +2198,7 @@
     <trim>4WD AT4</trim>
     <body_style>TRUCK</body_style>
     <exterior_color>Summit White</exterior_color>
-    <days_on_lot>95</days_on_lot>
+    <days_on_lot>96</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038714151--+DOSE-ltid1/2038714151.jpg</url>
       <tag>main</tag>
@@ -2857,7 +2265,7 @@
     <trim>4WD Denali</trim>
     <body_style>TRUCK</body_style>
     <exterior_color>SILVER</exterior_color>
-    <days_on_lot>95</days_on_lot>
+    <days_on_lot>96</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038713861--INTO7-ltid1/2038713861.jpg</url>
       <tag>main</tag>
@@ -2943,7 +2351,7 @@
     <body_style>TRUCK</body_style>
     <exterior_color>Downpour Metallic</exterior_color>
     <interior_color>Jet Black</interior_color>
-    <days_on_lot>90</days_on_lot>
+    <days_on_lot>91</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1818537251--3FITA-ltid1/1818537251.jpg</url>
       <tag>main</tag>
@@ -3013,7 +2421,7 @@
     <trim>AWD Elevation</trim>
     <body_style>SUV</body_style>
     <exterior_color>Sterling Metallic</exterior_color>
-    <days_on_lot>85</days_on_lot>
+    <days_on_lot>86</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038716691--N0DOW-ltid1/2038716691.jpg</url>
       <tag>main</tag>
@@ -3089,13 +2497,13 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
     <mileage>
-      <value>5</value>
+      <value>7</value>
       <unit>MI</unit>
     </mileage>
     <trim>Sport Touring</trim>
     <body_style>SUV</body_style>
     <exterior_color>Summit White</exterior_color>
-    <days_on_lot>84</days_on_lot>
+    <days_on_lot>85</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038722951--XOKJT-ltid1/2038722951.jpg</url>
       <tag>main</tag>
@@ -3150,6 +2558,346 @@
     </image>
   </listing>
   <listing>
+    <vehicle_id>kl47laep7tb050186</vehicle_id>
+    <title>2026 Buick Envista Preferred</title>
+    <description>2026 Buick Envista. Trim: Preferred. Color: SUMMIT WHITE. Body Style: Sport Utility Vehicle.</description>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
+    <year>2026</year>
+    <make>Buick</make>
+    <model>Envista</model>
+    <vin>kl47laep7tb050186</vin>
+    <content_ids>kl47laep7tb050186</content_ids>
+    <availability>in stock</availability>
+    <price>26518.00 USD</price>
+    <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=KL47LAEP7TB050186</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>10</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Preferred</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>SUMMIT WHITE</exterior_color>
+    <interior_color>Ebony seats and interior</interior_color>
+    <days_on_lot>188</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709741--3JXE7-ltid1/2038709741.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709751--XPSSB-ltid1/2038709751.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709761--AMKLL-ltid1/2038709761.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709771--AMKLL-ltid1/2038709771.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038722871--T4IVT-ltid1/2038722871.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038722881--MB-BK-ltid1/2038722881.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038722891--74PFL-ltid1/2038722891.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038722901--YXVAD-ltid1/2038722901.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038722911--PTWVQ-ltid1/2038722911.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038722921--PTWVQ-ltid1/2038722921.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038722931--H7ZQQ-ltid1/2038722931.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038722941--BF7J3-ltid1/2038722941.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>5gaevaks8tj122925</vehicle_id>
+    <title>2026 Buick Enclave Preferred</title>
+    <description>2026 Buick Enclave. Trim: Preferred. Color: MOONSTONE GRAY METALLIC. Body Style: Sport Utility Vehicle.</description>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
+    <year>2026</year>
+    <make>Buick</make>
+    <model>Enclave</model>
+    <vin>5gaevaks8tj122925</vin>
+    <content_ids>5gaevaks8tj122925</content_ids>
+    <availability>in stock</availability>
+    <price>44713.00 USD</price>
+    <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=5GAEVAKS8TJ122925</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>3</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Preferred</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>MOONSTONE GRAY METALLIC</exterior_color>
+    <interior_color>Ebony with Sky Cool Gray and Ebony interior accent</interior_color>
+    <days_on_lot>203</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709461--QIVUD-ltid1/2038709461.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709471--QIVUD-ltid1/2038709471.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709481--124BT-ltid1/2038709481.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709491--IZVON-ltid1/2038709491.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709801--CDGRG-ltid1/2038709801.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709811--CDGRG-ltid1/2038709811.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709821--3ZRHW-ltid1/2038709821.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709831--GRRLR-ltid1/2038709831.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709841--BYI39-ltid1/2038709841.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709851--BYI39-ltid1/2038709851.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709861--1RKSW-ltid1/2038709861.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709871--ABWED-ltid1/2038709871.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>kl4amcsl6tb038076</vehicle_id>
+    <title>2026 Buick Encore GX Preferred</title>
+    <description>2026 Buick Encore GX. Trim: Preferred. Color: EBONY TWILIGHT METALLIC. Body Style: Sport Utility Vehicle.</description>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
+    <year>2026</year>
+    <make>Buick</make>
+    <model>Encore GX</model>
+    <vin>kl4amcsl6tb038076</vin>
+    <content_ids>kl4amcsl6tb038076</content_ids>
+    <availability>in stock</availability>
+    <price>26252.00 USD</price>
+    <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=KL4AMCSL6TB038076</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>2136</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Preferred</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>EBONY TWILIGHT METALLIC</exterior_color>
+    <interior_color>Ebony seats with Ebony interior accents</interior_color>
+    <days_on_lot>204</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038714461--MEMFH-ltid1/2038714461.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038714471--SNJOT-ltid1/2038714471.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038714481--SNJOT-ltid1/2038714481.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038714491--TKM2W-ltid1/2038714491.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038714501--GOMYT-ltid1/2038714501.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038714511--ODUDC-ltid1/2038714511.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038714521--GBLCM-ltid1/2038714521.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038714531--GBLCM-ltid1/2038714531.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038714541--WFPWC-ltid1/2038714541.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711381--OA6-E-ltid1/2038711381.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711391--Y8SSA-ltid1/2038711391.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711401--WT7GL-ltid1/2038711401.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>kl4amcslxtb044298</vehicle_id>
+    <title>2026 Buick Encore GX Preferred</title>
+    <description>2026 Buick Encore GX. Trim: Preferred. Color: SUMMIT WHITE. Body Style: Sport Utility Vehicle.</description>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
+    <year>2026</year>
+    <make>Buick</make>
+    <model>Encore GX</model>
+    <vin>kl4amcslxtb044298</vin>
+    <content_ids>kl4amcslxtb044298</content_ids>
+    <availability>in stock</availability>
+    <price>29482.00 USD</price>
+    <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=KL4AMCSLXTB044298</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>997</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Preferred</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>SUMMIT WHITE</exterior_color>
+    <interior_color>Ebony seats with Ebony interior accents</interior_color>
+    <days_on_lot>204</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038710681--YG-MI-ltid1/2038710681.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038710691--YG-MI-ltid1/2038710691.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038710701--OJQ+6-ltid1/2038710701.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711311--MF1BP-ltid1/2038711311.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711321--MF1BP-ltid1/2038711321.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711331--7+PO--ltid1/2038711331.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711341--W6-B7-ltid1/2038711341.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711351--W6-B7-ltid1/2038711351.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711361--KGDIN-ltid1/2038711361.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038711371--VQFZ8-ltid1/2038711371.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038723201--VQFZ8-ltid1/2038723201.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038723211--TGWBX-ltid1/2038723211.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>1gtuuced6tz115141</vehicle_id>
+    <title>2026 GMC Sierra 1500 Elevation</title>
+    <description>2026 GMC Sierra 1500. Trim: Elevation. Color: Onyx Black. Body Style: Crew Cab Pickup.</description>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
+    <year>2026</year>
+    <make>GMC</make>
+    <model>Sierra 1500</model>
+    <vin>1gtuuced6tz115141</vin>
+    <content_ids>1gtuuced6tz115141</content_ids>
+    <availability>in stock</availability>
+    <price>60096.00 USD</price>
+    <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=1GTUUCED6TZ115141</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>10</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Elevation</trim>
+    <body_style>TRUCK</body_style>
+    <exterior_color>Onyx Black</exterior_color>
+    <interior_color>Jet Black</interior_color>
+    <days_on_lot>212</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709501--U8VQI-ltid1/2038709501.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709511--U8VQI-ltid1/2038709511.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709521--0BU8M-ltid1/2038709521.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709531--NZHTJ-ltid1/2038709531.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709541--X4WIC-ltid1/2038709541.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709551--X4WIC-ltid1/2038709551.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709561--+NUI6-ltid1/2038709561.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709571--A6C1Y-ltid1/2038709571.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709581--YH8O7-ltid1/2038709581.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709591--L4S1Y-ltid1/2038709591.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709601--L4S1Y-ltid1/2038709601.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038709611--88OGY-ltid1/2038709611.jpg</url>
+    </image>
+  </listing>
+  <listing>
     <vehicle_id>1gks2jklxtr199577</vehicle_id>
     <title>2026 GMC Yukon XL Denali</title>
     <description>2026 GMC Yukon XL. Trim: Denali. Color: Glacier White Tricoat. Body Style: Sport Utility Vehicle.</description>
@@ -3177,7 +2925,7 @@
     <trim>Denali</trim>
     <body_style>SUV</body_style>
     <exterior_color>Glacier White Tricoat</exterior_color>
-    <days_on_lot>84</days_on_lot>
+    <days_on_lot>85</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038715061--+DR8Y-ltid1/2038715061.jpg</url>
       <tag>main</tag>
@@ -3251,7 +2999,7 @@
     <vin>1c4rjyb69rc124963</vin>
     <content_ids>1c4rjyb69rc124963</content_ids>
     <availability>in stock</availability>
-    <price>24444.00 USD</price>
+    <price>23897.00 USD</price>
     <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=1C4RJYB69RC124963</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -3263,7 +3011,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Baltic Gray Metallic Clearcoat</exterior_color>
     <interior_color>Global Black</interior_color>
-    <days_on_lot>41</days_on_lot>
+    <days_on_lot>42</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038715441--ZZFVN-ltid2/2038715441.jpg</url>
       <tag>main</tag>
@@ -3354,7 +3102,7 @@
     <trim>Sport Touring</trim>
     <body_style>SUV</body_style>
     <exterior_color>Ebony Twilight Metallic</exterior_color>
-    <days_on_lot>77</days_on_lot>
+    <days_on_lot>78</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038717381--UI5H+-ltid1/2038717381.jpg</url>
       <tag>main</tag>
@@ -3439,7 +3187,7 @@
     <trim>Sport Touring</trim>
     <body_style>SUV</body_style>
     <exterior_color>Moonstone Gray Metallic</exterior_color>
-    <days_on_lot>77</days_on_lot>
+    <days_on_lot>78</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038717861--OGKFF-ltid1/2038717861.jpg</url>
       <tag>main</tag>
@@ -3524,7 +3272,7 @@
     <trim>Sport Touring</trim>
     <body_style>SUV</body_style>
     <exterior_color>Iridescent White Tricoat</exterior_color>
-    <days_on_lot>77</days_on_lot>
+    <days_on_lot>78</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038722521--9EZSJ-ltid1/2038722521.jpg</url>
       <tag>main</tag>
@@ -3609,7 +3357,7 @@
     <trim>Avenir</trim>
     <body_style>SUV</body_style>
     <exterior_color>Ebony Twilight Metallic</exterior_color>
-    <days_on_lot>77</days_on_lot>
+    <days_on_lot>78</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2062890241--DCZVQ-ltid1/2062890241.jpg</url>
       <tag>main</tag>
@@ -3689,7 +3437,7 @@
     <body_style>TRUCK</body_style>
     <exterior_color>Titanium Rush Metallic</exterior_color>
     <interior_color>Jet Black</interior_color>
-    <days_on_lot>79</days_on_lot>
+    <days_on_lot>80</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1842715481--RSPCC-ltid1/1842715481.jpg</url>
       <tag>main</tag>
@@ -3759,7 +3507,7 @@
     <trim>Pro</trim>
     <body_style>OTHER</body_style>
     <exterior_color>Summit White</exterior_color>
-    <days_on_lot>76</days_on_lot>
+    <days_on_lot>77</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1846420911--MQUYR-ltid1/1846420911.jpg</url>
       <tag>main</tag>
@@ -3800,7 +3548,7 @@
     <body_style>TRUCK</body_style>
     <exterior_color>Summit White</exterior_color>
     <interior_color>Jet Black</interior_color>
-    <days_on_lot>74</days_on_lot>
+    <days_on_lot>75</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1846420871--KG5PD-ltid1/1846420871.jpg</url>
       <tag>main</tag>
@@ -3840,7 +3588,7 @@
     <trim>Denali</trim>
     <body_style>SUV</body_style>
     <exterior_color>Glacier White Tricoat</exterior_color>
-    <days_on_lot>61</days_on_lot>
+    <days_on_lot>62</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038718241--WMYK8-ltid1/2038718241.jpg</url>
       <tag>main</tag>
@@ -3925,7 +3673,7 @@
     <trim>Elevation</trim>
     <body_style>TRUCK</body_style>
     <exterior_color>Sterling Metallic</exterior_color>
-    <days_on_lot>61</days_on_lot>
+    <days_on_lot>62</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1877281261--QOFGO-ltid1/1877281261.jpg</url>
       <tag>main</tag>
@@ -3981,7 +3729,7 @@
     <vin>kl4amgsl2rb007309</vin>
     <content_ids>kl4amgsl2rb007309</content_ids>
     <availability>in stock</availability>
-    <price>26995.00 USD</price>
+    <price>26499.00 USD</price>
     <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=KL4AMGSL2RB007309</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -3993,7 +3741,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Cinnabar Metallic</exterior_color>
     <interior_color>Ebony seats with Ebony interior accents</interior_color>
-    <days_on_lot>41</days_on_lot>
+    <days_on_lot>42</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038723221--JWTOS-ltid2/2038723221.jpg</url>
       <tag>main</tag>
@@ -4085,7 +3833,7 @@
     <body_style>TRUCK</body_style>
     <exterior_color>Summit White</exterior_color>
     <interior_color>Jet Black</interior_color>
-    <days_on_lot>41</days_on_lot>
+    <days_on_lot>42</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038724371--LIGDC-ltid2/2038724371.jpg</url>
       <tag>main</tag>
@@ -4165,7 +3913,7 @@
     <vin>5gaerdkw7jj120105</vin>
     <content_ids>5gaerdkw7jj120105</content_ids>
     <availability>in stock</availability>
-    <price>17495.00 USD</price>
+    <price>16995.00 USD</price>
     <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=5GAERDKW7JJ120105</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -4176,8 +3924,8 @@
     <trim>Avenir</trim>
     <body_style>SUV</body_style>
     <exterior_color>White Frost Tricoat</exterior_color>
-    <interior_color>Chestnut</interior_color>
-    <days_on_lot>41</days_on_lot>
+    <interior_color>Chestnut - Brown</interior_color>
+    <days_on_lot>42</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038719041--TSOXY-ltid2/2038719041.jpg</url>
       <tag>main</tag>
@@ -4269,7 +4017,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Black Clearcoat</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>41</days_on_lot>
+    <days_on_lot>42</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038721041--J5XSY-ltid2/2038721041.jpg</url>
       <tag>main</tag>
@@ -4349,7 +4097,7 @@
     <vin>3c4pdcabxlt261597</vin>
     <content_ids>3c4pdcabxlt261597</content_ids>
     <availability>in stock</availability>
-    <price>11695.00 USD</price>
+    <price>10995.00 USD</price>
     <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=3C4PDCABXLT261597</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -4361,7 +4109,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Vice White</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>41</days_on_lot>
+    <days_on_lot>42</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038720471--UAZ8R-ltid2/2038720471.jpg</url>
       <tag>main</tag>
@@ -4452,7 +4200,7 @@
     <trim>Sport Touring</trim>
     <body_style>SUV</body_style>
     <exterior_color>Ocean Blue Metallic</exterior_color>
-    <days_on_lot>50</days_on_lot>
+    <days_on_lot>51</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2066862271--E+XWO-ltid1/2066862271.jpg</url>
       <tag>main</tag>
@@ -4531,7 +4279,7 @@
     <trim>Preferred</trim>
     <body_style>SUV</body_style>
     <exterior_color>Summit White</exterior_color>
-    <days_on_lot>49</days_on_lot>
+    <days_on_lot>50</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2083829281--RN7X--ltid1/2083829281.jpg</url>
       <tag>main</tag>
@@ -4613,7 +4361,7 @@
     <trim>Sport Touring</trim>
     <body_style>SUV</body_style>
     <exterior_color>Summit White</exterior_color>
-    <days_on_lot>49</days_on_lot>
+    <days_on_lot>50</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2083817191--XFECE-ltid1/2083817191.jpg</url>
       <tag>main</tag>
@@ -4692,7 +4440,7 @@
     <trim>Sport Touring</trim>
     <body_style>SUV</body_style>
     <exterior_color>Ceramic</exterior_color>
-    <days_on_lot>49</days_on_lot>
+    <days_on_lot>50</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2055745551--RUJ5Y-ltid1/2055745551.jpg</url>
       <tag>main</tag>
@@ -4774,7 +4522,7 @@
     <trim>Sport Touring</trim>
     <body_style>SUV</body_style>
     <exterior_color>Ebony Twilight Metallic</exterior_color>
-    <days_on_lot>49</days_on_lot>
+    <days_on_lot>50</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1910180791--MXEMT-ltid1/1910180791.jpg</url>
       <tag>main</tag>
@@ -4841,7 +4589,7 @@
     <trim>Sport Touring</trim>
     <body_style>SUV</body_style>
     <exterior_color>Brilliant Red</exterior_color>
-    <days_on_lot>49</days_on_lot>
+    <days_on_lot>50</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2055086271--6EHHI-ltid1/2055086271.jpg</url>
       <tag>main</tag>
@@ -4924,7 +4672,7 @@
     <body_style>TRUCK</body_style>
     <exterior_color>Onyx Black</exterior_color>
     <interior_color>Atmosphere/Brownstone</interior_color>
-    <days_on_lot>48</days_on_lot>
+    <days_on_lot>49</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2059639641--VOQ5M-ltid1/2059639641.jpg</url>
       <tag>main</tag>
@@ -4992,7 +4740,7 @@
     <vin>1gtp6fek9p1128624</vin>
     <content_ids>1gtp6fek9p1128624</content_ids>
     <availability>in stock</availability>
-    <price>39995.00 USD</price>
+    <price>39497.00 USD</price>
     <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=1GTP6FEK9P1128624</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -5004,7 +4752,7 @@
     <body_style>TRUCK</body_style>
     <exterior_color>Onyx Black</exterior_color>
     <interior_color>Jet Black/Teak</interior_color>
-    <days_on_lot>32</days_on_lot>
+    <days_on_lot>33</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038719281--A9WNI-ltid2/2038719281.jpg</url>
       <tag>main</tag>
@@ -5095,7 +4843,7 @@
     <trim>AWD Denali</trim>
     <body_style>SUV</body_style>
     <exterior_color>Ebony Twilight Metallic</exterior_color>
-    <days_on_lot>42</days_on_lot>
+    <days_on_lot>43</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid1943419831--OZAZ2-ltid1/1943419831.jpg</url>
       <tag>main</tag>
@@ -5154,7 +4902,7 @@
     <vin>5nms6daj9mh314046</vin>
     <content_ids>5nms6daj9mh314046</content_ids>
     <availability>in stock</availability>
-    <price>15796.00 USD</price>
+    <price>14995.00 USD</price>
     <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=5NMS6DAJ9MH314046</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -5166,7 +4914,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Shimmering Silver</exterior_color>
     <interior_color>Gray</interior_color>
-    <days_on_lot>36</days_on_lot>
+    <days_on_lot>37</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038720821--WQJIE-ltid2/2038720821.jpg</url>
       <tag>main</tag>
@@ -5246,7 +4994,7 @@
     <vin>1g6du5rk6r0101387</vin>
     <content_ids>1g6du5rk6r0101387</content_ids>
     <availability>in stock</availability>
-    <price>36999.00 USD</price>
+    <price>36397.00 USD</price>
     <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=1G6DU5RK6R0101387</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -5258,7 +5006,7 @@
     <body_style>SEDAN</body_style>
     <exterior_color>Argent Silver Metallic</exterior_color>
     <interior_color>Whisper Beige with Jet Black Accents</interior_color>
-    <days_on_lot>33</days_on_lot>
+    <days_on_lot>34</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038723861--YMLZZ-ltid2/2038723861.jpg</url>
       <tag>main</tag>
@@ -5338,7 +5086,7 @@
     <vin>1gkknrla7kz195634</vin>
     <content_ids>1gkknrla7kz195634</content_ids>
     <availability>in stock</availability>
-    <price>15500.00 USD</price>
+    <price>14897.00 USD</price>
     <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=1GKKNRLA7KZ195634</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -5350,7 +5098,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Ebony Twilight Metallic</exterior_color>
     <interior_color>Jet Black</interior_color>
-    <days_on_lot>28</days_on_lot>
+    <days_on_lot>29</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038720701--+K-CR-ltid2/2038720701.jpg</url>
       <tag>main</tag>
@@ -5441,7 +5189,7 @@
     <trim>Preferred</trim>
     <body_style>SUV</body_style>
     <exterior_color>Summit White</exterior_color>
-    <days_on_lot>28</days_on_lot>
+    <days_on_lot>29</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038721621--QWCSO-ltid1/2038721621.jpg</url>
       <tag>main</tag>
@@ -5524,7 +5272,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Ebony Twilight Metallic</exterior_color>
     <interior_color>Woodland Mahogany</interior_color>
-    <days_on_lot>29</days_on_lot>
+    <days_on_lot>30</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038723141--EUHW0-ltid1/2038723141.jpg</url>
       <tag>main</tag>
@@ -5598,7 +5346,7 @@
     <vin>1gnevkkwxpj177624</vin>
     <content_ids>1gnevkkwxpj177624</content_ids>
     <availability>in stock</availability>
-    <price>35500.00 USD</price>
+    <price>34897.00 USD</price>
     <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=1GNEVKKWXPJ177624</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -5610,7 +5358,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Iridescent Pearl Tricoat</exterior_color>
     <interior_color>Jet Black</interior_color>
-    <days_on_lot>25</days_on_lot>
+    <days_on_lot>26</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038723451--OGRJE-ltid2/2038723451.jpg</url>
       <tag>main</tag>
@@ -5701,7 +5449,7 @@
     <trim>Preferred</trim>
     <body_style>SUV</body_style>
     <exterior_color>Summit White</exterior_color>
-    <days_on_lot>25</days_on_lot>
+    <days_on_lot>26</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2090726661--QSEW1-ltid1/2090726661.jpg</url>
       <tag>main</tag>
@@ -5786,7 +5534,7 @@
     <trim>Sport Touring</trim>
     <body_style>SUV</body_style>
     <exterior_color>Quartz Blue Metallic</exterior_color>
-    <days_on_lot>25</days_on_lot>
+    <days_on_lot>26</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2030333541--QNODF-ltid1/2030333541.jpg</url>
       <tag>main</tag>
@@ -5856,7 +5604,7 @@
     <trim>Sport Touring</trim>
     <body_style>SUV</body_style>
     <exterior_color>Summit White</exterior_color>
-    <days_on_lot>25</days_on_lot>
+    <days_on_lot>26</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2030333321--BNLE1-ltid1/2030333321.jpg</url>
       <tag>main</tag>
@@ -5926,7 +5674,7 @@
     <trim>Sport Touring</trim>
     <body_style>SUV</body_style>
     <exterior_color>Ebony Twilight Metallic</exterior_color>
-    <days_on_lot>25</days_on_lot>
+    <days_on_lot>26</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2030333191--UVXJJ-ltid1/2030333191.jpg</url>
       <tag>main</tag>
@@ -5996,7 +5744,7 @@
     <trim>Sport Touring</trim>
     <body_style>SUV</body_style>
     <exterior_color>Summit White</exterior_color>
-    <days_on_lot>25</days_on_lot>
+    <days_on_lot>26</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2030333061--WQJR0-ltid1/2030333061.jpg</url>
       <tag>main</tag>
@@ -6066,7 +5814,7 @@
     <trim>Preferred</trim>
     <body_style>SUV</body_style>
     <exterior_color>Cherry Red Tintcoat</exterior_color>
-    <days_on_lot>27</days_on_lot>
+    <days_on_lot>28</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2038724031--S2HFJ-ltid1/2038724031.jpg</url>
       <tag>main</tag>
@@ -6148,7 +5896,7 @@
     <trim>Preferred</trim>
     <body_style>SUV</body_style>
     <exterior_color>Brilliant Red</exterior_color>
-    <days_on_lot>22</days_on_lot>
+    <days_on_lot>23</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2033615551--HGOP1-ltid1/2033615551.jpg</url>
       <tag>main</tag>
@@ -6218,7 +5966,7 @@
     <trim>Preferred</trim>
     <body_style>SUV</body_style>
     <exterior_color>Ebony Twilight Metallic</exterior_color>
-    <days_on_lot>22</days_on_lot>
+    <days_on_lot>23</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2033615681--EA7EY-ltid1/2033615681.jpg</url>
       <tag>main</tag>
@@ -6288,7 +6036,7 @@
     <trim>Sport Touring</trim>
     <body_style>SUV</body_style>
     <exterior_color>Ebony Twilight Metallic</exterior_color>
-    <days_on_lot>22</days_on_lot>
+    <days_on_lot>23</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2033615421--F3R4M-ltid1/2033615421.jpg</url>
       <tag>main</tag>
@@ -6358,7 +6106,7 @@
     <trim>Preferred</trim>
     <body_style>SUV</body_style>
     <exterior_color>Cherry Red Tintcoat</exterior_color>
-    <days_on_lot>22</days_on_lot>
+    <days_on_lot>23</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2033615291--PY42E-ltid1/2033615291.jpg</url>
       <tag>main</tag>
@@ -6429,7 +6177,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Gun Metallic</exterior_color>
     <interior_color>Charcoal</interior_color>
-    <days_on_lot>20</days_on_lot>
+    <days_on_lot>21</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2054788811--APCMU-ltid2/2054788811.jpg</url>
       <tag>main</tag>
@@ -6520,7 +6268,7 @@
     <trim>Preferred</trim>
     <body_style>SUV</body_style>
     <exterior_color>Ocean Blue Metallic</exterior_color>
-    <days_on_lot>21</days_on_lot>
+    <days_on_lot>22</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2037485331--GXDES-ltid1/2037485331.jpg</url>
       <tag>main</tag>
@@ -6587,7 +6335,7 @@
     <trim>Preferred</trim>
     <body_style>SUV</body_style>
     <exterior_color>Moonstone Gray Metallic</exterior_color>
-    <days_on_lot>21</days_on_lot>
+    <days_on_lot>22</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2037485451--MXUF--ltid1/2037485451.jpg</url>
       <tag>main</tag>
@@ -6654,7 +6402,7 @@
     <trim>Preferred</trim>
     <body_style>SUV</body_style>
     <exterior_color>Ebony Twilight Metallic</exterior_color>
-    <days_on_lot>21</days_on_lot>
+    <days_on_lot>22</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2037484851--GSO0R-ltid1/2037484851.jpg</url>
       <tag>main</tag>
@@ -6721,7 +6469,7 @@
     <trim>Preferred</trim>
     <body_style>SUV</body_style>
     <exterior_color>Quartz Blue Metallic</exterior_color>
-    <days_on_lot>21</days_on_lot>
+    <days_on_lot>22</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2037484921--5J0AT-ltid1/2037484921.jpg</url>
       <tag>main</tag>
@@ -6785,13 +6533,13 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
     <mileage>
-      <value>10</value>
+      <value>5</value>
       <unit>MI</unit>
     </mileage>
     <trim>Preferred</trim>
     <body_style>SUV</body_style>
     <exterior_color>Ebony Twilight Metallic</exterior_color>
-    <days_on_lot>21</days_on_lot>
+    <days_on_lot>22</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2037485051--XUXXV-ltid1/2037485051.jpg</url>
       <tag>main</tag>
@@ -6861,7 +6609,7 @@
     <trim>Preferred</trim>
     <body_style>SUV</body_style>
     <exterior_color>Moonstone Gray Metallic</exterior_color>
-    <days_on_lot>21</days_on_lot>
+    <days_on_lot>22</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2037485181--ZWPP+-ltid1/2037485181.jpg</url>
       <tag>main</tag>
@@ -6931,7 +6679,7 @@
     <trim>Sport Touring</trim>
     <body_style>SUV</body_style>
     <exterior_color>Moonstone Gray Metallic</exterior_color>
-    <days_on_lot>21</days_on_lot>
+    <days_on_lot>22</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2037484741--OTBKQ-ltid1/2037484741.jpg</url>
       <tag>main</tag>
@@ -7001,7 +6749,7 @@
     <trim>Sport Touring</trim>
     <body_style>SUV</body_style>
     <exterior_color>Brilliant Red</exterior_color>
-    <days_on_lot>21</days_on_lot>
+    <days_on_lot>22</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2037484611--MM22B-ltid1/2037484611.jpg</url>
       <tag>main</tag>
@@ -7072,7 +6820,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Sterling Metallic</exterior_color>
     <interior_color>Jet Black</interior_color>
-    <days_on_lot>18</days_on_lot>
+    <days_on_lot>19</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2066862411--1V2WE-ltid1/2066862411.jpg</url>
       <tag>main</tag>
@@ -7143,7 +6891,7 @@
     <vin>kl4amdsl3sb049881</vin>
     <content_ids>kl4amdsl3sb049881</content_ids>
     <availability>in stock</availability>
-    <price>22897.00 USD</price>
+    <price>22499.00 USD</price>
     <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=KL4AMDSL3SB049881</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -7152,7 +6900,7 @@
       <unit>MI</unit>
     </mileage>
     <body_style>OTHER</body_style>
-    <days_on_lot>17</days_on_lot>
+    <days_on_lot>18</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2055774901--GRM+I-ltid2/2055774901.jpg</url>
       <tag>main</tag>
@@ -7232,7 +6980,7 @@
     <vin>3gcpydek8kg201491</vin>
     <content_ids>3gcpydek8kg201491</content_ids>
     <availability>in stock</availability>
-    <price>27995.00 USD</price>
+    <price>26995.00 USD</price>
     <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=3GCPYDEK8KG201491</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -7243,7 +6991,7 @@
     <trim>4WD CREW CAB 147  LT</trim>
     <body_style>OTHER</body_style>
     <exterior_color>SILVER</exterior_color>
-    <days_on_lot>14</days_on_lot>
+    <days_on_lot>15</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2066913221--IC2K5-ltid2/2066913221.jpg</url>
       <tag>main</tag>
@@ -7323,7 +7071,7 @@
     <vin>5gaevars2sj194952</vin>
     <content_ids>5gaevars2sj194952</content_ids>
     <availability>in stock</availability>
-    <price>37495.00 USD</price>
+    <price>36777.00 USD</price>
     <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=5GAEVARS2SJ194952</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -7334,7 +7082,7 @@
     <trim>4DR PREFERRED</trim>
     <body_style>OTHER</body_style>
     <exterior_color>GRAY</exterior_color>
-    <days_on_lot>14</days_on_lot>
+    <days_on_lot>15</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2076114751--TYDWR-ltid2/2076114751.jpg</url>
       <tag>main</tag>
@@ -7414,7 +7162,7 @@
     <vin>jn8bt3ba0rw000246</vin>
     <content_ids>jn8bt3ba0rw000246</content_ids>
     <availability>in stock</availability>
-    <price>19234.00 USD</price>
+    <price>18797.00 USD</price>
     <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=JN8BT3BA0RW000246</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -7425,7 +7173,7 @@
     <trim>FWD SV</trim>
     <body_style>OTHER</body_style>
     <exterior_color>BLACK</exterior_color>
-    <days_on_lot>13</days_on_lot>
+    <days_on_lot>14</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2090708521--8LRA6-ltid2/2090708521.jpg</url>
       <tag>main</tag>
@@ -7505,7 +7253,7 @@
     <vin>yv4h600l9n1839283</vin>
     <content_ids>yv4h600l9n1839283</content_ids>
     <availability>in stock</availability>
-    <price>34999.00 USD</price>
+    <price>34497.00 USD</price>
     <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=YV4H600L9N1839283</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -7516,7 +7264,7 @@
     <trim>T8 EAWD PHEV INSCRIPTION</trim>
     <body_style>OTHER</body_style>
     <exterior_color>BLUE</exterior_color>
-    <days_on_lot>13</days_on_lot>
+    <days_on_lot>14</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2075740331--FGMA2-ltid2/2075740331.jpg</url>
       <tag>main</tag>
@@ -7596,7 +7344,7 @@
     <vin>3gkalyeg3pl265495</vin>
     <content_ids>3gkalyeg3pl265495</content_ids>
     <availability>in stock</availability>
-    <price>23995.00 USD</price>
+    <price>22897.00 USD</price>
     <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=3GKALYEG3PL265495</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -7607,7 +7355,7 @@
     <trim>AWD 4DR AT4</trim>
     <body_style>OTHER</body_style>
     <exterior_color>BLACK</exterior_color>
-    <days_on_lot>13</days_on_lot>
+    <days_on_lot>14</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2080201241---NPMG-ltid2/2080201241.jpg</url>
       <tag>main</tag>
@@ -7687,7 +7435,7 @@
     <vin>3gnaxpeg0sl310550</vin>
     <content_ids>3gnaxpeg0sl310550</content_ids>
     <availability>in stock</availability>
-    <price>26447.00 USD</price>
+    <price>25897.00 USD</price>
     <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=3GNAXPEG0SL310550</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -7698,7 +7446,7 @@
     <trim>AWD 4DR LT W/2LT</trim>
     <body_style>OTHER</body_style>
     <exterior_color>GRAY</exterior_color>
-    <days_on_lot>13</days_on_lot>
+    <days_on_lot>14</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2067228941--MFMC5-ltid2/2067228941.jpg</url>
       <tag>main</tag>
@@ -7778,7 +7526,7 @@
     <vin>5xyp6dhc9ng198243</vin>
     <content_ids>5xyp6dhc9ng198243</content_ids>
     <availability>in stock</availability>
-    <price>25995.00 USD</price>
+    <price>25487.00 USD</price>
     <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=5XYP6DHC9NG198243</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -7789,7 +7537,7 @@
     <trim>S AWD</trim>
     <body_style>OTHER</body_style>
     <exterior_color>BLACK</exterior_color>
-    <days_on_lot>13</days_on_lot>
+    <days_on_lot>14</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2099799031--LKNPY-ltid2/2099799031.jpg</url>
       <tag>main</tag>
@@ -7869,7 +7617,7 @@
     <vin>1fmcu0g61nub22549</vin>
     <content_ids>1fmcu0g61nub22549</content_ids>
     <availability>in stock</availability>
-    <price>20487.00 USD</price>
+    <price>19697.00 USD</price>
     <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=1FMCU0G61NUB22549</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -7881,7 +7629,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Oxford White</exterior_color>
     <interior_color>Dark Earth Gray</interior_color>
-    <days_on_lot>12</days_on_lot>
+    <days_on_lot>13</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2083023491--JKXXU-ltid2/2083023491.jpg</url>
       <tag>main</tag>
@@ -7961,7 +7709,7 @@
     <vin>1c4rjkeg1m8198858</vin>
     <content_ids>1c4rjkeg1m8198858</content_ids>
     <availability>in stock</availability>
-    <price>35695.00 USD</price>
+    <price>34995.00 USD</price>
     <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=1C4RJKEG1M8198858</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -7973,7 +7721,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Bright White Clearcoat</exterior_color>
     <interior_color>Global Black</interior_color>
-    <days_on_lot>11</days_on_lot>
+    <days_on_lot>12</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2083602291--U1KOL-ltid2/2083602291.jpg</url>
       <tag>main</tag>
@@ -8053,7 +7801,7 @@
     <vin>1gkennks2rj201588</vin>
     <content_ids>1gkennks2rj201588</content_ids>
     <availability>in stock</availability>
-    <price>36995.00 USD</price>
+    <price>35897.00 USD</price>
     <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=1GKENNKS2RJ201588</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -8065,7 +7813,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Ebony Twilight Metallic</exterior_color>
     <interior_color>After Dark</interior_color>
-    <days_on_lot>11</days_on_lot>
+    <days_on_lot>12</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2083329041--WQUBH-ltid2/2083329041.jpg</url>
       <tag>main</tag>
@@ -8145,7 +7893,7 @@
     <vin>1gkknrl43pz241333</vin>
     <content_ids>1gkknrl43pz241333</content_ids>
     <availability>in stock</availability>
-    <price>28995.00 USD</price>
+    <price>28497.00 USD</price>
     <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=1GKKNRL43PZ241333</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -8157,7 +7905,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Volcanic Red Tintcoat</exterior_color>
     <interior_color>Jet Black</interior_color>
-    <days_on_lot>11</days_on_lot>
+    <days_on_lot>12</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2090375401--QA9AM-ltid2/2090375401.jpg</url>
       <tag>main</tag>
@@ -8237,7 +7985,7 @@
     <vin>2c4rc1bg4pr623958</vin>
     <content_ids>2c4rc1bg4pr623958</content_ids>
     <availability>in stock</availability>
-    <price>22995.00 USD</price>
+    <price>22347.00 USD</price>
     <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=2C4RC1BG4PR623958</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -8249,7 +7997,7 @@
     <body_style>VAN</body_style>
     <exterior_color>Brilliant Black Crystal Pearlcoat</exterior_color>
     <interior_color>Black/Alloy/Black</interior_color>
-    <days_on_lot>11</days_on_lot>
+    <days_on_lot>12</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2090115911--2GAJT-ltid2/2090115911.jpg</url>
       <tag>main</tag>
@@ -8313,6 +8061,98 @@
     </image>
   </listing>
   <listing>
+    <vehicle_id>kmhrc8a34nu150470</vehicle_id>
+    <title>2022 Hyundai Venue Limited</title>
+    <description>2022 Hyundai Venue. Trim: Limited. Color: Ceramic White. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
+    <year>2022</year>
+    <make>Hyundai</make>
+    <model>Venue</model>
+    <vin>kmhrc8a34nu150470</vin>
+    <content_ids>kmhrc8a34nu150470</content_ids>
+    <availability>in stock</availability>
+    <price>16897.00 USD</price>
+    <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=KMHRC8A34NU150470</url>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <condition>used</condition>
+    <mileage>
+      <value>43429</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Limited</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Ceramic White</exterior_color>
+    <interior_color>Black</interior_color>
+    <days_on_lot>9</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438471--ZNXOD-ltid2/2103438471.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438481--L4IPW-ltid2/2103438481.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438491--L4IPW-ltid2/2103438491.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438501--LCW1T-ltid2/2103438501.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438511--9Z-PU-ltid2/2103438511.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103437711--1SC1U-ltid2/2103437711.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103437721--Z7JFE-ltid2/2103437721.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103437731--Q8QRD-ltid2/2103437731.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103437741--Q8QRD-ltid2/2103437741.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103437751--MP2NQ-ltid2/2103437751.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103437761--S+O56-ltid2/2103437761.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103437771--S+O56-ltid2/2103437771.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103437781--0P7T5-ltid2/2103437781.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103437791--LD+G9-ltid2/2103437791.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103437801--LD+G9-ltid2/2103437801.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103437811--O9NJU-ltid2/2103437811.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103437821--ZEWUV-ltid2/2103437821.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103437831--ZEWUV-ltid2/2103437831.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103437841--TKBBR-ltid2/2103437841.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103437851--38+CO-ltid2/2103437851.jpg</url>
+    </image>
+  </listing>
+  <listing>
     <vehicle_id>1c4rjhag2rc700628</vehicle_id>
     <title>2024 Jeep Grand Cherokee Altitude</title>
     <description>2024 Jeep Grand Cherokee. Trim: Altitude. Color: Diamond Black Crystal Pearlcoat. Body Style: Sport Utility.</description>
@@ -8329,7 +8169,7 @@
     <vin>1c4rjhag2rc700628</vin>
     <content_ids>1c4rjhag2rc700628</content_ids>
     <availability>in stock</availability>
-    <price>30796.00 USD</price>
+    <price>29897.00 USD</price>
     <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=1C4RJHAG2RC700628</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -8341,7 +8181,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Diamond Black Crystal Pearlcoat</exterior_color>
     <interior_color>Global Black</interior_color>
-    <days_on_lot>8</days_on_lot>
+    <days_on_lot>9</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2083829341--2Q14K-ltid2/2083829341.jpg</url>
       <tag>main</tag>
@@ -8421,7 +8261,7 @@
     <vin>1c6srfht4mn540564</vin>
     <content_ids>1c6srfht4mn540564</content_ids>
     <availability>in stock</availability>
-    <price>42897.00 USD</price>
+    <price>41995.00 USD</price>
     <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFHT4MN540564</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -8433,7 +8273,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Ivory White Tri-Coat Pearlcoat</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>8</days_on_lot>
+    <days_on_lot>9</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2083829671--4QMQE-ltid2/2083829671.jpg</url>
       <tag>main</tag>
@@ -8497,6 +8337,98 @@
     </image>
   </listing>
   <listing>
+    <vehicle_id>1gkknuls7pz145870</vehicle_id>
+    <title>2023 GMC Acadia SLT</title>
+    <description>2023 GMC Acadia. Trim: SLT. Color: Summit White. Body Style: 4 Door.</description>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
+    <year>2023</year>
+    <make>GMC</make>
+    <model>Acadia</model>
+    <vin>1gkknuls7pz145870</vin>
+    <content_ids>1gkknuls7pz145870</content_ids>
+    <availability>in stock</availability>
+    <price>28995.00 USD</price>
+    <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=1GKKNULS7PZ145870</url>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <condition>used</condition>
+    <mileage>
+      <value>36221</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>SLT</trim>
+    <body_style>OTHER</body_style>
+    <exterior_color>Summit White</exterior_color>
+    <interior_color>Jet Black</interior_color>
+    <days_on_lot>9</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438011--DZYZE-ltid2/2103438011.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438021--DZYZE-ltid2/2103438021.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438031--PNKAY-ltid2/2103438031.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438041--4SHNM-ltid2/2103438041.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438051--T5C7T-ltid2/2103438051.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438061--T5C7T-ltid2/2103438061.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438071--9BLLN-ltid2/2103438071.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438081--QO+SK-ltid2/2103438081.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438091--QO+SK-ltid2/2103438091.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438101--DB1HW-ltid2/2103438101.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438111--V7GHE-ltid2/2103438111.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438121--V7GHE-ltid2/2103438121.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438131--TKC1I-ltid2/2103438131.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438141--X-PM8-ltid2/2103438141.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438151--X-PM8-ltid2/2103438151.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438161--4ZGMX-ltid2/2103438161.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438911--VV5VU-ltid2/2103438911.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438921--VV5VU-ltid2/2103438921.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438931--NJTX4-ltid2/2103438931.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438941--UTPPU-ltid2/2103438941.jpg</url>
+    </image>
+  </listing>
+  <listing>
     <vehicle_id>5nms2daj1ph619198</vehicle_id>
     <title>2023 Hyundai Santa Fe SEL</title>
     <description>2023 Hyundai Santa Fe. Trim: SEL. Color: Shimmering Silver. Body Style: Sport Utility.</description>
@@ -8513,7 +8445,7 @@
     <vin>5nms2daj1ph619198</vin>
     <content_ids>5nms2daj1ph619198</content_ids>
     <availability>in stock</availability>
-    <price>21897.00 USD</price>
+    <price>20945.00 USD</price>
     <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=5NMS2DAJ1PH619198</url>
     <state_of_vehicle>USED</state_of_vehicle>
     <condition>used</condition>
@@ -8525,7 +8457,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Shimmering Silver</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>8</days_on_lot>
+    <days_on_lot>9</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2090708671--J03NP-ltid2/2090708671.jpg</url>
       <tag>main</tag>
@@ -8586,6 +8518,190 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2090708861--EG1MX-ltid2/2090708861.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>3gkalmev6nl202119</vehicle_id>
+    <title>2022 GMC Terrain SLE</title>
+    <description>2022 GMC Terrain. Trim: SLE. Color: Summit White. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
+    <year>2022</year>
+    <make>GMC</make>
+    <model>Terrain</model>
+    <vin>3gkalmev6nl202119</vin>
+    <content_ids>3gkalmev6nl202119</content_ids>
+    <availability>in stock</availability>
+    <price>19497.00 USD</price>
+    <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=3GKALMEV6NL202119</url>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <condition>used</condition>
+    <mileage>
+      <value>40536</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>SLE</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Summit White</exterior_color>
+    <interior_color>Jet Black</interior_color>
+    <days_on_lot>8</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438771--2VV66-ltid2/2103438771.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438781--1TFZC-ltid2/2103438781.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438791--1TFZC-ltid2/2103438791.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438801--A-1UN-ltid2/2103438801.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438811--LTLWE-ltid2/2103438811.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438821--LTLWE-ltid2/2103438821.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438831--ZXWEL-ltid2/2103438831.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438841--R1LLR-ltid2/2103438841.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438851--R1LLR-ltid2/2103438851.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438861--RNDZI-ltid2/2103438861.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438871--NVC-K-ltid2/2103438871.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438881--NVC-K-ltid2/2103438881.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438891--LGS3I-ltid2/2103438891.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438901--VAYAI-ltid2/2103438901.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438311--GDAUP-ltid2/2103438311.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438321--9SJAZ-ltid2/2103438321.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438331--AG9RE-ltid2/2103438331.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438341--LKCSB-ltid2/2103438341.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438351--LKCSB-ltid2/2103438351.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438361--V8MTT-ltid2/2103438361.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>jn8bt3bb1pw187566</vehicle_id>
+    <title>2023 Nissan Rogue SV</title>
+    <description>2023 Nissan Rogue. Trim: SV. Color: Pearl White Tricoat. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">6305 Northwest Hwy.</component>
+      <component name="city">Crystal Lake</component>
+      <component name="region">IL</component>
+      <component name="country">US</component>
+      <component name="postal_code">60014</component>
+    </address>
+    <year>2023</year>
+    <make>Nissan</make>
+    <model>Rogue</model>
+    <vin>jn8bt3bb1pw187566</vin>
+    <content_ids>jn8bt3bb1pw187566</content_ids>
+    <availability>in stock</availability>
+    <price>18777.00 USD</price>
+    <url>https://www.napletoncrystallake.com/wp-json/space-multisite/v1/api/?vdp=JN8BT3BB1PW187566</url>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <condition>used</condition>
+    <mileage>
+      <value>47481</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>SV</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Pearl White Tricoat</exterior_color>
+    <interior_color>Light Gray</interior_color>
+    <days_on_lot>7</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438521--GOKV2-ltid2/2103438521.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438531--TCQZG-ltid2/2103438531.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438541--KUPA--ltid2/2103438541.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438551--KUPA--ltid2/2103438551.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438561--3CYBC-ltid2/2103438561.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438571--QUPVC-ltid2/2103438571.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438581--QUPVC-ltid2/2103438581.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438591--XEBOZ-ltid2/2103438591.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438601--TLPKF-ltid2/2103438601.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438611--TLPKF-ltid2/2103438611.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438621--8IBEZ-ltid2/2103438621.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438631--LSSIJ-ltid2/2103438631.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438641--LSSIJ-ltid2/2103438641.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438651--GDTIJ-ltid2/2103438651.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438661--HTIII-ltid2/2103438661.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438671--JW9MX-ltid2/2103438671.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438681--JW9MX-ltid2/2103438681.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438691--WETCB-ltid2/2103438691.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438701--4DPLW-ltid2/2103438701.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid30389-photoid2103438711--4DPLW-ltid2/2103438711.jpg</url>
     </image>
   </listing>
 </listings>
