@@ -1,464 +1,6 @@
 <?xml version="1.0" ?>
 <listings>
   <listing>
-    <vehicle_id>1fduf5gtxrda09643</vehicle_id>
-    <title>2024 Ford Super Duty F-550 DRW XL</title>
-    <description>2024 Ford Super Duty F-550 DRW. Trim: XL. Color: OXFORD WHITE. Body Style: SD Regular Cab.</description>
-    <address format="simple">
-      <component name="addr1">330 Transit Rd.</component>
-      <component name="city">Columbus</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53925</component>
-    </address>
-    <year>2024</year>
-    <make>Ford</make>
-    <model>Super Duty F-550 DRW</model>
-    <vin>1fduf5gtxrda09643</vin>
-    <content_ids>1fduf5gtxrda09643</content_ids>
-    <availability>in stock</availability>
-    <price>74690.00 USD</price>
-    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FDUF5GTXRDA09643</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>77</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>XL</trim>
-    <body_style>OTHER</body_style>
-    <exterior_color>OXFORD WHITE</exterior_color>
-    <days_on_lot>745</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043401--7UDDP-ltid1/1207043401.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043411--HHSSK-ltid1/1207043411.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043421--HHSSK-ltid1/1207043421.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043431--7FGD1-ltid1/1207043431.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043441--7FGD1-ltid1/1207043441.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043451--G9NL4-ltid1/1207043451.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043461--G9NL4-ltid1/1207043461.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043471--RYUHV-ltid1/1207043471.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043481--RYUHV-ltid1/1207043481.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043491--QHCC7-ltid1/1207043491.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043501--QHCC7-ltid1/1207043501.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043511--XYQ2O-ltid1/1207043511.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043521--XYQ2O-ltid1/1207043521.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043531--O4XAN-ltid1/1207043531.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043541--HOZPR-ltid1/1207043541.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043551--HOZPR-ltid1/1207043551.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043561--X5NKV-ltid1/1207043561.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043571--PRE-M-ltid1/1207043571.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043581--PRE-M-ltid1/1207043581.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043591--V-JGT-ltid1/1207043591.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>1fmcu0e18sua54771</vehicle_id>
-    <title>2025 Ford Escape PHEV</title>
-    <description>2025 Ford Escape. Trim: PHEV. Color: Star White Metallic Tri-Coat. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">330 Transit Rd.</component>
-      <component name="city">Columbus</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53925</component>
-    </address>
-    <year>2025</year>
-    <make>Ford</make>
-    <model>Escape</model>
-    <vin>1fmcu0e18sua54771</vin>
-    <content_ids>1fmcu0e18sua54771</content_ids>
-    <availability>in stock</availability>
-    <price>26972.00 USD</price>
-    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU0E18SUA54771</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>1062</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>PHEV</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Star White Metallic Tri-Coat</exterior_color>
-    <interior_color>Ebony</interior_color>
-    <days_on_lot>437</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044261--9ZYEH-ltid1/1207044261.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044271--9ZYEH-ltid1/1207044271.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044281--J1QW--ltid1/1207044281.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044291--J1QW--ltid1/1207044291.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044301--J1QW--ltid1/1207044301.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044311--6RP1D-ltid1/1207044311.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044321--6RP1D-ltid1/1207044321.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044331--6WZC8-ltid1/1207044331.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044341--6WZC8-ltid1/1207044341.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044351--MP406-ltid1/1207044351.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044361--MP406-ltid1/1207044361.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044371--H16W+-ltid1/1207044371.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044381--H16W+-ltid1/1207044381.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044391--MHUVD-ltid1/1207044391.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044401--OGGJP-ltid1/1207044401.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044411--OGGJP-ltid1/1207044411.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044421--ZPUPW-ltid1/1207044421.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044431--ZPUPW-ltid1/1207044431.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044441--+FQH8-ltid1/1207044441.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044451--+FQH8-ltid1/1207044451.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>1fmcu9mn2sua50935</vehicle_id>
-    <title>2025 Ford Escape ST-Line</title>
-    <description>2025 Ford Escape. Trim: ST-Line. Color: Star White Metallic Tri-Coat. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">330 Transit Rd.</component>
-      <component name="city">Columbus</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53925</component>
-    </address>
-    <year>2025</year>
-    <make>Ford</make>
-    <model>Escape</model>
-    <vin>1fmcu9mn2sua50935</vin>
-    <content_ids>1fmcu9mn2sua50935</content_ids>
-    <availability>in stock</availability>
-    <price>25835.00 USD</price>
-    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9MN2SUA50935</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>1610</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>ST-Line</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Star White Metallic Tri-Coat</exterior_color>
-    <interior_color>Ebony</interior_color>
-    <days_on_lot>444</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039231--6DI-E-ltid1/1207039231.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039241--HFNQL-ltid1/1207039241.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039251--1EKWQ-ltid1/1207039251.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039261--1EKWQ-ltid1/1207039261.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039271--1EKWQ-ltid1/1207039271.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039281--2HOAS-ltid1/1207039281.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039291--2HOAS-ltid1/1207039291.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039301--2CLBQ-ltid1/1207039301.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039311--2CLBQ-ltid1/1207039311.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039321--KBHXL-ltid1/1207039321.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039331--KBHXL-ltid1/1207039331.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039341--YQHU3-ltid1/1207039341.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039351--H4NEJ-ltid1/1207039351.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039361--B7Z9Q-ltid1/1207039361.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039371--B7Z9Q-ltid1/1207039371.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039381--A4VS7-ltid1/1207039381.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039391--A4VS7-ltid1/1207039391.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039401--XPNZH-ltid1/1207039401.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039411--XPNZH-ltid1/1207039411.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039421--LRYPE-ltid1/1207039421.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>1ftfw3l86skd09457</vehicle_id>
-    <title>2025 Ford F-150 XLT</title>
-    <description>2025 Ford F-150. Trim: XLT. Color: OXFORD WHITE. Body Style: SuperCrew Cab.</description>
-    <address format="simple">
-      <component name="addr1">330 Transit Rd.</component>
-      <component name="city">Columbus</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53925</component>
-    </address>
-    <year>2025</year>
-    <make>Ford</make>
-    <model>F-150</model>
-    <vin>1ftfw3l86skd09457</vin>
-    <content_ids>1ftfw3l86skd09457</content_ids>
-    <availability>in stock</availability>
-    <price>53386.00 USD</price>
-    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW3L86SKD09457</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>1745</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>XLT</trim>
-    <body_style>OTHER</body_style>
-    <exterior_color>OXFORD WHITE</exterior_color>
-    <days_on_lot>438</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207056981--FVC+A-ltid1/1207056981.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207056991--FVC+A-ltid1/1207056991.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057001--FVC+A-ltid1/1207057001.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057011--XBCBN-ltid1/1207057011.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057021--XBCBN-ltid1/1207057021.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057031--2UFS+-ltid1/1207057031.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057041--QSOZD-ltid1/1207057041.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057051--QSOZD-ltid1/1207057051.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057061--SU8UF-ltid1/1207057061.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057071--SU8UF-ltid1/1207057071.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057081--VIQG5-ltid1/1207057081.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057091--VIQG5-ltid1/1207057091.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057101--Z5+BS-ltid1/1207057101.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057111--MMEPU-ltid1/1207057111.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057121--MXMJI-ltid1/1207057121.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057131--JQFY2-ltid1/1207057131.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057141--JQFY2-ltid1/1207057141.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057151--EAOGF-ltid1/1207057151.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057161--EAOGF-ltid1/1207057161.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057171--VYCNV-ltid1/1207057171.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>1ft8w2bt6sec49297</vehicle_id>
-    <title>2025 Ford Super Duty F-250 SRW LARIAT</title>
-    <description>2025 Ford Super Duty F-250 SRW. Trim: LARIAT. Color: Agate Black Metallic. Body Style: SD Crew Cab.</description>
-    <address format="simple">
-      <component name="addr1">330 Transit Rd.</component>
-      <component name="city">Columbus</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53925</component>
-    </address>
-    <year>2025</year>
-    <make>Ford</make>
-    <model>Super Duty F-250 SRW</model>
-    <vin>1ft8w2bt6sec49297</vin>
-    <content_ids>1ft8w2bt6sec49297</content_ids>
-    <availability>in stock</availability>
-    <price>73579.00 USD</price>
-    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FT8W2BT6SEC49297</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>19</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>LARIAT</trim>
-    <body_style>OTHER</body_style>
-    <exterior_color>Agate Black Metallic</exterior_color>
-    <interior_color>Black Onyx</interior_color>
-    <days_on_lot>375</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228305981--V-DMR-ltid1/1228305981.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228305991--V-DMR-ltid1/1228305991.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207066861--N43BZ-ltid1/1207066861.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228306001--0UH1L-ltid1/1228306001.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207066881--N43BZ-ltid1/1207066881.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228306011--0UH1L-ltid1/1228306011.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228306021--JR0DY-ltid1/1228306021.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228306031--JR0DY-ltid1/1228306031.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228306041--F4VHL-ltid1/1228306041.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228306051--F4VHL-ltid1/1228306051.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228306061--CD8UW-ltid1/1228306061.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228801581--CD8UW-ltid1/1228801581.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228801591--OKYSV-ltid1/1228801591.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228801601--OKYSV-ltid1/1228801601.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228801611--TP5NR-ltid1/1228801611.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228801621--OUCWK-ltid1/1228801621.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228801631--OUCWK-ltid1/1228801631.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228801821--RFMAD-ltid1/1228801821.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228801831--RFMAD-ltid1/1228801831.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228801841--P1L2K-ltid1/1228801841.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>1ftbf1y85ska32814</vehicle_id>
     <title>2025 Ford Transit Cargo Van</title>
     <description>2025 Ford Transit Cargo Van. Color: OXFORD WHITE. Body Style: Low Roof Van.</description>
@@ -485,7 +27,7 @@
     </mileage>
     <body_style>VAN</body_style>
     <exterior_color>OXFORD WHITE</exterior_color>
-    <days_on_lot>372</days_on_lot>
+    <days_on_lot>373</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290381--U1NV8-ltid1/2106290381.jpg</url>
       <tag>main</tag>
@@ -552,7 +94,7 @@
     <trim>T-250 148  LOW RF 9070 GV</trim>
     <body_style>VAN</body_style>
     <exterior_color>OXFORD WHITE</exterior_color>
-    <days_on_lot>365</days_on_lot>
+    <days_on_lot>366</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290501--D-2PS-ltid1/2106290501.jpg</url>
       <tag>main</tag>
@@ -618,7 +160,7 @@
     </mileage>
     <body_style>VAN</body_style>
     <exterior_color>OXFORD WHITE</exterior_color>
-    <days_on_lot>359</days_on_lot>
+    <days_on_lot>360</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290531--QG2NL-ltid1/2106290531.jpg</url>
       <tag>main</tag>
@@ -658,73 +200,6 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1fdwe3fn8sdd39709</vehicle_id>
-    <title>2025 Ford E-Series Cutaway E-350 DRW 138  WB</title>
-    <description>2025 Ford E-Series Cutaway. Trim: E-350 DRW 138  WB. Color: OXFORD WHITE. Body Style: Chassis.</description>
-    <address format="simple">
-      <component name="addr1">330 Transit Rd.</component>
-      <component name="city">Columbus</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53925</component>
-    </address>
-    <year>2025</year>
-    <make>Ford</make>
-    <model>E-Series Cutaway</model>
-    <vin>1fdwe3fn8sdd39709</vin>
-    <content_ids>1fdwe3fn8sdd39709</content_ids>
-    <availability>in stock</availability>
-    <price>40900.00 USD</price>
-    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FDWE3FN8SDD39709</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>10</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>E-350 DRW 138  WB</trim>
-    <body_style>OTHER</body_style>
-    <exterior_color>OXFORD WHITE</exterior_color>
-    <days_on_lot>295</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290621--B9JHD-ltid1/2106290621.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290631--X7K1P-ltid1/2106290631.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290641--X7K1P-ltid1/2106290641.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290651--K-R7F-ltid1/2106290651.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290661--SX4TV-ltid1/2106290661.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290671--WYOLN-ltid1/2106290671.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291151--8IL1I-ltid1/2106291151.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291161--8IL1I-ltid1/2106291161.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291171--RUFU7-ltid1/2106291171.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291181--6OSS5-ltid1/2106291181.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291191--UQZP5-ltid1/2106291191.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291201--UQZP5-ltid1/2106291201.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>1fdwe3fn2sdd40922</vehicle_id>
     <title>2025 Ford E-Series Cutaway E-350 DRW 138  WB</title>
     <description>2025 Ford E-Series Cutaway. Trim: E-350 DRW 138  WB. Color: OXFORD WHITE. Body Style: Chassis.</description>
@@ -752,7 +227,7 @@
     <trim>E-350 DRW 138  WB</trim>
     <body_style>OTHER</body_style>
     <exterior_color>OXFORD WHITE</exterior_color>
-    <days_on_lot>289</days_on_lot>
+    <days_on_lot>290</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291211--ISCGO-ltid1/2106291211.jpg</url>
       <tag>main</tag>
@@ -792,680 +267,6 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3fmcr9bn8srf09168</vehicle_id>
-    <title>2025 Ford Bronco Sport Big Bend</title>
-    <description>2025 Ford Bronco Sport. Trim: Big Bend. Color: SHADOW BLACK. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">330 Transit Rd.</component>
-      <component name="city">Columbus</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53925</component>
-    </address>
-    <year>2025</year>
-    <make>Ford</make>
-    <model>Bronco Sport</model>
-    <vin>3fmcr9bn8srf09168</vin>
-    <content_ids>3fmcr9bn8srf09168</content_ids>
-    <availability>in stock</availability>
-    <price>32108.00 USD</price>
-    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN8SRF09168</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>1184</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Big Bend</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>SHADOW BLACK</exterior_color>
-    <days_on_lot>248</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290841--DTZZY-ltid1/2106290841.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290851--MJ84H-ltid1/2106290851.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290861--YJFEH-ltid1/2106290861.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290871--YJFEH-ltid1/2106290871.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290991--AVTPE-ltid1/2106290991.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291001--H01B9-ltid1/2106291001.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291011--H01B9-ltid1/2106291011.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291021--1-CPA-ltid1/2106291021.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291031--QSNBH-ltid1/2106291031.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291041--MS3BI-ltid1/2106291041.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291051--WMSMR-ltid1/2106291051.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291061--HVVGI-ltid1/2106291061.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>1fter4lr7sle39016</vehicle_id>
-    <title>2025 Ford Ranger Raptor</title>
-    <description>2025 Ford Ranger. Trim: Raptor. Color: MARSH GRAY. Body Style: SuperCrew.</description>
-    <address format="simple">
-      <component name="addr1">330 Transit Rd.</component>
-      <component name="city">Columbus</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53925</component>
-    </address>
-    <year>2025</year>
-    <make>Ford</make>
-    <model>Ranger</model>
-    <vin>1fter4lr7sle39016</vin>
-    <content_ids>1fter4lr7sle39016</content_ids>
-    <availability>in stock</availability>
-    <price>56714.00 USD</price>
-    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTER4LR7SLE39016</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>28</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Raptor</trim>
-    <body_style>OTHER</body_style>
-    <exterior_color>MARSH GRAY</exterior_color>
-    <days_on_lot>245</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291931--WABMN-ltid1/2106291931.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291941--IW9NE-ltid1/2106291941.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291951--9DOQ--ltid1/2106291951.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291961--9DOQ--ltid1/2106291961.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291971---OO2D-ltid1/2106291971.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290681--HVVGI-ltid1/2106290681.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290691--026CW-ltid1/2106290691.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290701--MNXQA-ltid1/2106290701.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290711--MNXQA-ltid1/2106290711.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290721--D1L2W-ltid1/2106290721.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290731--DQ2N+-ltid1/2106290731.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290741--WABMN-ltid1/2106290741.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>3fttw8baxsrb16132</vehicle_id>
-    <title>2025 Ford Maverick XL</title>
-    <description>2025 Ford Maverick. Trim: XL. Color: OXFORD WHITE. Body Style: SuperCrew.</description>
-    <address format="simple">
-      <component name="addr1">330 Transit Rd.</component>
-      <component name="city">Columbus</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53925</component>
-    </address>
-    <year>2025</year>
-    <make>Ford</make>
-    <model>Maverick</model>
-    <vin>3fttw8baxsrb16132</vin>
-    <content_ids>3fttw8baxsrb16132</content_ids>
-    <availability>in stock</availability>
-    <price>27262.00 USD</price>
-    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FTTW8BAXSRB16132</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>1392</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>XL</trim>
-    <body_style>OTHER</body_style>
-    <exterior_color>OXFORD WHITE</exterior_color>
-    <days_on_lot>241</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291071--5-R6F-ltid1/2106291071.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291081--BRXNI-ltid1/2106291081.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291091--BRXNI-ltid1/2106291091.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291101--JGKB5-ltid1/2106291101.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291111--UQ5DT-ltid1/2106291111.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291121--UQ5DT-ltid1/2106291121.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291131--MKNDF-ltid1/2106291131.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291141--JRJ2Z-ltid1/2106291141.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291461--USXED-ltid1/2106291461.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291471--USXED-ltid1/2106291471.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291481--BNXTH-ltid1/2106291481.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291491--SO+1H-ltid1/2106291491.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>1fmcu9gn3sub51882</vehicle_id>
-    <title>2025 Ford Escape Active</title>
-    <description>2025 Ford Escape. Trim: Active. Color: VAPOR BLUE METALLIC. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">330 Transit Rd.</component>
-      <component name="city">Columbus</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53925</component>
-    </address>
-    <year>2025</year>
-    <make>Ford</make>
-    <model>Escape</model>
-    <vin>1fmcu9gn3sub51882</vin>
-    <content_ids>1fmcu9gn3sub51882</content_ids>
-    <availability>in stock</availability>
-    <price>25937.00 USD</price>
-    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9GN3SUB51882</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>1011</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Active</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>VAPOR BLUE METALLIC</exterior_color>
-    <days_on_lot>218</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292091--REYS--ltid1/2106292091.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292101--7VSEU-ltid1/2106292101.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292111--3YPPX-ltid1/2106292111.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292121--H6VOF-ltid1/2106292121.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292131--H6VOF-ltid1/2106292131.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292141--1SOUI-ltid1/2106292141.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291981--IIZOQ-ltid1/2106291981.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291991--IIZOQ-ltid1/2106291991.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292001--0TGC3-ltid1/2106292001.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292011--Y+0CM-ltid1/2106292011.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292021--3HSIJ-ltid1/2106292021.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292031--REYS--ltid1/2106292031.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>1ftew2lp7sfb82773</vehicle_id>
-    <title>2025 Ford F-150 STX</title>
-    <description>2025 Ford F-150. Trim: STX. Color: AGATE BLACK METALLIC. Body Style: SuperCrew Cab.</description>
-    <address format="simple">
-      <component name="addr1">330 Transit Rd.</component>
-      <component name="city">Columbus</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53925</component>
-    </address>
-    <year>2025</year>
-    <make>Ford</make>
-    <model>F-150</model>
-    <vin>1ftew2lp7sfb82773</vin>
-    <content_ids>1ftew2lp7sfb82773</content_ids>
-    <availability>in stock</availability>
-    <price>43348.00 USD</price>
-    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTEW2LP7SFB82773</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>1937</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>STX</trim>
-    <body_style>OTHER</body_style>
-    <exterior_color>AGATE BLACK METALLIC</exterior_color>
-    <days_on_lot>207</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290751--GNGNG-ltid1/2106290751.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290761--GNGNG-ltid1/2106290761.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290771--MDMLB-ltid1/2106290771.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290781--KTQJQ-ltid1/2106290781.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290791--3IM2C-ltid1/2106290791.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290801--3IM2C-ltid1/2106290801.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290811--QI-BI-ltid1/2106290811.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290821--3W6JM-ltid1/2106290821.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290831--ZYNFO-ltid1/2106290831.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291301--ZYNFO-ltid1/2106291301.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291311--PYNOV-ltid1/2106291311.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291321--BNQQH-ltid1/2106291321.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>3fmcr9cn8srf28057</vehicle_id>
-    <title>2025 Ford Bronco Sport Outer Banks</title>
-    <description>2025 Ford Bronco Sport. Trim: Outer Banks. Color: Azure Gray Metallic Tri-Coat. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">330 Transit Rd.</component>
-      <component name="city">Columbus</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53925</component>
-    </address>
-    <year>2025</year>
-    <make>Ford</make>
-    <model>Bronco Sport</model>
-    <vin>3fmcr9cn8srf28057</vin>
-    <content_ids>3fmcr9cn8srf28057</content_ids>
-    <availability>in stock</availability>
-    <price>38178.00 USD</price>
-    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9CN8SRF28057</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>5</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Outer Banks</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Azure Gray Metallic Tri-Coat</exterior_color>
-    <interior_color>Ebony/Roast w/premium trimmed front bucket seats</interior_color>
-    <days_on_lot>204</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290881--SKBBX-ltid1/2106290881.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290891--UJURG-ltid1/2106290891.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290901--DCYVW-ltid1/2106290901.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290911--GJGXX-ltid1/2106290911.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290921--GJGXX-ltid1/2106290921.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290931--SEGGL-ltid1/2106290931.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290941--FN9RP-ltid1/2106290941.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290951--FN9RP-ltid1/2106290951.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290961--KZ6CC-ltid1/2106290961.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290971--Q1FR9-ltid1/2106290971.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290981--IGONL-ltid1/2106290981.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291771--IGONL-ltid1/2106291771.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>3fmcr9bn6srf23246</vehicle_id>
-    <title>2025 Ford Bronco Sport Big Bend</title>
-    <description>2025 Ford Bronco Sport. Trim: Big Bend. Color: Ruby Red Metallic Tinted Clearcoat. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">330 Transit Rd.</component>
-      <component name="city">Columbus</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53925</component>
-    </address>
-    <year>2025</year>
-    <make>Ford</make>
-    <model>Bronco Sport</model>
-    <vin>3fmcr9bn6srf23246</vin>
-    <content_ids>3fmcr9bn6srf23246</content_ids>
-    <availability>in stock</availability>
-    <price>32545.00 USD</price>
-    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN6SRF23246</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>1036</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Big Bend</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Ruby Red Metallic Tinted Clearcoat</exterior_color>
-    <interior_color>Ebony</interior_color>
-    <days_on_lot>196</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291781--SYWQ1-ltid1/2106291781.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291791--T1TZQ-ltid1/2106291791.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291801--T1TZQ-ltid1/2106291801.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291811--G6WHR-ltid1/2106291811.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291821--OFXMU-ltid1/2106291821.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291831--OFXMU-ltid1/2106291831.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291841--IIS-G-ltid1/2106291841.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291851--RGV3T-ltid1/2106291851.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291861--GDVIF-ltid1/2106291861.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291871--P+O3M-ltid1/2106291871.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291881--P+O3M-ltid1/2106291881.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291891--HTOHV-ltid1/2106291891.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>3fmtk3su2sma54629</vehicle_id>
-    <title>2025 Ford Mustang Mach-E Premium</title>
-    <description>2025 Ford Mustang Mach-E. Trim: Premium. Color: SHADOW BLACK. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">330 Transit Rd.</component>
-      <component name="city">Columbus</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53925</component>
-    </address>
-    <year>2025</year>
-    <make>Ford</make>
-    <model>Mustang Mach-E</model>
-    <vin>3fmtk3su2sma54629</vin>
-    <content_ids>3fmtk3su2sma54629</content_ids>
-    <availability>in stock</availability>
-    <price>46083.00 USD</price>
-    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMTK3SU2SMA54629</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>14</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Premium</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>SHADOW BLACK</exterior_color>
-    <days_on_lot>177</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292041--LO4QS-ltid1/2106292041.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292051--LO4QS-ltid1/2106292051.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292061--NRGA7-ltid1/2106292061.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292071--INAXL-ltid1/2106292071.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292081--JIBWN-ltid1/2106292081.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293051--JIBWN-ltid1/2106293051.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293061--P8IRH-ltid1/2106293061.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293071--PLSFS-ltid1/2106293071.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293081--PLSFS-ltid1/2106293081.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293091---NKRY-ltid1/2106293091.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293101--ZMLWP-ltid1/2106293101.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293111--GHMF8-ltid1/2106293111.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>3fmcr9bn2srf41842</vehicle_id>
-    <title>2025 Ford Bronco Sport Big Bend</title>
-    <description>2025 Ford Bronco Sport. Trim: Big Bend. Color: Azure Gray Metallic Tri-Coat. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">330 Transit Rd.</component>
-      <component name="city">Columbus</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53925</component>
-    </address>
-    <year>2025</year>
-    <make>Ford</make>
-    <model>Bronco Sport</model>
-    <vin>3fmcr9bn2srf41842</vin>
-    <content_ids>3fmcr9bn2srf41842</content_ids>
-    <availability>in stock</availability>
-    <price>31849.00 USD</price>
-    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN2SRF41842</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>19</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Big Bend</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Azure Gray Metallic Tri-Coat</exterior_color>
-    <interior_color>Medium Light Smoked Truffle</interior_color>
-    <days_on_lot>172</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292151--GHMF8-ltid1/2106292151.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292161--F9JFE-ltid1/2106292161.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292171--9ZLB9-ltid1/2106292171.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292181--9ZLB9-ltid1/2106292181.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292191--C49DV-ltid1/2106292191.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292201--4OEZ6-ltid1/2106292201.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292211--4OEZ6-ltid1/2106292211.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292221--WZYWV-ltid1/2106292221.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292231--HLERD-ltid1/2106292231.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292241--HLERD-ltid1/2106292241.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294171--MV6VG-ltid1/2106294171.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294181--BTF9C-ltid1/2106294181.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>3fttw8h35srb58295</vehicle_id>
-    <title>2025 Ford Maverick XLT</title>
-    <description>2025 Ford Maverick. Trim: XLT. Color: Oxford White. Body Style: SuperCrew.</description>
-    <address format="simple">
-      <component name="addr1">330 Transit Rd.</component>
-      <component name="city">Columbus</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53925</component>
-    </address>
-    <year>2025</year>
-    <make>Ford</make>
-    <model>Maverick</model>
-    <vin>3fttw8h35srb58295</vin>
-    <content_ids>3fttw8h35srb58295</content_ids>
-    <availability>in stock</availability>
-    <price>29388.00 USD</price>
-    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FTTW8H35SRB58295</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>1022</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>XLT</trim>
-    <body_style>OTHER</body_style>
-    <exterior_color>Oxford White</exterior_color>
-    <interior_color>Navy Pier/Aspen Gray</interior_color>
-    <days_on_lot>171</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291501--WXULA-ltid1/2106291501.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291511--WXULA-ltid1/2106291511.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291521--M6X2N-ltid1/2106291521.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291531--0BAHJ-ltid1/2106291531.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291541--0BAHJ-ltid1/2106291541.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291551--X4GF0-ltid1/2106291551.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291561--X0MIP-ltid1/2106291561.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291571--X0MIP-ltid1/2106291571.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291581--EC73J-ltid1/2106291581.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291591--QMZB--ltid1/2106291591.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291601--TAA-G-ltid1/2106291601.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291611--TAA-G-ltid1/2106291611.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>1ftew2lp7sfc10927</vehicle_id>
     <title>2025 Ford F-150 STX</title>
     <description>2025 Ford F-150. Trim: STX. Color: ATLAS BLUE METALLIC. Body Style: SuperCrew Cab.</description>
@@ -1493,7 +294,7 @@
     <trim>STX</trim>
     <body_style>OTHER</body_style>
     <exterior_color>ATLAS BLUE METALLIC</exterior_color>
-    <days_on_lot>163</days_on_lot>
+    <days_on_lot>164</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291331--NX39Q-ltid1/2106291331.jpg</url>
       <tag>main</tag>
@@ -1561,7 +362,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Vapor Blue Metallic</exterior_color>
     <interior_color>Ebony</interior_color>
-    <days_on_lot>155</days_on_lot>
+    <days_on_lot>156</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293121--GDP+S-ltid1/2106293121.jpg</url>
       <tag>main</tag>
@@ -1628,7 +429,7 @@
     <trim>Active</trim>
     <body_style>SUV</body_style>
     <exterior_color>Carbonized Gray Metallic</exterior_color>
-    <days_on_lot>150</days_on_lot>
+    <days_on_lot>151</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292441--1F6YL-ltid1/2106292441.jpg</url>
       <tag>main</tag>
@@ -1695,7 +496,7 @@
     <trim>Tremor</trim>
     <body_style>SUV</body_style>
     <exterior_color>Star White Metallic Tri-Coat</exterior_color>
-    <days_on_lot>150</days_on_lot>
+    <days_on_lot>151</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294211--XZZVJ-ltid1/2106294211.jpg</url>
       <tag>main</tag>
@@ -1763,7 +564,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Oxford White</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>155</days_on_lot>
+    <days_on_lot>156</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291451--QCXUW-ltid1/2106291451.jpg</url>
       <tag>main</tag>
@@ -1831,7 +632,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Oxford White</exterior_color>
     <interior_color>Medium Light Smoked Truffle</interior_color>
-    <days_on_lot>148</days_on_lot>
+    <days_on_lot>149</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292621--JF2FO-ltid1/2106292621.jpg</url>
       <tag>main</tag>
@@ -1899,7 +700,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Carbonized Gray Metallic</exterior_color>
     <interior_color>Ebony/Roast w/premium trimmed front bucket seats</interior_color>
-    <days_on_lot>147</days_on_lot>
+    <days_on_lot>148</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292901--6KHGE-ltid1/2106292901.jpg</url>
       <tag>main</tag>
@@ -1966,7 +767,7 @@
     <trim>Active</trim>
     <body_style>SUV</body_style>
     <exterior_color>Agate Black Metallic</exterior_color>
-    <days_on_lot>143</days_on_lot>
+    <days_on_lot>144</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293181--QIQHU-ltid1/2106293181.jpg</url>
       <tag>main</tag>
@@ -2033,7 +834,7 @@
     <trim>ST-Line</trim>
     <body_style>SUV</body_style>
     <exterior_color>Agate Black Metallic</exterior_color>
-    <days_on_lot>143</days_on_lot>
+    <days_on_lot>144</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106301951--QIQHU-ltid1/2106301951.jpg</url>
       <tag>main</tag>
@@ -2101,7 +902,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Rapid Red Metallic Tinted Clearcoat</exterior_color>
     <interior_color>Onyx</interior_color>
-    <days_on_lot>142</days_on_lot>
+    <days_on_lot>143</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293021--QIQHU-ltid1/2106293021.jpg</url>
       <tag>main</tag>
@@ -2169,7 +970,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Agate Black Metallic</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>142</days_on_lot>
+    <days_on_lot>143</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292321--QIQHU-ltid1/2106292321.jpg</url>
       <tag>main</tag>
@@ -2237,7 +1038,7 @@
     <body_style>SUV</body_style>
     <exterior_color>White Knuckle Clearcoat</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>78</days_on_lot>
+    <days_on_lot>79</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292541--QIQHU-ltid2/2106292541.jpg</url>
       <tag>main</tag>
@@ -2329,7 +1130,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Iconic Silver Metallic</exterior_color>
     <interior_color>Dark Earth Gray</interior_color>
-    <days_on_lot>78</days_on_lot>
+    <days_on_lot>79</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106297761--QIQHU-ltid2/2106297761.jpg</url>
       <tag>main</tag>
@@ -2421,7 +1222,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Carbonized Gray Metallic</exterior_color>
     <interior_color>Dark Space Gray w/Black Onyx</interior_color>
-    <days_on_lot>137</days_on_lot>
+    <days_on_lot>138</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292791--QIQHU-ltid1/2106292791.jpg</url>
       <tag>main</tag>
@@ -2498,7 +1299,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Eruption Green Metallic</exterior_color>
     <interior_color>Medium Light Smoked Truffle</interior_color>
-    <days_on_lot>134</days_on_lot>
+    <days_on_lot>135</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106288121--QIQHU-ltid1/2106288121.jpg</url>
       <tag>main</tag>
@@ -2566,7 +1367,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Ruby Red Metallic Tinted Clearcoat</exterior_color>
     <interior_color>Black Onyx</interior_color>
-    <days_on_lot>129</days_on_lot>
+    <days_on_lot>130</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291741--QIQHU-ltid1/2106291741.jpg</url>
       <tag>main</tag>
@@ -2649,7 +1450,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Vapor Blue Metallic</exterior_color>
     <interior_color>Black Onyx</interior_color>
-    <days_on_lot>115</days_on_lot>
+    <days_on_lot>116</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293251--QIQHU-ltid1/2106293251.jpg</url>
       <tag>main</tag>
@@ -2717,7 +1518,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Carbonized Gray Metallic</exterior_color>
     <interior_color>Ebony</interior_color>
-    <days_on_lot>115</days_on_lot>
+    <days_on_lot>116</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293631--QIQHU-ltid1/2106293631.jpg</url>
       <tag>main</tag>
@@ -2785,7 +1586,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Iconic Silver Metallic</exterior_color>
     <interior_color>Ebony/Light Slate</interior_color>
-    <days_on_lot>70</days_on_lot>
+    <days_on_lot>71</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106295871--QIQHU-ltid2/2106295871.jpg</url>
       <tag>main</tag>
@@ -2877,7 +1678,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Rapid Red Metallic Tinted Clearcoat</exterior_color>
     <interior_color>Ebony</interior_color>
-    <days_on_lot>70</days_on_lot>
+    <days_on_lot>71</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106297161--QIQHU-ltid2/2106297161.jpg</url>
       <tag>main</tag>
@@ -2969,7 +1770,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Agate Black Metallic</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>115</days_on_lot>
+    <days_on_lot>116</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294151--QIQHU-ltid1/2106294151.jpg</url>
       <tag>main</tag>
@@ -3037,7 +1838,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Star White Metallic Tri-Coat</exterior_color>
     <interior_color>Black Onyx</interior_color>
-    <days_on_lot>70</days_on_lot>
+    <days_on_lot>71</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106289191--QIQHU-ltid2/2106289191.jpg</url>
       <tag>main</tag>
@@ -3129,7 +1930,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Carbonized Gray Metallic</exterior_color>
     <interior_color>Black Onyx/Dark Slate</interior_color>
-    <days_on_lot>113</days_on_lot>
+    <days_on_lot>114</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106298461--QIQHU-ltid1/2106298461.jpg</url>
       <tag>main</tag>
@@ -3197,7 +1998,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Desert Sand</exterior_color>
     <interior_color>Dark Space Gray w/Black Onyx</interior_color>
-    <days_on_lot>113</days_on_lot>
+    <days_on_lot>114</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296501--QIQHU-ltid1/2106296501.jpg</url>
       <tag>main</tag>
@@ -3237,295 +2038,6 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>3fmcr9bn2srf69298</vehicle_id>
-    <title>2025 Ford Bronco Sport Big Bend</title>
-    <description>2025 Ford Bronco Sport. Trim: Big Bend. Color: Azure Gray Metallic Tri-Coat. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">330 Transit Rd.</component>
-      <component name="city">Columbus</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53925</component>
-    </address>
-    <year>2025</year>
-    <make>Ford</make>
-    <model>Bronco Sport</model>
-    <vin>3fmcr9bn2srf69298</vin>
-    <content_ids>3fmcr9bn2srf69298</content_ids>
-    <availability>in stock</availability>
-    <price>32628.00 USD</price>
-    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN2SRF69298</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>16</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Big Bend</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Azure Gray Metallic Tri-Coat</exterior_color>
-    <days_on_lot>109</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106289261--QIQHU-ltid1/2106289261.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106289271--QIQHU-ltid1/2106289271.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106289281--QIQHU-ltid1/2106289281.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293461--QIQHU-ltid1/2106293461.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293471--QIQHU-ltid1/2106293471.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293481--QIQHU-ltid1/2106293481.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293491--QIQHU-ltid1/2106293491.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293501--QIQHU-ltid1/2106293501.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293511--QIQHU-ltid1/2106293511.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293521--QIQHU-ltid1/2106293521.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294651--QIQHU-ltid1/2106294651.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294661--QIQHU-ltid1/2106294661.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>3fmcr9cn9srf64890</vehicle_id>
-    <title>2025 Ford Bronco Sport Outer Banks</title>
-    <description>2025 Ford Bronco Sport. Trim: Outer Banks. Color: Oxford White. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">330 Transit Rd.</component>
-      <component name="city">Columbus</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53925</component>
-    </address>
-    <year>2025</year>
-    <make>Ford</make>
-    <model>Bronco Sport</model>
-    <vin>3fmcr9cn9srf64890</vin>
-    <content_ids>3fmcr9cn9srf64890</content_ids>
-    <availability>in stock</availability>
-    <price>38060.00 USD</price>
-    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9CN9SRF64890</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>8</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Outer Banks</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Oxford White</exterior_color>
-    <days_on_lot>109</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294671--QIQHU-ltid1/2106294671.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294681--QIQHU-ltid1/2106294681.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106297261--QIQHU-ltid1/2106297261.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106297271--QIQHU-ltid1/2106297271.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106297281--QIQHU-ltid1/2106297281.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106297291--QIQHU-ltid1/2106297291.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106297301--QIQHU-ltid1/2106297301.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106297311--QIQHU-ltid1/2106297311.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106297321--QIQHU-ltid1/2106297321.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106297331--QIQHU-ltid1/2106297331.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106297341--QIQHU-ltid1/2106297341.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106297351--QIQHU-ltid1/2106297351.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>1ftex2lp3tkd19911</vehicle_id>
-    <title>2026 Ford F-150 STX</title>
-    <description>2026 Ford F-150. Trim: STX. Color: Agate Black Metallic. Body Style: SuperCab.</description>
-    <address format="simple">
-      <component name="addr1">330 Transit Rd.</component>
-      <component name="city">Columbus</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53925</component>
-    </address>
-    <year>2026</year>
-    <make>Ford</make>
-    <model>F-150</model>
-    <vin>1ftex2lp3tkd19911</vin>
-    <content_ids>1ftex2lp3tkd19911</content_ids>
-    <availability>in stock</availability>
-    <price>44374.00 USD</price>
-    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTEX2LP3TKD19911</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>9</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>STX</trim>
-    <body_style>OTHER</body_style>
-    <exterior_color>Agate Black Metallic</exterior_color>
-    <days_on_lot>95</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299371--QIQHU-ltid1/2106299371.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299381--QIQHU-ltid1/2106299381.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294691--QIQHU-ltid1/2106294691.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294701--QIQHU-ltid1/2106294701.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294711--QIQHU-ltid1/2106294711.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294721--QIQHU-ltid1/2106294721.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294731--QIQHU-ltid1/2106294731.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294741--QIQHU-ltid1/2106294741.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294751--QIQHU-ltid1/2106294751.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294761--QIQHU-ltid1/2106294761.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294771--QIQHU-ltid1/2106294771.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294781--QIQHU-ltid1/2106294781.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294791--QIQHU-ltid1/2106294791.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294801--QIQHU-ltid1/2106294801.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106295291--QIQHU-ltid1/2106295291.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106295301--QIQHU-ltid1/2106295301.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>3fmcr9cn5srf79032</vehicle_id>
-    <title>2025 Ford Bronco Sport Outer Banks</title>
-    <description>2025 Ford Bronco Sport. Trim: Outer Banks. Color: Ruby Red Metallic Tinted Clearcoat. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">330 Transit Rd.</component>
-      <component name="city">Columbus</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53925</component>
-    </address>
-    <year>2025</year>
-    <make>Ford</make>
-    <model>Bronco Sport</model>
-    <vin>3fmcr9cn5srf79032</vin>
-    <content_ids>3fmcr9cn5srf79032</content_ids>
-    <availability>in stock</availability>
-    <price>39430.00 USD</price>
-    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9CN5SRF79032</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>7</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Outer Banks</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Ruby Red Metallic Tinted Clearcoat</exterior_color>
-    <days_on_lot>95</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299391--QIQHU-ltid1/2106299391.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299401--QIQHU-ltid1/2106299401.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299411--QIQHU-ltid1/2106299411.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299901--QIQHU-ltid1/2106299901.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299911--QIQHU-ltid1/2106299911.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299921--QIQHU-ltid1/2106299921.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299931--QIQHU-ltid1/2106299931.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299941--QIQHU-ltid1/2106299941.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299951--QIQHU-ltid1/2106299951.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299961--QIQHU-ltid1/2106299961.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299971--QIQHU-ltid1/2106299971.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299981--QIQHU-ltid1/2106299981.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299991--QIQHU-ltid1/2106299991.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106300001--QIQHU-ltid1/2106300001.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106300011--QIQHU-ltid1/2106300011.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>3fmcr9cn7srf75368</vehicle_id>
     <title>2025 Ford Bronco Sport Outer Banks</title>
     <description>2025 Ford Bronco Sport. Trim: Outer Banks. Color: Eruption Green Metallic. Body Style: Sport Utility.</description>
@@ -3553,7 +2065,7 @@
     <trim>Outer Banks</trim>
     <body_style>SUV</body_style>
     <exterior_color>Eruption Green Metallic</exterior_color>
-    <days_on_lot>94</days_on_lot>
+    <days_on_lot>95</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106300021--QIQHU-ltid1/2106300021.jpg</url>
       <tag>main</tag>
@@ -3608,230 +2120,6 @@
     </image>
   </listing>
   <listing>
-    <vehicle_id>1fa6p8th2t5110003</vehicle_id>
-    <title>2026 Ford Mustang EcoBoost</title>
-    <description>2026 Ford Mustang. Trim: EcoBoost. Color: Shadow Black. Body Style: Fastback.</description>
-    <address format="simple">
-      <component name="addr1">330 Transit Rd.</component>
-      <component name="city">Columbus</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53925</component>
-    </address>
-    <year>2026</year>
-    <make>Ford</make>
-    <model>Mustang</model>
-    <vin>1fa6p8th2t5110003</vin>
-    <content_ids>1fa6p8th2t5110003</content_ids>
-    <availability>in stock</availability>
-    <price>32760.00 USD</price>
-    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FA6P8TH2T5110003</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>5</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>EcoBoost</trim>
-    <body_style>OTHER</body_style>
-    <exterior_color>Shadow Black</exterior_color>
-    <interior_color>Black Onyx</interior_color>
-    <days_on_lot>91</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106295421--QIQHU-ltid1/2106295421.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106295431--QIQHU-ltid1/2106295431.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106295441--QIQHU-ltid1/2106295441.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296091--QIQHU-ltid1/2106296091.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296101--QIQHU-ltid1/2106296101.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296111--QIQHU-ltid1/2106296111.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296121--QIQHU-ltid1/2106296121.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296131--QIQHU-ltid1/2106296131.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296141--QIQHU-ltid1/2106296141.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296151--QIQHU-ltid1/2106296151.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296161--QIQHU-ltid1/2106296161.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>1fmcu9na8tua36860</vehicle_id>
-    <title>2026 Ford Escape ST-Line Select</title>
-    <description>2026 Ford Escape. Trim: ST-Line Select. Color: rapid red metallic tinted clearcoat. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">330 Transit Rd.</component>
-      <component name="city">Columbus</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53925</component>
-    </address>
-    <year>2026</year>
-    <make>Ford</make>
-    <model>Escape</model>
-    <vin>1fmcu9na8tua36860</vin>
-    <content_ids>1fmcu9na8tua36860</content_ids>
-    <availability>in stock</availability>
-    <price>36782.00 USD</price>
-    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9NA8TUA36860</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>4</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>ST-Line Select</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>rapid red metallic tinted clearcoat</exterior_color>
-    <interior_color>ebony</interior_color>
-    <days_on_lot>91</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296301--QIQHU-ltid1/2106296301.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296311--QIQHU-ltid1/2106296311.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296321--QIQHU-ltid1/2106296321.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296331--QIQHU-ltid1/2106296331.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296341--QIQHU-ltid1/2106296341.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296351--QIQHU-ltid1/2106296351.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296361--QIQHU-ltid1/2106296361.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296371--QIQHU-ltid1/2106296371.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296381--QIQHU-ltid1/2106296381.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296391--QIQHU-ltid1/2106296391.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296401--QIQHU-ltid1/2106296401.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296731--QIQHU-ltid1/2106296731.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296741--QIQHU-ltid1/2106296741.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296751--QIQHU-ltid1/2106296751.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296761--QIQHU-ltid1/2106296761.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296771--QIQHU-ltid1/2106296771.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296781--QIQHU-ltid1/2106296781.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <vehicle_id>1fmee9bp0slb77280</vehicle_id>
-    <title>2025 Ford Bronco Badlands</title>
-    <description>2025 Ford Bronco. Trim: Badlands. Color: Carbonized Gray Metallic. Body Style: Sport Utility.</description>
-    <address format="simple">
-      <component name="addr1">330 Transit Rd.</component>
-      <component name="city">Columbus</component>
-      <component name="region">WI</component>
-      <component name="country">US</component>
-      <component name="postal_code">53925</component>
-    </address>
-    <year>2025</year>
-    <make>Ford</make>
-    <model>Bronco</model>
-    <vin>1fmee9bp0slb77280</vin>
-    <content_ids>1fmee9bp0slb77280</content_ids>
-    <availability>in stock</availability>
-    <price>57123.00 USD</price>
-    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMEE9BP0SLB77280</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>22</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>Badlands</trim>
-    <body_style>SUV</body_style>
-    <exterior_color>Carbonized Gray Metallic</exterior_color>
-    <days_on_lot>88</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296791--QIQHU-ltid1/2106296791.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296801--QIQHU-ltid1/2106296801.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296811--QIQHU-ltid1/2106296811.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296821--QIQHU-ltid1/2106296821.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296831--QIQHU-ltid1/2106296831.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296841--QIQHU-ltid1/2106296841.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296851--QIQHU-ltid1/2106296851.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294431--QIQHU-ltid1/2106294431.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294441--QIQHU-ltid1/2106294441.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294451--QIQHU-ltid1/2106294451.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294461--QIQHU-ltid1/2106294461.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294471--QIQHU-ltid1/2106294471.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294481--QIQHU-ltid1/2106294481.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106297531--QIQHU-ltid1/2106297531.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106297541--QIQHU-ltid1/2106297541.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>1ftex2lp7tkd20575</vehicle_id>
     <title>2026 Ford F-150 STX</title>
     <description>2026 Ford F-150. Trim: STX. Color: Carbonized Gray Metallic. Body Style: SuperCab.</description>
@@ -3860,7 +2148,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Carbonized Gray Metallic</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>91</days_on_lot>
+    <days_on_lot>92</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296171--QIQHU-ltid1/2106296171.jpg</url>
       <tag>main</tag>
@@ -3940,7 +2228,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Desert Sand</exterior_color>
     <interior_color>Medium Light Smoked Truffle</interior_color>
-    <days_on_lot>92</days_on_lot>
+    <days_on_lot>93</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106297401--QIQHU-ltid1/2106297401.jpg</url>
       <tag>main</tag>
@@ -4017,7 +2305,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Ruby Red Metallic Tinted Clearcoat</exterior_color>
     <interior_color>Navy Pier/Aspen Gray</interior_color>
-    <days_on_lot>91</days_on_lot>
+    <days_on_lot>92</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106298501--QIQHU-ltid1/2106298501.jpg</url>
       <tag>main</tag>
@@ -4100,7 +2388,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Carbonized Gray Metallic</exterior_color>
     <interior_color>Smoked Truffle</interior_color>
-    <days_on_lot>92</days_on_lot>
+    <days_on_lot>93</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296591--QIQHU-ltid1/2106296591.jpg</url>
       <tag>main</tag>
@@ -4180,7 +2468,7 @@
     <body_style>SUV</body_style>
     <exterior_color>vapor blue metallic</exterior_color>
     <interior_color>ebony</interior_color>
-    <days_on_lot>93</days_on_lot>
+    <days_on_lot>94</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106298961--QIQHU-ltid1/2106298961.jpg</url>
       <tag>main</tag>
@@ -4257,7 +2545,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Carbonized Gray Metallic</exterior_color>
     <interior_color>Space Gray</interior_color>
-    <days_on_lot>77</days_on_lot>
+    <days_on_lot>78</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106287271--QIQHU-ltid1/2106287271.jpg</url>
       <tag>main</tag>
@@ -4325,7 +2613,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Dark Matter Gray Metallic</exterior_color>
     <interior_color>Black Onyx/Electric Spice</interior_color>
-    <days_on_lot>80</days_on_lot>
+    <days_on_lot>81</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106298111--QIQHU-ltid1/2106298111.jpg</url>
       <tag>main</tag>
@@ -4410,7 +2698,7 @@
     <trim>Platinum</trim>
     <body_style>SUV</body_style>
     <exterior_color>Star White Metallic Tri-Coat</exterior_color>
-    <days_on_lot>80</days_on_lot>
+    <days_on_lot>81</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106289901--QIQHU-ltid1/2106289901.jpg</url>
       <tag>main</tag>
@@ -4487,7 +2775,7 @@
     <body_style>VAN</body_style>
     <exterior_color>Oxford White</exterior_color>
     <interior_color>Dark Palazzo Gray</interior_color>
-    <days_on_lot>81</days_on_lot>
+    <days_on_lot>82</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106298551--QIQHU-ltid1/2106298551.jpg</url>
       <tag>main</tag>
@@ -4567,7 +2855,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Oxford White</exterior_color>
     <interior_color>Black w/Medium Dark Slate</interior_color>
-    <days_on_lot>80</days_on_lot>
+    <days_on_lot>81</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299421--QIQHU-ltid1/2106299421.jpg</url>
       <tag>main</tag>
@@ -4647,7 +2935,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Carbonized Gray Metallic</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>81</days_on_lot>
+    <days_on_lot>82</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106298761--QIQHU-ltid1/2106298761.jpg</url>
       <tag>main</tag>
@@ -4730,7 +3018,7 @@
     <body_style>VAN</body_style>
     <exterior_color>Oxford White</exterior_color>
     <interior_color>Dark Palazzo Gray</interior_color>
-    <days_on_lot>79</days_on_lot>
+    <days_on_lot>80</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106297591--QIQHU-ltid1/2106297591.jpg</url>
       <tag>main</tag>
@@ -4810,7 +3098,7 @@
     <body_style>VAN</body_style>
     <exterior_color>Pacific Pewter Metallic</exterior_color>
     <interior_color>Mocha</interior_color>
-    <days_on_lot>45</days_on_lot>
+    <days_on_lot>46</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106297861--QIQHU-ltid2/2106297861.jpg</url>
       <tag>main</tag>
@@ -4902,7 +3190,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Billet Silver Metallic Clearcoat</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>45</days_on_lot>
+    <days_on_lot>46</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299681--QIQHU-ltid2/2106299681.jpg</url>
       <tag>main</tag>
@@ -4993,7 +3281,7 @@
     <trim>Badlands</trim>
     <body_style>SUV</body_style>
     <exterior_color>Shadow Black</exterior_color>
-    <days_on_lot>72</days_on_lot>
+    <days_on_lot>73</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106300261--QIQHU-ltid1/2106300261.jpg</url>
       <tag>main</tag>
@@ -5070,7 +3358,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Oxford White</exterior_color>
     <interior_color>Dark Space Gray w/Navy Pier</interior_color>
-    <days_on_lot>46</days_on_lot>
+    <days_on_lot>47</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106287211--QIQHU-ltid2/2106287211.jpg</url>
       <tag>main</tag>
@@ -5161,7 +3449,7 @@
     <trim>Platinum</trim>
     <body_style>SUV</body_style>
     <exterior_color>Agate Black Metallic</exterior_color>
-    <days_on_lot>71</days_on_lot>
+    <days_on_lot>72</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106289951--QIQHU-ltid1/2106289951.jpg</url>
       <tag>main</tag>
@@ -5246,7 +3534,7 @@
     <trim>Big Bend</trim>
     <body_style>SUV</body_style>
     <exterior_color>Space White Metallic</exterior_color>
-    <days_on_lot>71</days_on_lot>
+    <days_on_lot>72</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106287561--QIQHU-ltid1/2106287561.jpg</url>
       <tag>main</tag>
@@ -5323,7 +3611,7 @@
     <body_style>VAN</body_style>
     <exterior_color>Oxford White</exterior_color>
     <interior_color>Dark Palazzo Gray</interior_color>
-    <days_on_lot>59</days_on_lot>
+    <days_on_lot>60</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106288021--QIQHU-ltid1/2106288021.jpg</url>
       <tag>main</tag>
@@ -5402,7 +3690,7 @@
     <trim>Tremor</trim>
     <body_style>SUV</body_style>
     <exterior_color>Agate Black Metallic</exterior_color>
-    <days_on_lot>64</days_on_lot>
+    <days_on_lot>65</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106302531--QIQHU-ltid1/2106302531.jpg</url>
       <tag>main</tag>
@@ -5479,7 +3767,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Avalanche</exterior_color>
     <interior_color>Black/Medium Dark Slate</interior_color>
-    <days_on_lot>60</days_on_lot>
+    <days_on_lot>61</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2083829011--DPXUE-ltid1/2083829011.jpg</url>
       <tag>main</tag>
@@ -5558,7 +3846,7 @@
     <trim>XLT</trim>
     <body_style>OTHER</body_style>
     <exterior_color>Space White Metallic</exterior_color>
-    <days_on_lot>66</days_on_lot>
+    <days_on_lot>67</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106287651--QIQHU-ltid1/2106287651.jpg</url>
       <tag>main</tag>
@@ -5638,7 +3926,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Carbonized Gray Metallic</exterior_color>
     <interior_color>Black Onyx</interior_color>
-    <days_on_lot>44</days_on_lot>
+    <days_on_lot>45</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106288361--QIQHU-ltid2/2106288361.jpg</url>
       <tag>main</tag>
@@ -5729,7 +4017,7 @@
     <trim>Raptor</trim>
     <body_style>SUV</body_style>
     <exterior_color>Shadow Black</exterior_color>
-    <days_on_lot>44</days_on_lot>
+    <days_on_lot>45</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106288281--QIQHU-ltid1/2106288281.jpg</url>
       <tag>main</tag>
@@ -5805,7 +4093,7 @@
     <trim>ST</trim>
     <body_style>SUV</body_style>
     <exterior_color>Star White Metallic Tri-Coat</exterior_color>
-    <days_on_lot>44</days_on_lot>
+    <days_on_lot>45</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106302291--QIQHU-ltid1/2106302291.jpg</url>
       <tag>main</tag>
@@ -5891,7 +4179,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Carbonized Gray Metallic</exterior_color>
     <interior_color>Black w/Medium Dark Slate</interior_color>
-    <days_on_lot>44</days_on_lot>
+    <days_on_lot>45</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106287791--QIQHU-ltid1/2106287791.jpg</url>
       <tag>main</tag>
@@ -5970,7 +4258,7 @@
     <trim>LARIAT</trim>
     <body_style>OTHER</body_style>
     <exterior_color>Space White Metallic</exterior_color>
-    <days_on_lot>43</days_on_lot>
+    <days_on_lot>44</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106300571--QIQHU-ltid1/2106300571.jpg</url>
       <tag>main</tag>
@@ -6049,7 +4337,7 @@
     <trim>XLT</trim>
     <body_style>OTHER</body_style>
     <exterior_color>Shadow Black</exterior_color>
-    <days_on_lot>42</days_on_lot>
+    <days_on_lot>43</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106287811--QIQHU-ltid1/2106287811.jpg</url>
       <tag>main</tag>
@@ -6135,7 +4423,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Avalanche</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>37</days_on_lot>
+    <days_on_lot>38</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106287401--QIQHU-ltid2/2106287401.jpg</url>
       <tag>main</tag>
@@ -6226,7 +4514,7 @@
     <trim>Outer Banks</trim>
     <body_style>SUV</body_style>
     <exterior_color>Carbonized Gray Metallic</exterior_color>
-    <days_on_lot>38</days_on_lot>
+    <days_on_lot>39</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290111--QIQHU-ltid1/2106290111.jpg</url>
       <tag>main</tag>
@@ -6302,7 +4590,7 @@
     <trim>ST-Line</trim>
     <body_style>SUV</body_style>
     <exterior_color>Carbonized Gray Metallic</exterior_color>
-    <days_on_lot>37</days_on_lot>
+    <days_on_lot>38</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106300761--QIQHU-ltid1/2106300761.jpg</url>
       <tag>main</tag>
@@ -6378,7 +4666,7 @@
     <trim>ST-Line</trim>
     <body_style>SUV</body_style>
     <exterior_color>Star White Metallic Tri-Coat</exterior_color>
-    <days_on_lot>35</days_on_lot>
+    <days_on_lot>36</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106301421--QIQHU-ltid1/2106301421.jpg</url>
       <tag>main</tag>
@@ -6427,6 +4715,1718 @@
     </image>
   </listing>
   <listing>
+    <vehicle_id>1fmee9bp0slb77280</vehicle_id>
+    <title>2025 Ford Bronco Badlands</title>
+    <description>2025 Ford Bronco. Trim: Badlands. Color: Carbonized Gray Metallic. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
+    <year>2025</year>
+    <make>Ford</make>
+    <model>Bronco</model>
+    <vin>1fmee9bp0slb77280</vin>
+    <content_ids>1fmee9bp0slb77280</content_ids>
+    <availability>in stock</availability>
+    <price>57123.00 USD</price>
+    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMEE9BP0SLB77280</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>22</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Badlands</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Carbonized Gray Metallic</exterior_color>
+    <days_on_lot>89</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296791--QIQHU-ltid1/2106296791.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296801--QIQHU-ltid1/2106296801.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296811--QIQHU-ltid1/2106296811.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296821--QIQHU-ltid1/2106296821.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296831--QIQHU-ltid1/2106296831.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296841--QIQHU-ltid1/2106296841.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296851--QIQHU-ltid1/2106296851.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294431--QIQHU-ltid1/2106294431.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294441--QIQHU-ltid1/2106294441.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294451--QIQHU-ltid1/2106294451.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294461--QIQHU-ltid1/2106294461.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294471--QIQHU-ltid1/2106294471.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294481--QIQHU-ltid1/2106294481.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106297531--QIQHU-ltid1/2106297531.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106297541--QIQHU-ltid1/2106297541.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>1fmcu9na8tua36860</vehicle_id>
+    <title>2026 Ford Escape ST-Line Select</title>
+    <description>2026 Ford Escape. Trim: ST-Line Select. Color: rapid red metallic tinted clearcoat. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
+    <year>2026</year>
+    <make>Ford</make>
+    <model>Escape</model>
+    <vin>1fmcu9na8tua36860</vin>
+    <content_ids>1fmcu9na8tua36860</content_ids>
+    <availability>in stock</availability>
+    <price>36782.00 USD</price>
+    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9NA8TUA36860</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>4</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>ST-Line Select</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>rapid red metallic tinted clearcoat</exterior_color>
+    <interior_color>ebony</interior_color>
+    <days_on_lot>92</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296301--QIQHU-ltid1/2106296301.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296311--QIQHU-ltid1/2106296311.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296321--QIQHU-ltid1/2106296321.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296331--QIQHU-ltid1/2106296331.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296341--QIQHU-ltid1/2106296341.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296351--QIQHU-ltid1/2106296351.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296361--QIQHU-ltid1/2106296361.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296371--QIQHU-ltid1/2106296371.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296381--QIQHU-ltid1/2106296381.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296391--QIQHU-ltid1/2106296391.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296401--QIQHU-ltid1/2106296401.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296731--QIQHU-ltid1/2106296731.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296741--QIQHU-ltid1/2106296741.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296751--QIQHU-ltid1/2106296751.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296761--QIQHU-ltid1/2106296761.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296771--QIQHU-ltid1/2106296771.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296781--QIQHU-ltid1/2106296781.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>1fa6p8th2t5110003</vehicle_id>
+    <title>2026 Ford Mustang EcoBoost</title>
+    <description>2026 Ford Mustang. Trim: EcoBoost. Color: Shadow Black. Body Style: Fastback.</description>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
+    <year>2026</year>
+    <make>Ford</make>
+    <model>Mustang</model>
+    <vin>1fa6p8th2t5110003</vin>
+    <content_ids>1fa6p8th2t5110003</content_ids>
+    <availability>in stock</availability>
+    <price>32760.00 USD</price>
+    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FA6P8TH2T5110003</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>5</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>EcoBoost</trim>
+    <body_style>OTHER</body_style>
+    <exterior_color>Shadow Black</exterior_color>
+    <interior_color>Black Onyx</interior_color>
+    <days_on_lot>92</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106295421--QIQHU-ltid1/2106295421.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106295431--QIQHU-ltid1/2106295431.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106295441--QIQHU-ltid1/2106295441.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296091--QIQHU-ltid1/2106296091.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296101--QIQHU-ltid1/2106296101.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296111--QIQHU-ltid1/2106296111.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296121--QIQHU-ltid1/2106296121.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296131--QIQHU-ltid1/2106296131.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296141--QIQHU-ltid1/2106296141.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296151--QIQHU-ltid1/2106296151.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106296161--QIQHU-ltid1/2106296161.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>3fmcr9cn5srf79032</vehicle_id>
+    <title>2025 Ford Bronco Sport Outer Banks</title>
+    <description>2025 Ford Bronco Sport. Trim: Outer Banks. Color: Ruby Red Metallic Tinted Clearcoat. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
+    <year>2025</year>
+    <make>Ford</make>
+    <model>Bronco Sport</model>
+    <vin>3fmcr9cn5srf79032</vin>
+    <content_ids>3fmcr9cn5srf79032</content_ids>
+    <availability>in stock</availability>
+    <price>39430.00 USD</price>
+    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9CN5SRF79032</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>7</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Outer Banks</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Ruby Red Metallic Tinted Clearcoat</exterior_color>
+    <days_on_lot>96</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299391--QIQHU-ltid1/2106299391.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299401--QIQHU-ltid1/2106299401.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299411--QIQHU-ltid1/2106299411.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299901--QIQHU-ltid1/2106299901.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299911--QIQHU-ltid1/2106299911.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299921--QIQHU-ltid1/2106299921.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299931--QIQHU-ltid1/2106299931.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299941--QIQHU-ltid1/2106299941.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299951--QIQHU-ltid1/2106299951.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299961--QIQHU-ltid1/2106299961.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299971--QIQHU-ltid1/2106299971.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299981--QIQHU-ltid1/2106299981.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299991--QIQHU-ltid1/2106299991.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106300001--QIQHU-ltid1/2106300001.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106300011--QIQHU-ltid1/2106300011.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>1ftex2lp3tkd19911</vehicle_id>
+    <title>2026 Ford F-150 STX</title>
+    <description>2026 Ford F-150. Trim: STX. Color: Agate Black Metallic. Body Style: SuperCab.</description>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
+    <year>2026</year>
+    <make>Ford</make>
+    <model>F-150</model>
+    <vin>1ftex2lp3tkd19911</vin>
+    <content_ids>1ftex2lp3tkd19911</content_ids>
+    <availability>in stock</availability>
+    <price>44374.00 USD</price>
+    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTEX2LP3TKD19911</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>9</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>STX</trim>
+    <body_style>OTHER</body_style>
+    <exterior_color>Agate Black Metallic</exterior_color>
+    <days_on_lot>96</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299371--QIQHU-ltid1/2106299371.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106299381--QIQHU-ltid1/2106299381.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294691--QIQHU-ltid1/2106294691.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294701--QIQHU-ltid1/2106294701.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294711--QIQHU-ltid1/2106294711.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294721--QIQHU-ltid1/2106294721.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294731--QIQHU-ltid1/2106294731.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294741--QIQHU-ltid1/2106294741.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294751--QIQHU-ltid1/2106294751.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294761--QIQHU-ltid1/2106294761.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294771--QIQHU-ltid1/2106294771.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294781--QIQHU-ltid1/2106294781.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294791--QIQHU-ltid1/2106294791.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294801--QIQHU-ltid1/2106294801.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106295291--QIQHU-ltid1/2106295291.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106295301--QIQHU-ltid1/2106295301.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>3fmcr9cn9srf64890</vehicle_id>
+    <title>2025 Ford Bronco Sport Outer Banks</title>
+    <description>2025 Ford Bronco Sport. Trim: Outer Banks. Color: Oxford White. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
+    <year>2025</year>
+    <make>Ford</make>
+    <model>Bronco Sport</model>
+    <vin>3fmcr9cn9srf64890</vin>
+    <content_ids>3fmcr9cn9srf64890</content_ids>
+    <availability>in stock</availability>
+    <price>38060.00 USD</price>
+    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9CN9SRF64890</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>8</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Outer Banks</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Oxford White</exterior_color>
+    <days_on_lot>110</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294671--QIQHU-ltid1/2106294671.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294681--QIQHU-ltid1/2106294681.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106297261--QIQHU-ltid1/2106297261.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106297271--QIQHU-ltid1/2106297271.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106297281--QIQHU-ltid1/2106297281.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106297291--QIQHU-ltid1/2106297291.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106297301--QIQHU-ltid1/2106297301.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106297311--QIQHU-ltid1/2106297311.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106297321--QIQHU-ltid1/2106297321.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106297331--QIQHU-ltid1/2106297331.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106297341--QIQHU-ltid1/2106297341.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106297351--QIQHU-ltid1/2106297351.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>3fmcr9bn2srf69298</vehicle_id>
+    <title>2025 Ford Bronco Sport Big Bend</title>
+    <description>2025 Ford Bronco Sport. Trim: Big Bend. Color: Azure Gray Metallic Tri-Coat. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
+    <year>2025</year>
+    <make>Ford</make>
+    <model>Bronco Sport</model>
+    <vin>3fmcr9bn2srf69298</vin>
+    <content_ids>3fmcr9bn2srf69298</content_ids>
+    <availability>in stock</availability>
+    <price>32628.00 USD</price>
+    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN2SRF69298</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>16</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Big Bend</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Azure Gray Metallic Tri-Coat</exterior_color>
+    <days_on_lot>110</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106289261--QIQHU-ltid1/2106289261.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106289271--QIQHU-ltid1/2106289271.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106289281--QIQHU-ltid1/2106289281.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293461--QIQHU-ltid1/2106293461.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293471--QIQHU-ltid1/2106293471.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293481--QIQHU-ltid1/2106293481.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293491--QIQHU-ltid1/2106293491.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293501--QIQHU-ltid1/2106293501.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293511--QIQHU-ltid1/2106293511.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293521--QIQHU-ltid1/2106293521.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294651--QIQHU-ltid1/2106294651.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294661--QIQHU-ltid1/2106294661.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>3fttw8h35srb58295</vehicle_id>
+    <title>2025 Ford Maverick XLT</title>
+    <description>2025 Ford Maverick. Trim: XLT. Color: Oxford White. Body Style: SuperCrew.</description>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
+    <year>2025</year>
+    <make>Ford</make>
+    <model>Maverick</model>
+    <vin>3fttw8h35srb58295</vin>
+    <content_ids>3fttw8h35srb58295</content_ids>
+    <availability>in stock</availability>
+    <price>29388.00 USD</price>
+    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FTTW8H35SRB58295</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>1022</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>XLT</trim>
+    <body_style>OTHER</body_style>
+    <exterior_color>Oxford White</exterior_color>
+    <interior_color>Navy Pier/Aspen Gray</interior_color>
+    <days_on_lot>172</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291501--WXULA-ltid1/2106291501.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291511--WXULA-ltid1/2106291511.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291521--M6X2N-ltid1/2106291521.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291531--0BAHJ-ltid1/2106291531.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291541--0BAHJ-ltid1/2106291541.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291551--X4GF0-ltid1/2106291551.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291561--X0MIP-ltid1/2106291561.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291571--X0MIP-ltid1/2106291571.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291581--EC73J-ltid1/2106291581.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291591--QMZB--ltid1/2106291591.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291601--TAA-G-ltid1/2106291601.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291611--TAA-G-ltid1/2106291611.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>3fmcr9bn2srf41842</vehicle_id>
+    <title>2025 Ford Bronco Sport Big Bend</title>
+    <description>2025 Ford Bronco Sport. Trim: Big Bend. Color: Azure Gray Metallic Tri-Coat. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
+    <year>2025</year>
+    <make>Ford</make>
+    <model>Bronco Sport</model>
+    <vin>3fmcr9bn2srf41842</vin>
+    <content_ids>3fmcr9bn2srf41842</content_ids>
+    <availability>in stock</availability>
+    <price>31849.00 USD</price>
+    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN2SRF41842</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>19</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Big Bend</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Azure Gray Metallic Tri-Coat</exterior_color>
+    <interior_color>Medium Light Smoked Truffle</interior_color>
+    <days_on_lot>173</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292151--GHMF8-ltid1/2106292151.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292161--F9JFE-ltid1/2106292161.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292171--9ZLB9-ltid1/2106292171.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292181--9ZLB9-ltid1/2106292181.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292191--C49DV-ltid1/2106292191.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292201--4OEZ6-ltid1/2106292201.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292211--4OEZ6-ltid1/2106292211.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292221--WZYWV-ltid1/2106292221.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292231--HLERD-ltid1/2106292231.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292241--HLERD-ltid1/2106292241.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294171--MV6VG-ltid1/2106294171.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106294181--BTF9C-ltid1/2106294181.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>3fmtk3su2sma54629</vehicle_id>
+    <title>2025 Ford Mustang Mach-E Premium</title>
+    <description>2025 Ford Mustang Mach-E. Trim: Premium. Color: SHADOW BLACK. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
+    <year>2025</year>
+    <make>Ford</make>
+    <model>Mustang Mach-E</model>
+    <vin>3fmtk3su2sma54629</vin>
+    <content_ids>3fmtk3su2sma54629</content_ids>
+    <availability>in stock</availability>
+    <price>46083.00 USD</price>
+    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMTK3SU2SMA54629</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>14</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Premium</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>SHADOW BLACK</exterior_color>
+    <days_on_lot>178</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292041--LO4QS-ltid1/2106292041.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292051--LO4QS-ltid1/2106292051.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292061--NRGA7-ltid1/2106292061.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292071--INAXL-ltid1/2106292071.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292081--JIBWN-ltid1/2106292081.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293051--JIBWN-ltid1/2106293051.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293061--P8IRH-ltid1/2106293061.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293071--PLSFS-ltid1/2106293071.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293081--PLSFS-ltid1/2106293081.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293091---NKRY-ltid1/2106293091.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293101--ZMLWP-ltid1/2106293101.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106293111--GHMF8-ltid1/2106293111.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>3fmcr9bn6srf23246</vehicle_id>
+    <title>2025 Ford Bronco Sport Big Bend</title>
+    <description>2025 Ford Bronco Sport. Trim: Big Bend. Color: Ruby Red Metallic Tinted Clearcoat. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
+    <year>2025</year>
+    <make>Ford</make>
+    <model>Bronco Sport</model>
+    <vin>3fmcr9bn6srf23246</vin>
+    <content_ids>3fmcr9bn6srf23246</content_ids>
+    <availability>in stock</availability>
+    <price>32545.00 USD</price>
+    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN6SRF23246</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>1036</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Big Bend</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Ruby Red Metallic Tinted Clearcoat</exterior_color>
+    <interior_color>Ebony</interior_color>
+    <days_on_lot>197</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291781--SYWQ1-ltid1/2106291781.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291791--T1TZQ-ltid1/2106291791.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291801--T1TZQ-ltid1/2106291801.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291811--G6WHR-ltid1/2106291811.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291821--OFXMU-ltid1/2106291821.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291831--OFXMU-ltid1/2106291831.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291841--IIS-G-ltid1/2106291841.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291851--RGV3T-ltid1/2106291851.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291861--GDVIF-ltid1/2106291861.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291871--P+O3M-ltid1/2106291871.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291881--P+O3M-ltid1/2106291881.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291891--HTOHV-ltid1/2106291891.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>3fmcr9cn8srf28057</vehicle_id>
+    <title>2025 Ford Bronco Sport Outer Banks</title>
+    <description>2025 Ford Bronco Sport. Trim: Outer Banks. Color: Azure Gray Metallic Tri-Coat. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
+    <year>2025</year>
+    <make>Ford</make>
+    <model>Bronco Sport</model>
+    <vin>3fmcr9cn8srf28057</vin>
+    <content_ids>3fmcr9cn8srf28057</content_ids>
+    <availability>in stock</availability>
+    <price>38178.00 USD</price>
+    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9CN8SRF28057</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>5</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Outer Banks</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Azure Gray Metallic Tri-Coat</exterior_color>
+    <interior_color>Ebony/Roast w/premium trimmed front bucket seats</interior_color>
+    <days_on_lot>205</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290881--SKBBX-ltid1/2106290881.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290891--UJURG-ltid1/2106290891.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290901--DCYVW-ltid1/2106290901.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290911--GJGXX-ltid1/2106290911.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290921--GJGXX-ltid1/2106290921.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290931--SEGGL-ltid1/2106290931.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290941--FN9RP-ltid1/2106290941.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290951--FN9RP-ltid1/2106290951.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290961--KZ6CC-ltid1/2106290961.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290971--Q1FR9-ltid1/2106290971.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290981--IGONL-ltid1/2106290981.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291771--IGONL-ltid1/2106291771.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>1ftew2lp7sfb82773</vehicle_id>
+    <title>2025 Ford F-150 STX</title>
+    <description>2025 Ford F-150. Trim: STX. Color: AGATE BLACK METALLIC. Body Style: SuperCrew Cab.</description>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
+    <year>2025</year>
+    <make>Ford</make>
+    <model>F-150</model>
+    <vin>1ftew2lp7sfb82773</vin>
+    <content_ids>1ftew2lp7sfb82773</content_ids>
+    <availability>in stock</availability>
+    <price>43348.00 USD</price>
+    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTEW2LP7SFB82773</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>1937</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>STX</trim>
+    <body_style>OTHER</body_style>
+    <exterior_color>AGATE BLACK METALLIC</exterior_color>
+    <days_on_lot>208</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290751--GNGNG-ltid1/2106290751.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290761--GNGNG-ltid1/2106290761.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290771--MDMLB-ltid1/2106290771.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290781--KTQJQ-ltid1/2106290781.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290791--3IM2C-ltid1/2106290791.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290801--3IM2C-ltid1/2106290801.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290811--QI-BI-ltid1/2106290811.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290821--3W6JM-ltid1/2106290821.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290831--ZYNFO-ltid1/2106290831.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291301--ZYNFO-ltid1/2106291301.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291311--PYNOV-ltid1/2106291311.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291321--BNQQH-ltid1/2106291321.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>1fmcu9gn3sub51882</vehicle_id>
+    <title>2025 Ford Escape Active</title>
+    <description>2025 Ford Escape. Trim: Active. Color: VAPOR BLUE METALLIC. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
+    <year>2025</year>
+    <make>Ford</make>
+    <model>Escape</model>
+    <vin>1fmcu9gn3sub51882</vin>
+    <content_ids>1fmcu9gn3sub51882</content_ids>
+    <availability>in stock</availability>
+    <price>25937.00 USD</price>
+    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9GN3SUB51882</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>1011</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Active</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>VAPOR BLUE METALLIC</exterior_color>
+    <days_on_lot>219</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292091--REYS--ltid1/2106292091.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292101--7VSEU-ltid1/2106292101.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292111--3YPPX-ltid1/2106292111.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292121--H6VOF-ltid1/2106292121.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292131--H6VOF-ltid1/2106292131.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292141--1SOUI-ltid1/2106292141.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291981--IIZOQ-ltid1/2106291981.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291991--IIZOQ-ltid1/2106291991.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292001--0TGC3-ltid1/2106292001.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292011--Y+0CM-ltid1/2106292011.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292021--3HSIJ-ltid1/2106292021.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106292031--REYS--ltid1/2106292031.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>3fttw8baxsrb16132</vehicle_id>
+    <title>2025 Ford Maverick XL</title>
+    <description>2025 Ford Maverick. Trim: XL. Color: OXFORD WHITE. Body Style: SuperCrew.</description>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
+    <year>2025</year>
+    <make>Ford</make>
+    <model>Maverick</model>
+    <vin>3fttw8baxsrb16132</vin>
+    <content_ids>3fttw8baxsrb16132</content_ids>
+    <availability>in stock</availability>
+    <price>27262.00 USD</price>
+    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FTTW8BAXSRB16132</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>1392</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>XL</trim>
+    <body_style>OTHER</body_style>
+    <exterior_color>OXFORD WHITE</exterior_color>
+    <days_on_lot>242</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291071--5-R6F-ltid1/2106291071.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291081--BRXNI-ltid1/2106291081.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291091--BRXNI-ltid1/2106291091.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291101--JGKB5-ltid1/2106291101.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291111--UQ5DT-ltid1/2106291111.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291121--UQ5DT-ltid1/2106291121.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291131--MKNDF-ltid1/2106291131.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291141--JRJ2Z-ltid1/2106291141.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291461--USXED-ltid1/2106291461.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291471--USXED-ltid1/2106291471.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291481--BNXTH-ltid1/2106291481.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291491--SO+1H-ltid1/2106291491.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>1fter4lr7sle39016</vehicle_id>
+    <title>2025 Ford Ranger Raptor</title>
+    <description>2025 Ford Ranger. Trim: Raptor. Color: MARSH GRAY. Body Style: SuperCrew.</description>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
+    <year>2025</year>
+    <make>Ford</make>
+    <model>Ranger</model>
+    <vin>1fter4lr7sle39016</vin>
+    <content_ids>1fter4lr7sle39016</content_ids>
+    <availability>in stock</availability>
+    <price>56714.00 USD</price>
+    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTER4LR7SLE39016</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>28</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Raptor</trim>
+    <body_style>OTHER</body_style>
+    <exterior_color>MARSH GRAY</exterior_color>
+    <days_on_lot>246</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291931--WABMN-ltid1/2106291931.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291941--IW9NE-ltid1/2106291941.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291951--9DOQ--ltid1/2106291951.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291961--9DOQ--ltid1/2106291961.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291971---OO2D-ltid1/2106291971.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290681--HVVGI-ltid1/2106290681.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290691--026CW-ltid1/2106290691.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290701--MNXQA-ltid1/2106290701.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290711--MNXQA-ltid1/2106290711.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290721--D1L2W-ltid1/2106290721.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290731--DQ2N+-ltid1/2106290731.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290741--WABMN-ltid1/2106290741.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>3fmcr9bn8srf09168</vehicle_id>
+    <title>2025 Ford Bronco Sport Big Bend</title>
+    <description>2025 Ford Bronco Sport. Trim: Big Bend. Color: SHADOW BLACK. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
+    <year>2025</year>
+    <make>Ford</make>
+    <model>Bronco Sport</model>
+    <vin>3fmcr9bn8srf09168</vin>
+    <content_ids>3fmcr9bn8srf09168</content_ids>
+    <availability>in stock</availability>
+    <price>32108.00 USD</price>
+    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=3FMCR9BN8SRF09168</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>1184</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Big Bend</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>SHADOW BLACK</exterior_color>
+    <days_on_lot>249</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290841--DTZZY-ltid1/2106290841.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290851--MJ84H-ltid1/2106290851.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290861--YJFEH-ltid1/2106290861.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290871--YJFEH-ltid1/2106290871.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290991--AVTPE-ltid1/2106290991.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291001--H01B9-ltid1/2106291001.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291011--H01B9-ltid1/2106291011.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291021--1-CPA-ltid1/2106291021.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291031--QSNBH-ltid1/2106291031.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291041--MS3BI-ltid1/2106291041.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291051--WMSMR-ltid1/2106291051.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291061--HVVGI-ltid1/2106291061.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>1fdwe3fn8sdd39709</vehicle_id>
+    <title>2025 Ford E-Series Cutaway E-350 DRW 138  WB</title>
+    <description>2025 Ford E-Series Cutaway. Trim: E-350 DRW 138  WB. Color: OXFORD WHITE. Body Style: Chassis.</description>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
+    <year>2025</year>
+    <make>Ford</make>
+    <model>E-Series Cutaway</model>
+    <vin>1fdwe3fn8sdd39709</vin>
+    <content_ids>1fdwe3fn8sdd39709</content_ids>
+    <availability>in stock</availability>
+    <price>40900.00 USD</price>
+    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FDWE3FN8SDD39709</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>10</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>E-350 DRW 138  WB</trim>
+    <body_style>OTHER</body_style>
+    <exterior_color>OXFORD WHITE</exterior_color>
+    <days_on_lot>296</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290621--B9JHD-ltid1/2106290621.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290631--X7K1P-ltid1/2106290631.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290641--X7K1P-ltid1/2106290641.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290651--K-R7F-ltid1/2106290651.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290661--SX4TV-ltid1/2106290661.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290671--WYOLN-ltid1/2106290671.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291151--8IL1I-ltid1/2106291151.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291161--8IL1I-ltid1/2106291161.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291171--RUFU7-ltid1/2106291171.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291181--6OSS5-ltid1/2106291181.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291191--UQZP5-ltid1/2106291191.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106291201--UQZP5-ltid1/2106291201.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>1ft8w2bt6sec49297</vehicle_id>
+    <title>2025 Ford Super Duty F-250 SRW LARIAT</title>
+    <description>2025 Ford Super Duty F-250 SRW. Trim: LARIAT. Color: Agate Black Metallic. Body Style: SD Crew Cab.</description>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
+    <year>2025</year>
+    <make>Ford</make>
+    <model>Super Duty F-250 SRW</model>
+    <vin>1ft8w2bt6sec49297</vin>
+    <content_ids>1ft8w2bt6sec49297</content_ids>
+    <availability>in stock</availability>
+    <price>73579.00 USD</price>
+    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FT8W2BT6SEC49297</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>19</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>LARIAT</trim>
+    <body_style>OTHER</body_style>
+    <exterior_color>Agate Black Metallic</exterior_color>
+    <interior_color>Black Onyx</interior_color>
+    <days_on_lot>376</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228305981--V-DMR-ltid1/1228305981.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228305991--V-DMR-ltid1/1228305991.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207066861--N43BZ-ltid1/1207066861.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228306001--0UH1L-ltid1/1228306001.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207066881--N43BZ-ltid1/1207066881.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228306011--0UH1L-ltid1/1228306011.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228306021--JR0DY-ltid1/1228306021.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228306031--JR0DY-ltid1/1228306031.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228306041--F4VHL-ltid1/1228306041.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228306051--F4VHL-ltid1/1228306051.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228306061--CD8UW-ltid1/1228306061.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228801581--CD8UW-ltid1/1228801581.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228801591--OKYSV-ltid1/1228801591.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228801601--OKYSV-ltid1/1228801601.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228801611--TP5NR-ltid1/1228801611.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228801621--OUCWK-ltid1/1228801621.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228801631--OUCWK-ltid1/1228801631.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228801821--RFMAD-ltid1/1228801821.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228801831--RFMAD-ltid1/1228801831.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1228801841--P1L2K-ltid1/1228801841.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>1ftfw3l86skd09457</vehicle_id>
+    <title>2025 Ford F-150 XLT</title>
+    <description>2025 Ford F-150. Trim: XLT. Color: OXFORD WHITE. Body Style: SuperCrew Cab.</description>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
+    <year>2025</year>
+    <make>Ford</make>
+    <model>F-150</model>
+    <vin>1ftfw3l86skd09457</vin>
+    <content_ids>1ftfw3l86skd09457</content_ids>
+    <availability>in stock</availability>
+    <price>53386.00 USD</price>
+    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FTFW3L86SKD09457</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>1745</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>XLT</trim>
+    <body_style>OTHER</body_style>
+    <exterior_color>OXFORD WHITE</exterior_color>
+    <days_on_lot>439</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207056981--FVC+A-ltid1/1207056981.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207056991--FVC+A-ltid1/1207056991.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057001--FVC+A-ltid1/1207057001.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057011--XBCBN-ltid1/1207057011.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057021--XBCBN-ltid1/1207057021.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057031--2UFS+-ltid1/1207057031.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057041--QSOZD-ltid1/1207057041.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057051--QSOZD-ltid1/1207057051.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057061--SU8UF-ltid1/1207057061.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057071--SU8UF-ltid1/1207057071.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057081--VIQG5-ltid1/1207057081.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057091--VIQG5-ltid1/1207057091.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057101--Z5+BS-ltid1/1207057101.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057111--MMEPU-ltid1/1207057111.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057121--MXMJI-ltid1/1207057121.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057131--JQFY2-ltid1/1207057131.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057141--JQFY2-ltid1/1207057141.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057151--EAOGF-ltid1/1207057151.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057161--EAOGF-ltid1/1207057161.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207057171--VYCNV-ltid1/1207057171.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>1fmcu9mn2sua50935</vehicle_id>
+    <title>2025 Ford Escape ST-Line</title>
+    <description>2025 Ford Escape. Trim: ST-Line. Color: Star White Metallic Tri-Coat. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
+    <year>2025</year>
+    <make>Ford</make>
+    <model>Escape</model>
+    <vin>1fmcu9mn2sua50935</vin>
+    <content_ids>1fmcu9mn2sua50935</content_ids>
+    <availability>in stock</availability>
+    <price>25835.00 USD</price>
+    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9MN2SUA50935</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>1610</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>ST-Line</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Star White Metallic Tri-Coat</exterior_color>
+    <interior_color>Ebony</interior_color>
+    <days_on_lot>445</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039231--6DI-E-ltid1/1207039231.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039241--HFNQL-ltid1/1207039241.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039251--1EKWQ-ltid1/1207039251.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039261--1EKWQ-ltid1/1207039261.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039271--1EKWQ-ltid1/1207039271.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039281--2HOAS-ltid1/1207039281.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039291--2HOAS-ltid1/1207039291.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039301--2CLBQ-ltid1/1207039301.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039311--2CLBQ-ltid1/1207039311.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039321--KBHXL-ltid1/1207039321.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039331--KBHXL-ltid1/1207039331.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039341--YQHU3-ltid1/1207039341.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039351--H4NEJ-ltid1/1207039351.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039361--B7Z9Q-ltid1/1207039361.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039371--B7Z9Q-ltid1/1207039371.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039381--A4VS7-ltid1/1207039381.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039391--A4VS7-ltid1/1207039391.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039401--XPNZH-ltid1/1207039401.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039411--XPNZH-ltid1/1207039411.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207039421--LRYPE-ltid1/1207039421.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>1fmcu0e18sua54771</vehicle_id>
+    <title>2025 Ford Escape PHEV</title>
+    <description>2025 Ford Escape. Trim: PHEV. Color: Star White Metallic Tri-Coat. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
+    <year>2025</year>
+    <make>Ford</make>
+    <model>Escape</model>
+    <vin>1fmcu0e18sua54771</vin>
+    <content_ids>1fmcu0e18sua54771</content_ids>
+    <availability>in stock</availability>
+    <price>26972.00 USD</price>
+    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU0E18SUA54771</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>1062</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>PHEV</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Star White Metallic Tri-Coat</exterior_color>
+    <interior_color>Ebony</interior_color>
+    <days_on_lot>438</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044261--9ZYEH-ltid1/1207044261.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044271--9ZYEH-ltid1/1207044271.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044281--J1QW--ltid1/1207044281.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044291--J1QW--ltid1/1207044291.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044301--J1QW--ltid1/1207044301.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044311--6RP1D-ltid1/1207044311.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044321--6RP1D-ltid1/1207044321.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044331--6WZC8-ltid1/1207044331.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044341--6WZC8-ltid1/1207044341.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044351--MP406-ltid1/1207044351.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044361--MP406-ltid1/1207044361.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044371--H16W+-ltid1/1207044371.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044381--H16W+-ltid1/1207044381.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044391--MHUVD-ltid1/1207044391.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044401--OGGJP-ltid1/1207044401.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044411--OGGJP-ltid1/1207044411.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044421--ZPUPW-ltid1/1207044421.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044431--ZPUPW-ltid1/1207044431.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044441--+FQH8-ltid1/1207044441.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207044451--+FQH8-ltid1/1207044451.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>1fduf5gtxrda09643</vehicle_id>
+    <title>2024 Ford Super Duty F-550 DRW XL</title>
+    <description>2024 Ford Super Duty F-550 DRW. Trim: XL. Color: OXFORD WHITE. Body Style: SD Regular Cab.</description>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
+    <year>2024</year>
+    <make>Ford</make>
+    <model>Super Duty F-550 DRW</model>
+    <vin>1fduf5gtxrda09643</vin>
+    <content_ids>1fduf5gtxrda09643</content_ids>
+    <availability>in stock</availability>
+    <price>74690.00 USD</price>
+    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FDUF5GTXRDA09643</url>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <condition>new</condition>
+    <mileage>
+      <value>77</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>XL</trim>
+    <body_style>OTHER</body_style>
+    <exterior_color>OXFORD WHITE</exterior_color>
+    <days_on_lot>746</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043401--7UDDP-ltid1/1207043401.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043411--HHSSK-ltid1/1207043411.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043421--HHSSK-ltid1/1207043421.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043431--7FGD1-ltid1/1207043431.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043441--7FGD1-ltid1/1207043441.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043451--G9NL4-ltid1/1207043451.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043461--G9NL4-ltid1/1207043461.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043471--RYUHV-ltid1/1207043471.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043481--RYUHV-ltid1/1207043481.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043491--QHCC7-ltid1/1207043491.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043501--QHCC7-ltid1/1207043501.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043511--XYQ2O-ltid1/1207043511.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043521--XYQ2O-ltid1/1207043521.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043531--O4XAN-ltid1/1207043531.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043541--HOZPR-ltid1/1207043541.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043551--HOZPR-ltid1/1207043551.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043561--X5NKV-ltid1/1207043561.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043571--PRE-M-ltid1/1207043571.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043581--PRE-M-ltid1/1207043581.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid1207043591--V-JGT-ltid1/1207043591.jpg</url>
+    </image>
+  </listing>
+  <listing>
     <vehicle_id>2gnalcek9h1565507</vehicle_id>
     <title>2017 Chevrolet Equinox LT</title>
     <description>2017 Chevrolet Equinox. Trim: LT. Color: Blue Velvet Metallic. Body Style: Sport Utility Vehicle.</description>
@@ -6455,7 +6455,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Blue Velvet Metallic</exterior_color>
     <interior_color>Jet Black</interior_color>
-    <days_on_lot>30</days_on_lot>
+    <days_on_lot>31</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290261--QIQHU-ltid2/2106290261.jpg</url>
       <tag>main</tag>
@@ -6547,7 +6547,7 @@
     <body_style>TRUCK</body_style>
     <exterior_color>Summit White</exterior_color>
     <interior_color>Jet Black</interior_color>
-    <days_on_lot>25</days_on_lot>
+    <days_on_lot>26</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106290081--QIQHU-ltid2/2106290081.jpg</url>
       <tag>main</tag>
@@ -6639,7 +6639,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Agate Black Metallic</exterior_color>
     <interior_color>Java</interior_color>
-    <days_on_lot>23</days_on_lot>
+    <days_on_lot>24</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106289711--QIQHU-ltid2/2106289711.jpg</url>
       <tag>main</tag>
@@ -6729,7 +6729,7 @@
     </mileage>
     <trim>XLT 4WD SUPERCREW 5.5' BO</trim>
     <body_style>OTHER</body_style>
-    <days_on_lot>17</days_on_lot>
+    <days_on_lot>18</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106302881--QIQHU-ltid2/2106302881.jpg</url>
       <tag>main</tag>
@@ -6821,7 +6821,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Marsh Gray</exterior_color>
     <interior_color>Black Onyx</interior_color>
-    <days_on_lot>25</days_on_lot>
+    <days_on_lot>26</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2109489671--6H99O-ltid1/2109489671.jpg</url>
       <tag>main</tag>
@@ -6892,7 +6892,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Agate Black</exterior_color>
     <interior_color>Dark Space Gray</interior_color>
-    <days_on_lot>22</days_on_lot>
+    <days_on_lot>23</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106303231--QIQHU-ltid1/2106303231.jpg</url>
       <tag>main</tag>
@@ -6975,7 +6975,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Oxford White</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>29</days_on_lot>
+    <days_on_lot>30</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106301451--QIQHU-ltid1/2106301451.jpg</url>
       <tag>main</tag>
@@ -7052,7 +7052,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Oxford White</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>29</days_on_lot>
+    <days_on_lot>30</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106301091--QIQHU-ltid1/2106301091.jpg</url>
       <tag>main</tag>
@@ -7130,7 +7130,7 @@
     </mileage>
     <body_style>OTHER</body_style>
     <exterior_color>RED</exterior_color>
-    <days_on_lot>16</days_on_lot>
+    <days_on_lot>17</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2106300671--QIQHU-ltid2/2106300671.jpg</url>
       <tag>main</tag>
@@ -7222,43 +7222,58 @@
     <body_style>OTHER</body_style>
     <exterior_color>Velocity Blue</exterior_color>
     <interior_color>Navy Pier/Aspen Gray</interior_color>
-    <days_on_lot>29</days_on_lot>
+    <days_on_lot>30</days_on_lot>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2109489351--6H99O-ltid1/2109489351.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230161--ANIAS-ltid1/2114230161.jpg</url>
       <tag>main</tag>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2109489401--6H99O-ltid1/2109489401.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230171--ANIAS-ltid1/2114230171.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2109489491--6H99O-ltid1/2109489491.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230181--ANIAS-ltid1/2114230181.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2109489691--6H99O-ltid1/2109489691.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230191--ANIAS-ltid1/2114230191.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2109489541--6H99O-ltid1/2109489541.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230201--ANIAS-ltid1/2114230201.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2109489641--6H99O-ltid1/2109489641.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230211--ANIAS-ltid1/2114230211.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2109489451--6H99O-ltid1/2109489451.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230221--ANIAS-ltid1/2114230221.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2109489591--6H99O-ltid1/2109489591.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230231--ANIAS-ltid1/2114230231.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2109489361--6H99O-ltid1/2109489361.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230241--ANIAS-ltid1/2114230241.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2109489411--6H99O-ltid1/2109489411.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230251--ANIAS-ltid1/2114230251.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2109489501--6H99O-ltid1/2109489501.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230261--ANIAS-ltid1/2114230261.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2109489701--6H99O-ltid1/2109489701.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230271--ANIAS-ltid1/2114230271.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230281--ANIAS-ltid1/2114230281.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230291--ANIAS-ltid1/2114230291.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230301--ANIAS-ltid1/2114230301.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230311--ANIAS-ltid1/2114230311.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230321--ANIAS-ltid1/2114230321.jpg</url>
     </image>
   </listing>
   <listing>
@@ -7289,7 +7304,7 @@
     <trim>Badlands</trim>
     <body_style>SUV</body_style>
     <exterior_color>Azure Gray Metallic Tri-Coat</exterior_color>
-    <days_on_lot>15</days_on_lot>
+    <days_on_lot>16</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2109489551--6H99O-ltid1/2109489551.jpg</url>
       <tag>main</tag>
@@ -7329,6 +7344,98 @@
     </image>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2109489381--6H99O-ltid1/2109489381.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <vehicle_id>1fmcu9ja5rua18394</vehicle_id>
+    <title>2024 Ford Escape Platinum</title>
+    <description>2024 Ford Escape. Trim: Platinum. Color: Carbonized Gray. Body Style: Sport Utility.</description>
+    <address format="simple">
+      <component name="addr1">330 Transit Rd.</component>
+      <component name="city">Columbus</component>
+      <component name="region">WI</component>
+      <component name="country">US</component>
+      <component name="postal_code">53925</component>
+    </address>
+    <year>2024</year>
+    <make>Ford</make>
+    <model>Escape</model>
+    <vin>1fmcu9ja5rua18394</vin>
+    <content_ids>1fmcu9ja5rua18394</content_ids>
+    <availability>in stock</availability>
+    <price>25405.00 USD</price>
+    <url>https://napletonfordcolumbus.com/wp-json/space-multisite/v1/api/?vdp=1FMCU9JA5RUA18394</url>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <condition>used</condition>
+    <mileage>
+      <value>26695</value>
+      <unit>MI</unit>
+    </mileage>
+    <trim>Platinum</trim>
+    <body_style>SUV</body_style>
+    <exterior_color>Carbonized Gray</exterior_color>
+    <interior_color>Space Gray</interior_color>
+    <days_on_lot>8</days_on_lot>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230331--ANIAS-ltid2/2114230331.jpg</url>
+      <tag>main</tag>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230341--ANIAS-ltid2/2114230341.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230351--ANIAS-ltid2/2114230351.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230361--ANIAS-ltid2/2114230361.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230371--ANIAS-ltid2/2114230371.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230381--ANIAS-ltid2/2114230381.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230391--ANIAS-ltid2/2114230391.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230401--ANIAS-ltid2/2114230401.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230411--ANIAS-ltid2/2114230411.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230421--ANIAS-ltid2/2114230421.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230431--ANIAS-ltid2/2114230431.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230441--ANIAS-ltid2/2114230441.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230451--ANIAS-ltid2/2114230451.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230461--ANIAS-ltid2/2114230461.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230471--ANIAS-ltid2/2114230471.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230481--ANIAS-ltid2/2114230481.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230491--ANIAS-ltid2/2114230491.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230501--ANIAS-ltid2/2114230501.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230511--ANIAS-ltid2/2114230511.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid29312-photoid2114230521--ANIAS-ltid2/2114230521.jpg</url>
     </image>
   </listing>
 </listings>
