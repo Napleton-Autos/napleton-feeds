@@ -2,7 +2,7 @@
 <feed xmlns:ns0="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Napleton Chevrolet Columbus Inventory Feed</title>
   <link href="https://www.napletonchevycolumbus.com" rel="self"/>
-  <updated>2026-02-27T08:09:27.391996</updated>
+  <updated>2026-02-27T12:06:49.924002</updated>
   <entry>
     <id>126002</id>
     <title>2026 Chevrolet Trailblazer LT</title>
@@ -42,7 +42,7 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103258571--E9FLG-ltid1/2103258571.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103258581--ARV8+-ltid1/2103258581.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Trailblazer</ns0:custom_label_0>
-    <ns0:custom_label_1>STALE_274d</ns0:custom_label_1>
+    <ns0:custom_label_1>STALE_275d</ns0:custom_label_1>
   </entry>
   <entry>
     <id>126005</id>
@@ -83,7 +83,7 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103258221--HGHZ5-ltid1/2103258221.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103258231--3RQLP-ltid1/2103258231.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Trailblazer</ns0:custom_label_0>
-    <ns0:custom_label_1>STALE_258d</ns0:custom_label_1>
+    <ns0:custom_label_1>STALE_259d</ns0:custom_label_1>
   </entry>
   <entry>
     <id>126017</id>
@@ -124,7 +124,7 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103258321--RPSNC-ltid1/2103258321.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103258331--FLFNZ-ltid1/2103258331.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Traverse</ns0:custom_label_0>
-    <ns0:custom_label_1>STALE_210d</ns0:custom_label_1>
+    <ns0:custom_label_1>STALE_211d</ns0:custom_label_1>
   </entry>
   <entry>
     <id>126033</id>
@@ -165,7 +165,7 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103258891--8JR41-ltid1/2103258891.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103258901--YGK+R-ltid1/2103258901.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Trax</ns0:custom_label_0>
-    <ns0:custom_label_1>STALE_168d</ns0:custom_label_1>
+    <ns0:custom_label_1>STALE_169d</ns0:custom_label_1>
   </entry>
   <entry>
     <id>126048</id>
@@ -206,17 +206,18 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103258631--KWSGH-ltid1/2103258631.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103258641---Y9IO-ltid1/2103258641.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Equinox EV</ns0:custom_label_0>
-    <ns0:custom_label_1>STALE_155d</ns0:custom_label_1>
+    <ns0:custom_label_1>STALE_156d</ns0:custom_label_1>
   </entry>
   <entry>
-    <id>PB1042</id>
-    <title>2023 Nissan Rogue SV</title>
-    <link rel="alternate" href="https://www.napletonchevycolumbus.com/wp-json/space-multisite/v1/api/?vdp=5N1BT3BB3PC949949"/>
-    <ns0:id>PB1042</ns0:id>
-    <ns0:price>18500.00 USD</ns0:price>
-    <ns0:vin>5N1BT3BB3PC949949</ns0:vin>
+    <id>126055</id>
+    <title>2026 Chevrolet Silverado 2500HD ZR2</title>
+    <link rel="alternate" href="https://www.napletonchevycolumbus.com/inventory/details/2GC4KYE77T1126087"/>
+    <ns0:id>126055</ns0:id>
+    <ns0:price>76685.00 USD</ns0:price>
+    <ns0:vehicle_msrp>77685.00 USD</ns0:vehicle_msrp>
+    <ns0:vin>2GC4KYE77T1126087</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
-    <ns0:brand>Nissan</ns0:brand>
+    <ns0:brand>Chevrolet</ns0:brand>
     <ns0:store_code>1647799517431806713</ns0:store_code>
     <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
     <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
@@ -224,29 +225,29 @@
       <ns0:option>in_store</ns0:option>
       <ns0:store_code>1647799517431806713</ns0:store_code>
     </ns0:vehicle_fulfillment>
-    <ns0:year>2023</ns0:year>
-    <ns0:make>Nissan</ns0:make>
-    <ns0:model>Rogue</ns0:model>
-    <ns0:condition>used</ns0:condition>
+    <ns0:year>2026</ns0:year>
+    <ns0:make>Chevrolet</ns0:make>
+    <ns0:model>Silverado 2500HD</ns0:model>
+    <ns0:condition>new</ns0:condition>
     <ns0:availability>in stock</ns0:availability>
-    <ns0:description>The Napleton Auto Group promotes a no pressure buying experience that puts the customer in charge of the buying process, and for over 80 years, the Napleton family has made sure that absolutely nothing is more important than our commitment to your satisfaction. Our staff members are professional in every sense of the word, and receive regular training, including factory certification, so they are truly knowledgeable about the vehicles we offer. We want every customer's experience to be as timely, comfortable and ultimately as satisfying as it possible can be. You'll see it in every department of every Napleton Auto Group dealership. We hope you'll join the thousands of other satisfied customers that buy and service their vehicles the Napleton way.\n\n&lt;b&gt;&lt;/b&gt;\n&lt;b&gt;One Owner! &lt;/b&gt;\n \nThis 2023 Nissan Rogue SV offered in Super Black will make a great addition to your family or business!\n\n&lt;u&gt;Be sure to take note of all this vehicle has to offer:&lt;/u&gt;\n\n\n&lt;h4 class=&quot;vc_build_feature_name&quot;&gt;Safety and Security&lt;/h4&gt;&lt;ul class=&quot;vc_build_feature_item_list&quot;&gt;&lt;li&gt; Forward collision mitigation - Forward thinking. You look away for just a second and suddenly the vehicle in front of you has stopped. That's when the forward collision mitigation system comes to life.  When it senses an impending impact, it will activate a combination of features to help prevent or reduce the severity of an accident.  Forward collision mitigation is always looking ahead.&lt;/li&gt;&lt;li&gt; Pedestrian impact prevention - An extra step toward safety.  Pedestrians don't always stop, look, and listen, but with Pedestrian Impact Prevention, your vehicle is equipped to better see them and avoid them. This system constantly monitors the road ahead to identify and track pedestrians. It projects that image to an interior display screen, AND should an impact become likely, Pedestrian impact prevention takes steps to avoid a collision.&lt;/li&gt;&lt;li&gt; Hands-on cruise control. Set it and forget it. Road trips used to be stressful. Cruise control only managed speed, but not distance or safety. Now, with hands-on cruise control, simply set your desired speed and let sensor technology maintain a safe distance between you and surrounding vehicles. It slows you down; speeds you up and even keeps you in your own lane. Meet your ultimate co-pilot with hands-on cruise control.&lt;/li&gt;&lt;/ul&gt;&lt;h4 class=&quot;vc_build_feature_name&quot;&gt;Technology and Telematics&lt;/h4&gt;&lt;ul class=&quot;vc_build_feature_item_list&quot;&gt;&lt;li&gt; Smart device mirroring - Smartphone, meet smart car. You can control your device through your vehicle's infotainment system.  Smart device mirroring brings together safety and convenience by making it easier to find what you're looking for while keeping your eyes on the road.&lt;/li&gt;&lt;li&gt; Mobile hotspot - WiFi on the fly. Connect your devices to the Internet through your vehicle's private mobile hotspot and take the internet wherever your journey takes you, without eating up your data allowance. Find the hotspot with mobile hotspot.&lt;/li&gt;&lt;/ul&gt;\n\n&lt;u&gt;Other notable features:&lt;/u&gt;\n\n\n \n&lt;b&gt;Napleton Columbus Chevrolet&lt;/b&gt; is proud to serve customers in communities that include Milwaukee, Madison, Green Bay, Kenosha, Racine, Appleton, Waukesha, Oshkosh, Eau Claire, Janesville, West Allis, La Crosse, Sheboygan, Wauwatosa, Fond du Lac, New Berlin, Brookfield, Wausau, Beloit, Greenfield, Manitowoc, Franklin, Oak Creek, West Bend, Sun Prairie, Superior, Stevens Point, Neenah, De Pere, Mequon and Chicagoland area. Give us a call at &lt;b&gt;920-212-8238&lt;/b&gt; or stop by to test drive or inquire about your new car or truck today! &lt;b&gt;800 Maple Ave Columbus WI 53925&lt;/b&gt;\n\n&lt;b&gt;&lt;u&gt;Napleton Autos Online Pricing Disclaimer&lt;/u&gt;&lt;/b&gt;\nCertified Pre-Owned and used inventory is offered for sale to the public. Pricing indicated as &quot;The Napleton Price&quot; includes all applicable dealer discounts and/or manufacturer's incentives, and does not include any tax, title, doc fee, license, optional equipment costs and/or dealer installed add-on items selected by the customer at the time of sale. Destination charges may vary by model and are included in pricing. All pricing is subject to change without notice.\nNapleton Auto Group utilizes this website, as well as 3rd party websites, to market and advertise our inventory online. All pricing is subject to the availability of that exact vehicle, as indicated by the Vehicle Identification Number (VIN) and dealer stock number. The pricing reflected on this website, www.napleton.autos, represents the most current and accurate pricing for Napleton Auto Group. In the event of a discrepancy in pricing between this website and any 3rd party website, this website will be considered the most current and accurate price and supersedes any and all other advertised prices.\nWhile great effort is made to ensure the accuracy of the information on this site, errors do occur, so please verify all information with a Napleton Auto Group Client Advisor.</ns0:description>
-    <ns0:link_template>https://www.napletonchevycolumbus.com/wp-json/space-multisite/v1/api/?vdp=5N1BT3BB3PC949949&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>SV</ns0:trim>
-    <ns0:mileage>49320 miles</ns0:mileage>
-    <ns0:body_style>suv</ns0:body_style>
-    <ns0:color>Super Black</ns0:color>
-    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103259441--I8YQQ-ltid2/2103259441.jpg</ns0:image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103259451--I8YQQ-ltid2/2103259451.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103259461--MSADS-ltid2/2103259461.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103259921--AOBOV-ltid2/2103259921.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103259931--AOBOV-ltid2/2103259931.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103259941--ZSFP9-ltid2/2103259941.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103259951--P2DQB-ltid2/2103259951.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103259961--BFYSC-ltid2/2103259961.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103259971--BFYSC-ltid2/2103259971.jpg</ns0:additional_image_link>
-    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103259981--1QRKX-ltid2/2103259981.jpg</ns0:additional_image_link>
-    <ns0:custom_label_0>Rogue</ns0:custom_label_0>
-    <ns0:custom_label_1>STALE_79d</ns0:custom_label_1>
+    <ns0:description>The Napleton Auto Group promotes a no pressure buying experience that puts the customer in charge of the buying process, and for over 80 years, the Napleton family has made sure that absolutely nothing is more important than our commitment to your satisfaction. Our staff members are professional in every sense of the word, and receive regular training, including factory certification, so they are truly knowledgeable about the vehicles we offer. We want every customer's experience to be as timely, comfortable and ultimately as satisfying as it possible can be. You'll see it in every department of every Napleton Auto Group dealership. We hope you'll join the thousands of other satisfied customers that buy and service their vehicles the Napleton way.\n\n&lt;b&gt;&lt;/b&gt;\n&lt;b&gt;&lt;/b&gt;\n \nThis 2026 Chevrolet Silverado 2500HD ZR2 offered in Black will make a great addition to your family or business!\n\n&lt;u&gt;Be sure to take note of all this vehicle has to offer:&lt;/u&gt;\n\n\n&lt;h4 class=&quot;vc_build_feature_name&quot;&gt;Safety and Security&lt;/h4&gt;&lt;ul class=&quot;vc_build_feature_item_list&quot;&gt;&lt;li&gt; Forward collision mitigation - Forward thinking. You look away for just a second and suddenly the vehicle in front of you has stopped. That's when the forward collision mitigation system comes to life.  When it senses an impending impact, it will activate a combination of features to help prevent or reduce the severity of an accident.  Forward collision mitigation is always looking ahead.&lt;/li&gt;&lt;li&gt; Pedestrian impact prevention - An extra step toward safety.  Pedestrians don't always stop, look, and listen, but with Pedestrian Impact Prevention, your vehicle is equipped to better see them and avoid them. This system constantly monitors the road ahead to identify and track pedestrians. It projects that image to an interior display screen, AND should an impact become likely, Pedestrian impact prevention takes steps to avoid a collision.&lt;/li&gt;&lt;li&gt; Rear camera - Watching your back!  The rear camera helps you see obstacles and hazards you otherwise couldn't by showing enhanced images of what is behind you. The rear camera is an extra set of eyes that's both convenient and safe.&lt;/li&gt;&lt;/ul&gt;&lt;h4 class=&quot;vc_build_feature_name&quot;&gt;Technology and Telematics&lt;/h4&gt;&lt;ul class=&quot;vc_build_feature_item_list&quot;&gt;&lt;li&gt; Apple CarPlay/Android Auto smart device wireless mirroring&lt;/li&gt;&lt;li&gt; Mobile hotspot - WiFi on the fly. Connect your devices to the Internet through your vehicle's private mobile hotspot and take the internet wherever your journey takes you, without eating up your data allowance. Find the hotspot with mobile hotspot.&lt;/li&gt;&lt;/ul&gt;\n\n&lt;u&gt;Other notable features:&lt;/u&gt;\n\n\n \n&lt;b&gt;Napleton Columbus Chevrolet&lt;/b&gt; is proud to serve customers in communities that include Milwaukee, Madison, Green Bay, Kenosha, Racine, Appleton, Waukesha, Oshkosh, Eau Claire, Janesville, West Allis, La Crosse, Sheboygan, Wauwatosa, Fond du Lac, New Berlin, Brookfield, Wausau, Beloit, Greenfield, Manitowoc, Franklin, Oak Creek, West Bend, Sun Prairie, Superior, Stevens Point, Neenah, De Pere, Mequon and Chicagoland area. Give us a call at &lt;b&gt;920-212-8238&lt;/b&gt; or stop by to test drive or inquire about your new car or truck today! &lt;b&gt;800 Maple Ave Columbus WI 53925&lt;/b&gt;\n\n&lt;b&gt;&lt;u&gt;Napleton Autos Online Pricing Disclaimer&lt;/u&gt;&lt;/b&gt;\nNew vehicle inventory is offered for sale at the Manufacturer's Suggested Retail Price (MSRP), as set by General Motors and/or General Motors Financial. Prices labeled as the &quot;Napleton Price&quot; include all eligible dealer discounts and/or manufacturer incentives and do not include taxes, title, license fees, documentation fees, optional equipment, or dealer-installed accessories selected by the customer at the time of purchase. Destination charges may vary by model and are included in the displayed pricing. All pricing is subject to change without notice based on manufacturer program updates, incentive eligibility, or market conditions.\n\nNapleton Autos advertises its inventory on this website, www.napleton.autos, as well as on third-party advertising platforms. Pricing is specific to each vehicle, identified by its Vehicle Identification Number (VIN) and dealer stock number. The pricing shown on www.napleton.autos represents the most current and accurate pricing for Napleton Autos. In the event of any discrepancy between this website and any third-party website, the pricing displayed on www.napleton.autos will be considered the most accurate and will supersede all other advertised prices.\n\nWhile every effort is made to ensure the accuracy of the information on this site, errors may occur. Please verify all information with a Napleton Autos Client Advisor. You may do so by contacting us directly or visiting the dealership.</ns0:description>
+    <ns0:link_template>https://www.napletonchevycolumbus.com/inventory/details/2GC4KYE77T1126087?store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>ZR2</ns0:trim>
+    <ns0:mileage>7 miles</ns0:mileage>
+    <ns0:body_style>truck</ns0:body_style>
+    <ns0:color>Black</ns0:color>
+    <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103259281--GOK-K-ltid1/2103259281.jpg</ns0:image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103259291--4XASM-ltid1/2103259291.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103259301--0ZYJ9-ltid1/2103259301.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103259471--0ZYJ9-ltid1/2103259471.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103259481--6Y+ZG-ltid1/2103259481.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103259491--PR8BL-ltid1/2103259491.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103259501--XU9CO-ltid1/2103259501.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103259511--OW7JX-ltid1/2103259511.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103259521--OW7JX-ltid1/2103259521.jpg</ns0:additional_image_link>
+    <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103259531--IPOE1-ltid1/2103259531.jpg</ns0:additional_image_link>
+    <ns0:custom_label_0>Silverado 2500HD</ns0:custom_label_0>
+    <ns0:custom_label_1>STALE_135d</ns0:custom_label_1>
   </entry>
   <entry>
     <id>126062</id>
@@ -287,7 +288,7 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103261801--AEW4C-ltid1/2103261801.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103261811--CKGWI-ltid1/2103261811.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Trax</ns0:custom_label_0>
-    <ns0:custom_label_1>STALE_113d</ns0:custom_label_1>
+    <ns0:custom_label_1>STALE_114d</ns0:custom_label_1>
   </entry>
   <entry>
     <id>126063</id>
@@ -328,7 +329,7 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103259881--TYZWX-ltid1/2103259881.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103259891--3GEIM-ltid1/2103259891.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Trailblazer</ns0:custom_label_0>
-    <ns0:custom_label_1>STALE_113d</ns0:custom_label_1>
+    <ns0:custom_label_1>STALE_114d</ns0:custom_label_1>
   </entry>
   <entry>
     <id>126060</id>
@@ -369,7 +370,7 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103260161--OLY0U-ltid1/2103260161.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103260171--XRRKG-ltid1/2103260171.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Trailblazer</ns0:custom_label_0>
-    <ns0:custom_label_1>STALE_114d</ns0:custom_label_1>
+    <ns0:custom_label_1>STALE_115d</ns0:custom_label_1>
   </entry>
   <entry>
     <id>126066</id>
@@ -410,7 +411,7 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103259751--DXVOZ-ltid1/2103259751.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103259761--OP0W9-ltid1/2103259761.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Trailblazer</ns0:custom_label_0>
-    <ns0:custom_label_1>STALE_107d</ns0:custom_label_1>
+    <ns0:custom_label_1>STALE_108d</ns0:custom_label_1>
   </entry>
   <entry>
     <id>126069</id>
@@ -451,7 +452,7 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103261841--6APMU-ltid1/2103261841.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103261851--6APMU-ltid1/2103261851.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Silverado 1500</ns0:custom_label_0>
-    <ns0:custom_label_1>STALE_100d</ns0:custom_label_1>
+    <ns0:custom_label_1>STALE_101d</ns0:custom_label_1>
   </entry>
   <entry>
     <id>126074</id>
@@ -492,7 +493,7 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103260841--Y-ZU7-ltid1/2103260841.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103260851--SF0EX-ltid1/2103260851.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Colorado</ns0:custom_label_0>
-    <ns0:custom_label_1>STALE_101d</ns0:custom_label_1>
+    <ns0:custom_label_1>STALE_102d</ns0:custom_label_1>
   </entry>
   <entry>
     <id>126085</id>
@@ -533,7 +534,7 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103261971--FYAD5-ltid1/2103261971.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103261981--FYAD5-ltid1/2103261981.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Silverado 1500</ns0:custom_label_0>
-    <ns0:custom_label_1>STALE_90d</ns0:custom_label_1>
+    <ns0:custom_label_1>STALE_91d</ns0:custom_label_1>
   </entry>
   <entry>
     <id>126089</id>
@@ -574,7 +575,7 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103260961--OWGTY-ltid1/2103260961.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103260971--MYO0S-ltid1/2103260971.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Colorado</ns0:custom_label_0>
-    <ns0:custom_label_1>STALE_85d</ns0:custom_label_1>
+    <ns0:custom_label_1>STALE_86d</ns0:custom_label_1>
   </entry>
   <entry>
     <id>126093</id>
@@ -615,7 +616,7 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103262441--G2VVV-ltid1/2103262441.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103262451--EQUKU-ltid1/2103262451.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Silverado 2500HD</ns0:custom_label_0>
-    <ns0:custom_label_1>STALE_84d</ns0:custom_label_1>
+    <ns0:custom_label_1>STALE_85d</ns0:custom_label_1>
   </entry>
   <entry>
     <id>126095</id>
@@ -656,7 +657,7 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1871090101--Y0H3Z-ltid1/1871090101.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid1871090111--Y0H3Z-ltid1/1871090111.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Traverse</ns0:custom_label_0>
-    <ns0:custom_label_1>STALE_80d</ns0:custom_label_1>
+    <ns0:custom_label_1>STALE_81d</ns0:custom_label_1>
   </entry>
   <entry>
     <id>126098</id>
@@ -697,14 +698,14 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103262711--0W1AK-ltid1/2103262711.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103262721--0W1AK-ltid1/2103262721.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Silverado 2500HD</ns0:custom_label_0>
-    <ns0:custom_label_1>STALE_73d</ns0:custom_label_1>
+    <ns0:custom_label_1>STALE_74d</ns0:custom_label_1>
   </entry>
   <entry>
     <id>126044A</id>
     <title>2020 Ram 1500 Limited</title>
     <link rel="alternate" href="https://www.napletonchevycolumbus.com/wp-json/space-multisite/v1/api/?vdp=1C6SRFHT3LN249732"/>
     <ns0:id>126044A</ns0:id>
-    <ns0:price>28476.00 USD</ns0:price>
+    <ns0:price>28477.00 USD</ns0:price>
     <ns0:vin>1C6SRFHT3LN249732</ns0:vin>
     <ns0:google_product_category>916</ns0:google_product_category>
     <ns0:brand>Ram</ns0:brand>
@@ -737,7 +738,7 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103262961--1LCZI-ltid2/2103262961.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103262971--1LCZI-ltid2/2103262971.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>1500</ns0:custom_label_0>
-    <ns0:custom_label_1>AGED_50d</ns0:custom_label_1>
+    <ns0:custom_label_1>AGED_51d</ns0:custom_label_1>
   </entry>
   <entry>
     <id>126107</id>
@@ -778,7 +779,7 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103264951--GDOS5-ltid1/2103264951.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103264961--UVZPO-ltid1/2103264961.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Equinox</ns0:custom_label_0>
-    <ns0:custom_label_1>AGED_59d</ns0:custom_label_1>
+    <ns0:custom_label_1>AGED_60d</ns0:custom_label_1>
   </entry>
   <entry>
     <id>126105A</id>
@@ -818,7 +819,7 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103260781--PGYWF-ltid2/2103260781.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103260791--PGYWF-ltid2/2103260791.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Silverado 1500</ns0:custom_label_0>
-    <ns0:custom_label_1>AGED_50d</ns0:custom_label_1>
+    <ns0:custom_label_1>AGED_51d</ns0:custom_label_1>
   </entry>
   <entry>
     <id>126109</id>
@@ -859,7 +860,7 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103264001--9VSEJ-ltid1/2103264001.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103264011--NHI7+-ltid1/2103264011.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Trax</ns0:custom_label_0>
-    <ns0:custom_label_1>AGED_50d</ns0:custom_label_1>
+    <ns0:custom_label_1>AGED_51d</ns0:custom_label_1>
   </entry>
   <entry>
     <id>126112A</id>
@@ -899,11 +900,11 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2087401701--EIQC3-ltid2/2087401701.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2087401711--EIQC3-ltid2/2087401711.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Elantra Hybrid</ns0:custom_label_0>
-    <ns0:custom_label_1>AGED_36d</ns0:custom_label_1>
+    <ns0:custom_label_1>AGED_37d</ns0:custom_label_1>
   </entry>
   <entry>
     <id>126076A</id>
-    <title>2006 Chevrolet Silverado 3500 SRW LT1</title>
+    <title>2006 Chevrolet Silverado 3500 SRW LT</title>
     <link rel="alternate" href="https://www.napletonchevycolumbus.com/wp-json/space-multisite/v1/api/?vdp=1GCHK39D06E144857"/>
     <ns0:id>126076A</ns0:id>
     <ns0:price>10107.00 USD</ns0:price>
@@ -924,7 +925,7 @@
     <ns0:availability>in stock</ns0:availability>
     <ns0:description>The Napleton Auto Group promotes a no pressure buying experience that puts the customer in charge of the buying process, and for over 80 years, the Napleton family has made sure that absolutely nothing is more important than our commitment to your satisfaction. Our staff members are professional in every sense of the word, and receive regular training, including factory certification, so they are truly knowledgeable about the vehicles we offer. We want every customer's experience to be as timely, comfortable and ultimately as satisfying as it possible can be. You'll see it in every department of every Napleton Auto Group dealership. We hope you'll join the thousands of other satisfied customers that buy and service their vehicles the Napleton way.\n\n&lt;b&gt;&lt;/b&gt;\n&lt;b&gt;One Owner! &lt;/b&gt;\n \nThis 2006 Chevrolet Silverado 3500 SRW LT1 offered in Victory Red will make a great addition to your family or business!\n\n&lt;u&gt;Be sure to take note of all this vehicle has to offer:&lt;/u&gt;\n\n&lt;h4 class=&quot;vc_build_package_name&quot;&gt;Heavy-Duty Power Package ($6,730 value)&lt;/h4&gt;&lt;ul  class=&quot;vc_build_package_item_list&quot;&gt;&lt;li&gt;Heavy-Duty Rear Locking Differential&lt;/li&gt;&lt;li&gt;Duramax Turbo Diesel 6600 V8 Engine&lt;/li&gt;&lt;li&gt;Allison 1000 6-Speed Automatic Transmission with Overdrive&lt;/li&gt;&lt;/ul&gt;&lt;h4 class=&quot;vc_build_package_name&quot;&gt;LT1 Decor&lt;/h4&gt;&lt;ul  class=&quot;vc_build_package_item_list&quot;&gt;&lt;li&gt;Custom Cloth Seat Trim&lt;/li&gt;&lt;li&gt;Power Windows with Driver and Passenger Express-Down&lt;/li&gt;&lt;li&gt;Solar-Ray Deep Tinted Glass&lt;/li&gt;&lt;li&gt;Remote Keyless Entry with 2 Transmitters&lt;/li&gt;&lt;li&gt;Power Door Locks&lt;/li&gt;&lt;li&gt;Color-Keyed Carpeting with Rubberized Vinyl Floormats&lt;/li&gt;&lt;li&gt;Electric Rear-Window Defogger&lt;/li&gt;&lt;li&gt;Electrochromic Inside Rearview Mirror&lt;/li&gt;&lt;li&gt;Overhead Mini Console with Map Lights&lt;/li&gt;&lt;li&gt;Black Manual Folding Outside Rearview Mirrors&lt;/li&gt;&lt;li&gt;Electronic Cruise Control with Set and Resume Speed&lt;/li&gt;&lt;li&gt;Black Leather-Wrapped Steering Wheel Rim&lt;/li&gt;&lt;li&gt;ETR AM/FM Stereo with CD Player/seek and Scan&lt;/li&gt;&lt;li&gt;Audio Speakers Sound System Feature&lt;/li&gt;&lt;li&gt;Chrome Rear Step Bumper with Pad&lt;/li&gt;&lt;/ul&gt;\n&lt;h4 class=&quot;vc_build_feature_name&quot;&gt;Comfort&lt;/h4&gt;&lt;ul class=&quot;vc_build_feature_item_list&quot;&gt;&lt;li&gt; Power driver seat fore/aft adjustment - A touch forward? A touch more back? The choice is yours. Enjoying your drive begins with being comfortable in the driver's seat. With power driver seat fore/aft adjustment, you can find your perfect position to reach the steering wheel and pedals. Not only are you more comfortable, you're safer, too, with power driver seat with fore/aft adjustment.&lt;/li&gt;&lt;/ul&gt;&lt;h4 class=&quot;vc_build_feature_name&quot;&gt;Convenience&lt;/h4&gt;&lt;ul class=&quot;vc_build_feature_item_list&quot;&gt;&lt;li&gt; Cruise control - Set it and forget it. Road trips used to be stressful, until cruise control set the pace. Simply set the desired speed and it will maintain that speed without driver intervention. This can help minimize driver fatigue and improve overall fuel economy. Meet your ultimate co-pilot; cruise control.&lt;/li&gt;&lt;/ul&gt;&lt;h4 class=&quot;vc_build_feature_name&quot;&gt;Powertrain and Mechanical&lt;/h4&gt;&lt;ul class=&quot;vc_build_feature_item_list&quot;&gt;&lt;li&gt; 4-wheel drive - All four safety. In wet or slippery conditions the more grip your wheels can maintain, the safer your drive. 4-wheel drive delivers power to all four wheels providing excellent traction in adverse weather and road conditions. Get a firm grip on the road and added peace of mind in poor weather conditions with 4-wheel drive.&lt;/li&gt;&lt;li&gt; Diesel direct injection - Crank up the power, cut down the fuel. By injecting fuel directly into the combustion chamber, the fuel mixture combines with the heat of compressed air, causing it to burn rapidly. This increases fuel economy and power while reducing noise for a quieter ride with added oomph, thanks to Diesel direct injection.&lt;/li&gt;&lt;li&gt; An OHV (pushrod) engine typically generates low-end torque sooner than an OHC engine of similar size. Peak torque is achieved at a lower RPM in OHV engines than in other designs, providing good acceleration from a stop.&lt;/li&gt;&lt;/ul&gt;\n\n&lt;u&gt;Other notable features:&lt;/u&gt;\n\nPICKUP BED, FLEETSIDE BOX, GVWR, 9900 LBS (4490 kg), EMISSIONS, FEDERAL REQUIREMENTS, ENGINE, DURAMAX 6600 TURBO DIESEL V8, TRANSMISSION, ALLISON 1000 6-SPEED AUTOMATIC, ELECTRONICALLY CONTROLLED WITH OVERDRIVE AND ELECTRONIC ENGINE GRADE BRAKING, REAR AXLE, 3.73 RATIO, TIRE, SPARE LT265/75R16E, ON-/OFF-ROAD, BLACKWALL, SEATS, FRONT 40/20/40 SPLIT-BENCH, 3-PASSENGER DRIVER AND PASSENGER MANUAL RECLINING, SEAT TRIM, CUSTOM CLOTH, PAINT, SOLID, SOUND SYSTEM, ETR AM/FM STEREO WITH CD PLAYER, BATTERY, HEAVY-DUTY, DUAL, 770 COLD CRANKING AMPS, HEAVY-DUTY POWER PACKAGE, SPARE TIRE LOCK, AIR CLEANER, HIGH-CAPACITY, COVERS, RADIATOR GRILLE AND FRONT BUMPER OPENINGS, AIR CONDITIONING, DUAL-ZONE, AUTOMATIC, INDIVIDUAL CLIMATE SETTINGS FOR DRIVER AND RIGHT FRONT PASSENGER, SOUND SYSTEM FEATURE XM SATELLITE RADIO, SOUND SYSTEM FEATURE, STEERING WHEEL MOUNTED RADIO CONTROLS, RADIO AND DRIVER INFORMATION CENTER (DIC), LAMPS, AMBER ROOF MARKER, ENGINE BLOCK HEATER, MIRRORS, VERTICAL CAMPER, OUTSIDE REARVIEW, POWER ADJUSTABLE GLASS, HEATED, MANUAL FOLDING AND EXTENDING, SEAT ADJUSTER, POWER DRIVER 6-WAY, TRANSFER CASE, ELECTRONIC SHIFT\n \n&lt;b&gt;Napleton Columbus Chevrolet&lt;/b&gt; is proud to serve customers in communities that include Milwaukee, Madison, Green Bay, Kenosha, Racine, Appleton, Waukesha, Oshkosh, Eau Claire, Janesville, West Allis, La Crosse, Sheboygan, Wauwatosa, Fond du Lac, New Berlin, Brookfield, Wausau, Beloit, Greenfield, Manitowoc, Franklin, Oak Creek, West Bend, Sun Prairie, Superior, Stevens Point, Neenah, De Pere, Mequon and Chicagoland area. Give us a call at &lt;b&gt;920-212-8238&lt;/b&gt; or stop by to test drive or inquire about your new car or truck today! &lt;b&gt;800 Maple Ave Columbus WI 53925&lt;/b&gt;\n\n&lt;b&gt;&lt;u&gt;Napleton Autos Online Pricing Disclaimer&lt;/u&gt;&lt;/b&gt;\nCertified Pre-Owned and used inventory is offered for sale to the public. Pricing indicated as &quot;The Napleton Price&quot; includes all applicable dealer discounts and/or manufacturer's incentives, and does not include any tax, title, doc fee, license, optional equipment costs and/or dealer installed add-on items selected by the customer at the time of sale. Destination charges may vary by model and are included in pricing. All pricing is subject to change without notice.\nNapleton Auto Group utilizes this website, as well as 3rd party websites, to market and advertise our inventory online. All pricing is subject to the availability of that exact vehicle, as indicated by the Vehicle Identification Number (VIN) and dealer stock number. The pricing reflected on this website, www.napleton.autos, represents the most current and accurate pricing for Napleton Auto Group. In the event of a discrepancy in pricing between this website and any 3rd party website, this website will be considered the most current and accurate price and supersedes any and all other advertised prices.\nWhile great effort is made to ensure the accuracy of the information on this site, errors do occur, so please verify all information with a Napleton Auto Group Client Advisor.</ns0:description>
     <ns0:link_template>https://www.napletonchevycolumbus.com/wp-json/space-multisite/v1/api/?vdp=1GCHK39D06E144857&amp;store={store_code}&amp;</ns0:link_template>
-    <ns0:trim>SRW LT1</ns0:trim>
+    <ns0:trim>SRW LT</ns0:trim>
     <ns0:mileage>187846 miles</ns0:mileage>
     <ns0:color>Victory Red</ns0:color>
     <ns0:image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103262551--5JD66-ltid2/2103262551.jpg</ns0:image_link>
@@ -938,7 +939,7 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103263081--M8RKF-ltid2/2103263081.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103263091--M8RKF-ltid2/2103263091.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Silverado 3500</ns0:custom_label_0>
-    <ns0:custom_label_1>AGED_33d</ns0:custom_label_1>
+    <ns0:custom_label_1>AGED_34d</ns0:custom_label_1>
   </entry>
   <entry>
     <id>126114</id>
@@ -979,7 +980,7 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2109486731--OL3UJ-ltid1/2109486731.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2109486871--I0WWM-ltid1/2109486871.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Trax</ns0:custom_label_0>
-    <ns0:custom_label_1>AGED_31d</ns0:custom_label_1>
+    <ns0:custom_label_1>AGED_32d</ns0:custom_label_1>
   </entry>
   <entry>
     <id>126116</id>
@@ -1020,7 +1021,7 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103265101--W-K1M-ltid1/2103265101.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103265111--W-K1M-ltid1/2103265111.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Equinox</ns0:custom_label_0>
-    <ns0:custom_label_1>FRESH_28d</ns0:custom_label_1>
+    <ns0:custom_label_1>FRESH_29d</ns0:custom_label_1>
   </entry>
   <entry>
     <id>126115</id>
@@ -1061,7 +1062,7 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103264451--2FVCN-ltid1/2103264451.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2103264461--9QBWT-ltid1/2103264461.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Equinox</ns0:custom_label_0>
-    <ns0:custom_label_1>FRESH_28d</ns0:custom_label_1>
+    <ns0:custom_label_1>FRESH_29d</ns0:custom_label_1>
   </entry>
   <entry>
     <id>126117</id>
@@ -1102,7 +1103,7 @@
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2109486841--YCCBT-ltid1/2109486841.jpg</ns0:additional_image_link>
     <ns0:additional_image_link>https://cdn-img.vincue.net/image/opt-dealerid148261-photoid2109486701--XN3AS-ltid1/2109486701.jpg</ns0:additional_image_link>
     <ns0:custom_label_0>Traverse</ns0:custom_label_0>
-    <ns0:custom_label_1>FRESH_21d</ns0:custom_label_1>
+    <ns0:custom_label_1>FRESH_22d</ns0:custom_label_1>
   </entry>
   <entry>
     <id>126083A</id>
@@ -1132,6 +1133,94 @@
     <ns0:body_style>suv</ns0:body_style>
     <ns0:color>Midnight Black Metallic</ns0:color>
     <ns0:custom_label_0>RAV4</ns0:custom_label_0>
-    <ns0:custom_label_1>NEW_6d</ns0:custom_label_1>
+    <ns0:custom_label_1>NEW_7d</ns0:custom_label_1>
+  </entry>
+  <entry>
+    <id>126099B</id>
+    <title>2018 Chevrolet Equinox LT</title>
+    <link rel="alternate" href="https://www.napletonchevycolumbus.com/wp-json/space-multisite/v1/api/?vdp=2GNAXJEV9J6145659"/>
+    <ns0:id>126099B</ns0:id>
+    <ns0:price>9635.00 USD</ns0:price>
+    <ns0:vin>2GNAXJEV9J6145659</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>Chevrolet</ns0:brand>
+    <ns0:store_code>1647799517431806713</ns0:store_code>
+    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
+    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>1647799517431806713</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2018</ns0:year>
+    <ns0:make>Chevrolet</ns0:make>
+    <ns0:model>Equinox</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:description>The Napleton Auto Group promotes a no pressure buying experience that puts the customer in charge of the buying process, and for over 80 years, the Napleton family has made sure that absolutely nothing is more important than our commitment to your satisfaction. Our staff members are professional in every sense of the word, and receive regular training, including factory certification, so they are truly knowledgeable about the vehicles we offer. We want every customer's experience to be as timely, comfortable and ultimately as satisfying as it possible can be. You'll see it in every department of every Napleton Auto Group dealership. We hope you'll join the thousands of other satisfied customers that buy and service their vehicles the Napleton way.\n\n&lt;b&gt;No Accidents! &lt;/b&gt;\n&lt;b&gt;&lt;/b&gt;\n \nThis 2018 Chevrolet Equinox LT offered in Summit White will make a great addition to your family or business!\n\n&lt;u&gt;Be sure to take note of all this vehicle has to offer:&lt;/u&gt;\n\n&lt;h4 class=&quot;vc_build_package_name&quot;&gt;Confidence and Convenience Package ($1,945 value)&lt;/h4&gt;&lt;ul  class=&quot;vc_build_package_item_list&quot;&gt;&lt;/ul&gt;&lt;h4 class=&quot;vc_build_package_name&quot;&gt;Driver Confidence Package&lt;/h4&gt;&lt;ul  class=&quot;vc_build_package_item_list&quot;&gt;&lt;li&gt;Outside Heated Power-Adjustable Mirrors&lt;/li&gt;&lt;li&gt;Rear Park Assist with Audible Warning&lt;/li&gt;&lt;li&gt;Rear Cross Traffic Alert&lt;/li&gt;&lt;li&gt;Lane Change Alert with Side Blind Zone Alert&lt;/li&gt;&lt;/ul&gt;&lt;h4 class=&quot;vc_build_package_name&quot;&gt;Driver Convenience Package&lt;/h4&gt;&lt;ul  class=&quot;vc_build_package_item_list&quot;&gt;&lt;li&gt;Remote Vehicle Starter System&lt;/li&gt;&lt;li&gt;Dual Zone Automatic Climate Control&lt;/li&gt;&lt;li&gt;Heated Driver and Front Passenger Seats&lt;/li&gt;&lt;li&gt;3-Spoke Leather-Wrapped Steering Wheel&lt;/li&gt;&lt;li&gt;Rear Power Liftgate&lt;/li&gt;&lt;li&gt;Universal Home Remote&lt;/li&gt;&lt;/ul&gt;&lt;h4 class=&quot;vc_build_package_name&quot;&gt;Preferred Equipment Group 1LT&lt;/h4&gt;&lt;ul  class=&quot;vc_build_package_item_list&quot;&gt;&lt;/ul&gt;\n&lt;h4 class=&quot;vc_build_feature_name&quot;&gt;Convenience&lt;/h4&gt;&lt;ul class=&quot;vc_build_feature_item_list&quot;&gt;&lt;li&gt; Cruise control with steering wheel mounted controls. Set it and forget it. Road trips used to be stressful, until cruise control set the pace. Simply set the desired speed using the steering wheel mounted controls and it will maintain that speed without driver intervention. This can help minimize driver fatigue and improve overall fuel economy. Resting your right foot is right at your fingertips thanks to cruise control with steering wheel mounted controls.&lt;/li&gt;&lt;/ul&gt;&lt;h4 class=&quot;vc_build_feature_name&quot;&gt;Safety and Security&lt;/h4&gt;&lt;ul class=&quot;vc_build_feature_item_list&quot;&gt;&lt;li&gt; Rear camera - Watching your back!  The rear camera helps you see obstacles and hazards you otherwise couldn't by showing enhanced images of what is behind you. The rear camera is an extra set of eyes that's both convenient and safe.&lt;/li&gt;&lt;li&gt; Brake assist - Stop right there.  Something jumps out into the middle of the road and you need to stop now!  With brake assist, you will.  It uses the speed of the brake pedal's travel to sense panic braking, then applies all available power to boost your stopping power. Brake assist can stop the accident before it is one.&lt;/li&gt;&lt;/ul&gt;&lt;h4 class=&quot;vc_build_feature_name&quot;&gt;Technology and Telematics&lt;/h4&gt;&lt;ul class=&quot;vc_build_feature_item_list&quot;&gt;&lt;li&gt; Smart device mirroring - Smartphone, meet smart car. You can control your device through your vehicle's infotainment system.  Smart device mirroring brings together safety and convenience by making it easier to find what you're looking for while keeping your eyes on the road.&lt;/li&gt;&lt;li&gt; Mobile hotspot - WiFi on the fly. Connect your devices to the Internet through your vehicle's private mobile hotspot and take the internet wherever your journey takes you, without eating up your data allowance. Find the hotspot with mobile hotspot.&lt;/li&gt;&lt;/ul&gt;\n\n&lt;u&gt;Other notable features:&lt;/u&gt;\n\nEMISSIONS, FEDERAL REQUIREMENTS, ENGINE, 1.5L TURBO DOHC 4-CYLINDER, SIDI, VVT, TRANSMISSION, 6-SPEED AUTOMATIC, ELECTRONICALLY-CONTROLLED WITH OVERDRIVE, AXLE, 3.50 FINAL DRIVE RATIO, WHEELS, 17&quot; (43.2 CM) ALUMINUM, TIRES, P225/65R17 ALL-SEASON BLACKWALL, SUMMIT WHITE, SEATS, FRONT BUCKET, JET BLACK, DELUXE CLOTH SEAT TRIM, AUDIO SYSTEM, CHEVROLET MYLINK RADIO WITH 7&quot; DIAGONAL COLOR TOUCH-SCREEN, CONFIDENCE &amp;amp; CONVENIENCE PACKAGE, DRIVER CONFIDENCE PACKAGE, DRIVER CONVENIENCE PACKAGE, LPO, REAR SPLASH GUARDS, CUSTOM MOLDED, MIRRORS, OUTSIDE HEATED POWER-ADJUSTABLE, MANUAL-FOLDING, BODY-COLOR, LICENSE PLATE FRONT MOUNTING PACKAGE, LIFTGATE, REAR POWER, SEATS, HEATED DRIVER AND FRONT PASSENGER, STEERING WHEEL, LEATHER-WRAPPED 3-SPOKE, REMOTE START, UNIVERSAL HOME REMOTE, AIR CONDITIONING, DUAL-ZONE AUTOMATIC CLIMATE CONTROL, REAR PARK ASSIST WITH AUDIBLE WARNING, LANE CHANGE ALERT WITH SIDE BLIND ZONE ALERT, REAR CROSS-TRAFFIC ALERT\n \n&lt;b&gt;Napleton Columbus Chevrolet&lt;/b&gt; is proud to serve customers in communities that include Milwaukee, Madison, Green Bay, Kenosha, Racine, Appleton, Waukesha, Oshkosh, Eau Claire, Janesville, West Allis, La Crosse, Sheboygan, Wauwatosa, Fond du Lac, New Berlin, Brookfield, Wausau, Beloit, Greenfield, Manitowoc, Franklin, Oak Creek, West Bend, Sun Prairie, Superior, Stevens Point, Neenah, De Pere, Mequon and Chicagoland area. Give us a call at &lt;b&gt;920-212-8238&lt;/b&gt; or stop by to test drive or inquire about your new car or truck today! &lt;b&gt;800 Maple Ave Columbus WI 53925&lt;/b&gt;\n\n&lt;b&gt;&lt;u&gt;Napleton Autos Online Pricing Disclaimer&lt;/u&gt;&lt;/b&gt;\nCertified Pre-Owned and used inventory is offered for sale to the public. Pricing indicated as &quot;The Napleton Price&quot; includes all applicable dealer discounts and/or manufacturer's incentives, and does not include any tax, title, doc fee, license, optional equipment costs and/or dealer installed add-on items selected by the customer at the time of sale. Destination charges may vary by model and are included in pricing. All pricing is subject to change without notice.\nNapleton Auto Group utilizes this website, as well as 3rd party websites, to market and advertise our inventory online. All pricing is subject to the availability of that exact vehicle, as indicated by the Vehicle Identification Number (VIN) and dealer stock number. The pricing reflected on this website, www.napleton.autos, represents the most current and accurate pricing for Napleton Auto Group. In the event of a discrepancy in pricing between this website and any 3rd party website, this website will be considered the most current and accurate price and supersedes any and all other advertised prices.\nWhile great effort is made to ensure the accuracy of the information on this site, errors do occur, so please verify all information with a Napleton Auto Group Client Advisor.</ns0:description>
+    <ns0:link_template>https://www.napletonchevycolumbus.com/wp-json/space-multisite/v1/api/?vdp=2GNAXJEV9J6145659&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>LT</ns0:trim>
+    <ns0:mileage>133711 miles</ns0:mileage>
+    <ns0:body_style>suv</ns0:body_style>
+    <ns0:color>Summit White</ns0:color>
+    <ns0:custom_label_0>Equinox</ns0:custom_label_0>
+    <ns0:custom_label_1>NEW_3d</ns0:custom_label_1>
+  </entry>
+  <entry>
+    <id>PB1052</id>
+    <title>2023 CHEVROLET SILVERADO 1500 4WD CREW CAB 147  LT</title>
+    <link rel="alternate" href="https://www.napletonchevycolumbus.com/wp-json/space-multisite/v1/api/?vdp=2GCUDDED8P1110334"/>
+    <ns0:id>PB1052</ns0:id>
+    <ns0:price>38729.00 USD</ns0:price>
+    <ns0:vin>2GCUDDED8P1110334</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>CHEVROLET</ns0:brand>
+    <ns0:store_code>1647799517431806713</ns0:store_code>
+    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
+    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>1647799517431806713</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2023</ns0:year>
+    <ns0:make>CHEVROLET</ns0:make>
+    <ns0:model>SILVERADO 1500</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:description>The Napleton Auto Group promotes a no pressure buying experience that puts the customer in charge of the buying process, and for over 80 years, the Napleton family has made sure that absolutely nothing is more important than our commitment to your satisfaction. Our staff members are professional in every sense of the word, and receive regular training, including factory certification, so they are truly knowledgeable about the vehicles we offer. We want every customer's experience to be as timely, comfortable and ultimately as satisfying as it possible can be. You'll see it in every department of every Napleton Auto Group dealership. We hope you'll join the thousands of other satisfied customers that buy and service their vehicles the Napleton way.\n\n&lt;b&gt;No Accidents! &lt;/b&gt;\n&lt;b&gt;&lt;/b&gt;\n \nThis 2023 CHEVROLET SILVERADO 1500 4WD CREW CAB 147  LT offered in BLACK will make a great addition to your family or business!\n\n&lt;u&gt;Be sure to take note of all this vehicle has to offer:&lt;/u&gt;\n\n&lt;h4 class=&quot;vc_build_package_name&quot;&gt;Dark Essentials Package ($695 value)&lt;/h4&gt;&lt;ul  class=&quot;vc_build_package_item_list&quot;&gt;&lt;li&gt;Black Name Plates&lt;/li&gt;&lt;li&gt;Black Tailgate CHEVROLET Lettering&lt;/li&gt;&lt;li&gt;Front Black Bowtie Emblem&lt;/li&gt;&lt;/ul&gt;&lt;h4 class=&quot;vc_build_package_name&quot;&gt;Preferred Equipment Group 1LT&lt;/h4&gt;&lt;ul  class=&quot;vc_build_package_item_list&quot;&gt;&lt;li&gt;SiriusXM with 360L&lt;/li&gt;&lt;li&gt;Rear 60/40 Folding Bench Seat (folds Up)&lt;/li&gt;&lt;li&gt;Power Front Windows with Passenger Express Down&lt;/li&gt;&lt;li&gt;Power Rear Windows with Express Down&lt;/li&gt;&lt;li&gt;Deep-Tinted Glass&lt;/li&gt;&lt;li&gt;Power Front Windows with Driver Express Up/down&lt;/li&gt;&lt;li&gt;40/20/40 Front Split-Bench Seat&lt;/li&gt;&lt;li&gt;Color-Keyed Carpeting Floor Covering&lt;/li&gt;&lt;li&gt;Front Rubberized Vinyl Floor Mats&lt;/li&gt;&lt;li&gt;Rear Rubberized-Vinyl Floor Mats&lt;/li&gt;&lt;li&gt;Bluetooth For Phone&lt;/li&gt;&lt;li&gt;Compass&lt;/li&gt;&lt;li&gt;Inside Rearview Mirror with Tilt&lt;/li&gt;&lt;li&gt;Heated Power-Adjustable Outside Mirrors&lt;/li&gt;&lt;li&gt;Chrome Mirror Caps&lt;/li&gt;&lt;li&gt;Auto-Locking Rear Differential&lt;/li&gt;&lt;li&gt;Electronic Cruise Control&lt;/li&gt;&lt;li&gt;2.7L Turbo High-Output Engine&lt;/li&gt;&lt;li&gt;Electrical Steering Column Lock&lt;/li&gt;&lt;li&gt;Single-Speed Transfer Case&lt;/li&gt;&lt;li&gt;Convenience Package&lt;/li&gt;&lt;li&gt;All-Star Edition&lt;/li&gt;&lt;li&gt;Chevy Safety Assist&lt;/li&gt;&lt;li&gt;Wireless Phone Projection&lt;/li&gt;&lt;li&gt;17&quot; X 8&quot; Bright Silver Painted Aluminum Wheels&lt;/li&gt;&lt;li&gt;255/70R17 AS BW Tires&lt;/li&gt;&lt;li&gt;Standard Tailgate&lt;/li&gt;&lt;li&gt;EZ Lift Power Lock and Release Tailgate&lt;/li&gt;&lt;li&gt;Cloth Seat Trim&lt;/li&gt;&lt;li&gt;12.3&quot; Multicolor Reconfigurable Digital Display&lt;/li&gt;&lt;li&gt;OnStar and Chevrolet Connected Services Capable&lt;/li&gt;&lt;li&gt;LED Cargo Area Lighting&lt;/li&gt;&lt;li&gt;Steering Wheel Audio Controls&lt;/li&gt;&lt;li&gt;HD Rear Vision Camera&lt;/li&gt;&lt;li&gt;Front Frame-Mounted Black Recovery Hooks&lt;/li&gt;&lt;li&gt;Trailering Package&lt;/li&gt;&lt;/ul&gt;&lt;h4 class=&quot;vc_build_package_name&quot;&gt;Remote Start Package&lt;/h4&gt;&lt;ul  class=&quot;vc_build_package_item_list&quot;&gt;&lt;li&gt;Remote Vehicle Starter System&lt;/li&gt;&lt;li&gt;Electric Rear-Window Defogger&lt;/li&gt;&lt;li&gt;Theft Deterrent System (unauthorized Entry)&lt;/li&gt;&lt;/ul&gt;&lt;h4 class=&quot;vc_build_package_name&quot;&gt;Protection Package&lt;/h4&gt;&lt;ul  class=&quot;vc_build_package_item_list&quot;&gt;&lt;li&gt;Rear Wheelhouse Liners&lt;/li&gt;&lt;li&gt;Chevytec Spray-On Black Bedliner&lt;/li&gt;&lt;/ul&gt;\n&lt;h4 class=&quot;vc_build_feature_name&quot;&gt;Safety and Security&lt;/h4&gt;&lt;ul class=&quot;vc_build_feature_item_list&quot;&gt;&lt;li&gt; Forward collision mitigation - Forward thinking. You look away for just a second and suddenly the vehicle in front of you has stopped. That's when the forward collision mitigation system comes to life.  When it senses an impending impact, it will activate a combination of features to help prevent or reduce the severity of an accident.  Forward collision mitigation is always looking ahead.&lt;/li&gt;&lt;li&gt; Pedestrian impact prevention - An extra step toward safety.  Pedestrians don't always stop, look, and listen, but with Pedestrian Impact Prevention, your vehicle is equipped to better see them and avoid them. This system constantly monitors the road ahead to identify and track pedestrians. It projects that image to an interior display screen, AND should an impact become likely, Pedestrian impact prevention takes steps to avoid a collision.&lt;/li&gt;&lt;li&gt; Pedestrian impact prevention - An extra step toward safety.  Pedestrians don't always stop, look, and listen, but with Pedestrian Impact Prevention, your vehicle is equipped to better see them and avoid them. This system constantly monitors the road ahead to identify and track pedestrians. It projects that image to an interior display screen, AND should an impact become likely, Pedestrian impact prevention takes steps to avoid a collision.&lt;/li&gt;&lt;/ul&gt;&lt;h4 class=&quot;vc_build_feature_name&quot;&gt;Technology and Telematics&lt;/h4&gt;&lt;ul class=&quot;vc_build_feature_item_list&quot;&gt;&lt;li&gt; Apple CarPlay/Android Auto smart device wireless mirroring&lt;/li&gt;&lt;li&gt; Mobile hotspot - WiFi on the fly. Connect your devices to the Internet through your vehicle's private mobile hotspot and take the internet wherever your journey takes you, without eating up your data allowance. Find the hotspot with mobile hotspot.&lt;/li&gt;&lt;/ul&gt;\n\n&lt;u&gt;Other notable features:&lt;/u&gt;\n\n\n \n&lt;b&gt;Napleton Columbus Chevrolet&lt;/b&gt; is proud to serve customers in communities that include Milwaukee, Madison, Green Bay, Kenosha, Racine, Appleton, Waukesha, Oshkosh, Eau Claire, Janesville, West Allis, La Crosse, Sheboygan, Wauwatosa, Fond du Lac, New Berlin, Brookfield, Wausau, Beloit, Greenfield, Manitowoc, Franklin, Oak Creek, West Bend, Sun Prairie, Superior, Stevens Point, Neenah, De Pere, Mequon and Chicagoland area. Give us a call at &lt;b&gt;920-212-8238&lt;/b&gt; or stop by to test drive or inquire about your new car or truck today! &lt;b&gt;800 Maple Ave Columbus WI 53925&lt;/b&gt;\n\n&lt;b&gt;&lt;u&gt;Napleton Autos Online Pricing Disclaimer&lt;/u&gt;&lt;/b&gt;\nCertified Pre-Owned and used inventory is offered for sale to the public. Pricing indicated as &quot;The Napleton Price&quot; includes all applicable dealer discounts and/or manufacturer's incentives, and does not include any tax, title, doc fee, license, optional equipment costs and/or dealer installed add-on items selected by the customer at the time of sale. Destination charges may vary by model and are included in pricing. All pricing is subject to change without notice.\nNapleton Auto Group utilizes this website, as well as 3rd party websites, to market and advertise our inventory online. All pricing is subject to the availability of that exact vehicle, as indicated by the Vehicle Identification Number (VIN) and dealer stock number. The pricing reflected on this website, www.napleton.autos, represents the most current and accurate pricing for Napleton Auto Group. In the event of a discrepancy in pricing between this website and any 3rd party website, this website will be considered the most current and accurate price and supersedes any and all other advertised prices.\nWhile great effort is made to ensure the accuracy of the information on this site, errors do occur, so please verify all information with a Napleton Auto Group Client Advisor.</ns0:description>
+    <ns0:link_template>https://www.napletonchevycolumbus.com/wp-json/space-multisite/v1/api/?vdp=2GCUDDED8P1110334&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>4WD CREW CAB 147  LT</ns0:trim>
+    <ns0:mileage>33483 miles</ns0:mileage>
+    <ns0:color>BLACK</ns0:color>
+    <ns0:custom_label_0>SILVERADO 1500</ns0:custom_label_0>
+    <ns0:custom_label_1>NEW_3d</ns0:custom_label_1>
+  </entry>
+  <entry>
+    <id>PB1053</id>
+    <title>2024 CHEVROLET EQUINOX FWD 4DR LT W/1LT</title>
+    <link rel="alternate" href="https://www.napletonchevycolumbus.com/wp-json/space-multisite/v1/api/?vdp=3GNAXKEG9RL139620"/>
+    <ns0:id>PB1053</ns0:id>
+    <ns0:price>23975.00 USD</ns0:price>
+    <ns0:vin>3GNAXKEG9RL139620</ns0:vin>
+    <ns0:google_product_category>916</ns0:google_product_category>
+    <ns0:brand>CHEVROLET</ns0:brand>
+    <ns0:store_code>1647799517431806713</ns0:store_code>
+    <ns0:dealership_name>Napleton Chevrolet Columbus</ns0:dealership_name>
+    <ns0:dealership_address>800 Maple Avenue, Columbus, WI 53925</ns0:dealership_address>
+    <ns0:vehicle_fulfillment>
+      <ns0:option>in_store</ns0:option>
+      <ns0:store_code>1647799517431806713</ns0:store_code>
+    </ns0:vehicle_fulfillment>
+    <ns0:year>2024</ns0:year>
+    <ns0:make>CHEVROLET</ns0:make>
+    <ns0:model>EQUINOX</ns0:model>
+    <ns0:condition>used</ns0:condition>
+    <ns0:availability>in stock</ns0:availability>
+    <ns0:description>The Napleton Auto Group promotes a no pressure buying experience that puts the customer in charge of the buying process, and for over 80 years, the Napleton family has made sure that absolutely nothing is more important than our commitment to your satisfaction. Our staff members are professional in every sense of the word, and receive regular training, including factory certification, so they are truly knowledgeable about the vehicles we offer. We want every customer's experience to be as timely, comfortable and ultimately as satisfying as it possible can be. You'll see it in every department of every Napleton Auto Group dealership. We hope you'll join the thousands of other satisfied customers that buy and service their vehicles the Napleton way.\n\n&lt;b&gt;No Accidents! &lt;/b&gt;\n&lt;b&gt;One Owner! &lt;/b&gt;\n \nThis 2024 CHEVROLET EQUINOX FWD 4DR LT W/1LT offered in WHITE will make a great addition to your family or business!\n\n&lt;u&gt;Be sure to take note of all this vehicle has to offer:&lt;/u&gt;\n\n&lt;h4 class=&quot;vc_build_package_name&quot;&gt;Preferred Equipment Group 1LT&lt;/h4&gt;&lt;ul  class=&quot;vc_build_package_item_list&quot;&gt;&lt;/ul&gt;&lt;h4 class=&quot;vc_build_package_name&quot;&gt;Floor Liner Package ($350 value)&lt;/h4&gt;&lt;ul  class=&quot;vc_build_package_item_list&quot;&gt;&lt;li&gt;Integrated Cargo Liner&lt;/li&gt;&lt;li&gt;All-Weather Floor Liners&lt;/li&gt;&lt;/ul&gt;\n&lt;h4 class=&quot;vc_build_feature_name&quot;&gt;Safety and Security&lt;/h4&gt;&lt;ul class=&quot;vc_build_feature_item_list&quot;&gt;&lt;li&gt; Forward collision mitigation - Forward thinking. You look away for just a second and suddenly the vehicle in front of you has stopped. That's when the forward collision mitigation system comes to life.  When it senses an impending impact, it will activate a combination of features to help prevent or reduce the severity of an accident.  Forward collision mitigation is always looking ahead.&lt;/li&gt;&lt;li&gt; Pedestrian impact prevention - An extra step toward safety.  Pedestrians don't always stop, look, and listen, but with Pedestrian Impact Prevention, your vehicle is equipped to better see them and avoid them. This system constantly monitors the road ahead to identify and track pedestrians. It projects that image to an interior display screen, AND should an impact become likely, Pedestrian impact prevention takes steps to avoid a collision.&lt;/li&gt;&lt;li&gt; Rear camera - Watching your back!  The rear camera helps you see obstacles and hazards you otherwise couldn't by showing enhanced images of what is behind you. The rear camera is an extra set of eyes that's both convenient and safe.&lt;/li&gt;&lt;li&gt; Lane departure prevention - Keep it between the lines. It only takes a moment of inattention for your vehicle to drift.  With lane departure prevention, your vehicle takes corrective action to help you avoid unintentionally moving out of your lane.  Lane departure prevention is an extra level of safety for you and those around you.&lt;/li&gt;&lt;/ul&gt;&lt;h4 class=&quot;vc_build_feature_name&quot;&gt;Technology and Telematics&lt;/h4&gt;&lt;ul class=&quot;vc_build_feature_item_list&quot;&gt;&lt;li&gt; Mobile hotspot - WiFi on the fly. Connect your devices to the Internet through your vehicle's private mobile hotspot and take the internet wherever your journey takes you, without eating up your data allowance. Find the hotspot with mobile hotspot.&lt;/li&gt;&lt;/ul&gt;\n\n&lt;u&gt;Other notable features:&lt;/u&gt;\n\n\n \n&lt;b&gt;Napleton Columbus Chevrolet&lt;/b&gt; is proud to serve customers in communities that include Milwaukee, Madison, Green Bay, Kenosha, Racine, Appleton, Waukesha, Oshkosh, Eau Claire, Janesville, West Allis, La Crosse, Sheboygan, Wauwatosa, Fond du Lac, New Berlin, Brookfield, Wausau, Beloit, Greenfield, Manitowoc, Franklin, Oak Creek, West Bend, Sun Prairie, Superior, Stevens Point, Neenah, De Pere, Mequon and Chicagoland area. Give us a call at &lt;b&gt;920-212-8238&lt;/b&gt; or stop by to test drive or inquire about your new car or truck today! &lt;b&gt;800 Maple Ave Columbus WI 53925&lt;/b&gt;\n\n&lt;b&gt;&lt;u&gt;Napleton Autos Online Pricing Disclaimer&lt;/u&gt;&lt;/b&gt;\nCertified Pre-Owned and used inventory is offered for sale to the public. Pricing indicated as &quot;The Napleton Price&quot; includes all applicable dealer discounts and/or manufacturer's incentives, and does not include any tax, title, doc fee, license, optional equipment costs and/or dealer installed add-on items selected by the customer at the time of sale. Destination charges may vary by model and are included in pricing. All pricing is subject to change without notice.\nNapleton Auto Group utilizes this website, as well as 3rd party websites, to market and advertise our inventory online. All pricing is subject to the availability of that exact vehicle, as indicated by the Vehicle Identification Number (VIN) and dealer stock number. The pricing reflected on this website, www.napleton.autos, represents the most current and accurate pricing for Napleton Auto Group. In the event of a discrepancy in pricing between this website and any 3rd party website, this website will be considered the most current and accurate price and supersedes any and all other advertised prices.\nWhile great effort is made to ensure the accuracy of the information on this site, errors do occur, so please verify all information with a Napleton Auto Group Client Advisor.</ns0:description>
+    <ns0:link_template>https://www.napletonchevycolumbus.com/wp-json/space-multisite/v1/api/?vdp=3GNAXKEG9RL139620&amp;store={store_code}&amp;</ns0:link_template>
+    <ns0:trim>FWD 4DR LT W/1LT</ns0:trim>
+    <ns0:mileage>10587 miles</ns0:mileage>
+    <ns0:color>WHITE</ns0:color>
+    <ns0:custom_label_0>EQUINOX</ns0:custom_label_0>
+    <ns0:custom_label_1>NEW_3d</ns0:custom_label_1>
   </entry>
 </feed>
