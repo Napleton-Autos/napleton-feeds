@@ -1,98 +1,6 @@
 <?xml version="1.0" ?>
 <listings>
   <listing>
-    <vehicle_id>kmhl24ja3sa494871</vehicle_id>
-    <title>2025 Hyundai Sonata SE</title>
-    <description>2025 Hyundai Sonata. Trim: SE. Color: Serenity White. Body Style: Sedan.</description>
-    <address format="simple">
-      <component name="addr1">2700 S. Michigan Ave.</component>
-      <component name="city">Chicago</component>
-      <component name="region">IL</component>
-      <component name="country">US</component>
-      <component name="postal_code">60616</component>
-    </address>
-    <year>2025</year>
-    <make>Hyundai</make>
-    <model>Sonata</model>
-    <vin>kmhl24ja3sa494871</vin>
-    <content_ids>kmhl24ja3sa494871</content_ids>
-    <availability>in stock</availability>
-    <price>24140.00 USD</price>
-    <url>https://napletondowntownhyundai.com/vehicle/new-2025-hyundai-sonata-se-kmhl24ja3sa494871/</url>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <condition>new</condition>
-    <mileage>
-      <value>3974</value>
-      <unit>MI</unit>
-    </mileage>
-    <trim>SE</trim>
-    <body_style>SEDAN</body_style>
-    <exterior_color>Serenity White</exterior_color>
-    <interior_color>Black</interior_color>
-    <days_on_lot>473</days_on_lot>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2670757781--YFRKL-ltid1/2670757781.jpg</url>
-      <tag>main</tag>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2670757791--DJACW-ltid1/2670757791.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2670757801--8ZXPS-ltid1/2670757801.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2670757811--8ZXPS-ltid1/2670757811.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2670757821--8ZXPS-ltid1/2670757821.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2670757831--TFLUK-ltid1/2670757831.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2670757841--8ZXPS-ltid1/2670757841.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2670757851--TFLUK-ltid1/2670757851.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2670757861--TFLUK-ltid1/2670757861.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2670757871--TFLUK-ltid1/2670757871.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2670757881--SKNJO-ltid1/2670757881.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2670757891--SKNJO-ltid1/2670757891.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2670757901--SKNJO-ltid1/2670757901.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2670757911--SKNJO-ltid1/2670757911.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2670757921--SKNJO-ltid1/2670757921.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2670758351--3AKG4-ltid1/2670758351.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2670758361--3AKG4-ltid1/2670758361.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2670758371--3AKG4-ltid1/2670758371.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2670758381--EUZ1L-ltid1/2670758381.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2670758391--EUZ1L-ltid1/2670758391.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <vehicle_id>7yamtfs36ty006113</vehicle_id>
     <title>2026 Hyundai IONIQ 9 SE</title>
     <description>2026 Hyundai IONIQ 9. Trim: SE. Color: Cosmic Blue. Body Style: Sport Utility.</description>
@@ -121,7 +29,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Cosmic Blue</exterior_color>
     <interior_color>Gray</interior_color>
-    <days_on_lot>430</days_on_lot>
+    <days_on_lot>431</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2670489371--P7W5R-ltid1/2670489371.jpg</url>
       <tag>main</tag>
@@ -213,7 +121,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Phantom Black</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>356</days_on_lot>
+    <days_on_lot>357</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2668225161--Q90XN-ltid1/2668225161.jpg</url>
       <tag>main</tag>
@@ -305,7 +213,7 @@
     <body_style>SEDAN</body_style>
     <exterior_color>Portofino Gray</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>342</days_on_lot>
+    <days_on_lot>343</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2450605801--+D-OZ-ltid1/2450605801.jpg</url>
       <tag>main</tag>
@@ -373,43 +281,67 @@
     <body_style>SUV</body_style>
     <exterior_color>Phantom Black</exterior_color>
     <interior_color>Gray</interior_color>
-    <days_on_lot>343</days_on_lot>
+    <days_on_lot>344</days_on_lot>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512784451--AGLJJ-ltid1/2512784451.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676007291--3KET7-ltid1/2676007291.jpg</url>
       <tag>main</tag>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512784461--VPNJF-ltid1/2512784461.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676007301--SG-MZ-ltid1/2676007301.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512784471--EJV7E-ltid1/2512784471.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676007311--SG-MZ-ltid1/2676007311.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512784481--D7R22-ltid1/2512784481.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676007321--9+TM6-ltid1/2676007321.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512784491--D7R22-ltid1/2512784491.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676007331--GCWKK-ltid1/2676007331.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512784501--C533J-ltid1/2512784501.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676007341--4U6VV-ltid1/2676007341.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512784511--WOBSK-ltid1/2512784511.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676007351--KU34V-ltid1/2676007351.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512784521--WOBSK-ltid1/2512784521.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676007361--ZXHWZ-ltid1/2676007361.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512785131--TG-R4-ltid1/2512785131.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676007371--DOLOI-ltid1/2676007371.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512785141--XTGFQ-ltid1/2512785141.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676007381--DBJ15-ltid1/2676007381.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512785151--F2RDS-ltid1/2512785151.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676007391--ATXEK-ltid1/2676007391.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512785161--++2SD-ltid1/2512785161.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676007401--FTG-W-ltid1/2676007401.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676007411--HA0A5-ltid1/2676007411.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676007421--JEZAV-ltid1/2676007421.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676007431--K2JLV-ltid1/2676007431.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676007441--K2JLV-ltid1/2676007441.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676007451--3M7CD-ltid1/2676007451.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676007461--O-CQB-ltid1/2676007461.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676007471--XXKUZ-ltid1/2676007471.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676007481--XXKUZ-ltid1/2676007481.jpg</url>
     </image>
   </listing>
   <listing>
@@ -441,7 +373,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Abyss Black</exterior_color>
     <interior_color>Gray</interior_color>
-    <days_on_lot>343</days_on_lot>
+    <days_on_lot>344</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2670903421--DOC07-ltid1/2670903421.jpg</url>
       <tag>main</tag>
@@ -533,43 +465,67 @@
     <body_style>SUV</body_style>
     <exterior_color>Snow White Pearl</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>333</days_on_lot>
+    <days_on_lot>334</days_on_lot>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512784971--F9BKF-ltid1/2512784971.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958831--ISW7O-ltid1/2675958831.jpg</url>
       <tag>main</tag>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512802331--L0YGE-ltid1/2512802331.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958841--ISW7O-ltid1/2675958841.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512802341--FMSNL-ltid1/2512802341.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958851--XHMVB-ltid1/2675958851.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512802351--IR46M-ltid1/2512802351.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958861--MVSBT-ltid1/2675958861.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512802361--IR46M-ltid1/2512802361.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958871--MVSBT-ltid1/2675958871.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512802371--NMTCY-ltid1/2512802371.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958881--JD3XI-ltid1/2675958881.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512802381--2XHG7-ltid1/2512802381.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958891--JD3XI-ltid1/2675958891.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512802391--2XHG7-ltid1/2512802391.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958901--4K8SU-ltid1/2675958901.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512802401--E5-HQ-ltid1/2512802401.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958911--ZE3Q4-ltid1/2675958911.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512802411--G9ELX-ltid1/2512802411.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958921--ZE3Q4-ltid1/2675958921.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512802421--GN5ZF-ltid1/2512802421.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958931--SDLQ4-ltid1/2675958931.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512802431--KWL0D-ltid1/2512802431.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958941--SDLQ4-ltid1/2675958941.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958441--NA3Y6-ltid1/2675958441.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958451--QAEDP-ltid1/2675958451.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958461--6F0R0-ltid1/2675958461.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958471--6F0R0-ltid1/2675958471.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958481--6F0R0-ltid1/2675958481.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958491--6F0R0-ltid1/2675958491.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958501--QTY-E-ltid1/2675958501.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958511--I85QO-ltid1/2675958511.jpg</url>
     </image>
   </listing>
   <listing>
@@ -601,43 +557,67 @@
     <body_style>SUV</body_style>
     <exterior_color>Cosmic Blue</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>325</days_on_lot>
+    <days_on_lot>326</days_on_lot>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512802181--3CPBS-ltid1/2512802181.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675582871--GNSB+-ltid1/2675582871.jpg</url>
       <tag>main</tag>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512802191--3CPBS-ltid1/2512802191.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675582881--GNSB+-ltid1/2675582881.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512802201--JXFZ+-ltid1/2512802201.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675582891--+QCMH-ltid1/2675582891.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512802211---ZYOJ-ltid1/2512802211.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675582901--+QCMH-ltid1/2675582901.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512802221---ZYOJ-ltid1/2512802221.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675582911--+QCMH-ltid1/2675582911.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512802231--4MNO2-ltid1/2512802231.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675582921--NRS4L-ltid1/2675582921.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512802241--2TFEI-ltid1/2512802241.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675582931--NHWO8-ltid1/2675582931.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512785731--83JGK-ltid1/2512785731.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675582941--IT0MA-ltid1/2675582941.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512785741--83JGK-ltid1/2512785741.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675582951--NHWO8-ltid1/2675582951.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512785751--D32NY-ltid1/2512785751.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675582961--IT0MA-ltid1/2675582961.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512785761--GF9EB-ltid1/2512785761.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675582971--J2SBP-ltid1/2675582971.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512785771--ROX1X-ltid1/2512785771.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675582981--J2SBP-ltid1/2675582981.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675582991--CZCPA-ltid1/2675582991.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675583001--CZCPA-ltid1/2675583001.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675583011--CZCPA-ltid1/2675583011.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675583021--CZCPA-ltid1/2675583021.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675583031--NUJEB-ltid1/2675583031.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675583041--NUJEB-ltid1/2675583041.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675583051--VMTP3-ltid1/2675583051.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675583061--VMTP3-ltid1/2675583061.jpg</url>
     </image>
   </listing>
   <listing>
@@ -669,7 +649,7 @@
     <body_style>SEDAN</body_style>
     <exterior_color>Serenity White</exterior_color>
     <interior_color>Gray</interior_color>
-    <days_on_lot>325</days_on_lot>
+    <days_on_lot>326</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512785171--2TFEI-ltid1/2512785171.jpg</url>
       <tag>main</tag>
@@ -758,7 +738,7 @@
     <body_style>SEDAN</body_style>
     <exterior_color>Aero Silver</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>280</days_on_lot>
+    <days_on_lot>281</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2671023981--68JMC-ltid1/2671023981.jpg</url>
       <tag>main</tag>
@@ -850,7 +830,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Cyber Gray</exterior_color>
     <interior_color>Gray</interior_color>
-    <days_on_lot>252</days_on_lot>
+    <days_on_lot>253</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2670921831--ZNXWY-ltid1/2670921831.jpg</url>
       <tag>main</tag>
@@ -942,7 +922,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Ecotronic Gray Pearl</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>222</days_on_lot>
+    <days_on_lot>223</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2671008691--6OPQM-ltid1/2671008691.jpg</url>
       <tag>main</tag>
@@ -1033,7 +1013,7 @@
     <trim>SE</trim>
     <body_style>SUV</body_style>
     <exterior_color>Ecotronic Gray</exterior_color>
-    <days_on_lot>206</days_on_lot>
+    <days_on_lot>207</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512784771--RCTQV-ltid1/2512784771.jpg</url>
       <tag>main</tag>
@@ -1112,7 +1092,7 @@
     <trim>Calligraphy</trim>
     <body_style>SUV</body_style>
     <exterior_color>Serenity White</exterior_color>
-    <days_on_lot>206</days_on_lot>
+    <days_on_lot>207</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512784671--BBRD--ltid1/2512784671.jpg</url>
       <tag>main</tag>
@@ -1198,7 +1178,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Ecotronic Gray</exterior_color>
     <interior_color>Gray/Green 3-Tone</interior_color>
-    <days_on_lot>203</days_on_lot>
+    <days_on_lot>204</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2667901551--68ZZK-ltid1/2667901551.jpg</url>
       <tag>main</tag>
@@ -1290,7 +1270,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Ecotronic Gray</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>203</days_on_lot>
+    <days_on_lot>204</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2668337531--AO7S8-ltid1/2668337531.jpg</url>
       <tag>main</tag>
@@ -1382,7 +1362,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Serenity White Pearl</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>200</days_on_lot>
+    <days_on_lot>201</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512792381--SEMTZ-ltid1/2512792381.jpg</url>
       <tag>main</tag>
@@ -1462,7 +1442,7 @@
     <body_style>SEDAN</body_style>
     <exterior_color>Fluid Metal</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>196</days_on_lot>
+    <days_on_lot>197</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512787751--LOC8H-ltid1/2512787751.jpg</url>
       <tag>main</tag>
@@ -1542,7 +1522,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Hampton Gray</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>196</days_on_lot>
+    <days_on_lot>197</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512792461--LAITA-ltid1/2512792461.jpg</url>
       <tag>main</tag>
@@ -1622,7 +1602,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Phantom Black</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>196</days_on_lot>
+    <days_on_lot>197</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512786611--UNKF9-ltid1/2512786611.jpg</url>
       <tag>main</tag>
@@ -1702,7 +1682,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Phantom Black</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>188</days_on_lot>
+    <days_on_lot>189</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512792491--7WXXS-ltid1/2512792491.jpg</url>
       <tag>main</tag>
@@ -1782,7 +1762,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Phantom Black</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>188</days_on_lot>
+    <days_on_lot>189</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512789281--PXXK--ltid1/2512789281.jpg</url>
       <tag>main</tag>
@@ -1868,7 +1848,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Hampton Gray</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>188</days_on_lot>
+    <days_on_lot>189</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512787081--DEGWX-ltid1/2512787081.jpg</url>
       <tag>main</tag>
@@ -1957,7 +1937,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Ecotronic Gray</exterior_color>
     <interior_color>Gray</interior_color>
-    <days_on_lot>185</days_on_lot>
+    <days_on_lot>186</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512788581--DWXPI-ltid1/2512788581.jpg</url>
       <tag>main</tag>
@@ -2037,7 +2017,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Serenity White</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>173</days_on_lot>
+    <days_on_lot>174</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512787471--RJQGX-ltid1/2512787471.jpg</url>
       <tag>main</tag>
@@ -2117,7 +2097,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Serenity White</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>173</days_on_lot>
+    <days_on_lot>174</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512788361--F19L7-ltid1/2512788361.jpg</url>
       <tag>main</tag>
@@ -2197,7 +2177,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Serenity White</exterior_color>
     <interior_color>Gray</interior_color>
-    <days_on_lot>171</days_on_lot>
+    <days_on_lot>172</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512788041--GYMGE-ltid1/2512788041.jpg</url>
       <tag>main</tag>
@@ -2277,52 +2257,67 @@
     <body_style>SUV</body_style>
     <exterior_color>Serenity White</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>171</days_on_lot>
+    <days_on_lot>172</days_on_lot>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512788791--+AAUR-ltid1/2512788791.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676170831--AUJCQ-ltid1/2676170831.jpg</url>
       <tag>main</tag>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512788801--+AAUR-ltid1/2512788801.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676170841--QWNLJ-ltid1/2676170841.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512788811--I9AMT-ltid1/2512788811.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676170851--QWNLJ-ltid1/2676170851.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512788821--F0KXU-ltid1/2512788821.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676170861--TFQMM-ltid1/2676170861.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512789571--F0KXU-ltid1/2512789571.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676170871--WDHX4-ltid1/2676170871.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512789581--JS3TZ-ltid1/2512789581.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676170881--UX2-V-ltid1/2676170881.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512789591--PQLNI-ltid1/2512789591.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676170891--MY0PT-ltid1/2676170891.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512789601--FZ3PW-ltid1/2512789601.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676170901--BDONB-ltid1/2676170901.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512789611--FZ3PW-ltid1/2512789611.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676170911---9ODR-ltid1/2676170911.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512789621--7XGHZ-ltid1/2512789621.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676170921--UHO6C-ltid1/2676170921.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512789631--7XGHZ-ltid1/2512789631.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676170931--2QSVC-ltid1/2676170931.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512789641--S5U21-ltid1/2512789641.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676170941--QGB6W-ltid1/2676170941.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512789651--BW46X-ltid1/2512789651.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676170951--ULLWK-ltid1/2676170951.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512789661--LBUUL-ltid1/2512789661.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676170961--LT5YL-ltid1/2676170961.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512789671--96YNH-ltid1/2512789671.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676170971--TQ8DJ-ltid1/2676170971.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676170981--CESGV-ltid1/2676170981.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676170991--G+U0N-ltid1/2676170991.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676171001--VX+YX-ltid1/2676171001.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676171011--IXCSU-ltid1/2676171011.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676171021--HYH+D-ltid1/2676171021.jpg</url>
     </image>
   </listing>
   <listing>
@@ -2354,52 +2349,67 @@
     <body_style>SUV</body_style>
     <exterior_color>Phantom Black</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>171</days_on_lot>
+    <days_on_lot>172</days_on_lot>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512789081--96YNH-ltid1/2512789081.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958591--3SWU8-ltid1/2675958591.jpg</url>
       <tag>main</tag>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512789091--VPQSX-ltid1/2512789091.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958601--3SWU8-ltid1/2675958601.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512789101--KOJYR-ltid1/2512789101.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958611--KZYD8-ltid1/2675958611.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512789111--YBHN0-ltid1/2512789111.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958621--KZYD8-ltid1/2675958621.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512789861--TYPH--ltid1/2512789861.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958631--EWZSX-ltid1/2675958631.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512789871--L-JFL-ltid1/2512789871.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958641--4+XMW-ltid1/2675958641.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512789881--L-JFL-ltid1/2512789881.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958651--4+XMW-ltid1/2675958651.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512789891--BO4QK-ltid1/2512789891.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958661--4+XMW-ltid1/2675958661.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512789901--GUH2V-ltid1/2512789901.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958671--4+XMW-ltid1/2675958671.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512789911--GMVI+-ltid1/2512789911.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958681--UW8HR-ltid1/2675958681.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512789921--GMVI+-ltid1/2512789921.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958691--UW8HR-ltid1/2675958691.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512789931--DQUBN-ltid1/2512789931.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958701--QITNZ-ltid1/2675958701.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512789941--LMV8C-ltid1/2512789941.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958711--QITNZ-ltid1/2675958711.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512789681--OTVZW-ltid1/2512789681.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958721--L84MO-ltid1/2675958721.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512789691--OTVZW-ltid1/2512789691.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958951--B3PZC-ltid1/2675958951.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958961--B3PZC-ltid1/2675958961.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958971--B3PZC-ltid1/2675958971.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958981--WATLU-ltid1/2675958981.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675958991--WATLU-ltid1/2675958991.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2675959001--9ROPF-ltid1/2675959001.jpg</url>
     </image>
   </listing>
   <listing>
@@ -2431,7 +2441,7 @@
     <body_style>SEDAN</body_style>
     <exterior_color>Ultimate Red</exterior_color>
     <interior_color>Gray</interior_color>
-    <days_on_lot>167</days_on_lot>
+    <days_on_lot>168</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512789541--LMV8C-ltid1/2512789541.jpg</url>
       <tag>main</tag>
@@ -2511,7 +2521,7 @@
     <body_style>SEDAN</body_style>
     <exterior_color>Intense Blue</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>167</days_on_lot>
+    <days_on_lot>168</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512793651--JCCBO-ltid1/2512793651.jpg</url>
       <tag>main</tag>
@@ -2594,7 +2604,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Serenity White</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>153</days_on_lot>
+    <days_on_lot>154</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512790371--ZJYLF-ltid1/2512790371.jpg</url>
       <tag>main</tag>
@@ -2683,7 +2693,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Serenity White</exterior_color>
     <interior_color>Pecan Brown</interior_color>
-    <days_on_lot>147</days_on_lot>
+    <days_on_lot>148</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512790281--W9RYL-ltid1/2512790281.jpg</url>
       <tag>main</tag>
@@ -2772,7 +2782,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Creamy White Pearl</exterior_color>
     <interior_color>Gray</interior_color>
-    <days_on_lot>140</days_on_lot>
+    <days_on_lot>141</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512791481--07ZM1-ltid1/2512791481.jpg</url>
       <tag>main</tag>
@@ -2858,7 +2868,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Abyss Black Pearl</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>132</days_on_lot>
+    <days_on_lot>133</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512789211--HBFMF-ltid1/2512789211.jpg</url>
       <tag>main</tag>
@@ -2947,7 +2957,7 @@
     <body_style>SEDAN</body_style>
     <exterior_color>Serenity White</exterior_color>
     <interior_color>Gray</interior_color>
-    <days_on_lot>130</days_on_lot>
+    <days_on_lot>131</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512792001--MOWWF-ltid1/2512792001.jpg</url>
       <tag>main</tag>
@@ -3024,7 +3034,7 @@
     <vin>kmhrc8a3xtu466646</vin>
     <content_ids>kmhrc8a3xtu466646</content_ids>
     <availability>in stock</availability>
-    <price>24138.00 USD</price>
+    <price>24073.00 USD</price>
     <url>https://napletondowntownhyundai.com/vehicle/new-2026-hyundai-venue-sel-kmhrc8a3xtu466646/</url>
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
@@ -3036,7 +3046,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Ecotronic Gray</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>122</days_on_lot>
+    <days_on_lot>123</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512791881--4E-MY-ltid1/2512791881.jpg</url>
       <tag>main</tag>
@@ -3125,7 +3135,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Atlas White</exterior_color>
     <interior_color>Gray</interior_color>
-    <days_on_lot>122</days_on_lot>
+    <days_on_lot>123</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512802631--FA9E+-ltid1/2512802631.jpg</url>
       <tag>main</tag>
@@ -3214,7 +3224,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Denim Blue Pearl</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>122</days_on_lot>
+    <days_on_lot>123</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512790091--QUNFO-ltid1/2512790091.jpg</url>
       <tag>main</tag>
@@ -3303,7 +3313,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Creamy White Pearl</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>109</days_on_lot>
+    <days_on_lot>110</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512792641--YGAZE-ltid1/2512792641.jpg</url>
       <tag>main</tag>
@@ -3392,7 +3402,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Serenity White</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>109</days_on_lot>
+    <days_on_lot>110</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512793251--DZ4WC-ltid1/2512793251.jpg</url>
       <tag>main</tag>
@@ -3481,7 +3491,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Ecotronic Gray</exterior_color>
     <interior_color>Gray</interior_color>
-    <days_on_lot>102</days_on_lot>
+    <days_on_lot>103</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512793381--QNNYQ-ltid1/2512793381.jpg</url>
       <tag>main</tag>
@@ -3573,7 +3583,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Onyx Black</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>102</days_on_lot>
+    <days_on_lot>103</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512796051--F72RJ-ltid1/2512796051.jpg</url>
       <tag>main</tag>
@@ -3665,7 +3675,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Lunar White</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>98</days_on_lot>
+    <days_on_lot>99</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512795811--MZSE3-ltid1/2512795811.jpg</url>
       <tag>main</tag>
@@ -3757,7 +3767,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Mirage Green</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>95</days_on_lot>
+    <days_on_lot>96</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512795121--2A6UM-ltid1/2512795121.jpg</url>
       <tag>main</tag>
@@ -3849,7 +3859,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Ecotronic Gray</exterior_color>
     <interior_color>Gray</interior_color>
-    <days_on_lot>88</days_on_lot>
+    <days_on_lot>89</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512794081--7GXUQ-ltid1/2512794081.jpg</url>
       <tag>main</tag>
@@ -3941,7 +3951,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Mirage Green</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>87</days_on_lot>
+    <days_on_lot>88</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512795191--X3YJE-ltid1/2512795191.jpg</url>
       <tag>main</tag>
@@ -4033,7 +4043,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Ecotronic Gray Pearl</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>87</days_on_lot>
+    <days_on_lot>88</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512796591--Y6+JB-ltid1/2512796591.jpg</url>
       <tag>main</tag>
@@ -4125,7 +4135,7 @@
     <body_style>SEDAN</body_style>
     <exterior_color>Serenity White</exterior_color>
     <interior_color>Dark Gray/Camel</interior_color>
-    <days_on_lot>221</days_on_lot>
+    <days_on_lot>222</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2670758471--59FVV-ltid1/2670758471.jpg</url>
       <tag>main</tag>
@@ -4217,7 +4227,7 @@
     <body_style>SEDAN</body_style>
     <exterior_color>Serenity White</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>76</days_on_lot>
+    <days_on_lot>77</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2667901911--VKN+U-ltid1/2667901911.jpg</url>
       <tag>main</tag>
@@ -4309,7 +4319,7 @@
     <body_style>SEDAN</body_style>
     <exterior_color>Abyss Black</exterior_color>
     <interior_color>Gray</interior_color>
-    <days_on_lot>76</days_on_lot>
+    <days_on_lot>77</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2585509381--NXZOV-ltid1/2585509381.jpg</url>
       <tag>main</tag>
@@ -4401,7 +4411,7 @@
     <body_style>SEDAN</body_style>
     <exterior_color>Abyss Black</exterior_color>
     <interior_color>Dark Gray</interior_color>
-    <days_on_lot>76</days_on_lot>
+    <days_on_lot>77</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2585509321--V6OEY-ltid1/2585509321.jpg</url>
       <tag>main</tag>
@@ -4493,7 +4503,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Cyber Gray Metallic</exterior_color>
     <interior_color>Gray</interior_color>
-    <days_on_lot>76</days_on_lot>
+    <days_on_lot>77</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2429577671--3RGVE-ltid1/2429577671.jpg</url>
       <tag>main</tag>
@@ -4561,7 +4571,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Amazon Gray</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>76</days_on_lot>
+    <days_on_lot>77</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2585510111--RPYCY-ltid1/2585510111.jpg</url>
       <tag>main</tag>
@@ -4653,7 +4663,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Amazon Gray</exterior_color>
     <interior_color>Gray/Green 3-Tone</interior_color>
-    <days_on_lot>76</days_on_lot>
+    <days_on_lot>77</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2429577911--WWHCH-ltid1/2429577911.jpg</url>
       <tag>main</tag>
@@ -4724,7 +4734,7 @@
     <body_style>SEDAN</body_style>
     <exterior_color>Amazon Gray</exterior_color>
     <interior_color>Light Gray</interior_color>
-    <days_on_lot>73</days_on_lot>
+    <days_on_lot>74</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512799091--W1SBD-ltid1/2512799091.jpg</url>
       <tag>main</tag>
@@ -4816,7 +4826,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Ecotronic Gray</exterior_color>
     <interior_color>Gray</interior_color>
-    <days_on_lot>73</days_on_lot>
+    <days_on_lot>74</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512797481--0KY23-ltid1/2512797481.jpg</url>
       <tag>main</tag>
@@ -4908,7 +4918,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Atlas White</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>73</days_on_lot>
+    <days_on_lot>74</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512799851--VUXHY-ltid1/2512799851.jpg</url>
       <tag>main</tag>
@@ -5000,7 +5010,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Phantom Black</exterior_color>
     <interior_color>Medium Gray</interior_color>
-    <days_on_lot>73</days_on_lot>
+    <days_on_lot>74</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512802051--MHCQM-ltid1/2512802051.jpg</url>
       <tag>main</tag>
@@ -5092,7 +5102,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Sage Gray</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>68</days_on_lot>
+    <days_on_lot>69</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2512799201--48IS8-ltid1/2512799201.jpg</url>
       <tag>main</tag>
@@ -5184,7 +5194,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Amazon Gray</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>54</days_on_lot>
+    <days_on_lot>55</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2585510651--YGSGX-ltid1/2585510651.jpg</url>
       <tag>main</tag>
@@ -5276,7 +5286,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Lunar White</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>54</days_on_lot>
+    <days_on_lot>55</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2585510451--TJ1YB-ltid1/2585510451.jpg</url>
       <tag>main</tag>
@@ -5368,7 +5378,7 @@
     <body_style>OTHER</body_style>
     <exterior_color>Blue Stone</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>54</days_on_lot>
+    <days_on_lot>55</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2585511271--2KIYQ-ltid1/2585511271.jpg</url>
       <tag>main</tag>
@@ -5460,7 +5470,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Creamy White Pearl</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>34</days_on_lot>
+    <days_on_lot>35</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2606578411--ND5+R-ltid1/2606578411.jpg</url>
       <tag>main</tag>
@@ -5552,43 +5562,67 @@
     <body_style>SEDAN</body_style>
     <exterior_color>Abyss Black</exterior_color>
     <interior_color>Gray</interior_color>
-    <days_on_lot>31</days_on_lot>
+    <days_on_lot>32</days_on_lot>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2592247851--5DH9X-ltid1/2592247851.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676296531--Y+C89-ltid1/2676296531.jpg</url>
       <tag>main</tag>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2592247861--CR9JA-ltid1/2592247861.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676296541--Y+C89-ltid1/2676296541.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2592247871--ZVZG3-ltid1/2592247871.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676296551--CXWX9-ltid1/2676296551.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2592247881--ZVZG3-ltid1/2592247881.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676296561--Y+C89-ltid1/2676296561.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2592247891--EARUH-ltid1/2592247891.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676296571--Y+C89-ltid1/2676296571.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2592247901--9WYO5-ltid1/2592247901.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676296581--Y+C89-ltid1/2676296581.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2592247911--UL2OX-ltid1/2592247911.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676296591--Y+C89-ltid1/2676296591.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2592247921--UL2OX-ltid1/2592247921.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676296601--Y+C89-ltid1/2676296601.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2592247931--QZKTC-ltid1/2592247931.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676296611--OAP91-ltid1/2676296611.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2592247941--QZKTC-ltid1/2592247941.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676296621--OAP91-ltid1/2676296621.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2592247951--KKATL-ltid1/2592247951.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676296631--OAP91-ltid1/2676296631.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2592247961--XBHYS-ltid1/2592247961.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676296641--CXWX9-ltid1/2676296641.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676296651--CXWX9-ltid1/2676296651.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676296381--AANPC-ltid1/2676296381.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676296391--AANPC-ltid1/2676296391.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676296401--AANPC-ltid1/2676296401.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676296411--AANPC-ltid1/2676296411.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676296421--AANPC-ltid1/2676296421.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676296431--AANPC-ltid1/2676296431.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676296441--AANPC-ltid1/2676296441.jpg</url>
     </image>
   </listing>
   <listing>
@@ -5620,7 +5654,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Ecotronic Gray</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>31</days_on_lot>
+    <days_on_lot>32</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2668159351--PPFCZ-ltid1/2668159351.jpg</url>
       <tag>main</tag>
@@ -5712,46 +5746,67 @@
     <body_style>SEDAN</body_style>
     <exterior_color>Serenity White</exterior_color>
     <interior_color>Gray</interior_color>
-    <days_on_lot>24</days_on_lot>
+    <days_on_lot>25</days_on_lot>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2616430531--E71TF-ltid1/2616430531.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676284361--WSKJW-ltid1/2676284361.jpg</url>
       <tag>main</tag>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2616430541--E71TF-ltid1/2616430541.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676284371--WSKJW-ltid1/2676284371.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2616430551--O2DJV-ltid1/2616430551.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676284381--WSKJW-ltid1/2676284381.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2616430561--O2DJV-ltid1/2616430561.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676284391--WSKJW-ltid1/2676284391.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2616430571--E71TF-ltid1/2616430571.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676284401--WSKJW-ltid1/2676284401.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2616430581--E71TF-ltid1/2616430581.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676284411--WSKJW-ltid1/2676284411.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2616430591--E71TF-ltid1/2616430591.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676284421--WSKJW-ltid1/2676284421.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2616430601--O2DJV-ltid1/2616430601.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676284431--WSKJW-ltid1/2676284431.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2616430611--E71TF-ltid1/2616430611.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676284441---QD5R-ltid1/2676284441.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2616430621--O2DJV-ltid1/2616430621.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676284451---QD5R-ltid1/2676284451.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2616430631--O2DJV-ltid1/2616430631.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676284461---QD5R-ltid1/2676284461.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2616430641--O2DJV-ltid1/2616430641.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676284471---QD5R-ltid1/2676284471.jpg</url>
     </image>
     <image>
-      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2616430651--O2DJV-ltid1/2616430651.jpg</url>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676284481---QD5R-ltid1/2676284481.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676284491---QD5R-ltid1/2676284491.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676284501---QD5R-ltid1/2676284501.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676284511---QD5R-ltid1/2676284511.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676284521--CIB8L-ltid1/2676284521.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676284531--CIB8L-ltid1/2676284531.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676284541--CIB8L-ltid1/2676284541.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2676284551--CIB8L-ltid1/2676284551.jpg</url>
     </image>
   </listing>
   <listing>
@@ -5783,7 +5838,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Amazon Gray</exterior_color>
     <interior_color>Gray/Green 3-Tone</interior_color>
-    <days_on_lot>24</days_on_lot>
+    <days_on_lot>25</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2638975811--71878-ltid1/2638975811.jpg</url>
       <tag>main</tag>
@@ -5875,7 +5930,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Hampton Gray</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>17</days_on_lot>
+    <days_on_lot>18</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2634185851--5NLYN-ltid1/2634185851.jpg</url>
       <tag>main</tag>
@@ -5967,7 +6022,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Hampton Gray</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>10</days_on_lot>
+    <days_on_lot>11</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2661868581---M01S-ltid1/2661868581.jpg</url>
       <tag>main</tag>
@@ -6059,7 +6114,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Ultimate Red</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>11</days_on_lot>
+    <days_on_lot>12</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2662172901--QQPX3-ltid1/2662172901.jpg</url>
       <tag>main</tag>
@@ -6151,7 +6206,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Atlantis Blue</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>5</days_on_lot>
+    <days_on_lot>6</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2664266731--WD1TR-ltid1/2664266731.jpg</url>
       <tag>main</tag>
@@ -6215,14 +6270,14 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     <condition>new</condition>
     <mileage>
-      <value>1</value>
+      <value>14</value>
       <unit>MI</unit>
     </mileage>
     <trim>SEL</trim>
     <body_style>SUV</body_style>
     <exterior_color>Shimmering Silver</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>5</days_on_lot>
+    <days_on_lot>6</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2664266861--KBMM9-ltid1/2664266861.jpg</url>
       <tag>main</tag>
@@ -6290,7 +6345,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Phantom Black</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>5</days_on_lot>
+    <days_on_lot>6</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2664267111--WBTGP-ltid1/2664267111.jpg</url>
       <tag>main</tag>
@@ -6361,7 +6416,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Ecotronic Gray</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>5</days_on_lot>
+    <days_on_lot>6</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2664267241--O9BZB-ltid1/2664267241.jpg</url>
       <tag>main</tag>
@@ -6432,7 +6487,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Classy Blue Pearl</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>4</days_on_lot>
+    <days_on_lot>5</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2670432871--RWDKY-ltid1/2670432871.jpg</url>
       <tag>main</tag>
@@ -6503,7 +6558,7 @@
     <body_style>SUV</body_style>
     <exterior_color>Serenity White Pearl</exterior_color>
     <interior_color>Black</interior_color>
-    <days_on_lot>4</days_on_lot>
+    <days_on_lot>5</days_on_lot>
     <image>
       <url>https://cdn-img.vincue.net/image/opt-dealerid125848-photoid2667465951--IC-LI-ltid1/2667465951.jpg</url>
       <tag>main</tag>
